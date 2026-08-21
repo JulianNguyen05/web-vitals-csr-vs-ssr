@@ -1,0 +1,14 @@
+{
+  "name": "@repo/cart-store",
+  "version": "0.0.0",
+  "private": true,
+  "main": "index.ts",
+  "types": "index.ts",
+  "dependencies": {
+    "zustand": "^4.5.4",
+    "@repo/types": "workspace:*"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}

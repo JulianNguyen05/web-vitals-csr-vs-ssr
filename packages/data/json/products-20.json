@@ -1,0 +1,202 @@
+[
+  {
+    "id": "prod-1",
+    "name": "Bespoke Granite Sausages",
+    "slug": "bespoke-granite-sausages-1",
+    "price": 1861551,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-1/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1/800/800",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles"
+  },
+  {
+    "id": "prod-2",
+    "name": "Ergonomic Concrete Pizza",
+    "slug": "ergonomic-concrete-pizza-2",
+    "price": 4769548,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-2/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-2/800/800",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart"
+  },
+  {
+    "id": "prod-3",
+    "name": "Generic Frozen Tuna",
+    "slug": "generic-frozen-tuna-3",
+    "price": 2663838,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://picsum.photos/seed/prod-3/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-3/800/800",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J"
+  },
+  {
+    "id": "prod-4",
+    "name": "Recycled Concrete Cheese",
+    "slug": "recycled-concrete-cheese-4",
+    "price": 1723981,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://picsum.photos/seed/prod-4/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-4/800/800",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+  },
+  {
+    "id": "prod-5",
+    "name": "Unbranded Frozen Shirt",
+    "slug": "unbranded-frozen-shirt-5",
+    "price": 3498300,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-5/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-5/800/800",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals"
+  },
+  {
+    "id": "prod-6",
+    "name": "Ergonomic Plastic Shirt",
+    "slug": "ergonomic-plastic-shirt-6",
+    "price": 3272680,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-6/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-6/800/800",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016"
+  },
+  {
+    "id": "prod-7",
+    "name": "Elegant Concrete Pizza",
+    "slug": "elegant-concrete-pizza-7",
+    "price": 4814082,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://picsum.photos/seed/prod-7/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-7/800/800",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J"
+  },
+  {
+    "id": "prod-8",
+    "name": "Electronic Frozen Computer",
+    "slug": "electronic-frozen-computer-8",
+    "price": 3499046,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-8/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-8/800/800",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients"
+  },
+  {
+    "id": "prod-9",
+    "name": "Elegant Cotton Keyboard",
+    "slug": "elegant-cotton-keyboard-9",
+    "price": 212766,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-9/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-9/800/800",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals"
+  },
+  {
+    "id": "prod-10",
+    "name": "Sleek Metal Fish",
+    "slug": "sleek-metal-fish-10",
+    "price": 3330909,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-10/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-10/800/800",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J"
+  },
+  {
+    "id": "prod-11",
+    "name": "Practical Wooden Pizza",
+    "slug": "practical-wooden-pizza-11",
+    "price": 4291008,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-11/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-11/800/800",
+    "description": "The Football Is Good For Training And Recreational Purposes"
+  },
+  {
+    "id": "prod-12",
+    "name": "Electronic Bronze Fish",
+    "slug": "electronic-bronze-fish-12",
+    "price": 580166,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://picsum.photos/seed/prod-12/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-12/800/800",
+    "description": "The Football Is Good For Training And Recreational Purposes"
+  },
+  {
+    "id": "prod-13",
+    "name": "Elegant Steel Fish",
+    "slug": "elegant-steel-fish-13",
+    "price": 1211492,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-13/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-13/800/800",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
+  },
+  {
+    "id": "prod-14",
+    "name": "Rustic Frozen Shoes",
+    "slug": "rustic-frozen-shoes-14",
+    "price": 2824201,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-14/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-14/800/800",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients"
+  },
+  {
+    "id": "prod-15",
+    "name": "Handcrafted Steel Sausages",
+    "slug": "handcrafted-steel-sausages-15",
+    "price": 641001,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-15/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-15/800/800",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J"
+  },
+  {
+    "id": "prod-16",
+    "name": "Electronic Metal Ball",
+    "slug": "electronic-metal-ball-16",
+    "price": 4840684,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://picsum.photos/seed/prod-16/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-16/800/800",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016"
+  },
+  {
+    "id": "prod-17",
+    "name": "Handcrafted Soft Hat",
+    "slug": "handcrafted-soft-hat-17",
+    "price": 4694032,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://picsum.photos/seed/prod-17/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-17/800/800",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients"
+  },
+  {
+    "id": "prod-18",
+    "name": "Recycled Plastic Mouse",
+    "slug": "recycled-plastic-mouse-18",
+    "price": 3425376,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-18/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-18/800/800",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles"
+  },
+  {
+    "id": "prod-19",
+    "name": "Licensed Rubber Pizza",
+    "slug": "licensed-rubber-pizza-19",
+    "price": 3231492,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-19/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-19/800/800",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J"
+  },
+  {
+    "id": "prod-20",
+    "name": "Tasty Bronze Soap",
+    "slug": "tasty-bronze-soap-20",
+    "price": 4941165,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://picsum.photos/seed/prod-20/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-20/800/800",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality"
+  }
+]

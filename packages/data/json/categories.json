@@ -1,0 +1,22 @@
+[
+  {
+    "id": "cat-1",
+    "name": "Điện tử",
+    "slug": "dien-tu"
+  },
+  {
+    "id": "cat-2",
+    "name": "Thời trang",
+    "slug": "thoi-trang"
+  },
+  {
+    "id": "cat-3",
+    "name": "Gia dụng",
+    "slug": "gia-dung"
+  },
+  {
+    "id": "cat-4",
+    "name": "Sách",
+    "slug": "sach"
+  }
+]
