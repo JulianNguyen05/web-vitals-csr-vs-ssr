@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-  @apply bg-background text-foreground font-sans;
+  @apply bg-surface text-foreground font-sans;
 }
 
 a {

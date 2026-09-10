@@ -9,7 +9,7 @@ interface ProductCardProps {
 
 export function ProductCard({ product, onAddToCart, actions }: ProductCardProps) {
   return (
-    <div className="border border-border rounded-card overflow-hidden flex flex-col bg-background">
+    <div className="bg-background rounded-card overflow-hidden flex flex-col shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all duration-200">
       <img
         src={product.thumbUrl}
         alt={product.name}

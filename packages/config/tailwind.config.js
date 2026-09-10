@@ -31,7 +31,7 @@ module.exports = {
       },
       borderRadius: {
         DEFAULT: "8px",
-        card: "12px",
+        card: "16px",
       },
     },
   },

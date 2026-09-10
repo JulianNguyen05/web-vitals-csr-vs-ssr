@@ -15,8 +15,12 @@ export default function RootLayout({
   return (
     <html lang="vi">
       <body>
-        <Nav />
-        {children}
+        <div className="min-h-screen bg-surface">
+          <div className="max-w-6xl mx-auto px-4">
+            <Nav />
+            {children}
+          </div>
+        </div>
       </body>
     </html>
   );
