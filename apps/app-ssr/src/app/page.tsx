@@ -12,12 +12,9 @@ export default function CategoryPage() {
   return (
     <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4 p-4">
       {products.map((p) => (
-        <div key={p.id}>
-          <Link href={`/products/${p.id}`}>
-            <ProductCard product={p} />
-          </Link>
-          <AddToCartButton productId={p.id} />
-        </div>
+        <Link key={p.id} href={`/products/${p.id}`}>
+          <ProductCard product={p} actions={<AddToCartButton productId={p.id} />} />
+        </Link>
       ))}
     </div>
   );

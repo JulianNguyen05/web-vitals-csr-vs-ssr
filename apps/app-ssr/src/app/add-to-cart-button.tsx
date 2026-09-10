@@ -7,7 +7,7 @@ export function AddToCartButton({ productId }: { productId: string }) {
   return (
     <button
       onClick={() => addItem(productId)}
-      className="w-full text-sm bg-blue-600 text-white rounded-md py-1.5 hover:bg-blue-700 mt-2"
+      className="w-full text-sm bg-accent text-white rounded-md py-1.5 hover:bg-accent-dark transition-colors"
     >
       Thêm vào giỏ
     </button>

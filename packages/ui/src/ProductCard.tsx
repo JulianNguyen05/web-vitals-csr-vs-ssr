@@ -1,11 +1,13 @@
+import type { ReactNode } from "react";
 import type { Product } from "@repo/types";
 
 interface ProductCardProps {
   product: Product;
   onAddToCart?: (productId: string) => void;
+  actions?: ReactNode;
 }
 
-export function ProductCard({ product, onAddToCart }: ProductCardProps) {
+export function ProductCard({ product, onAddToCart, actions }: ProductCardProps) {
   return (
     <div className="border border-border rounded-card overflow-hidden flex flex-col bg-background">
       <img
@@ -21,13 +23,17 @@ export function ProductCard({ product, onAddToCart }: ProductCardProps) {
         <p className="text-base font-semibold mt-auto text-foreground">
           {product.price.toLocaleString("vi-VN")}₫
         </p>
-        {onAddToCart && (
-          <button
-            onClick={() => onAddToCart(product.id)}
-            className="text-sm bg-accent text-white rounded-md py-1.5 hover:bg-accent-dark transition-colors"
-          >
-            Thêm vào giỏ
-          </button>
+        {actions ? (
+          actions
+        ) : (
+          onAddToCart && (
+            <button
+              onClick={() => onAddToCart(product.id)}
+              className="text-sm bg-accent text-white rounded-md py-1.5 hover:bg-accent-dark transition-colors"
+            >
+              Thêm vào giỏ
+            </button>
+          )
         )}
       </div>
     </div>
