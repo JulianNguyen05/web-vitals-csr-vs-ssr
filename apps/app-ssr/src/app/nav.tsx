@@ -11,7 +11,7 @@ export function Nav() {
   useEffect(() => setMounted(true), []);
 
   return (
-    <header className="flex items-center justify-between p-4 border-b">
+    <header className="flex items-center justify-between p-4 border-b border-border">
       <Link href="/" className="font-bold">T&Q Mart (SSR)</Link>
       <Link href="/cart">Giỏ hàng ({mounted ? totalQuantity : 0})</Link>
     </header>

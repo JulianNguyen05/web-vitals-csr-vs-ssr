@@ -20,12 +20,12 @@ export function ProductDetailPage() {
         alt={product.name}
         width={800}
         height={800}
-        className="w-full md:w-96 aspect-square object-cover rounded-lg"
+        className="w-full md:w-96 aspect-square object-cover rounded-lg bg-surface"
       />
       <div className="flex-1">
         <h1 className="text-xl font-semibold">{product.name}</h1>
         <p className="text-lg font-bold mt-2">{product.price.toLocaleString("vi-VN")}₫</p>
-        <p className="text-gray-600 mt-4">{product.description}</p>
+        <p className="text-muted mt-4">{product.description}</p>
         <Button className="mt-4" onClick={() => addItem(product.id)}>
           Thêm vào giỏ hàng
         </Button>
