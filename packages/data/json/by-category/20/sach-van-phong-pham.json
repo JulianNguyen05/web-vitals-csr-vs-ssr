@@ -1,0 +1,51 @@
+[
+  {
+    "id": "prod-401",
+    "slug": "so-tay-bia-da-notaro-a5-401",
+    "name": "Sổ Tay Bìa Da PU Notaro A5 - 200 Trang",
+    "categoryId": "cat-4",
+    "brand": "Notaro",
+    "sku": "NTR-NB-A5-200-BRN",
+    "price": 129000,
+    "originalPrice": 159000,
+    "discountPercent": 19,
+    "unit": "cuốn",
+    "shortDescription": "Sổ tay bìa da PU khổ A5, 200 trang giấy kem định lượng 80gsm, kèm dây đánh dấu trang và dây thun cài.",
+    "description": "Sổ tay Notaro khổ A5 được bọc bìa da PU mềm mại, bo góc tinh tế, tạo cảm giác sang trọng khi cầm và ghi chép. Bên trong gồm 200 trang giấy kem định lượng 80gsm hạn chế lem mực khi dùng bút máy hoặc bút lông kim, kẻ dòng ngang rõ ràng dễ viết. Sổ được trang bị dây đánh dấu trang tiện lợi, dây thun cài giữ sổ luôn đóng gọn gàng, cùng túi đựng nhỏ ở bìa sau để kẹp danh thiếp hoặc giấy tờ rời. Thiết kế gáy sổ khâu chỉ chắc chắn, có thể mở phẳng 180 độ thuận tiện khi ghi chép.",
+    "thumbUrl": "https://picsum.photos/seed/prod-401/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-401/800/800",
+    "gallery": [
+      "https://picsum.photos/seed/prod-401-a/800/800",
+      "https://picsum.photos/seed/prod-401-b/800/800"
+    ],
+    "specifications": {
+      "Khổ giấy": "A5 (14.8 x 21cm)",
+      "Số trang": "200 trang",
+      "Định lượng giấy": "80 gsm, giấy kem",
+      "Kiểu dòng kẻ": "Kẻ ngang",
+      "Chất liệu bìa": "Da PU cao cấp",
+      "Phụ kiện kèm theo": "Dây đánh dấu trang, dây thun cài, túi đựng bìa sau",
+      "Màu sắc": "Nâu Cognac, Đen, Xanh Rêu"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 264
+    },
+    "stock": 310,
+    "soldCount": 1580,
+    "weight": 340,
+    "dimensions": {
+      "length": 21,
+      "width": 14.8,
+      "height": 1.5
+    },
+    "origin": "Việt Nam",
+    "warranty": "Đổi trả trong 7 ngày nếu lỗi sản xuất",
+    "tags": [
+      "sổ tay",
+      "văn phòng phẩm",
+      "bìa da"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
+  }
+]

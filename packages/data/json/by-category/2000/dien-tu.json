@@ -1,0 +1,57 @@
+[
+  {
+    "id": "prod-101",
+    "slug": "dien-thoai-xelio-nova-x12-101",
+    "name": "Điện thoại thông minh Xelio Nova X12",
+    "categoryId": "cat-1",
+    "brand": "Xelio",
+    "sku": "XLI-NX12-256-BLK",
+    "price": 8990000,
+    "originalPrice": 10490000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Smartphone màn hình AMOLED 6.7 inch, chip 8 nhân, camera chính 108MP, pin 5000mAh sạc nhanh 67W.",
+    "description": "Xelio Nova X12 sở hữu màn hình AMOLED 6.7 inch tần số quét 120Hz cho trải nghiệm cuộn mượt mà, độ sáng tối đa 1200 nits phù hợp sử dụng ngoài trời. Máy trang bị chip xử lý 8 nhân tốc độ 2.6GHz kết hợp RAM 8GB giúp đa nhiệm mượt mà, chơi game nặng không giật lag. Hệ thống camera sau gồm cảm biến chính 108MP, camera góc siêu rộng 8MP và camera macro 2MP, hỗ trợ quay video 4K@30fps. Viên pin 5000mAh cùng công nghệ sạc nhanh 67W giúp sạc đầy chỉ trong khoảng 45 phút. Máy chạy hệ điều hành tuỳ biến trên nền Android mới nhất, cam kết cập nhật phần mềm 2 năm.",
+    "thumbUrl": "https://picsum.photos/seed/prod-101/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-101/800/800",
+    "gallery": [
+      "https://picsum.photos/seed/prod-101-a/800/800",
+      "https://picsum.photos/seed/prod-101-b/800/800",
+      "https://picsum.photos/seed/prod-101-c/800/800"
+    ],
+    "specifications": {
+      "Màn hình": "AMOLED 6.7 inch, 120Hz, độ phân giải FHD+",
+      "Chip xử lý": "8 nhân, 2.6GHz",
+      "RAM": "8GB",
+      "Bộ nhớ trong": "256GB",
+      "Camera sau": "108MP + 8MP + 2MP",
+      "Camera trước": "32MP",
+      "Dung lượng pin": "5000mAh, sạc nhanh 67W",
+      "Hệ điều hành": "Android 15 (tuỳ biến XelioOS)",
+      "Kết nối": "5G, WiFi 6, Bluetooth 5.3, NFC",
+      "Chất liệu": "Khung nhôm, mặt lưng kính cường lực",
+      "Màu sắc": "Đen Titan, Bạc Ánh Kim, Xanh Lam Đêm"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 328
+    },
+    "stock": 154,
+    "soldCount": 1240,
+    "weight": 198,
+    "dimensions": {
+      "length": 16.2,
+      "width": 7.5,
+      "height": 0.82
+    },
+    "origin": "Việt Nam (lắp ráp)",
+    "warranty": "12 tháng chính hãng, 1 đổi 1 trong 30 ngày đầu",
+    "tags": [
+      "smartphone",
+      "5G",
+      "camera 108MP",
+      "sạc nhanh"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
+  }
+]

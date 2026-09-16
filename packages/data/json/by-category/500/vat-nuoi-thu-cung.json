@@ -1,0 +1,51 @@
+[
+  {
+    "id": "prod-1001",
+    "slug": "thuc-an-cho-cho-petnova-3kg-1001",
+    "name": "Thức Ăn Hạt Cho Chó Trưởng Thành PetNova Chicken & Rice 3kg",
+    "categoryId": "cat-10",
+    "brand": "PetNova",
+    "sku": "PN-DOG-CR-3KG",
+    "price": 245000,
+    "originalPrice": 289000,
+    "discountPercent": 15,
+    "unit": "bao",
+    "shortDescription": "Thức ăn hạt khô cho chó trưởng thành mọi kích cỡ, thành phần chính từ thịt gà và gạo, bổ sung Omega 3-6.",
+    "description": "Thức ăn hạt PetNova Chicken & Rice được nghiên cứu dành riêng cho chó trưởng thành với thành phần chính từ thịt gà tươi và gạo dễ tiêu hoá, cung cấp nguồn đạm và năng lượng cân đối cho hoạt động hàng ngày. Công thức bổ sung Omega 3-6 giúp lông mượt, da khoẻ mạnh, cùng các loại vitamin và khoáng chất thiết yếu hỗ trợ hệ miễn dịch và tiêu hoá. Hạt thức ăn được thiết kế kích thước vừa phải, giúp làm sạch mảng bám răng tự nhiên khi chó nhai. Bao bì có khoá zip tiện lợi, giữ thức ăn luôn tươi giòn sau khi mở.",
+    "thumbUrl": "https://picsum.photos/seed/prod-1001/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1001/800/800",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1001-a/800/800",
+      "https://picsum.photos/seed/prod-1001-b/800/800"
+    ],
+    "specifications": {
+      "Khối lượng tịnh": "3kg",
+      "Thành phần chính": "Thịt gà, gạo, dầu cá (Omega 3-6)",
+      "Đối tượng sử dụng": "Chó trưởng thành mọi kích cỡ",
+      "Hàm lượng đạm": "≥ 24%",
+      "Hạn sử dụng": "18 tháng kể từ ngày sản xuất",
+      "Bảo quản": "Nơi khô ráo, thoáng mát, đóng kín sau khi dùng",
+      "Xuất xứ": "Thái Lan"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 731
+    },
+    "stock": 265,
+    "soldCount": 3040,
+    "weight": 3000,
+    "dimensions": {
+      "length": 35,
+      "width": 25,
+      "height": 8
+    },
+    "origin": "Thái Lan",
+    "warranty": "Đổi trả nếu bao bì hư hỏng/hết hạn khi nhận hàng",
+    "tags": [
+      "thức ăn cho chó",
+      "thú cưng",
+      "hạt khô"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
+  }
+]

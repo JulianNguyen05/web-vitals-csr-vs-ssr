@@ -16,7 +16,37 @@
   },
   {
     "id": "cat-4",
-    "name": "Sách",
-    "slug": "sach"
+    "name": "Sách - văn phòng phẩm",
+    "slug": "sach-van-phong-pham"
+  },
+  {
+    "id": "cat-5",
+    "name": "Thực phẩm - đồ uống",
+    "slug": "thuc-pham-do-uong"
+  },
+  {
+    "id": "cat-6",
+    "name": "Mỹ phẩm - chăm sóc cá nhân",
+    "slug": "my-pham-cham-soc-ca-nhan"
+  },
+  {
+    "id": "cat-7",
+    "name": "Mẹ và bé - đồ chơi trẻ em",
+    "slug": "me-va-be-do-choi-tre-em"
+  },
+  {
+    "id": "cat-8",
+    "name": "Thể thao - dã ngoại",
+    "slug": "the-thao-da-ngoai"
+  },
+  {
+    "id": "cat-9",
+    "name": "Nội thất - trang trí",
+    "slug": "noi-that-trang-tri"
+  },
+  {
+    "id": "cat-10",
+    "name": "Vật nuôi - thú cưng",
+    "slug": "vat-nuoi-thu-cung"
   }
 ]

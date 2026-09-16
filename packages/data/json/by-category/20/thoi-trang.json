@@ -1,0 +1,50 @@
+[
+  {
+    "id": "prod-201",
+    "slug": "ao-polo-nam-everwear-classic-201",
+    "name": "Áo Polo Nam Cotton Cao Cấp Everwear Classic",
+    "categoryId": "cat-2",
+    "brand": "Everwear",
+    "sku": "EW-POLO-CLS-M-NAV",
+    "price": 349000,
+    "originalPrice": 459000,
+    "discountPercent": 24,
+    "unit": "cái",
+    "shortDescription": "Áo polo nam vải cotton pha 95% cotton - 5% spandex, co giãn nhẹ, form regular fit, thấm hút mồ hôi tốt.",
+    "description": "Áo Polo Everwear Classic được may từ vải cotton cao cấp pha 5% spandex tạo độ co giãn nhẹ, giúp người mặc thoải mái vận động cả ngày dài mà không bị bó sát khó chịu. Cổ áo bo 2 lớp giữ form không bị giãn sau nhiều lần giặt, đường may chần chỉ tỉ mỉ ở tay áo và gấu áo tăng độ bền. Thiết kế regular fit phù hợp nhiều dáng người, có thể phối cùng quần tây đi làm hoặc quần jeans mặc đi chơi. Vải có khả năng thấm hút mồ hôi và kháng khuẩn nhẹ, thích hợp sử dụng trong thời tiết nóng ẩm.",
+    "thumbUrl": "https://picsum.photos/seed/prod-201/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-201/800/800",
+    "gallery": [
+      "https://picsum.photos/seed/prod-201-a/800/800",
+      "https://picsum.photos/seed/prod-201-b/800/800"
+    ],
+    "specifications": {
+      "Chất liệu": "95% Cotton, 5% Spandex",
+      "Kiểu dáng": "Regular fit, cổ bẻ",
+      "Kích cỡ có sẵn": "S, M, L, XL, XXL",
+      "Màu sắc": "Xanh Navy, Trắng, Đen, Xám Than",
+      "Hướng dẫn bảo quản": "Giặt máy nước lạnh, không dùng chất tẩy mạnh, ủi ở nhiệt độ thấp",
+      "Xuất xứ vải": "Dệt tại Việt Nam"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 512
+    },
+    "stock": 420,
+    "soldCount": 3860,
+    "weight": 220,
+    "dimensions": {
+      "length": 30,
+      "width": 25,
+      "height": 2
+    },
+    "origin": "Việt Nam",
+    "warranty": "Đổi size miễn phí trong 15 ngày",
+    "tags": [
+      "áo polo",
+      "thời trang nam",
+      "cotton co giãn"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
+  }
+]

@@ -1,202 +1,499 @@
 [
   {
-    "id": "prod-1",
-    "name": "Bespoke Granite Sausages",
-    "slug": "bespoke-granite-sausages-1",
-    "price": 1861551,
-    "categoryId": "cat-4",
-    "thumbUrl": "https://picsum.photos/seed/prod-1/400/400",
-    "detailUrl": "https://picsum.photos/seed/prod-1/800/800",
-    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles"
-  },
-  {
-    "id": "prod-2",
-    "name": "Ergonomic Concrete Pizza",
-    "slug": "ergonomic-concrete-pizza-2",
-    "price": 4769548,
-    "categoryId": "cat-3",
-    "thumbUrl": "https://picsum.photos/seed/prod-2/400/400",
-    "detailUrl": "https://picsum.photos/seed/prod-2/800/800",
-    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart"
-  },
-  {
-    "id": "prod-3",
-    "name": "Generic Frozen Tuna",
-    "slug": "generic-frozen-tuna-3",
-    "price": 2663838,
-    "categoryId": "cat-2",
-    "thumbUrl": "https://picsum.photos/seed/prod-3/400/400",
-    "detailUrl": "https://picsum.photos/seed/prod-3/800/800",
-    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J"
-  },
-  {
-    "id": "prod-4",
-    "name": "Recycled Concrete Cheese",
-    "slug": "recycled-concrete-cheese-4",
-    "price": 1723981,
+    "id": "prod-101",
+    "slug": "dien-thoai-xelio-nova-x12-101",
+    "name": "Điện thoại thông minh Xelio Nova X12",
     "categoryId": "cat-1",
-    "thumbUrl": "https://picsum.photos/seed/prod-4/400/400",
-    "detailUrl": "https://picsum.photos/seed/prod-4/800/800",
-    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+    "brand": "Xelio",
+    "sku": "XLI-NX12-256-BLK",
+    "price": 8990000,
+    "originalPrice": 10490000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Smartphone màn hình AMOLED 6.7 inch, chip 8 nhân, camera chính 108MP, pin 5000mAh sạc nhanh 67W.",
+    "description": "Xelio Nova X12 sở hữu màn hình AMOLED 6.7 inch tần số quét 120Hz cho trải nghiệm cuộn mượt mà, độ sáng tối đa 1200 nits phù hợp sử dụng ngoài trời. Máy trang bị chip xử lý 8 nhân tốc độ 2.6GHz kết hợp RAM 8GB giúp đa nhiệm mượt mà, chơi game nặng không giật lag. Hệ thống camera sau gồm cảm biến chính 108MP, camera góc siêu rộng 8MP và camera macro 2MP, hỗ trợ quay video 4K@30fps. Viên pin 5000mAh cùng công nghệ sạc nhanh 67W giúp sạc đầy chỉ trong khoảng 45 phút. Máy chạy hệ điều hành tuỳ biến trên nền Android mới nhất, cam kết cập nhật phần mềm 2 năm.",
+    "thumbUrl": "https://picsum.photos/seed/prod-101/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-101/800/800",
+    "gallery": [
+      "https://picsum.photos/seed/prod-101-a/800/800",
+      "https://picsum.photos/seed/prod-101-b/800/800",
+      "https://picsum.photos/seed/prod-101-c/800/800"
+    ],
+    "specifications": {
+      "Màn hình": "AMOLED 6.7 inch, 120Hz, độ phân giải FHD+",
+      "Chip xử lý": "8 nhân, 2.6GHz",
+      "RAM": "8GB",
+      "Bộ nhớ trong": "256GB",
+      "Camera sau": "108MP + 8MP + 2MP",
+      "Camera trước": "32MP",
+      "Dung lượng pin": "5000mAh, sạc nhanh 67W",
+      "Hệ điều hành": "Android 15 (tuỳ biến XelioOS)",
+      "Kết nối": "5G, WiFi 6, Bluetooth 5.3, NFC",
+      "Chất liệu": "Khung nhôm, mặt lưng kính cường lực",
+      "Màu sắc": "Đen Titan, Bạc Ánh Kim, Xanh Lam Đêm"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 328
+    },
+    "stock": 154,
+    "soldCount": 1240,
+    "weight": 198,
+    "dimensions": {
+      "length": 16.2,
+      "width": 7.5,
+      "height": 0.82
+    },
+    "origin": "Việt Nam (lắp ráp)",
+    "warranty": "12 tháng chính hãng, 1 đổi 1 trong 30 ngày đầu",
+    "tags": [
+      "smartphone",
+      "5G",
+      "camera 108MP",
+      "sạc nhanh"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
   },
   {
-    "id": "prod-5",
-    "name": "Unbranded Frozen Shirt",
-    "slug": "unbranded-frozen-shirt-5",
-    "price": 3498300,
+    "id": "prod-201",
+    "slug": "ao-polo-nam-everwear-classic-201",
+    "name": "Áo Polo Nam Cotton Cao Cấp Everwear Classic",
+    "categoryId": "cat-2",
+    "brand": "Everwear",
+    "sku": "EW-POLO-CLS-M-NAV",
+    "price": 349000,
+    "originalPrice": 459000,
+    "discountPercent": 24,
+    "unit": "cái",
+    "shortDescription": "Áo polo nam vải cotton pha 95% cotton - 5% spandex, co giãn nhẹ, form regular fit, thấm hút mồ hôi tốt.",
+    "description": "Áo Polo Everwear Classic được may từ vải cotton cao cấp pha 5% spandex tạo độ co giãn nhẹ, giúp người mặc thoải mái vận động cả ngày dài mà không bị bó sát khó chịu. Cổ áo bo 2 lớp giữ form không bị giãn sau nhiều lần giặt, đường may chần chỉ tỉ mỉ ở tay áo và gấu áo tăng độ bền. Thiết kế regular fit phù hợp nhiều dáng người, có thể phối cùng quần tây đi làm hoặc quần jeans mặc đi chơi. Vải có khả năng thấm hút mồ hôi và kháng khuẩn nhẹ, thích hợp sử dụng trong thời tiết nóng ẩm.",
+    "thumbUrl": "https://picsum.photos/seed/prod-201/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-201/800/800",
+    "gallery": [
+      "https://picsum.photos/seed/prod-201-a/800/800",
+      "https://picsum.photos/seed/prod-201-b/800/800"
+    ],
+    "specifications": {
+      "Chất liệu": "95% Cotton, 5% Spandex",
+      "Kiểu dáng": "Regular fit, cổ bẻ",
+      "Kích cỡ có sẵn": "S, M, L, XL, XXL",
+      "Màu sắc": "Xanh Navy, Trắng, Đen, Xám Than",
+      "Hướng dẫn bảo quản": "Giặt máy nước lạnh, không dùng chất tẩy mạnh, ủi ở nhiệt độ thấp",
+      "Xuất xứ vải": "Dệt tại Việt Nam"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 512
+    },
+    "stock": 420,
+    "soldCount": 3860,
+    "weight": 220,
+    "dimensions": {
+      "length": 30,
+      "width": 25,
+      "height": 2
+    },
+    "origin": "Việt Nam",
+    "warranty": "Đổi size miễn phí trong 15 ngày",
+    "tags": [
+      "áo polo",
+      "thời trang nam",
+      "cotton co giãn"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-301",
+    "slug": "noi-chien-khong-dau-freshair-pro-301",
+    "name": "Nồi Chiên Không Dầu FreshAir Pro 5.5L",
     "categoryId": "cat-3",
-    "thumbUrl": "https://picsum.photos/seed/prod-5/400/400",
-    "detailUrl": "https://picsum.photos/seed/prod-5/800/800",
-    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals"
+    "brand": "FreshAir",
+    "sku": "FA-AF55-PRO-BLK",
+    "price": 1590000,
+    "originalPrice": 1990000,
+    "discountPercent": 20,
+    "unit": "cái",
+    "shortDescription": "Nồi chiên không dầu dung tích 5.5L, công suất 1500W, màn hình cảm ứng với 8 chế độ nấu lập trình sẵn.",
+    "description": "FreshAir Pro 5.5L sử dụng công nghệ đối lưu không khí nóng giúp món ăn chín vàng giòn đều mà không cần hoặc dùng rất ít dầu ăn, giảm đến 85% lượng chất béo so với chiên ngập dầu truyền thống. Máy trang bị màn hình cảm ứng LED trực quan cùng 8 chế độ nấu lập trình sẵn (khoai tây chiên, gà, cá, bánh nướng, rau củ...), tự động điều chỉnh nhiệt độ và thời gian phù hợp. Khay chiên chống dính tháo rời dễ dàng vệ sinh, có thể rửa bằng máy rửa chén. Thiết kế nồi kép chống ồn, hoạt động êm ái, tự động ngắt khi hết thời gian nấu hoặc kéo khay ra ngoài để đảm bảo an toàn.",
+    "thumbUrl": "https://picsum.photos/seed/prod-301/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-301/800/800",
+    "gallery": [
+      "https://picsum.photos/seed/prod-301-a/800/800",
+      "https://picsum.photos/seed/prod-301-b/800/800",
+      "https://picsum.photos/seed/prod-301-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "5.5 lít",
+      "Công suất": "1500W",
+      "Điện áp": "220V - 240V, 50/60Hz",
+      "Bảng điều khiển": "Cảm ứng LED, 8 chế độ nấu sẵn",
+      "Dải nhiệt độ": "80°C - 200°C",
+      "Hẹn giờ": "Tối đa 60 phút",
+      "Chất liệu khay": "Chống dính, tháo rời, an toàn máy rửa chén",
+      "Kích thước sản phẩm": "32 x 30 x 34 cm"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 891
+    },
+    "stock": 76,
+    "soldCount": 2150,
+    "weight": 5200,
+    "dimensions": {
+      "length": 32,
+      "width": 30,
+      "height": 34
+    },
+    "origin": "Trung Quốc (thương hiệu Việt Nam phân phối)",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "nồi chiên không dầu",
+      "gia dụng nhà bếp",
+      "tiết kiệm điện"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
   },
   {
-    "id": "prod-6",
-    "name": "Ergonomic Plastic Shirt",
-    "slug": "ergonomic-plastic-shirt-6",
-    "price": 3272680,
+    "id": "prod-401",
+    "slug": "so-tay-bia-da-notaro-a5-401",
+    "name": "Sổ Tay Bìa Da PU Notaro A5 - 200 Trang",
     "categoryId": "cat-4",
-    "thumbUrl": "https://picsum.photos/seed/prod-6/400/400",
-    "detailUrl": "https://picsum.photos/seed/prod-6/800/800",
-    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016"
+    "brand": "Notaro",
+    "sku": "NTR-NB-A5-200-BRN",
+    "price": 129000,
+    "originalPrice": 159000,
+    "discountPercent": 19,
+    "unit": "cuốn",
+    "shortDescription": "Sổ tay bìa da PU khổ A5, 200 trang giấy kem định lượng 80gsm, kèm dây đánh dấu trang và dây thun cài.",
+    "description": "Sổ tay Notaro khổ A5 được bọc bìa da PU mềm mại, bo góc tinh tế, tạo cảm giác sang trọng khi cầm và ghi chép. Bên trong gồm 200 trang giấy kem định lượng 80gsm hạn chế lem mực khi dùng bút máy hoặc bút lông kim, kẻ dòng ngang rõ ràng dễ viết. Sổ được trang bị dây đánh dấu trang tiện lợi, dây thun cài giữ sổ luôn đóng gọn gàng, cùng túi đựng nhỏ ở bìa sau để kẹp danh thiếp hoặc giấy tờ rời. Thiết kế gáy sổ khâu chỉ chắc chắn, có thể mở phẳng 180 độ thuận tiện khi ghi chép.",
+    "thumbUrl": "https://picsum.photos/seed/prod-401/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-401/800/800",
+    "gallery": [
+      "https://picsum.photos/seed/prod-401-a/800/800",
+      "https://picsum.photos/seed/prod-401-b/800/800"
+    ],
+    "specifications": {
+      "Khổ giấy": "A5 (14.8 x 21cm)",
+      "Số trang": "200 trang",
+      "Định lượng giấy": "80 gsm, giấy kem",
+      "Kiểu dòng kẻ": "Kẻ ngang",
+      "Chất liệu bìa": "Da PU cao cấp",
+      "Phụ kiện kèm theo": "Dây đánh dấu trang, dây thun cài, túi đựng bìa sau",
+      "Màu sắc": "Nâu Cognac, Đen, Xanh Rêu"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 264
+    },
+    "stock": 310,
+    "soldCount": 1580,
+    "weight": 340,
+    "dimensions": {
+      "length": 21,
+      "width": 14.8,
+      "height": 1.5
+    },
+    "origin": "Việt Nam",
+    "warranty": "Đổi trả trong 7 ngày nếu lỗi sản xuất",
+    "tags": [
+      "sổ tay",
+      "văn phòng phẩm",
+      "bìa da"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
   },
   {
-    "id": "prod-7",
-    "name": "Elegant Concrete Pizza",
-    "slug": "elegant-concrete-pizza-7",
-    "price": 4814082,
-    "categoryId": "cat-2",
-    "thumbUrl": "https://picsum.photos/seed/prod-7/400/400",
-    "detailUrl": "https://picsum.photos/seed/prod-7/800/800",
-    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J"
+    "id": "prod-501",
+    "slug": "ca-phe-rang-xay-cao-nguyen-gold-501",
+    "name": "Cà Phê Rang Xay Nguyên Chất Cao Nguyên Gold 500g",
+    "categoryId": "cat-5",
+    "brand": "Cao Nguyên Gold",
+    "sku": "CNG-COFFEE-500-RB",
+    "price": 145000,
+    "originalPrice": 175000,
+    "discountPercent": 17,
+    "unit": "gói",
+    "shortDescription": "Cà phê Robusta rang mộc nguyên chất 100%, xay sẵn, đóng gói 500g, hương thơm đậm đà vị đắng nhẹ hậu ngọt.",
+    "description": "Cà Phê Cao Nguyên Gold được tuyển chọn từ hạt Robusta trồng tại vùng cao nguyên, rang mộc theo phương pháp truyền thống không tẩm phụ gia, giữ trọn hương thơm tự nhiên và vị đắng đặc trưng hậu ngọt dịu nơi cổ họng. Hạt cà phê sau khi rang được xay vừa, phù hợp pha phin kiểu Việt Nam truyền thống, cho ra ly cà phê đậm đà, sánh mịn. Sản phẩm đóng gói trong túi zipper có van thoát khí một chiều, giữ hương vị tươi mới lâu dài, thuận tiện đóng mở nhiều lần mà không lo ẩm mốc.",
+    "thumbUrl": "https://picsum.photos/seed/prod-501/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-501/800/800",
+    "gallery": [
+      "https://picsum.photos/seed/prod-501-a/800/800",
+      "https://picsum.photos/seed/prod-501-b/800/800"
+    ],
+    "specifications": {
+      "Thành phần": "100% cà phê Robusta rang xay nguyên chất",
+      "Khối lượng tịnh": "500g",
+      "Phương pháp rang": "Rang mộc truyền thống",
+      "Độ xay": "Vừa, phù hợp pha phin",
+      "Hạn sử dụng": "12 tháng kể từ ngày sản xuất",
+      "Bảo quản": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp",
+      "Đóng gói": "Túi zipper có van thoát khí"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 673
+    },
+    "stock": 540,
+    "soldCount": 4210,
+    "weight": 520,
+    "dimensions": {
+      "length": 20,
+      "width": 13,
+      "height": 6
+    },
+    "origin": "Việt Nam (Đắk Lắk)",
+    "warranty": "Đổi trả nếu sản phẩm lỗi/hết hạn khi nhận hàng",
+    "tags": [
+      "cà phê",
+      "robusta",
+      "rang xay nguyên chất"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
   },
   {
-    "id": "prod-8",
-    "name": "Electronic Frozen Computer",
-    "slug": "electronic-frozen-computer-8",
-    "price": 3499046,
-    "categoryId": "cat-3",
-    "thumbUrl": "https://picsum.photos/seed/prod-8/400/400",
-    "detailUrl": "https://picsum.photos/seed/prod-8/800/800",
-    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients"
+    "id": "prod-601",
+    "slug": "kem-duong-am-derma-pure-601",
+    "name": "Kem Dưỡng Ẩm Ban Đêm DermaPure Hyaluronic 50ml",
+    "categoryId": "cat-6",
+    "brand": "DermaPure",
+    "sku": "DP-NIGHT-HA-50",
+    "price": 285000,
+    "originalPrice": 350000,
+    "discountPercent": 19,
+    "unit": "hũ",
+    "shortDescription": "Kem dưỡng ẩm ban đêm chứa Hyaluronic Acid và Niacinamide, phục hồi và cấp ẩm sâu cho da khô, thiếu nước.",
+    "description": "Kem dưỡng ẩm ban đêm DermaPure kết hợp Hyaluronic Acid phân tử thấp và Niacinamide 5%, thẩm thấu nhanh vào các lớp biểu bì giúp cấp ẩm sâu, làm dịu da và hỗ trợ củng cố hàng rào bảo vệ da tự nhiên trong khi ngủ. Kết cấu kem mỏng nhẹ, không gây bí da hay nhờn rít, phù hợp cho cả da khô lẫn da hỗn hợp. Sử dụng đều đặn giúp cải thiện tình trạng da xỉn màu, khô ráp, mang lại làn da căng mọng, đều màu hơn sau 2-4 tuần sử dụng. Sản phẩm đã được kiểm nghiệm da liễu, không chứa Paraben và hương liệu gây kích ứng.",
+    "thumbUrl": "https://picsum.photos/seed/prod-601/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-601/800/800",
+    "gallery": [
+      "https://picsum.photos/seed/prod-601-a/800/800",
+      "https://picsum.photos/seed/prod-601-b/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "50ml",
+      "Thành phần chính": "Hyaluronic Acid, Niacinamide 5%",
+      "Loại da phù hợp": "Da khô, da hỗn hợp, da thường",
+      "Xuất xứ": "Hàn Quốc",
+      "Hạn sử dụng": "36 tháng kể từ ngày sản xuất",
+      "Chứng nhận": "Đã kiểm nghiệm da liễu, không Paraben",
+      "Hướng dẫn sử dụng": "Thoa lớp mỏng lên da mặt sạch vào buổi tối"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 945
+    },
+    "stock": 210,
+    "soldCount": 5320,
+    "weight": 120,
+    "dimensions": {
+      "length": 6,
+      "width": 6,
+      "height": 7
+    },
+    "origin": "Hàn Quốc",
+    "warranty": "Đổi trả trong 7 ngày nếu chưa mở seal",
+    "tags": [
+      "mỹ phẩm",
+      "dưỡng ẩm",
+      "chăm sóc da mặt"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
   },
   {
-    "id": "prod-9",
-    "name": "Elegant Cotton Keyboard",
-    "slug": "elegant-cotton-keyboard-9",
-    "price": 212766,
-    "categoryId": "cat-3",
-    "thumbUrl": "https://picsum.photos/seed/prod-9/400/400",
-    "detailUrl": "https://picsum.photos/seed/prod-9/800/800",
-    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals"
+    "id": "prod-701",
+    "slug": "do-choi-xep-hinh-go-kidblocks-701",
+    "name": "Bộ Đồ Chơi Xếp Hình Gỗ An Toàn KidBlocks 50 Chi Tiết",
+    "categoryId": "cat-7",
+    "brand": "KidBlocks",
+    "sku": "KB-WOOD-50PC",
+    "price": 259000,
+    "originalPrice": 329000,
+    "discountPercent": 21,
+    "unit": "bộ",
+    "shortDescription": "Bộ xếp hình gỗ tự nhiên 50 chi tiết nhiều màu sắc, cạnh bo tròn an toàn, giúp bé phát triển tư duy không gian.",
+    "description": "Bộ đồ chơi xếp hình KidBlocks gồm 50 khối gỗ tự nhiên với nhiều hình dạng và màu sắc khác nhau, giúp bé rèn luyện khả năng nhận biết hình khối, màu sắc và phát triển tư duy không gian, sự khéo léo của đôi tay ngay từ nhỏ. Tất cả các khối gỗ đều được mài nhẵn, bo tròn cạnh, sơn bằng màu gốc nước an toàn không chứa chì, không mùi hắc, đảm bảo an toàn khi bé ngậm hoặc cầm nắm. Sản phẩm đi kèm hộp đựng gỗ tiện lợi, giúp bé rèn thói quen tự dọn dẹp đồ chơi sau khi chơi xong.",
+    "thumbUrl": "https://picsum.photos/seed/prod-701/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-701/800/800",
+    "gallery": [
+      "https://picsum.photos/seed/prod-701-a/800/800",
+      "https://picsum.photos/seed/prod-701-b/800/800",
+      "https://picsum.photos/seed/prod-701-c/800/800"
+    ],
+    "specifications": {
+      "Số lượng chi tiết": "50 khối",
+      "Chất liệu": "Gỗ tự nhiên, sơn màu gốc nước",
+      "Độ tuổi phù hợp": "Từ 3 tuổi trở lên",
+      "Kích thước hộp đựng": "25 x 20 x 8 cm",
+      "Chứng nhận an toàn": "Không chì, đạt tiêu chuẩn an toàn đồ chơi trẻ em",
+      "Xuất xứ": "Việt Nam"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 402
+    },
+    "stock": 188,
+    "soldCount": 1970,
+    "weight": 850,
+    "dimensions": {
+      "length": 25,
+      "width": 20,
+      "height": 8
+    },
+    "origin": "Việt Nam",
+    "warranty": "Đổi trả trong 15 ngày nếu lỗi sản xuất",
+    "tags": [
+      "đồ chơi gỗ",
+      "đồ chơi giáo dục",
+      "trẻ em"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
   },
   {
-    "id": "prod-10",
-    "name": "Sleek Metal Fish",
-    "slug": "sleek-metal-fish-10",
-    "price": 3330909,
-    "categoryId": "cat-3",
-    "thumbUrl": "https://picsum.photos/seed/prod-10/400/400",
-    "detailUrl": "https://picsum.photos/seed/prod-10/800/800",
-    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J"
+    "id": "prod-801",
+    "slug": "balo-leo-nui-trekpro-40l-801",
+    "name": "Balo Leo Núi Chống Nước TrekPro 40L",
+    "categoryId": "cat-8",
+    "brand": "TrekPro",
+    "sku": "TP-BAG-40L-GRN",
+    "price": 890000,
+    "originalPrice": 1190000,
+    "discountPercent": 25,
+    "unit": "cái",
+    "shortDescription": "Balo leo núi/dã ngoại dung tích 40L, vải chống nước, khung nâng đỡ lưng thoáng khí, nhiều ngăn chức năng.",
+    "description": "Balo TrekPro 40L được thiết kế dành riêng cho các chuyến leo núi, trekking dài ngày với dung tích lớn 40 lít cùng nhiều ngăn chia hợp lý cho quần áo, đồ ăn, dụng cụ cắm trại. Chất liệu vải Polyester phủ lớp chống nước chống bám bụi, kèm áo mưa trùm balo đi kèm giúp bảo vệ đồ đạc trong điều kiện thời tiết xấu. Hệ khung xương nhôm nhẹ kết hợp đệm lưng lưới thoáng khí giúp phân bổ trọng lượng đều, giảm áp lực lên vai và cột sống khi mang vác nặng trong thời gian dài. Balo có dây đai hông và dây đai ngực có thể điều chỉnh, cùng nhiều điểm móc ngoài để gắn thêm gậy leo núi, bình nước.",
+    "thumbUrl": "https://picsum.photos/seed/prod-801/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-801/800/800",
+    "gallery": [
+      "https://picsum.photos/seed/prod-801-a/800/800",
+      "https://picsum.photos/seed/prod-801-b/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "40 lít",
+      "Chất liệu": "Polyester chống nước 600D",
+      "Khung lưng": "Khung nhôm, đệm lưới thoáng khí",
+      "Số ngăn chính": "3 ngăn lớn + 4 ngăn phụ",
+      "Phụ kiện kèm theo": "Áo mưa trùm balo",
+      "Trọng lượng balo": "1.4 kg",
+      "Màu sắc": "Xanh Rêu, Đen, Cam Đất"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 358
+    },
+    "stock": 96,
+    "soldCount": 1120,
+    "weight": 1400,
+    "dimensions": {
+      "length": 65,
+      "width": 35,
+      "height": 25
+    },
+    "origin": "Việt Nam",
+    "warranty": "12 tháng cho khung và khoá kéo",
+    "tags": [
+      "balo leo núi",
+      "dã ngoại",
+      "chống nước"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
   },
   {
-    "id": "prod-11",
-    "name": "Practical Wooden Pizza",
-    "slug": "practical-wooden-pizza-11",
-    "price": 4291008,
-    "categoryId": "cat-4",
-    "thumbUrl": "https://picsum.photos/seed/prod-11/400/400",
-    "detailUrl": "https://picsum.photos/seed/prod-11/800/800",
-    "description": "The Football Is Good For Training And Recreational Purposes"
+    "id": "prod-901",
+    "slug": "den-ban-hoc-lumidesk-pro-901",
+    "name": "Đèn Bàn Học LED Chống Cận LumiDesk Pro",
+    "categoryId": "cat-9",
+    "brand": "LumiDesk",
+    "sku": "LD-DESK-PRO-WHT",
+    "price": 459000,
+    "originalPrice": 599000,
+    "discountPercent": 23,
+    "unit": "cái",
+    "shortDescription": "Đèn bàn LED chống cận, 5 mức độ sáng, 3 tông màu ánh sáng, cổng sạc USB tích hợp, tay đèn gập linh hoạt.",
+    "description": "Đèn bàn LumiDesk Pro sử dụng công nghệ LED chống nhấp nháy, ánh sáng dịu mắt đạt chuẩn chống cận, phù hợp cho học sinh, sinh viên và dân văn phòng làm việc trong thời gian dài. Đèn có 5 mức độ sáng và 3 tông màu ánh sáng (trắng, trung tính, vàng ấm) có thể tuỳ chỉnh theo nhu cầu sử dụng ban ngày hoặc buổi tối. Tay đèn được thiết kế gập xoay linh hoạt nhiều khớp, dễ dàng điều chỉnh góc chiếu sáng phù hợp. Đế đèn tích hợp cổng sạc USB tiện lợi để sạc điện thoại, cùng cảm ứng chạm nhẹ để bật/tắt và điều chỉnh độ sáng.",
+    "thumbUrl": "https://picsum.photos/seed/prod-901/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-901/800/800",
+    "gallery": [
+      "https://picsum.photos/seed/prod-901-a/800/800",
+      "https://picsum.photos/seed/prod-901-b/800/800"
+    ],
+    "specifications": {
+      "Công suất": "10W",
+      "Số mức độ sáng": "5 mức",
+      "Tông màu ánh sáng": "3 tông (trắng / trung tính / vàng ấm)",
+      "Cổng sạc phụ": "USB 5V/1A",
+      "Điều khiển": "Cảm ứng chạm",
+      "Chất liệu": "Hợp kim nhôm, nhựa ABS cao cấp",
+      "Nguồn điện": "Adapter 220V, dây dài 1.5m"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 219
+    },
+    "stock": 142,
+    "soldCount": 860,
+    "weight": 680,
+    "dimensions": {
+      "length": 40,
+      "width": 15,
+      "height": 45
+    },
+    "origin": "Việt Nam",
+    "warranty": "18 tháng chính hãng",
+    "tags": [
+      "đèn bàn học",
+      "chống cận",
+      "nội thất"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
   },
   {
-    "id": "prod-12",
-    "name": "Electronic Bronze Fish",
-    "slug": "electronic-bronze-fish-12",
-    "price": 580166,
-    "categoryId": "cat-1",
-    "thumbUrl": "https://picsum.photos/seed/prod-12/400/400",
-    "detailUrl": "https://picsum.photos/seed/prod-12/800/800",
-    "description": "The Football Is Good For Training And Recreational Purposes"
-  },
-  {
-    "id": "prod-13",
-    "name": "Elegant Steel Fish",
-    "slug": "elegant-steel-fish-13",
-    "price": 1211492,
-    "categoryId": "cat-3",
-    "thumbUrl": "https://picsum.photos/seed/prod-13/400/400",
-    "detailUrl": "https://picsum.photos/seed/prod-13/800/800",
-    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
-  },
-  {
-    "id": "prod-14",
-    "name": "Rustic Frozen Shoes",
-    "slug": "rustic-frozen-shoes-14",
-    "price": 2824201,
-    "categoryId": "cat-3",
-    "thumbUrl": "https://picsum.photos/seed/prod-14/400/400",
-    "detailUrl": "https://picsum.photos/seed/prod-14/800/800",
-    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients"
-  },
-  {
-    "id": "prod-15",
-    "name": "Handcrafted Steel Sausages",
-    "slug": "handcrafted-steel-sausages-15",
-    "price": 641001,
-    "categoryId": "cat-3",
-    "thumbUrl": "https://picsum.photos/seed/prod-15/400/400",
-    "detailUrl": "https://picsum.photos/seed/prod-15/800/800",
-    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J"
-  },
-  {
-    "id": "prod-16",
-    "name": "Electronic Metal Ball",
-    "slug": "electronic-metal-ball-16",
-    "price": 4840684,
-    "categoryId": "cat-2",
-    "thumbUrl": "https://picsum.photos/seed/prod-16/400/400",
-    "detailUrl": "https://picsum.photos/seed/prod-16/800/800",
-    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016"
-  },
-  {
-    "id": "prod-17",
-    "name": "Handcrafted Soft Hat",
-    "slug": "handcrafted-soft-hat-17",
-    "price": 4694032,
-    "categoryId": "cat-1",
-    "thumbUrl": "https://picsum.photos/seed/prod-17/400/400",
-    "detailUrl": "https://picsum.photos/seed/prod-17/800/800",
-    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients"
-  },
-  {
-    "id": "prod-18",
-    "name": "Recycled Plastic Mouse",
-    "slug": "recycled-plastic-mouse-18",
-    "price": 3425376,
-    "categoryId": "cat-3",
-    "thumbUrl": "https://picsum.photos/seed/prod-18/400/400",
-    "detailUrl": "https://picsum.photos/seed/prod-18/800/800",
-    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles"
-  },
-  {
-    "id": "prod-19",
-    "name": "Licensed Rubber Pizza",
-    "slug": "licensed-rubber-pizza-19",
-    "price": 3231492,
-    "categoryId": "cat-3",
-    "thumbUrl": "https://picsum.photos/seed/prod-19/400/400",
-    "detailUrl": "https://picsum.photos/seed/prod-19/800/800",
-    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J"
-  },
-  {
-    "id": "prod-20",
-    "name": "Tasty Bronze Soap",
-    "slug": "tasty-bronze-soap-20",
-    "price": 4941165,
-    "categoryId": "cat-2",
-    "thumbUrl": "https://picsum.photos/seed/prod-20/400/400",
-    "detailUrl": "https://picsum.photos/seed/prod-20/800/800",
-    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality"
+    "id": "prod-1001",
+    "slug": "thuc-an-cho-cho-petnova-3kg-1001",
+    "name": "Thức Ăn Hạt Cho Chó Trưởng Thành PetNova Chicken & Rice 3kg",
+    "categoryId": "cat-10",
+    "brand": "PetNova",
+    "sku": "PN-DOG-CR-3KG",
+    "price": 245000,
+    "originalPrice": 289000,
+    "discountPercent": 15,
+    "unit": "bao",
+    "shortDescription": "Thức ăn hạt khô cho chó trưởng thành mọi kích cỡ, thành phần chính từ thịt gà và gạo, bổ sung Omega 3-6.",
+    "description": "Thức ăn hạt PetNova Chicken & Rice được nghiên cứu dành riêng cho chó trưởng thành với thành phần chính từ thịt gà tươi và gạo dễ tiêu hoá, cung cấp nguồn đạm và năng lượng cân đối cho hoạt động hàng ngày. Công thức bổ sung Omega 3-6 giúp lông mượt, da khoẻ mạnh, cùng các loại vitamin và khoáng chất thiết yếu hỗ trợ hệ miễn dịch và tiêu hoá. Hạt thức ăn được thiết kế kích thước vừa phải, giúp làm sạch mảng bám răng tự nhiên khi chó nhai. Bao bì có khoá zip tiện lợi, giữ thức ăn luôn tươi giòn sau khi mở.",
+    "thumbUrl": "https://picsum.photos/seed/prod-1001/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1001/800/800",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1001-a/800/800",
+      "https://picsum.photos/seed/prod-1001-b/800/800"
+    ],
+    "specifications": {
+      "Khối lượng tịnh": "3kg",
+      "Thành phần chính": "Thịt gà, gạo, dầu cá (Omega 3-6)",
+      "Đối tượng sử dụng": "Chó trưởng thành mọi kích cỡ",
+      "Hàm lượng đạm": "≥ 24%",
+      "Hạn sử dụng": "18 tháng kể từ ngày sản xuất",
+      "Bảo quản": "Nơi khô ráo, thoáng mát, đóng kín sau khi dùng",
+      "Xuất xứ": "Thái Lan"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 731
+    },
+    "stock": 265,
+    "soldCount": 3040,
+    "weight": 3000,
+    "dimensions": {
+      "length": 35,
+      "width": 25,
+      "height": 8
+    },
+    "origin": "Thái Lan",
+    "warranty": "Đổi trả nếu bao bì hư hỏng/hết hạn khi nhận hàng",
+    "tags": [
+      "thức ăn cho chó",
+      "thú cưng",
+      "hạt khô"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
   }
 ]

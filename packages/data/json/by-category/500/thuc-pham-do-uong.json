@@ -1,0 +1,51 @@
+[
+  {
+    "id": "prod-501",
+    "slug": "ca-phe-rang-xay-cao-nguyen-gold-501",
+    "name": "Cà Phê Rang Xay Nguyên Chất Cao Nguyên Gold 500g",
+    "categoryId": "cat-5",
+    "brand": "Cao Nguyên Gold",
+    "sku": "CNG-COFFEE-500-RB",
+    "price": 145000,
+    "originalPrice": 175000,
+    "discountPercent": 17,
+    "unit": "gói",
+    "shortDescription": "Cà phê Robusta rang mộc nguyên chất 100%, xay sẵn, đóng gói 500g, hương thơm đậm đà vị đắng nhẹ hậu ngọt.",
+    "description": "Cà Phê Cao Nguyên Gold được tuyển chọn từ hạt Robusta trồng tại vùng cao nguyên, rang mộc theo phương pháp truyền thống không tẩm phụ gia, giữ trọn hương thơm tự nhiên và vị đắng đặc trưng hậu ngọt dịu nơi cổ họng. Hạt cà phê sau khi rang được xay vừa, phù hợp pha phin kiểu Việt Nam truyền thống, cho ra ly cà phê đậm đà, sánh mịn. Sản phẩm đóng gói trong túi zipper có van thoát khí một chiều, giữ hương vị tươi mới lâu dài, thuận tiện đóng mở nhiều lần mà không lo ẩm mốc.",
+    "thumbUrl": "https://picsum.photos/seed/prod-501/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-501/800/800",
+    "gallery": [
+      "https://picsum.photos/seed/prod-501-a/800/800",
+      "https://picsum.photos/seed/prod-501-b/800/800"
+    ],
+    "specifications": {
+      "Thành phần": "100% cà phê Robusta rang xay nguyên chất",
+      "Khối lượng tịnh": "500g",
+      "Phương pháp rang": "Rang mộc truyền thống",
+      "Độ xay": "Vừa, phù hợp pha phin",
+      "Hạn sử dụng": "12 tháng kể từ ngày sản xuất",
+      "Bảo quản": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp",
+      "Đóng gói": "Túi zipper có van thoát khí"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 673
+    },
+    "stock": 540,
+    "soldCount": 4210,
+    "weight": 520,
+    "dimensions": {
+      "length": 20,
+      "width": 13,
+      "height": 6
+    },
+    "origin": "Việt Nam (Đắk Lắk)",
+    "warranty": "Đổi trả nếu sản phẩm lỗi/hết hạn khi nhận hàng",
+    "tags": [
+      "cà phê",
+      "robusta",
+      "rang xay nguyên chất"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
+  }
+]

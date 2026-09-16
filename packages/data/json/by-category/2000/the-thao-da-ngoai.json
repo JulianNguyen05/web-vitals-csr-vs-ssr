@@ -1,0 +1,51 @@
+[
+  {
+    "id": "prod-801",
+    "slug": "balo-leo-nui-trekpro-40l-801",
+    "name": "Balo Leo Núi Chống Nước TrekPro 40L",
+    "categoryId": "cat-8",
+    "brand": "TrekPro",
+    "sku": "TP-BAG-40L-GRN",
+    "price": 890000,
+    "originalPrice": 1190000,
+    "discountPercent": 25,
+    "unit": "cái",
+    "shortDescription": "Balo leo núi/dã ngoại dung tích 40L, vải chống nước, khung nâng đỡ lưng thoáng khí, nhiều ngăn chức năng.",
+    "description": "Balo TrekPro 40L được thiết kế dành riêng cho các chuyến leo núi, trekking dài ngày với dung tích lớn 40 lít cùng nhiều ngăn chia hợp lý cho quần áo, đồ ăn, dụng cụ cắm trại. Chất liệu vải Polyester phủ lớp chống nước chống bám bụi, kèm áo mưa trùm balo đi kèm giúp bảo vệ đồ đạc trong điều kiện thời tiết xấu. Hệ khung xương nhôm nhẹ kết hợp đệm lưng lưới thoáng khí giúp phân bổ trọng lượng đều, giảm áp lực lên vai và cột sống khi mang vác nặng trong thời gian dài. Balo có dây đai hông và dây đai ngực có thể điều chỉnh, cùng nhiều điểm móc ngoài để gắn thêm gậy leo núi, bình nước.",
+    "thumbUrl": "https://picsum.photos/seed/prod-801/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-801/800/800",
+    "gallery": [
+      "https://picsum.photos/seed/prod-801-a/800/800",
+      "https://picsum.photos/seed/prod-801-b/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "40 lít",
+      "Chất liệu": "Polyester chống nước 600D",
+      "Khung lưng": "Khung nhôm, đệm lưới thoáng khí",
+      "Số ngăn chính": "3 ngăn lớn + 4 ngăn phụ",
+      "Phụ kiện kèm theo": "Áo mưa trùm balo",
+      "Trọng lượng balo": "1.4 kg",
+      "Màu sắc": "Xanh Rêu, Đen, Cam Đất"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 358
+    },
+    "stock": 96,
+    "soldCount": 1120,
+    "weight": 1400,
+    "dimensions": {
+      "length": 65,
+      "width": 35,
+      "height": 25
+    },
+    "origin": "Việt Nam",
+    "warranty": "12 tháng cho khung và khoá kéo",
+    "tags": [
+      "balo leo núi",
+      "dã ngoại",
+      "chống nước"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
+  }
+]

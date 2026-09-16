@@ -1,0 +1,51 @@
+[
+  {
+    "id": "prod-901",
+    "slug": "den-ban-hoc-lumidesk-pro-901",
+    "name": "Đèn Bàn Học LED Chống Cận LumiDesk Pro",
+    "categoryId": "cat-9",
+    "brand": "LumiDesk",
+    "sku": "LD-DESK-PRO-WHT",
+    "price": 459000,
+    "originalPrice": 599000,
+    "discountPercent": 23,
+    "unit": "cái",
+    "shortDescription": "Đèn bàn LED chống cận, 5 mức độ sáng, 3 tông màu ánh sáng, cổng sạc USB tích hợp, tay đèn gập linh hoạt.",
+    "description": "Đèn bàn LumiDesk Pro sử dụng công nghệ LED chống nhấp nháy, ánh sáng dịu mắt đạt chuẩn chống cận, phù hợp cho học sinh, sinh viên và dân văn phòng làm việc trong thời gian dài. Đèn có 5 mức độ sáng và 3 tông màu ánh sáng (trắng, trung tính, vàng ấm) có thể tuỳ chỉnh theo nhu cầu sử dụng ban ngày hoặc buổi tối. Tay đèn được thiết kế gập xoay linh hoạt nhiều khớp, dễ dàng điều chỉnh góc chiếu sáng phù hợp. Đế đèn tích hợp cổng sạc USB tiện lợi để sạc điện thoại, cùng cảm ứng chạm nhẹ để bật/tắt và điều chỉnh độ sáng.",
+    "thumbUrl": "https://picsum.photos/seed/prod-901/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-901/800/800",
+    "gallery": [
+      "https://picsum.photos/seed/prod-901-a/800/800",
+      "https://picsum.photos/seed/prod-901-b/800/800"
+    ],
+    "specifications": {
+      "Công suất": "10W",
+      "Số mức độ sáng": "5 mức",
+      "Tông màu ánh sáng": "3 tông (trắng / trung tính / vàng ấm)",
+      "Cổng sạc phụ": "USB 5V/1A",
+      "Điều khiển": "Cảm ứng chạm",
+      "Chất liệu": "Hợp kim nhôm, nhựa ABS cao cấp",
+      "Nguồn điện": "Adapter 220V, dây dài 1.5m"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 219
+    },
+    "stock": 142,
+    "soldCount": 860,
+    "weight": 680,
+    "dimensions": {
+      "length": 40,
+      "width": 15,
+      "height": 45
+    },
+    "origin": "Việt Nam",
+    "warranty": "18 tháng chính hãng",
+    "tags": [
+      "đèn bàn học",
+      "chống cận",
+      "nội thất"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
+  }
+]

@@ -1,0 +1,1142 @@
+[
+  {
+    "id": "prod-1",
+    "name": "Licensed Metal Pants",
+    "slug": "licensed-metal-pants-1",
+    "price": 3990331,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-1/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1/800/800",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart"
+  },
+  {
+    "id": "prod-8",
+    "name": "Gorgeous Concrete Hat",
+    "slug": "gorgeous-concrete-hat-8",
+    "price": 406526,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-8/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-8/800/800",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals"
+  },
+  {
+    "id": "prod-9",
+    "name": "Elegant Rubber Sausages",
+    "slug": "elegant-rubber-sausages-9",
+    "price": 132053,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-9/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-9/800/800",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality"
+  },
+  {
+    "id": "prod-13",
+    "name": "Recycled Concrete Cheese",
+    "slug": "recycled-concrete-cheese-13",
+    "price": 3226923,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-13/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-13/800/800",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+  },
+  {
+    "id": "prod-16",
+    "name": "Oriental Concrete Sausages",
+    "slug": "oriental-concrete-sausages-16",
+    "price": 1058898,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-16/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-16/800/800",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles"
+  },
+  {
+    "id": "prod-21",
+    "name": "Incredible Concrete Chips",
+    "slug": "incredible-concrete-chips-21",
+    "price": 3209283,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-21/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-21/800/800",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality"
+  },
+  {
+    "id": "prod-22",
+    "name": "Generic Frozen Bike",
+    "slug": "generic-frozen-bike-22",
+    "price": 3797291,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-22/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-22/800/800",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles"
+  },
+  {
+    "id": "prod-27",
+    "name": "Small Metal Gloves",
+    "slug": "small-metal-gloves-27",
+    "price": 3639438,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-27/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-27/800/800",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients"
+  },
+  {
+    "id": "prod-29",
+    "name": "Recycled Bronze Table",
+    "slug": "recycled-bronze-table-29",
+    "price": 1567467,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-29/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-29/800/800",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
+  },
+  {
+    "id": "prod-30",
+    "name": "Ergonomic Soft Table",
+    "slug": "ergonomic-soft-table-30",
+    "price": 1645181,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-30/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-30/800/800",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality"
+  },
+  {
+    "id": "prod-31",
+    "name": "Bespoke Steel Bacon",
+    "slug": "bespoke-steel-bacon-31",
+    "price": 175256,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-31/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-31/800/800",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J"
+  },
+  {
+    "id": "prod-34",
+    "name": "Electronic Bronze Towels",
+    "slug": "electronic-bronze-towels-34",
+    "price": 376337,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-34/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-34/800/800",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive"
+  },
+  {
+    "id": "prod-40",
+    "name": "Sleek Bronze Chair",
+    "slug": "sleek-bronze-chair-40",
+    "price": 2268710,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-40/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-40/800/800",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients"
+  },
+  {
+    "id": "prod-52",
+    "name": "Handcrafted Steel Salad",
+    "slug": "handcrafted-steel-salad-52",
+    "price": 4123494,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-52/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-52/800/800",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+  },
+  {
+    "id": "prod-58",
+    "name": "Handmade Metal Table",
+    "slug": "handmade-metal-table-58",
+    "price": 4346348,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-58/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-58/800/800",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J"
+  },
+  {
+    "id": "prod-65",
+    "name": "Incredible Concrete Hat",
+    "slug": "incredible-concrete-hat-65",
+    "price": 1521413,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-65/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-65/800/800",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
+  },
+  {
+    "id": "prod-72",
+    "name": "Sleek Concrete Soap",
+    "slug": "sleek-concrete-soap-72",
+    "price": 3573566,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-72/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-72/800/800",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J"
+  },
+  {
+    "id": "prod-74",
+    "name": "Licensed Fresh Sausages",
+    "slug": "licensed-fresh-sausages-74",
+    "price": 2388982,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-74/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-74/800/800",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients"
+  },
+  {
+    "id": "prod-76",
+    "name": "Recycled Soft Chicken",
+    "slug": "recycled-soft-chicken-76",
+    "price": 4281726,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-76/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-76/800/800",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design"
+  },
+  {
+    "id": "prod-83",
+    "name": "Licensed Wooden Shoes",
+    "slug": "licensed-wooden-shoes-83",
+    "price": 1482583,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-83/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-83/800/800",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
+  },
+  {
+    "id": "prod-87",
+    "name": "Luxurious Metal Soap",
+    "slug": "luxurious-metal-soap-87",
+    "price": 2242610,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-87/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-87/800/800",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive"
+  },
+  {
+    "id": "prod-94",
+    "name": "Fantastic Plastic Chair",
+    "slug": "fantastic-plastic-chair-94",
+    "price": 2857808,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-94/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-94/800/800",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
+  },
+  {
+    "id": "prod-97",
+    "name": "Practical Cotton Keyboard",
+    "slug": "practical-cotton-keyboard-97",
+    "price": 1537333,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-97/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-97/800/800",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart"
+  },
+  {
+    "id": "prod-98",
+    "name": "Unbranded Cotton Shirt",
+    "slug": "unbranded-cotton-shirt-98",
+    "price": 166621,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-98/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-98/800/800",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016"
+  },
+  {
+    "id": "prod-100",
+    "name": "Licensed Concrete Bike",
+    "slug": "licensed-concrete-bike-100",
+    "price": 651863,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-100/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-100/800/800",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+  },
+  {
+    "id": "prod-102",
+    "name": "Small Concrete Keyboard",
+    "slug": "small-concrete-keyboard-102",
+    "price": 1774762,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-102/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-102/800/800",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
+  },
+  {
+    "id": "prod-114",
+    "name": "Incredible Cotton Cheese",
+    "slug": "incredible-cotton-cheese-114",
+    "price": 2203827,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-114/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-114/800/800",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals"
+  },
+  {
+    "id": "prod-118",
+    "name": "Generic Soft Table",
+    "slug": "generic-soft-table-118",
+    "price": 2479403,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-118/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-118/800/800",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals"
+  },
+  {
+    "id": "prod-120",
+    "name": "Small Cotton Sausages",
+    "slug": "small-cotton-sausages-120",
+    "price": 2018228,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-120/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-120/800/800",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016"
+  },
+  {
+    "id": "prod-121",
+    "name": "Intelligent Wooden Car",
+    "slug": "intelligent-wooden-car-121",
+    "price": 1782525,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-121/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-121/800/800",
+    "description": "The Football Is Good For Training And Recreational Purposes"
+  },
+  {
+    "id": "prod-127",
+    "name": "Electronic Fresh Towels",
+    "slug": "electronic-fresh-towels-127",
+    "price": 2460432,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-127/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-127/800/800",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality"
+  },
+  {
+    "id": "prod-132",
+    "name": "Handcrafted Frozen Mouse",
+    "slug": "handcrafted-frozen-mouse-132",
+    "price": 3877209,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-132/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-132/800/800",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
+  },
+  {
+    "id": "prod-139",
+    "name": "Fantastic Bronze Mouse",
+    "slug": "fantastic-bronze-mouse-139",
+    "price": 3679283,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-139/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-139/800/800",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+  },
+  {
+    "id": "prod-144",
+    "name": "Licensed Plastic Mouse",
+    "slug": "licensed-plastic-mouse-144",
+    "price": 4241502,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-144/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-144/800/800",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive"
+  },
+  {
+    "id": "prod-147",
+    "name": "Handcrafted Fresh Tuna",
+    "slug": "handcrafted-fresh-tuna-147",
+    "price": 2317044,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-147/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-147/800/800",
+    "description": "The Football Is Good For Training And Recreational Purposes"
+  },
+  {
+    "id": "prod-155",
+    "name": "Luxurious Wooden Shoes",
+    "slug": "luxurious-wooden-shoes-155",
+    "price": 940356,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-155/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-155/800/800",
+    "description": "The Football Is Good For Training And Recreational Purposes"
+  },
+  {
+    "id": "prod-158",
+    "name": "Practical Concrete Bike",
+    "slug": "practical-concrete-bike-158",
+    "price": 3765560,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-158/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-158/800/800",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+  },
+  {
+    "id": "prod-172",
+    "name": "Awesome Concrete Shoes",
+    "slug": "awesome-concrete-shoes-172",
+    "price": 2410278,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-172/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-172/800/800",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design"
+  },
+  {
+    "id": "prod-175",
+    "name": "Gorgeous Wooden Mouse",
+    "slug": "gorgeous-wooden-mouse-175",
+    "price": 4339515,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-175/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-175/800/800",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals"
+  },
+  {
+    "id": "prod-182",
+    "name": "Intelligent Metal Chips",
+    "slug": "intelligent-metal-chips-182",
+    "price": 3282347,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-182/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-182/800/800",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+  },
+  {
+    "id": "prod-186",
+    "name": "Unbranded Soft Computer",
+    "slug": "unbranded-soft-computer-186",
+    "price": 1375038,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-186/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-186/800/800",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles"
+  },
+  {
+    "id": "prod-188",
+    "name": "Handcrafted Rubber Tuna",
+    "slug": "handcrafted-rubber-tuna-188",
+    "price": 1292624,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-188/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-188/800/800",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive"
+  },
+  {
+    "id": "prod-190",
+    "name": "Rustic Plastic Soap",
+    "slug": "rustic-plastic-soap-190",
+    "price": 3895913,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-190/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-190/800/800",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart"
+  },
+  {
+    "id": "prod-203",
+    "name": "Handcrafted Bronze Mouse",
+    "slug": "handcrafted-bronze-mouse-203",
+    "price": 1073331,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-203/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-203/800/800",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+  },
+  {
+    "id": "prod-206",
+    "name": "Intelligent Cotton Computer",
+    "slug": "intelligent-cotton-computer-206",
+    "price": 3859629,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-206/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-206/800/800",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J"
+  },
+  {
+    "id": "prod-207",
+    "name": "Bespoke Soft Bacon",
+    "slug": "bespoke-soft-bacon-207",
+    "price": 1332303,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-207/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-207/800/800",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design"
+  },
+  {
+    "id": "prod-214",
+    "name": "Fantastic Steel Gloves",
+    "slug": "fantastic-steel-gloves-214",
+    "price": 4784712,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-214/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-214/800/800",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality"
+  },
+  {
+    "id": "prod-223",
+    "name": "Intelligent Rubber Shirt",
+    "slug": "intelligent-rubber-shirt-223",
+    "price": 3564250,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-223/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-223/800/800",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design"
+  },
+  {
+    "id": "prod-224",
+    "name": "Licensed Frozen Computer",
+    "slug": "licensed-frozen-computer-224",
+    "price": 942579,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-224/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-224/800/800",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality"
+  },
+  {
+    "id": "prod-225",
+    "name": "Luxurious Rubber Fish",
+    "slug": "luxurious-rubber-fish-225",
+    "price": 4604702,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-225/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-225/800/800",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality"
+  },
+  {
+    "id": "prod-228",
+    "name": "Ergonomic Bronze Soap",
+    "slug": "ergonomic-bronze-soap-228",
+    "price": 4149390,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-228/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-228/800/800",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality"
+  },
+  {
+    "id": "prod-230",
+    "name": "Refined Fresh Salad",
+    "slug": "refined-fresh-salad-230",
+    "price": 2859945,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-230/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-230/800/800",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive"
+  },
+  {
+    "id": "prod-233",
+    "name": "Modern Steel Chicken",
+    "slug": "modern-steel-chicken-233",
+    "price": 2163783,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-233/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-233/800/800",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design"
+  },
+  {
+    "id": "prod-246",
+    "name": "Electronic Concrete Shoes",
+    "slug": "electronic-concrete-shoes-246",
+    "price": 3121583,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-246/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-246/800/800",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
+  },
+  {
+    "id": "prod-254",
+    "name": "Sleek Cotton Hat",
+    "slug": "sleek-cotton-hat-254",
+    "price": 3846611,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-254/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-254/800/800",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality"
+  },
+  {
+    "id": "prod-255",
+    "name": "Handmade Steel Sausages",
+    "slug": "handmade-steel-sausages-255",
+    "price": 2869007,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-255/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-255/800/800",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J"
+  },
+  {
+    "id": "prod-257",
+    "name": "Refined Fresh Car",
+    "slug": "refined-fresh-car-257",
+    "price": 1734449,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-257/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-257/800/800",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles"
+  },
+  {
+    "id": "prod-267",
+    "name": "Intelligent Metal Pizza",
+    "slug": "intelligent-metal-pizza-267",
+    "price": 587618,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-267/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-267/800/800",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive"
+  },
+  {
+    "id": "prod-277",
+    "name": "Tasty Cotton Car",
+    "slug": "tasty-cotton-car-277",
+    "price": 4609742,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-277/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-277/800/800",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive"
+  },
+  {
+    "id": "prod-289",
+    "name": "Rustic Metal Tuna",
+    "slug": "rustic-metal-tuna-289",
+    "price": 4642203,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-289/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-289/800/800",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
+  },
+  {
+    "id": "prod-295",
+    "name": "Recycled Metal Car",
+    "slug": "recycled-metal-car-295",
+    "price": 2616709,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-295/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-295/800/800",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+  },
+  {
+    "id": "prod-296",
+    "name": "Luxurious Bronze Soap",
+    "slug": "luxurious-bronze-soap-296",
+    "price": 1314917,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-296/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-296/800/800",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals"
+  },
+  {
+    "id": "prod-297",
+    "name": "Rustic Wooden Ball",
+    "slug": "rustic-wooden-ball-297",
+    "price": 2219249,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-297/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-297/800/800",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality"
+  },
+  {
+    "id": "prod-301",
+    "name": "Recycled Frozen Shirt",
+    "slug": "recycled-frozen-shirt-301",
+    "price": 4284714,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-301/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-301/800/800",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive"
+  },
+  {
+    "id": "prod-303",
+    "name": "Ergonomic Bronze Tuna",
+    "slug": "ergonomic-bronze-tuna-303",
+    "price": 1863400,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-303/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-303/800/800",
+    "description": "The Football Is Good For Training And Recreational Purposes"
+  },
+  {
+    "id": "prod-306",
+    "name": "Handcrafted Fresh Ball",
+    "slug": "handcrafted-fresh-ball-306",
+    "price": 3966640,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-306/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-306/800/800",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart"
+  },
+  {
+    "id": "prod-316",
+    "name": "Incredible Metal Pants",
+    "slug": "incredible-metal-pants-316",
+    "price": 4092441,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-316/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-316/800/800",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients"
+  },
+  {
+    "id": "prod-319",
+    "name": "Incredible Plastic Bike",
+    "slug": "incredible-plastic-bike-319",
+    "price": 1935423,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-319/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-319/800/800",
+    "description": "The Football Is Good For Training And Recreational Purposes"
+  },
+  {
+    "id": "prod-322",
+    "name": "Elegant Granite Car",
+    "slug": "elegant-granite-car-322",
+    "price": 866037,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-322/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-322/800/800",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients"
+  },
+  {
+    "id": "prod-326",
+    "name": "Gorgeous Fresh Shirt",
+    "slug": "gorgeous-fresh-shirt-326",
+    "price": 810755,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-326/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-326/800/800",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J"
+  },
+  {
+    "id": "prod-330",
+    "name": "Elegant Cotton Soap",
+    "slug": "elegant-cotton-soap-330",
+    "price": 3705874,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-330/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-330/800/800",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J"
+  },
+  {
+    "id": "prod-332",
+    "name": "Handmade Soft Ball",
+    "slug": "handmade-soft-ball-332",
+    "price": 3786415,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-332/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-332/800/800",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality"
+  },
+  {
+    "id": "prod-334",
+    "name": "Ergonomic Fresh Fish",
+    "slug": "ergonomic-fresh-fish-334",
+    "price": 627394,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-334/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-334/800/800",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients"
+  },
+  {
+    "id": "prod-342",
+    "name": "Recycled Soft Pants",
+    "slug": "recycled-soft-pants-342",
+    "price": 1876818,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-342/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-342/800/800",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive"
+  },
+  {
+    "id": "prod-344",
+    "name": "Handcrafted Steel Soap",
+    "slug": "handcrafted-steel-soap-344",
+    "price": 3291945,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-344/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-344/800/800",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design"
+  },
+  {
+    "id": "prod-345",
+    "name": "Practical Wooden Soap",
+    "slug": "practical-wooden-soap-345",
+    "price": 456572,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-345/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-345/800/800",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals"
+  },
+  {
+    "id": "prod-349",
+    "name": "Intelligent Concrete Cheese",
+    "slug": "intelligent-concrete-cheese-349",
+    "price": 3415510,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-349/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-349/800/800",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality"
+  },
+  {
+    "id": "prod-354",
+    "name": "Recycled Plastic Chicken",
+    "slug": "recycled-plastic-chicken-354",
+    "price": 2071687,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-354/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-354/800/800",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles"
+  },
+  {
+    "id": "prod-358",
+    "name": "Ergonomic Granite Computer",
+    "slug": "ergonomic-granite-computer-358",
+    "price": 3635482,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-358/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-358/800/800",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients"
+  },
+  {
+    "id": "prod-365",
+    "name": "Awesome Frozen Pizza",
+    "slug": "awesome-frozen-pizza-365",
+    "price": 2149806,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-365/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-365/800/800",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+  },
+  {
+    "id": "prod-372",
+    "name": "Practical Concrete Keyboard",
+    "slug": "practical-concrete-keyboard-372",
+    "price": 2313292,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-372/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-372/800/800",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients"
+  },
+  {
+    "id": "prod-374",
+    "name": "Rustic Wooden Cheese",
+    "slug": "rustic-wooden-cheese-374",
+    "price": 4463146,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-374/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-374/800/800",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality"
+  },
+  {
+    "id": "prod-375",
+    "name": "Generic Steel Pants",
+    "slug": "generic-steel-pants-375",
+    "price": 3676735,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-375/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-375/800/800",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive"
+  },
+  {
+    "id": "prod-380",
+    "name": "Elegant Frozen Table",
+    "slug": "elegant-frozen-table-380",
+    "price": 4332697,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-380/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-380/800/800",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart"
+  },
+  {
+    "id": "prod-381",
+    "name": "Handcrafted Rubber Car",
+    "slug": "handcrafted-rubber-car-381",
+    "price": 2827667,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-381/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-381/800/800",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J"
+  },
+  {
+    "id": "prod-382",
+    "name": "Unbranded Wooden Pants",
+    "slug": "unbranded-wooden-pants-382",
+    "price": 4105580,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-382/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-382/800/800",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016"
+  },
+  {
+    "id": "prod-385",
+    "name": "Awesome Soft Computer",
+    "slug": "awesome-soft-computer-385",
+    "price": 2844922,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-385/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-385/800/800",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients"
+  },
+  {
+    "id": "prod-389",
+    "name": "Electronic Metal Bacon",
+    "slug": "electronic-metal-bacon-389",
+    "price": 2907456,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-389/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-389/800/800",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients"
+  },
+  {
+    "id": "prod-396",
+    "name": "Modern Granite Soap",
+    "slug": "modern-granite-soap-396",
+    "price": 2593889,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-396/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-396/800/800",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+  },
+  {
+    "id": "prod-401",
+    "name": "Electronic Bronze Hat",
+    "slug": "electronic-bronze-hat-401",
+    "price": 720820,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-401/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-401/800/800",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals"
+  },
+  {
+    "id": "prod-403",
+    "name": "Modern Frozen Ball",
+    "slug": "modern-frozen-ball-403",
+    "price": 4772230,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-403/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-403/800/800",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients"
+  },
+  {
+    "id": "prod-404",
+    "name": "Small Frozen Soap",
+    "slug": "small-frozen-soap-404",
+    "price": 2770441,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-404/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-404/800/800",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients"
+  },
+  {
+    "id": "prod-405",
+    "name": "Recycled Cotton Pizza",
+    "slug": "recycled-cotton-pizza-405",
+    "price": 3061106,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-405/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-405/800/800",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
+  },
+  {
+    "id": "prod-407",
+    "name": "Ergonomic Steel Keyboard",
+    "slug": "ergonomic-steel-keyboard-407",
+    "price": 1390672,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-407/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-407/800/800",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design"
+  },
+  {
+    "id": "prod-411",
+    "name": "Luxurious Frozen Bacon",
+    "slug": "luxurious-frozen-bacon-411",
+    "price": 3229792,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-411/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-411/800/800",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J"
+  },
+  {
+    "id": "prod-414",
+    "name": "Practical Cotton Bike",
+    "slug": "practical-cotton-bike-414",
+    "price": 3584506,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-414/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-414/800/800",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+  },
+  {
+    "id": "prod-419",
+    "name": "Elegant Wooden Computer",
+    "slug": "elegant-wooden-computer-419",
+    "price": 3538223,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-419/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-419/800/800",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016"
+  },
+  {
+    "id": "prod-421",
+    "name": "Handcrafted Metal Mouse",
+    "slug": "handcrafted-metal-mouse-421",
+    "price": 4878567,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-421/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-421/800/800",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality"
+  },
+  {
+    "id": "prod-426",
+    "name": "Refined Steel Bacon",
+    "slug": "refined-steel-bacon-426",
+    "price": 1197618,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-426/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-426/800/800",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality"
+  },
+  {
+    "id": "prod-429",
+    "name": "Licensed Soft Car",
+    "slug": "licensed-soft-car-429",
+    "price": 3157924,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-429/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-429/800/800",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive"
+  },
+  {
+    "id": "prod-431",
+    "name": "Licensed Rubber Chicken",
+    "slug": "licensed-rubber-chicken-431",
+    "price": 3188150,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-431/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-431/800/800",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals"
+  },
+  {
+    "id": "prod-432",
+    "name": "Licensed Soft Soap",
+    "slug": "licensed-soft-soap-432",
+    "price": 884855,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-432/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-432/800/800",
+    "description": "The Football Is Good For Training And Recreational Purposes"
+  },
+  {
+    "id": "prod-438",
+    "name": "Awesome Granite Sausages",
+    "slug": "awesome-granite-sausages-438",
+    "price": 865701,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-438/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-438/800/800",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality"
+  },
+  {
+    "id": "prod-451",
+    "name": "Tasty Rubber Fish",
+    "slug": "tasty-rubber-fish-451",
+    "price": 3519714,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-451/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-451/800/800",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles"
+  },
+  {
+    "id": "prod-456",
+    "name": "Sleek Bronze Chicken",
+    "slug": "sleek-bronze-chicken-456",
+    "price": 2897135,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-456/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-456/800/800",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive"
+  },
+  {
+    "id": "prod-460",
+    "name": "Luxurious Cotton Tuna",
+    "slug": "luxurious-cotton-tuna-460",
+    "price": 355353,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-460/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-460/800/800",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design"
+  },
+  {
+    "id": "prod-467",
+    "name": "Incredible Cotton Shoes",
+    "slug": "incredible-cotton-shoes-467",
+    "price": 4330417,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-467/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-467/800/800",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality"
+  },
+  {
+    "id": "prod-473",
+    "name": "Licensed Granite Fish",
+    "slug": "licensed-granite-fish-473",
+    "price": 2391931,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-473/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-473/800/800",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals"
+  },
+  {
+    "id": "prod-474",
+    "name": "Refined Fresh Shirt",
+    "slug": "refined-fresh-shirt-474",
+    "price": 2071871,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-474/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-474/800/800",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients"
+  },
+  {
+    "id": "prod-485",
+    "name": "Bespoke Steel Mouse",
+    "slug": "bespoke-steel-mouse-485",
+    "price": 1698055,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-485/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-485/800/800",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
+  },
+  {
+    "id": "prod-491",
+    "name": "Ergonomic Concrete Bacon",
+    "slug": "ergonomic-concrete-bacon-491",
+    "price": 1324977,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-491/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-491/800/800",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J"
+  },
+  {
+    "id": "prod-493",
+    "name": "Modern Plastic Towels",
+    "slug": "modern-plastic-towels-493",
+    "price": 4711780,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-493/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-493/800/800",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality"
+  },
+  {
+    "id": "prod-496",
+    "name": "Elegant Frozen Chips",
+    "slug": "elegant-frozen-chips-496",
+    "price": 359613,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-496/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-496/800/800",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
+  },
+  {
+    "id": "prod-498",
+    "name": "Licensed Rubber Pants",
+    "slug": "licensed-rubber-pants-498",
+    "price": 3825363,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://picsum.photos/seed/prod-498/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-498/800/800",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
+  }
+]
