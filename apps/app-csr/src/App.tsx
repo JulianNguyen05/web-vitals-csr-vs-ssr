@@ -1,8 +1,26 @@
 import { Routes, Route, Link } from "react-router-dom";
+import type { ReactNode } from "react";
 import { CategoryPage } from "./pages/CategoryPage";
 import { ProductDetailPage } from "./pages/ProductDetailPage";
 import { CartPage } from "./pages/CartPage";
 import { useCartStore } from "@repo/cart-store";
+import { SiteHeader } from "@repo/ui";
+
+function RouterLink({
+  href,
+  className,
+  children,
+}: {
+  href: string;
+  className?: string;
+  children: ReactNode;
+}) {
+  return (
+    <Link to={href} className={className}>
+      {children}
+    </Link>
+  );
+}
 
 function App() {
   const totalQuantity = useCartStore((s) => s.getTotalQuantity());
@@ -10,17 +28,11 @@ function App() {
   return (
     <div className="min-h-screen bg-surface">
       <div className="max-w-6xl mx-auto px-4">
-        <header className="flex items-center justify-between bg-background shadow-sm rounded-card px-6 py-3 mt-4 mb-6">
-          <Link to="/" className="flex items-center gap-2 font-semibold text-foreground">
-            <span className="w-6 h-6 rounded-md bg-accent text-white text-xs flex items-center justify-center">
-              T
-            </span>
-            T&amp;Q Mart (CSR)
-          </Link>
-          <Link to="/cart" className="text-sm text-accent hover:text-accent-dark">
-            Giỏ hàng ({totalQuantity})
-          </Link>
-        </header>
+        <SiteHeader
+          storeLabel="T&Q Mart (CSR)"
+          cartQuantity={totalQuantity}
+          LinkComponent={RouterLink}
+        />
         <Routes>
           <Route path="/" element={<CategoryPage />} />
           <Route path="/products/:id" element={<ProductDetailPage />} />

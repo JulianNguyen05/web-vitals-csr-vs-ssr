@@ -1,7 +1,7 @@
 "use client";
 
 import productsData from "@repo/data/json/products-20.json";
-import { CartDrawer } from "@repo/ui";
+import { CartPageView } from "@repo/ui";
 import { useCartStore, selectCartTotal } from "@repo/cart-store";
 import type { Product } from "@repo/types";
 import { useEffect, useState } from "react";
@@ -21,15 +21,12 @@ export default function CartPage() {
   if (!mounted) return <div className="p-4">Đang tải giỏ hàng...</div>;
 
   return (
-    <div className="p-4">
-      <CartDrawer
-        items={items}
-        products={products}
-        total={total}
-        onUpdateQuantity={updateQuantity}
-        onRemove={removeItem}
-        onClose={() => {}}
-      />
-    </div>
+    <CartPageView
+      items={items}
+      products={products}
+      total={total}
+      onUpdateQuantity={updateQuantity}
+      onRemove={removeItem}
+    />
   );
 }
