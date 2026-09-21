@@ -1,0 +1,396 @@
+# TỔNG HỢP SOURCE CODE GIỎ HÀNG (UI, PAGES, STORE, STYLES)
+
+
+// ============================================================
+// 📄 FILE: packages/ui/src/CartDrawer.tsx
+// ============================================================
+
+import type { CartItem, Product } from "@repo/types";
+
+interface CartDrawerProps {
+  items: CartItem[];
+  products: Product[];
+  total: number;
+  onUpdateQuantity: (productId: string, quantity: number) => void;
+  onRemove: (productId: string) => void;
+  onClose: () => void;
+}
+
+export function CartDrawer({
+  items,
+  products,
+  total,
+  onUpdateQuantity,
+  onRemove,
+  onClose,
+}: CartDrawerProps) {
+  const productMap = new Map(products.map((p) => [p.id, p]));
+
+  return (
+    <div className="fixed inset-y-0 right-0 w-full sm:w-96 bg-background shadow-xl flex flex-col z-50">
+      <div className="flex items-center justify-between p-4 border-b border-border">
+        <h2 className="font-semibold text-foreground">Giỏ hàng</h2>
+        <button onClick={onClose} aria-label="Đóng" className="text-muted hover:text-foreground">✕</button>
+      </div>
+
+      <div className="flex-1 overflow-y-auto p-4 flex flex-col gap-4">
+        {items.length === 0 && <p className="text-sm text-muted">Giỏ hàng trống.</p>}
+        {items.map((item) => {
+          const product = productMap.get(item.productId);
+          if (!product) return null;
+          return (
+            <div key={item.productId} className="flex gap-3">
+              <img
+                src={product.thumbUrl}
+                alt={product.name}
+                width={64}
+                height={64}
+                className="w-16 h-16 object-cover rounded bg-surface"
+              />
+              <div className="flex-1">
+                <p className="text-sm font-medium line-clamp-1 text-foreground">{product.name}</p>
+                <p className="text-sm text-muted">{product.price.toLocaleString("vi-VN")}₫</p>
+                <div className="flex items-center gap-2 mt-1">
+                  <button
+                    onClick={() => onUpdateQuantity(item.productId, item.quantity - 1)}
+                    className="w-6 h-6 border border-border rounded text-foreground hover:bg-surface"
+                  >
+                    −
+                  </button>
+                  <span className="text-sm w-6 text-center text-foreground">{item.quantity}</span>
+                  <button
+                    onClick={() => onUpdateQuantity(item.productId, item.quantity + 1)}
+                    className="w-6 h-6 border border-border rounded text-foreground hover:bg-surface"
+                  >
+                    +
+                  </button>
+                  <button
+                    onClick={() => onRemove(item.productId)}
+                    className="text-xs text-red-600 ml-2 hover:text-red-700"
+                  >
+                    Xoá
+                  </button>
+                </div>
+              </div>
+            </div>
+          );
+        })}
+      </div>
+
+      <div className="p-4 border-t border-border">
+        <div className="flex justify-between font-semibold text-foreground">
+          <span>Tổng tiền</span>
+          <span>{total.toLocaleString("vi-VN")}₫</span>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+
+// ============================================================
+// 📄 FILE: packages/ui/src/Button.tsx
+// ============================================================
+
+import type { ButtonHTMLAttributes, ReactNode } from "react";
+
+interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
+  children: ReactNode;
+  variant?: "primary" | "secondary";
+}
+
+export function Button({ children, variant = "primary", className = "", ...props }: ButtonProps) {
+  const base = "px-4 py-2 rounded-md font-medium transition-colors";
+  const variants = {
+    primary: "bg-accent text-white hover:bg-accent-dark",
+    secondary: "bg-surface text-foreground border border-border hover:bg-border",
+  };
+  return (
+    <button className={`${base} ${variants[variant]} ${className}`} {...props}>
+      {children}
+    </button>
+  );
+}
+
+
+// ============================================================
+// 📄 FILE: apps/app-csr/src/pages/CartPage.tsx
+// ============================================================
+
+import productsData from "@repo/data/json/products-20.json";
+import { CartDrawer } from "@repo/ui";
+import { useCartStore, selectCartTotal } from "@repo/cart-store";
+import type { Product } from "@repo/types";
+
+const products = productsData as Product[];
+
+export function CartPage() {
+  const items = useCartStore((s) => s.items);
+  const updateQuantity = useCartStore((s) => s.updateQuantity);
+  const removeItem = useCartStore((s) => s.removeItem);
+  const total = selectCartTotal(items, products);
+
+  return (
+    <div className="p-4">
+      <CartDrawer
+        items={items}
+        products={products}
+        total={total}
+        onUpdateQuantity={updateQuantity}
+        onRemove={removeItem}
+        onClose={() => {}}
+      />
+    </div>
+  );
+}
+
+// ============================================================
+// 📄 FILE: apps/app-ssr/src/app/cart/page.tsx
+// ============================================================
+
+"use client";
+
+import productsData from "@repo/data/json/products-20.json";
+import { CartDrawer } from "@repo/ui";
+import { useCartStore, selectCartTotal } from "@repo/cart-store";
+import type { Product } from "@repo/types";
+import { useEffect, useState } from "react";
+
+const products = productsData as Product[];
+
+export default function CartPage() {
+  const items = useCartStore((s) => s.items);
+  const updateQuantity = useCartStore((s) => s.updateQuantity);
+  const removeItem = useCartStore((s) => s.removeItem);
+  const [mounted, setMounted] = useState(false);
+
+  useEffect(() => setMounted(true), []);
+
+  const total = selectCartTotal(items, products);
+
+  if (!mounted) return <div className="p-4">Đang tải giỏ hàng...</div>;
+
+  return (
+    <div className="p-4">
+      <CartDrawer
+        items={items}
+        products={products}
+        total={total}
+        onUpdateQuantity={updateQuantity}
+        onRemove={removeItem}
+        onClose={() => {}}
+      />
+    </div>
+  );
+}
+
+// ============================================================
+// 📄 FILE: packages/config/tailwind.config.js
+// ============================================================
+
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: [
+    "../../packages/ui/src/**/*.{js,ts,jsx,tsx}",
+    "../../apps/*/src/**/*.{js,ts,jsx,tsx}",
+    "../../apps/*/app/**/*.{js,ts,jsx,tsx}",
+  ],
+  theme: {
+    extend: {
+      colors: {
+        background: "#FFFFFF",
+        surface: "#F7F7F6",
+        foreground: "#1A1A1A",
+        muted: "#6B6B68",
+        border: "#E5E5E2",
+        accent: {
+          light: "#E1F5EE",
+          DEFAULT: "#0F6E56",
+          dark: "#085041",
+        },
+      },
+      fontFamily: {
+        sans: [
+          "ui-sans-serif",
+          "system-ui",
+          "-apple-system",
+          "Segoe UI",
+          "Roboto",
+          "sans-serif",
+        ],
+      },
+      borderRadius: {
+        DEFAULT: "8px",
+        card: "16px",
+      },
+    },
+  },
+  plugins: [],
+};
+
+// ============================================================
+// 📄 FILE: apps/app-csr/src/index.css
+// ============================================================
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-surface text-foreground font-sans;
+}
+
+a {
+  @apply text-accent hover:text-accent-dark;
+}
+
+
+// ============================================================
+// 📄 FILE: apps/app-ssr/src/app/globals.css
+// ============================================================
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-surface text-foreground font-sans;
+}
+
+a {
+  @apply text-accent hover:text-accent-dark;
+}
+
+
+// ============================================================
+// 📄 FILE: packages/cart-store/index.ts
+// ============================================================
+
+import { create } from "zustand";
+import { persist } from "zustand/middleware";
+import type { CartItem, Product } from "@repo/types";
+
+interface CartState {
+  items: CartItem[];
+  addItem: (productId: string, quantity?: number) => void;
+  updateQuantity: (productId: string, quantity: number) => void;
+  removeItem: (productId: string) => void;
+  clearCart: () => void;
+  getTotalQuantity: () => number;
+}
+
+export const useCartStore = create<CartState>()(
+  persist(
+    (set, get) => ({
+      items: [],
+
+      addItem: (productId, quantity = 1) => {
+        set((state) => {
+          const existing = state.items.find((i) => i.productId === productId);
+          if (existing) {
+            return {
+              items: state.items.map((i) =>
+                i.productId === productId
+                  ? { ...i, quantity: i.quantity + quantity }
+                  : i
+              ),
+            };
+          }
+          return {
+            items: [...state.items, { productId, quantity, addedAt: Date.now() }],
+          };
+        });
+      },
+
+      updateQuantity: (productId, quantity) => {
+        set((state) => ({
+          items:
+            quantity <= 0
+              ? state.items.filter((i) => i.productId !== productId)
+              : state.items.map((i) =>
+                  i.productId === productId ? { ...i, quantity } : i
+                ),
+        }));
+      },
+
+      removeItem: (productId) => {
+        set((state) => ({
+          items: state.items.filter((i) => i.productId !== productId),
+        }));
+      },
+
+      clearCart: () => set({ items: [] }),
+
+      getTotalQuantity: () =>
+        get().items.reduce((sum, i) => sum + i.quantity, 0),
+    }),
+    { name: "tqmart-cart" }
+  )
+);
+
+export function selectCartTotal(items: CartItem[], products: Product[]): number {
+  const priceMap = new Map(products.map((p) => [p.id, p.price]));
+  return items.reduce((sum, item) => {
+    const price = priceMap.get(item.productId) ?? 0;
+    return sum + price * item.quantity;
+  }, 0);
+}
+
+// ============================================================
+// 📄 FILE: packages/types/index.ts
+// ============================================================
+
+export interface Category {
+  id: string;
+  name: string;
+  slug: string;
+}
+
+export interface ProductRating {
+  average: number; // 0 - 5
+  count: number;
+}
+
+export interface ProductDimensions {
+  length: number; // cm
+  width: number; // cm
+  height: number; // cm
+}
+
+export interface Product {
+  // --- Trường gốc (giữ nguyên, không đổi để không phá vỡ UI hiện có) ---
+  id: string;
+  name: string;
+  slug: string;
+  price: number;
+  categoryId: string;
+  thumbUrl: string;
+  detailUrl: string;
+  description: string;
+
+  // --- Trường mở rộng (thêm mới, đều optional để tương thích ngược) ---
+  brand?: string;
+  sku?: string;
+  originalPrice?: number; // giá gốc trước giảm
+  discountPercent?: number; // % giảm giá
+  unit?: string; // đơn vị tính: cái, bộ, kg, chai...
+  shortDescription?: string; // mô tả ngắn dùng ở trang danh mục
+  gallery?: string[]; // ảnh phụ ngoài thumbUrl/detailUrl
+  specifications?: Record<string, string>; // thông số kỹ thuật, tuỳ theo ngành hàng
+  rating?: ProductRating;
+  stock?: number; // tồn kho
+  soldCount?: number; // đã bán
+  weight?: number; // gram
+  dimensions?: ProductDimensions;
+  origin?: string; // xuất xứ
+  warranty?: string; // chính sách bảo hành/đổi trả
+  tags?: string[];
+  createdAt?: string; // ISO date string
+}
+
+export interface CartItem {
+  productId: string;
+  quantity: number;
+  addedAt: number;
+}
+
