@@ -49,5 +49,55 @@
       "tiết kiệm điện"
     ],
     "createdAt": "2026-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-302",
+    "slug": "may-xay-sinh-to-blendmax-302",
+    "name": "Máy Xay Sinh Tố Đa Năng BlendMax 1.5L",
+    "categoryId": "cat-3",
+    "brand": "BlendMax",
+    "sku": "BM-BL15-800-WHT",
+    "price": 890000,
+    "originalPrice": 1190000,
+    "discountPercent": 25,
+    "unit": "cái",
+    "shortDescription": "Máy xay sinh tố cối thuỷ tinh 1.5L, công suất 800W, 6 lưỡi dao thép không gỉ, 3 tốc độ và chế độ xay đá.",
+    "description": "BlendMax 1.5L trang bị động cơ 800W mạnh mẽ cùng bộ 6 lưỡi dao thép không gỉ, xay nhuyễn trái cây, rau củ, xay đá và chế biến sinh tố chỉ trong khoảng 40 giây. Cối thuỷ tinh chịu nhiệt dung tích 1.5 lít không bám mùi, không ố màu, có vạch chia dung tích dễ quan sát. Máy có 3 tốc độ cùng nút xung (pulse) giúp kiểm soát độ mịn theo ý muốn. Đế máy có chân cao su chống trượt, nắp cối kín kèm cốc đong nhỏ hạn chế bắn tràn, và tính năng tự ngắt khi quá tải hoặc nóng máy để đảm bảo an toàn khi sử dụng.",
+    "thumbUrl": "https://picsum.photos/seed/prod-302/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-302/800/800",
+    "gallery": [
+      "https://picsum.photos/seed/prod-302-a/800/800",
+      "https://picsum.photos/seed/prod-302-b/800/800",
+      "https://picsum.photos/seed/prod-302-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích cối": "1.5 lít, thuỷ tinh chịu nhiệt",
+      "Công suất": "800W",
+      "Điện áp": "220V, 50Hz",
+      "Số tốc độ": "3 tốc độ + nút xung (pulse)",
+      "Lưỡi dao": "6 lưỡi thép không gỉ",
+      "Tính năng an toàn": "Tự ngắt khi quá tải, chân đế chống trượt",
+      "Kích thước sản phẩm": "22 x 20 x 42 cm"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 534
+    },
+    "stock": 88,
+    "soldCount": 1430,
+    "weight": 3800,
+    "dimensions": {
+      "length": 22,
+      "width": 20,
+      "height": 42
+    },
+    "origin": "Trung Quốc (thương hiệu Việt Nam phân phối)",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "máy xay sinh tố",
+      "gia dụng nhà bếp",
+      "xay đá"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
   }
 ]

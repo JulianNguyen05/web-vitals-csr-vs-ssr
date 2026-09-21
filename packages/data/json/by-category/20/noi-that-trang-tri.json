@@ -47,5 +47,54 @@
       "nội thất"
     ],
     "createdAt": "2026-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-902",
+    "slug": "ke-sach-go-5-tang-woodly-902",
+    "name": "Kệ Sách Gỗ 5 Tầng Woodly Nordic 150cm",
+    "categoryId": "cat-9",
+    "brand": "Woodly",
+    "sku": "WD-SHELF-5T-OAK",
+    "price": 1290000,
+    "originalPrice": 1690000,
+    "discountPercent": 24,
+    "unit": "cái",
+    "shortDescription": "Kệ sách 5 tầng phong cách Bắc Âu, gỗ MDF phủ melamine chống ẩm, khung thép sơn tĩnh điện, dễ lắp ráp.",
+    "description": "Kệ sách Woodly Nordic 5 tầng có thiết kế tối giản theo phong cách Bắc Âu, phù hợp đặt trong phòng khách, phòng làm việc hay phòng ngủ. Mặt kệ làm từ gỗ MDF phủ melamine chống ẩm, chống trầy xước, kết hợp khung thép sơn tĩnh điện chắc chắn, chịu tải tốt. Mỗi tầng chịu được khoảng 15kg, đủ để chứa sách, hộp đựng và đồ trang trí. Sản phẩm được đóng gói phẳng kèm đầy đủ phụ kiện và hướng dẫn lắp ráp, một người có thể tự lắp trong khoảng 30 phút. Chân kệ có nút cao su điều chỉnh giúp kệ đứng vững trên nền không bằng phẳng.",
+    "thumbUrl": "https://picsum.photos/seed/prod-902/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-902/800/800",
+    "gallery": [
+      "https://picsum.photos/seed/prod-902-a/800/800",
+      "https://picsum.photos/seed/prod-902-b/800/800"
+    ],
+    "specifications": {
+      "Số tầng": "5 tầng",
+      "Chất liệu mặt kệ": "Gỗ MDF phủ melamine chống ẩm",
+      "Chất liệu khung": "Thép sơn tĩnh điện",
+      "Tải trọng mỗi tầng": "15kg",
+      "Kích thước": "60 x 28 x 150 cm",
+      "Màu sắc": "Vân Sồi Sáng, Vân Óc Chó",
+      "Lắp ráp": "Tự lắp, kèm đầy đủ phụ kiện"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 187
+    },
+    "stock": 64,
+    "soldCount": 520,
+    "weight": 14500,
+    "dimensions": {
+      "length": 60,
+      "width": 28,
+      "height": 150
+    },
+    "origin": "Việt Nam",
+    "warranty": "12 tháng cho khung và kết cấu",
+    "tags": [
+      "kệ sách",
+      "nội thất",
+      "phong cách Bắc Âu"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
   }
 ]

@@ -46,5 +46,53 @@
       "cotton co giãn"
     ],
     "createdAt": "2026-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-202",
+    "slug": "quan-jeans-nam-denimo-slim-fit-202",
+    "name": "Quần Jeans Nam Slim Fit Denimo Stretch",
+    "categoryId": "cat-2",
+    "brand": "Denimo",
+    "sku": "DNM-JEAN-SLIM-M-BLU",
+    "price": 499000,
+    "originalPrice": 649000,
+    "discountPercent": 23,
+    "unit": "cái",
+    "shortDescription": "Quần jeans nam form slim fit, vải denim cotton pha 2% spandex co giãn nhẹ, màu xanh đậm dễ phối đồ.",
+    "description": "Quần jeans Denimo Stretch được may từ vải denim cotton pha 2% spandex, có độ co giãn nhẹ giúp thoải mái khi đi lại, ngồi làm việc hay vận động cả ngày. Form slim fit ôm vừa phải ở đùi và thon dần xuống ống, tôn dáng nhưng không gây bó sát khó chịu. Màu xanh đậm được xử lý wash nhẹ, ít phai màu sau nhiều lần giặt, dễ phối cùng áo thun, áo sơ mi hoặc áo polo. Đường may chắc chắn, khoá kéo và nút kim loại bền bỉ, túi sâu vừa vặn để đựng điện thoại và ví.",
+    "thumbUrl": "https://picsum.photos/seed/prod-202/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-202/800/800",
+    "gallery": [
+      "https://picsum.photos/seed/prod-202-a/800/800",
+      "https://picsum.photos/seed/prod-202-b/800/800"
+    ],
+    "specifications": {
+      "Chất liệu": "98% Cotton, 2% Spandex (denim co giãn nhẹ)",
+      "Kiểu dáng": "Slim fit, ống côn nhẹ",
+      "Kích cỡ có sẵn": "28, 29, 30, 31, 32, 34",
+      "Màu sắc": "Xanh Đậm, Xanh Than, Đen",
+      "Hướng dẫn bảo quản": "Giặt lộn trái, nước lạnh, không dùng chất tẩy mạnh",
+      "Xuất xứ vải": "Dệt tại Việt Nam"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 438
+    },
+    "stock": 380,
+    "soldCount": 2940,
+    "weight": 550,
+    "dimensions": {
+      "length": 35,
+      "width": 28,
+      "height": 4
+    },
+    "origin": "Việt Nam",
+    "warranty": "Đổi size miễn phí trong 15 ngày",
+    "tags": [
+      "quần jeans",
+      "thời trang nam",
+      "denim co giãn"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
   }
 ]

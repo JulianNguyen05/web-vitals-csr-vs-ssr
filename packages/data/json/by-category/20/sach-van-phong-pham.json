@@ -47,5 +47,53 @@
       "bìa da"
     ],
     "createdAt": "2026-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-402",
+    "slug": "but-gel-writely-hop-12-402",
+    "name": "Bút Gel Mực Đen Writely 0.5mm - Hộp 12 Cây",
+    "categoryId": "cat-4",
+    "brand": "Writely",
+    "sku": "WRT-GEL-05-BLK-12",
+    "price": 99000,
+    "originalPrice": 125000,
+    "discountPercent": 21,
+    "unit": "hộp",
+    "shortDescription": "Hộp 12 bút gel mực đen ngòi 0.5mm, mực ra đều, khô nhanh, thân bút cầm êm tay, phù hợp học tập và văn phòng.",
+    "description": "Bút gel Writely ngòi bi 0.5mm cho nét chữ mảnh, đều và sắc nét, viết trơn tru không bị đứt nét hay vón cục mực. Mực gel đen đậm khô nhanh, hạn chế lem khi viết bằng tay trái hoặc ghi chép nhanh. Thân bút nhựa trong có phần cầm cao su mềm giúp cầm êm tay, giảm mỏi khi viết trong thời gian dài. Nắp bút có kẹp chắc chắn, dễ dàng cài vào túi áo hoặc sổ tay. Mỗi hộp gồm 12 cây, tiện lợi cho học sinh, sinh viên và văn phòng dùng chung.",
+    "thumbUrl": "https://picsum.photos/seed/prod-402/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-402/800/800",
+    "gallery": [
+      "https://picsum.photos/seed/prod-402-a/800/800",
+      "https://picsum.photos/seed/prod-402-b/800/800"
+    ],
+    "specifications": {
+      "Loại bút": "Bút gel có nắp",
+      "Cỡ ngòi": "0.5mm",
+      "Màu mực": "Đen",
+      "Số lượng": "12 cây / hộp",
+      "Chất liệu thân bút": "Nhựa trong, phần cầm cao su mềm",
+      "Chiều dài nét viết": "Khoảng 500m mỗi cây"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 418
+    },
+    "stock": 460,
+    "soldCount": 2890,
+    "weight": 150,
+    "dimensions": {
+      "length": 17,
+      "width": 9,
+      "height": 2.5
+    },
+    "origin": "Việt Nam",
+    "warranty": "Đổi trả trong 7 ngày nếu lỗi sản xuất",
+    "tags": [
+      "bút gel",
+      "văn phòng phẩm",
+      "bút mực đen"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
   }
 ]

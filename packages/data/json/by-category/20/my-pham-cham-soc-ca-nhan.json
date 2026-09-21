@@ -47,5 +47,54 @@
       "chăm sóc da mặt"
     ],
     "createdAt": "2026-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-602",
+    "slug": "kem-chong-nang-sunguard-602",
+    "name": "Kem Chống Nắng Dịu Nhẹ SunGuard SPF50+ PA++++ 50ml",
+    "categoryId": "cat-6",
+    "brand": "SunGuard",
+    "sku": "SG-SUN-SPF50-50",
+    "price": 265000,
+    "originalPrice": 320000,
+    "discountPercent": 17,
+    "unit": "tuýp",
+    "shortDescription": "Kem chống nắng vật lý lai hoá học SPF50+ PA++++, kết cấu mỏng nhẹ, không bết dính, không để lại vệt trắng.",
+    "description": "Kem chống nắng SunGuard SPF50+ PA++++ bảo vệ da hiệu quả trước tia UVA và UVB, phù hợp sử dụng hằng ngày cũng như khi hoạt động ngoài trời. Công thức lai giữa màng lọc vật lý và hoá học cho kết cấu mỏng nhẹ, thẩm thấu nhanh, không bết dính và không để lại vệt trắng trên da. Thành phần chiết xuất trà xanh và Panthenol giúp làm dịu da, hạn chế khô căng sau khi thoa. Sản phẩm không chứa cồn và hương liệu gây kích ứng, có thể dùng làm lớp lót trước khi trang điểm. Khuyến nghị thoa lại sau mỗi 2-3 giờ khi tiếp xúc trực tiếp với ánh nắng.",
+    "thumbUrl": "https://picsum.photos/seed/prod-602/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-602/800/800",
+    "gallery": [
+      "https://picsum.photos/seed/prod-602-a/800/800",
+      "https://picsum.photos/seed/prod-602-b/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "50ml",
+      "Chỉ số chống nắng": "SPF50+ / PA++++",
+      "Thành phần nổi bật": "Chiết xuất trà xanh, Panthenol",
+      "Loại da phù hợp": "Mọi loại da, kể cả da nhạy cảm",
+      "Xuất xứ": "Nhật Bản",
+      "Hạn sử dụng": "36 tháng kể từ ngày sản xuất",
+      "Hướng dẫn sử dụng": "Thoa đều lên mặt và cổ trước khi ra nắng 15-20 phút"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1120
+    },
+    "stock": 305,
+    "soldCount": 6480,
+    "weight": 85,
+    "dimensions": {
+      "length": 14,
+      "width": 4.5,
+      "height": 2.5
+    },
+    "origin": "Nhật Bản",
+    "warranty": "Đổi trả trong 7 ngày nếu chưa mở seal",
+    "tags": [
+      "mỹ phẩm",
+      "kem chống nắng",
+      "chăm sóc da mặt"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
   }
 ]

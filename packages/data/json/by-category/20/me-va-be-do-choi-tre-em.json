@@ -47,5 +47,54 @@
       "trẻ em"
     ],
     "createdAt": "2026-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-702",
+    "slug": "binh-sua-co-rong-babycare-702",
+    "name": "Bình Sữa Cổ Rộng Chống Đầy Hơi BabyCare PPSU 240ml",
+    "categoryId": "cat-7",
+    "brand": "BabyCare",
+    "sku": "BC-BOTTLE-PPSU-240",
+    "price": 189000,
+    "originalPrice": 229000,
+    "discountPercent": 17,
+    "unit": "cái",
+    "shortDescription": "Bình sữa cổ rộng chất liệu nhựa PPSU cao cấp 240ml, núm ti silicone mềm, van chống đầy hơi, chịu nhiệt tới 180°C.",
+    "description": "Bình sữa BabyCare được làm từ nhựa PPSU cao cấp, không chứa BPA, chịu nhiệt tốt và bền bỉ, có thể tiệt trùng bằng nước sôi hoặc máy tiệt trùng nhiều lần mà không biến dạng, ố vàng. Núm ti silicone y tế mềm mại mô phỏng cảm giác bú mẹ, giúp bé dễ dàng chuyển đổi giữa bú mẹ và bú bình. Van thông khí chống đầy hơi ở đáy núm ti giúp giảm nguy cơ bé bị nuốt khí, ợ hơi hay trớ sữa sau khi bú. Miệng bình cổ rộng thuận tiện cho việc pha sữa và vệ sinh, thân bình có vạch chia dung tích rõ ràng, bề mặt nhám giúp mẹ cầm chắc tay.",
+    "thumbUrl": "https://picsum.photos/seed/prod-702/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-702/800/800",
+    "gallery": [
+      "https://picsum.photos/seed/prod-702-a/800/800",
+      "https://picsum.photos/seed/prod-702-b/800/800",
+      "https://picsum.photos/seed/prod-702-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "240ml",
+      "Chất liệu bình": "Nhựa PPSU, không chứa BPA",
+      "Chất liệu núm ti": "Silicone y tế, size M (3 tháng trở lên)",
+      "Tính năng": "Van chống đầy hơi, cổ rộng",
+      "Khả năng chịu nhiệt": "Tới 180°C, tiệt trùng được",
+      "Xuất xứ": "Thái Lan"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 376
+    },
+    "stock": 232,
+    "soldCount": 2260,
+    "weight": 180,
+    "dimensions": {
+      "length": 7,
+      "width": 7,
+      "height": 16
+    },
+    "origin": "Thái Lan",
+    "warranty": "Đổi trả trong 15 ngày nếu lỗi sản xuất",
+    "tags": [
+      "bình sữa",
+      "PPSU",
+      "cho bé"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
   }
 ]

@@ -47,5 +47,54 @@
       "chống nước"
     ],
     "createdAt": "2026-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-802",
+    "slug": "tham-tap-yoga-flexfit-802",
+    "name": "Thảm Tập Yoga TPE 2 Lớp Chống Trượt FlexFit 6mm",
+    "categoryId": "cat-8",
+    "brand": "FlexFit",
+    "sku": "FF-YOGA-TPE-6MM-PUR",
+    "price": 329000,
+    "originalPrice": 429000,
+    "discountPercent": 23,
+    "unit": "tấm",
+    "shortDescription": "Thảm tập yoga chất liệu TPE 2 lớp dày 6mm, bề mặt chống trượt, đàn hồi tốt, kèm dây đeo và túi đựng.",
+    "description": "Thảm yoga FlexFit làm từ chất liệu TPE thân thiện môi trường, không chứa PVC và không mùi khó chịu, an toàn cho da khi tiếp xúc lâu. Cấu tạo 2 lớp với độ dày 6mm giúp giảm áp lực lên khớp gối, khuỷu tay và cột sống khi tập các tư thế yoga, pilates hoặc các bài tập thể dục tại nhà. Bề mặt có vân chống trượt tốt cả khi tay chân ra mồ hôi, đồng thời độ đàn hồi cao giúp thảm nhanh phục hồi sau khi gập cuộn. Sản phẩm đi kèm dây đeo và túi đựng, thuận tiện mang theo đến phòng tập hoặc công viên.",
+    "thumbUrl": "https://picsum.photos/seed/prod-802/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-802/800/800",
+    "gallery": [
+      "https://picsum.photos/seed/prod-802-a/800/800",
+      "https://picsum.photos/seed/prod-802-b/800/800"
+    ],
+    "specifications": {
+      "Chất liệu": "TPE 2 lớp, không chứa PVC",
+      "Độ dày": "6mm",
+      "Kích thước": "183 x 61 cm",
+      "Bề mặt": "Vân chống trượt",
+      "Phụ kiện kèm theo": "Dây đeo, túi đựng",
+      "Trọng lượng": "Khoảng 0.9 kg",
+      "Màu sắc": "Tím Lavender, Xanh Mint, Xám"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 297
+    },
+    "stock": 174,
+    "soldCount": 1350,
+    "weight": 900,
+    "dimensions": {
+      "length": 183,
+      "width": 61,
+      "height": 0.6
+    },
+    "origin": "Việt Nam",
+    "warranty": "Đổi trả trong 15 ngày nếu lỗi sản xuất",
+    "tags": [
+      "thảm yoga",
+      "tập luyện tại nhà",
+      "TPE"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
   }
 ]

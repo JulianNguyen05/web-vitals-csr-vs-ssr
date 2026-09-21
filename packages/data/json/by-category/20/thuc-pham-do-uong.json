@@ -47,5 +47,53 @@
       "rang xay nguyên chất"
     ],
     "createdAt": "2026-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-502",
+    "slug": "tra-o-long-tui-loc-tealeaf-502",
+    "name": "Trà Ô Long Túi Lọc TeaLeaf Premium - Hộp 50 Gói",
+    "categoryId": "cat-5",
+    "brand": "TeaLeaf",
+    "sku": "TL-OOLONG-50",
+    "price": 89000,
+    "originalPrice": 110000,
+    "discountPercent": 19,
+    "unit": "hộp",
+    "shortDescription": "Trà ô long túi lọc từ búp trà cao nguyên, hộp 50 gói, hương thơm nhẹ, vị chát dịu hậu ngọt.",
+    "description": "Trà ô long TeaLeaf Premium được làm từ búp trà non trồng tại vùng cao nguyên, qua công đoạn sao và vò thủ công cho hương thơm dịu nhẹ, vị chát thanh và hậu ngọt kéo dài. Trà được đóng thành túi lọc tiện lợi, chỉ cần hãm với nước nóng khoảng 90°C trong 3-5 phút là có ngay một tách trà thơm ngon, phù hợp dùng tại nhà, văn phòng hoặc mang đi du lịch. Mỗi gói được bọc kín riêng trong túi giấy bạc giúp giữ hương vị tươi mới. Trà không chứa hương liệu hay chất bảo quản, có thể pha nóng hoặc ủ lạnh đều ngon.",
+    "thumbUrl": "https://picsum.photos/seed/prod-502/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-502/800/800",
+    "gallery": [
+      "https://picsum.photos/seed/prod-502-a/800/800",
+      "https://picsum.photos/seed/prod-502-b/800/800"
+    ],
+    "specifications": {
+      "Thành phần": "100% trà ô long",
+      "Khối lượng tịnh": "100g (50 gói x 2g)",
+      "Cách pha": "Hãm với nước 90°C trong 3-5 phút",
+      "Hạn sử dụng": "24 tháng kể từ ngày sản xuất",
+      "Bảo quản": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp",
+      "Đóng gói": "Hộp giấy, mỗi gói bọc túi giấy bạc riêng"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 356
+    },
+    "stock": 420,
+    "soldCount": 2670,
+    "weight": 180,
+    "dimensions": {
+      "length": 18,
+      "width": 9,
+      "height": 8
+    },
+    "origin": "Việt Nam (Lâm Đồng)",
+    "warranty": "Đổi trả nếu sản phẩm lỗi/hết hạn khi nhận hàng",
+    "tags": [
+      "trà ô long",
+      "trà túi lọc",
+      "đồ uống"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
   }
 ]

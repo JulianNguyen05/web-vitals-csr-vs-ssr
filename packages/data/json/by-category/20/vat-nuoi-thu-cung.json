@@ -47,5 +47,54 @@
       "hạt khô"
     ],
     "createdAt": "2026-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1002",
+    "slug": "cat-ve-sinh-meo-catfresh-1002",
+    "name": "Cát Vệ Sinh Cho Mèo Đậu Nành CatFresh 6L",
+    "categoryId": "cat-10",
+    "brand": "CatFresh",
+    "sku": "CF-LITTER-SOY-6L",
+    "price": 135000,
+    "originalPrice": 165000,
+    "discountPercent": 18,
+    "unit": "túi",
+    "shortDescription": "Cát vệ sinh cho mèo từ bã đậu nành tự nhiên, vón cục nhanh, khử mùi tốt, ít bụi, có thể xả bồn cầu.",
+    "description": "Cát vệ sinh CatFresh được làm từ bã đậu nành tự nhiên, vón cục nhanh chỉ trong vài giây khi tiếp xúc nước tiểu, giúp dễ dàng xúc bỏ và giữ khay cát luôn sạch sẽ. Công thức khử mùi hiệu quả kết hợp hương trà xanh nhẹ, hạn chế mùi hôi trong nhà. Hạt cát mềm, kích thước vừa phải, ít bụi và không gây kích ứng cho móng chân và đường hô hấp của mèo. Sản phẩm có khả năng phân huỷ sinh học, có thể xả trực tiếp xuống bồn cầu với lượng nhỏ. Túi 6 lít có khoá zip tiện lợi, dùng được cho mèo mọi lứa tuổi.",
+    "thumbUrl": "https://picsum.photos/seed/prod-1002/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1002/800/800",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1002-a/800/800",
+      "https://picsum.photos/seed/prod-1002-b/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "6 lít (khoảng 2.5kg)",
+      "Thành phần chính": "Bã đậu nành tự nhiên",
+      "Khả năng vón cục": "Vón nhanh, dễ xúc",
+      "Mùi hương": "Trà xanh nhẹ",
+      "Đối tượng sử dụng": "Mèo mọi lứa tuổi",
+      "Bảo quản": "Nơi khô ráo, đóng kín sau khi dùng",
+      "Xuất xứ": "Việt Nam"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 589
+    },
+    "stock": 318,
+    "soldCount": 3560,
+    "weight": 2600,
+    "dimensions": {
+      "length": 35,
+      "width": 22,
+      "height": 12
+    },
+    "origin": "Việt Nam",
+    "warranty": "Đổi trả nếu bao bì hư hỏng/hết hạn khi nhận hàng",
+    "tags": [
+      "cát vệ sinh mèo",
+      "thú cưng",
+      "cát đậu nành"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
   }
 ]

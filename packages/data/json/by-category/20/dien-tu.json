@@ -53,5 +53,59 @@
       "sạc nhanh"
     ],
     "createdAt": "2026-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-102",
+    "slug": "tai-nghe-chong-on-sonaro-pulse-q5-102",
+    "name": "Tai nghe chống ồn Sonaro Pulse Q5",
+    "categoryId": "cat-1",
+    "brand": "Sonaro",
+    "sku": "SNR-PQ5-BLK",
+    "price": 2490000,
+    "originalPrice": 2990000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Tai nghe Bluetooth chụp tai chống ồn chủ động ANC, driver 40mm, pin 40 giờ, sạc nhanh 10 phút dùng 5 giờ.",
+    "description": "Sonaro Pulse Q5 trang bị công nghệ chống ồn chủ động ANC với 4 micro, giảm tiếng ồn môi trường tới 35dB, phù hợp khi đi lại, làm việc ở quán cà phê hay văn phòng mở. Driver 40mm cho âm bass dày, dải trung rõ và âm treble sáng, hỗ trợ codec AAC và LDAC. Chế độ xuyên âm giúp nghe được xung quanh mà không cần tháo tai nghe. Pin dung lượng lớn cho thời gian nghe liên tục tới 40 giờ khi tắt ANC (30 giờ khi bật ANC), sạc nhanh 10 phút dùng thêm 5 giờ qua cổng USB-C. Tai nghe kết nối đồng thời 2 thiết bị, thiết kế gập gọn kèm hộp đựng cứng, đệm tai mút hoạt tính êm ái khi đeo lâu.",
+    "thumbUrl": "https://picsum.photos/seed/prod-102/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-102/800/800",
+    "gallery": [
+      "https://picsum.photos/seed/prod-102-a/800/800",
+      "https://picsum.photos/seed/prod-102-b/800/800",
+      "https://picsum.photos/seed/prod-102-c/800/800"
+    ],
+    "specifications": {
+      "Kiểu tai nghe": "Chụp tai (over-ear), không dây",
+      "Chống ồn": "ANC chủ động 4 micro, chế độ xuyên âm",
+      "Driver": "40mm",
+      "Codec hỗ trợ": "SBC, AAC, LDAC",
+      "Thời lượng pin": "40 giờ (30 giờ khi bật ANC)",
+      "Sạc nhanh": "10 phút dùng 5 giờ",
+      "Cổng sạc": "USB-C",
+      "Kết nối": "Bluetooth 5.3, kết nối đồng thời 2 thiết bị",
+      "Chất liệu": "Khung nhựa PC, đệm tai mút hoạt tính bọc da PU",
+      "Màu sắc": "Đen Than, Xám Bạc, Xanh Navy"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 412
+    },
+    "stock": 96,
+    "soldCount": 980,
+    "weight": 254,
+    "dimensions": {
+      "length": 19.5,
+      "width": 16.8,
+      "height": 8.2
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12 tháng chính hãng, 1 đổi 1 trong 30 ngày đầu",
+    "tags": [
+      "tai nghe",
+      "chống ồn",
+      "bluetooth",
+      "ANC"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
   }
 ]
