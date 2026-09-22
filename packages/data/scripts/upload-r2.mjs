@@ -1,18 +1,27 @@
 // scripts/upload-r2.mjs
 //
-// Đồng bộ (mirror) assets/processed/ lên bucket R2, giữ nguyên cấu trúc thư mục:
+// Upload assets/processed/ lên bucket R2, giữ nguyên cấu trúc thư mục:
 //   assets/processed/thumb/dien-tu/x.webp  ->  <bucket>/thumb/dien-tu/x.webp
 //
 //  - File mới hoặc đã đổi nội dung  -> upload (ghi đè, không tốn thêm dung lượng)
 //  - File không đổi (so MD5/ETag)    -> bỏ qua
-//  - File trên R2 mà local không còn -> XOÁ (chỉ trong thumb/, detail/, gallery/, misc/)
+//
+// MẶC ĐỊNH KHÔNG XOÁ GÌ TRÊN R2. An toàn khi nhiều người mỗi người chỉ có ảnh gốc
+// của một phần sản phẩm trên máy mình (vd mỗi partner phụ trách vài ngành) — chạy
+// upload bình thường sẽ không đụng tới ảnh do người khác đã upload trước đó.
+//
+// Chỉ dùng --prune khi chắc chắn assets/raw/ trên máy đang chạy đã có ĐẦY ĐỦ ảnh
+// của TẤT CẢ sản phẩm (mọi ngành, mọi partner đã gộp về), việc này để xoá ảnh
+// mồ côi (sản phẩm đã xoá/đổi tên) — chỉ nên do một người (chủ dự án) chạy, không
+// nên đưa vào script "dev"/"sync" dùng chung.
 //
 // Cần file .env trong packages/data: R2_ACCOUNT_ID, R2_ACCESS_KEY_ID,
 // R2_SECRET_ACCESS_KEY, R2_BUCKET.
 //
 // Cách chạy (từ packages/data):
-//   node scripts/upload-r2.mjs             đồng bộ thật
-//   node scripts/upload-r2.mjs --dry-run   chỉ in ra sẽ upload/xoá gì, không làm gì cả
+//   node scripts/upload-r2.mjs                 chỉ upload, không xoá gì
+//   node scripts/upload-r2.mjs --prune          upload + xoá ảnh mồ côi trên R2
+//   node scripts/upload-r2.mjs --prune --dry-run   xem trước sẽ upload/xoá gì, không làm gì cả
 
 import dotenv from "dotenv";
 import { S3Client, PutObjectCommand, ListObjectsV2Command, DeleteObjectsCommand } from "@aws-sdk/client-s3";
@@ -27,6 +36,7 @@ dotenv.config({ path: path.join(ROOT, ".env") });
 const OUT = path.join(ROOT, "assets", "processed");
 const PREFIXES = ["thumb/", "detail/", "gallery/", "misc/"]; // chỉ đụng tới các thư mục này trên bucket
 const DRY_RUN = process.argv.includes("--dry-run");
+const PRUNE = process.argv.includes("--prune");
 const CONCURRENCY = 6;
 
 const { R2_ACCOUNT_ID, R2_ACCESS_KEY_ID, R2_SECRET_ACCESS_KEY, R2_BUCKET } = process.env;
@@ -107,18 +117,26 @@ async function runPool(items, worker) {
 async function main() {
   const local = scanLocal();
   if (local.size === 0) {
-    // Chốt an toàn: thư mục rỗng mà vẫn đồng bộ thì sẽ xoá sạch bucket
-    console.error("assets/processed/ đang rỗng, dừng lại để không xoá nhầm toàn bộ ảnh trên R2.");
+    console.error("assets/processed/ đang rỗng. Hãy chạy process-images.mjs trước.");
     process.exit(1);
+  }
+  if (PRUNE) {
+    console.log(
+      "⚠ --prune: sẽ xoá trên R2 mọi ảnh không có trong assets/processed/ của MÁY NÀY.\n" +
+      "  Chỉ chạy khi chắc chắn assets/raw/ ở đây đã có đủ ảnh của mọi ngành/mọi partner.\n"
+    );
   }
 
   const remote = await listRemote();
   const toUpload = [...local].filter(([key, { md5 }]) => remote.get(key) !== md5).map(([key, v]) => ({ key, ...v }));
-  const toDelete = [...remote.keys()].filter((key) => !local.has(key));
+  const toDelete = PRUNE ? [...remote.keys()].filter((key) => !local.has(key)) : [];
   const unchanged = local.size - toUpload.length;
 
   console.log(`Local: ${local.size} ảnh | R2 hiện có: ${remote.size} ảnh`);
-  console.log(`  Upload: ${toUpload.length} (mới/đã đổi) | Bỏ qua: ${unchanged} (không đổi) | Xoá: ${toDelete.length} (local không còn)`);
+  console.log(
+    `  Upload: ${toUpload.length} (mới/đã đổi) | Bỏ qua: ${unchanged} (không đổi)` +
+    (PRUNE ? ` | Xoá: ${toDelete.length} (local không còn)` : ` | Xoá: bỏ qua (thêm --prune để bật)`)
+  );
 
   if (DRY_RUN) {
     toUpload.forEach((f) => console.log(`  + ${f.key}${remote.has(f.key) ? "  (ghi đè)" : ""}`));
