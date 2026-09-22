@@ -12,12 +12,12 @@
     "unit": "chiếc",
     "shortDescription": "Smartphone màn hình AMOLED 6.7 inch, chip 8 nhân, camera chính 108MP, pin 5000mAh sạc nhanh 67W.",
     "description": "Xelio Nova X12 sở hữu màn hình AMOLED 6.7 inch tần số quét 120Hz cho trải nghiệm cuộn mượt mà, độ sáng tối đa 1200 nits phù hợp sử dụng ngoài trời. Máy trang bị chip xử lý 8 nhân tốc độ 2.6GHz kết hợp RAM 8GB giúp đa nhiệm mượt mà, chơi game nặng không giật lag. Hệ thống camera sau gồm cảm biến chính 108MP, camera góc siêu rộng 8MP và camera macro 2MP, hỗ trợ quay video 4K@30fps. Viên pin 5000mAh cùng công nghệ sạc nhanh 67W giúp sạc đầy chỉ trong khoảng 45 phút. Máy chạy hệ điều hành tuỳ biến trên nền Android mới nhất, cam kết cập nhật phần mềm 2 năm.",
-    "thumbUrl": "https://picsum.photos/seed/prod-101/400/400",
-    "detailUrl": "https://picsum.photos/seed/prod-101/800/800",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/dien-thoai-xelio-nova-x12-101.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/dien-thoai-xelio-nova-x12-101.webp",
     "gallery": [
-      "https://picsum.photos/seed/prod-101-a/800/800",
-      "https://picsum.photos/seed/prod-101-b/800/800",
-      "https://picsum.photos/seed/prod-101-c/800/800"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dien-thoai-xelio-nova-x12-101-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dien-thoai-xelio-nova-x12-101-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dien-thoai-xelio-nova-x12-101-c.webp"
     ],
     "specifications": {
       "Màn hình": "AMOLED 6.7 inch, 120Hz, độ phân giải FHD+",
@@ -55,6 +55,60 @@
     "createdAt": "2026-08-01T00:00:00.000Z"
   },
   {
+    "id": "prod-102",
+    "slug": "tai-nghe-chong-on-sonaro-pulse-q5-102",
+    "name": "Tai nghe chống ồn Sonaro Pulse Q5",
+    "categoryId": "cat-1",
+    "brand": "Sonaro",
+    "sku": "SNR-PQ5-BLK",
+    "price": 2490000,
+    "originalPrice": 2990000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Tai nghe Bluetooth chụp tai chống ồn chủ động ANC, driver 40mm, pin 40 giờ, sạc nhanh 10 phút dùng 5 giờ.",
+    "description": "Sonaro Pulse Q5 trang bị công nghệ chống ồn chủ động ANC với 4 micro, giảm tiếng ồn môi trường tới 35dB, phù hợp khi đi lại, làm việc ở quán cà phê hay văn phòng mở. Driver 40mm cho âm bass dày, dải trung rõ và âm treble sáng, hỗ trợ codec AAC và LDAC. Chế độ xuyên âm giúp nghe được xung quanh mà không cần tháo tai nghe. Pin dung lượng lớn cho thời gian nghe liên tục tới 40 giờ khi tắt ANC (30 giờ khi bật ANC), sạc nhanh 10 phút dùng thêm 5 giờ qua cổng USB-C. Tai nghe kết nối đồng thời 2 thiết bị, thiết kế gập gọn kèm hộp đựng cứng, đệm tai mút hoạt tính êm ái khi đeo lâu.",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/tai-nghe-chong-on-sonaro-pulse-q5-102.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/tai-nghe-chong-on-sonaro-pulse-q5-102.webp",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/tai-nghe-chong-on-sonaro-pulse-q5-102-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/tai-nghe-chong-on-sonaro-pulse-q5-102-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/tai-nghe-chong-on-sonaro-pulse-q5-102-c.webp"
+    ],
+    "specifications": {
+      "Kiểu tai nghe": "Chụp tai (over-ear), không dây",
+      "Chống ồn": "ANC chủ động 4 micro, chế độ xuyên âm",
+      "Driver": "40mm",
+      "Codec hỗ trợ": "SBC, AAC, LDAC",
+      "Thời lượng pin": "40 giờ (30 giờ khi bật ANC)",
+      "Sạc nhanh": "10 phút dùng 5 giờ",
+      "Cổng sạc": "USB-C",
+      "Kết nối": "Bluetooth 5.3, kết nối đồng thời 2 thiết bị",
+      "Chất liệu": "Khung nhựa PC, đệm tai mút hoạt tính bọc da PU",
+      "Màu sắc": "Đen Than, Xám Bạc, Xanh Navy"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 412
+    },
+    "stock": 96,
+    "soldCount": 980,
+    "weight": 254,
+    "dimensions": {
+      "length": 19.5,
+      "width": 16.8,
+      "height": 8.2
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12 tháng chính hãng, 1 đổi 1 trong 30 ngày đầu",
+    "tags": [
+      "tai nghe",
+      "chống ồn",
+      "bluetooth",
+      "ANC"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
+  },
+  {
     "id": "prod-201",
     "slug": "ao-polo-nam-everwear-classic-201",
     "name": "Áo Polo Nam Cotton Cao Cấp Everwear Classic",
@@ -67,11 +121,11 @@
     "unit": "cái",
     "shortDescription": "Áo polo nam vải cotton pha 95% cotton - 5% spandex, co giãn nhẹ, form regular fit, thấm hút mồ hôi tốt.",
     "description": "Áo Polo Everwear Classic được may từ vải cotton cao cấp pha 5% spandex tạo độ co giãn nhẹ, giúp người mặc thoải mái vận động cả ngày dài mà không bị bó sát khó chịu. Cổ áo bo 2 lớp giữ form không bị giãn sau nhiều lần giặt, đường may chần chỉ tỉ mỉ ở tay áo và gấu áo tăng độ bền. Thiết kế regular fit phù hợp nhiều dáng người, có thể phối cùng quần tây đi làm hoặc quần jeans mặc đi chơi. Vải có khả năng thấm hút mồ hôi và kháng khuẩn nhẹ, thích hợp sử dụng trong thời tiết nóng ẩm.",
-    "thumbUrl": "https://picsum.photos/seed/prod-201/400/400",
-    "detailUrl": "https://picsum.photos/seed/prod-201/800/800",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/thoi-trang/ao-polo-nam-everwear-classic-201.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/thoi-trang/ao-polo-nam-everwear-classic-201.webp",
     "gallery": [
-      "https://picsum.photos/seed/prod-201-a/800/800",
-      "https://picsum.photos/seed/prod-201-b/800/800"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/thoi-trang/ao-polo-nam-everwear-classic-201-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/thoi-trang/ao-polo-nam-everwear-classic-201-b.webp"
     ],
     "specifications": {
       "Chất liệu": "95% Cotton, 5% Spandex",
@@ -103,6 +157,54 @@
     "createdAt": "2026-08-01T00:00:00.000Z"
   },
   {
+    "id": "prod-202",
+    "slug": "quan-jeans-nam-denimo-slim-fit-202",
+    "name": "Quần Jeans Nam Slim Fit Denimo Stretch",
+    "categoryId": "cat-2",
+    "brand": "Denimo",
+    "sku": "DNM-JEAN-SLIM-M-BLU",
+    "price": 499000,
+    "originalPrice": 649000,
+    "discountPercent": 23,
+    "unit": "cái",
+    "shortDescription": "Quần jeans nam form slim fit, vải denim cotton pha 2% spandex co giãn nhẹ, màu xanh đậm dễ phối đồ.",
+    "description": "Quần jeans Denimo Stretch được may từ vải denim cotton pha 2% spandex, có độ co giãn nhẹ giúp thoải mái khi đi lại, ngồi làm việc hay vận động cả ngày. Form slim fit ôm vừa phải ở đùi và thon dần xuống ống, tôn dáng nhưng không gây bó sát khó chịu. Màu xanh đậm được xử lý wash nhẹ, ít phai màu sau nhiều lần giặt, dễ phối cùng áo thun, áo sơ mi hoặc áo polo. Đường may chắc chắn, khoá kéo và nút kim loại bền bỉ, túi sâu vừa vặn để đựng điện thoại và ví.",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/thoi-trang/quan-jeans-nam-denimo-slim-fit-202.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/thoi-trang/quan-jeans-nam-denimo-slim-fit-202.webp",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/thoi-trang/quan-jeans-nam-denimo-slim-fit-202-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/thoi-trang/quan-jeans-nam-denimo-slim-fit-202-b.webp"
+    ],
+    "specifications": {
+      "Chất liệu": "98% Cotton, 2% Spandex (denim co giãn nhẹ)",
+      "Kiểu dáng": "Slim fit, ống côn nhẹ",
+      "Kích cỡ có sẵn": "28, 29, 30, 31, 32, 34",
+      "Màu sắc": "Xanh Đậm, Xanh Than, Đen",
+      "Hướng dẫn bảo quản": "Giặt lộn trái, nước lạnh, không dùng chất tẩy mạnh",
+      "Xuất xứ vải": "Dệt tại Việt Nam"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 438
+    },
+    "stock": 380,
+    "soldCount": 2940,
+    "weight": 550,
+    "dimensions": {
+      "length": 35,
+      "width": 28,
+      "height": 4
+    },
+    "origin": "Việt Nam",
+    "warranty": "Đổi size miễn phí trong 15 ngày",
+    "tags": [
+      "quần jeans",
+      "thời trang nam",
+      "denim co giãn"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
+  },
+  {
     "id": "prod-301",
     "slug": "noi-chien-khong-dau-freshair-pro-301",
     "name": "Nồi Chiên Không Dầu FreshAir Pro 5.5L",
@@ -115,12 +217,12 @@
     "unit": "cái",
     "shortDescription": "Nồi chiên không dầu dung tích 5.5L, công suất 1500W, màn hình cảm ứng với 8 chế độ nấu lập trình sẵn.",
     "description": "FreshAir Pro 5.5L sử dụng công nghệ đối lưu không khí nóng giúp món ăn chín vàng giòn đều mà không cần hoặc dùng rất ít dầu ăn, giảm đến 85% lượng chất béo so với chiên ngập dầu truyền thống. Máy trang bị màn hình cảm ứng LED trực quan cùng 8 chế độ nấu lập trình sẵn (khoai tây chiên, gà, cá, bánh nướng, rau củ...), tự động điều chỉnh nhiệt độ và thời gian phù hợp. Khay chiên chống dính tháo rời dễ dàng vệ sinh, có thể rửa bằng máy rửa chén. Thiết kế nồi kép chống ồn, hoạt động êm ái, tự động ngắt khi hết thời gian nấu hoặc kéo khay ra ngoài để đảm bảo an toàn.",
-    "thumbUrl": "https://picsum.photos/seed/prod-301/400/400",
-    "detailUrl": "https://picsum.photos/seed/prod-301/800/800",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-chien-khong-dau-freshair-pro-301.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-chien-khong-dau-freshair-pro-301.webp",
     "gallery": [
-      "https://picsum.photos/seed/prod-301-a/800/800",
-      "https://picsum.photos/seed/prod-301-b/800/800",
-      "https://picsum.photos/seed/prod-301-c/800/800"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-freshair-pro-301-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-freshair-pro-301-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-freshair-pro-301-c.webp"
     ],
     "specifications": {
       "Dung tích": "5.5 lít",
@@ -154,6 +256,56 @@
     "createdAt": "2026-08-01T00:00:00.000Z"
   },
   {
+    "id": "prod-302",
+    "slug": "may-xay-sinh-to-blendmax-302",
+    "name": "Máy Xay Sinh Tố Đa Năng BlendMax 1.5L",
+    "categoryId": "cat-3",
+    "brand": "BlendMax",
+    "sku": "BM-BL15-800-WHT",
+    "price": 890000,
+    "originalPrice": 1190000,
+    "discountPercent": 25,
+    "unit": "cái",
+    "shortDescription": "Máy xay sinh tố cối thuỷ tinh 1.5L, công suất 800W, 6 lưỡi dao thép không gỉ, 3 tốc độ và chế độ xay đá.",
+    "description": "BlendMax 1.5L trang bị động cơ 800W mạnh mẽ cùng bộ 6 lưỡi dao thép không gỉ, xay nhuyễn trái cây, rau củ, xay đá và chế biến sinh tố chỉ trong khoảng 40 giây. Cối thuỷ tinh chịu nhiệt dung tích 1.5 lít không bám mùi, không ố màu, có vạch chia dung tích dễ quan sát. Máy có 3 tốc độ cùng nút xung (pulse) giúp kiểm soát độ mịn theo ý muốn. Đế máy có chân cao su chống trượt, nắp cối kín kèm cốc đong nhỏ hạn chế bắn tràn, và tính năng tự ngắt khi quá tải hoặc nóng máy để đảm bảo an toàn khi sử dụng.",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-xay-sinh-to-blendmax-302.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-xay-sinh-to-blendmax-302.webp",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-blendmax-302-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-blendmax-302-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-blendmax-302-c.webp"
+    ],
+    "specifications": {
+      "Dung tích cối": "1.5 lít, thuỷ tinh chịu nhiệt",
+      "Công suất": "800W",
+      "Điện áp": "220V, 50Hz",
+      "Số tốc độ": "3 tốc độ + nút xung (pulse)",
+      "Lưỡi dao": "6 lưỡi thép không gỉ",
+      "Tính năng an toàn": "Tự ngắt khi quá tải, chân đế chống trượt",
+      "Kích thước sản phẩm": "22 x 20 x 42 cm"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 534
+    },
+    "stock": 88,
+    "soldCount": 1430,
+    "weight": 3800,
+    "dimensions": {
+      "length": 22,
+      "width": 20,
+      "height": 42
+    },
+    "origin": "Trung Quốc (thương hiệu Việt Nam phân phối)",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "máy xay sinh tố",
+      "gia dụng nhà bếp",
+      "xay đá"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
+  },
+  {
     "id": "prod-401",
     "slug": "so-tay-bia-da-notaro-a5-401",
     "name": "Sổ Tay Bìa Da PU Notaro A5 - 200 Trang",
@@ -166,11 +318,11 @@
     "unit": "cuốn",
     "shortDescription": "Sổ tay bìa da PU khổ A5, 200 trang giấy kem định lượng 80gsm, kèm dây đánh dấu trang và dây thun cài.",
     "description": "Sổ tay Notaro khổ A5 được bọc bìa da PU mềm mại, bo góc tinh tế, tạo cảm giác sang trọng khi cầm và ghi chép. Bên trong gồm 200 trang giấy kem định lượng 80gsm hạn chế lem mực khi dùng bút máy hoặc bút lông kim, kẻ dòng ngang rõ ràng dễ viết. Sổ được trang bị dây đánh dấu trang tiện lợi, dây thun cài giữ sổ luôn đóng gọn gàng, cùng túi đựng nhỏ ở bìa sau để kẹp danh thiếp hoặc giấy tờ rời. Thiết kế gáy sổ khâu chỉ chắc chắn, có thể mở phẳng 180 độ thuận tiện khi ghi chép.",
-    "thumbUrl": "https://picsum.photos/seed/prod-401/400/400",
-    "detailUrl": "https://picsum.photos/seed/prod-401/800/800",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/sach-van-phong-pham/so-tay-bia-da-notaro-a5-401.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/sach-van-phong-pham/so-tay-bia-da-notaro-a5-401.webp",
     "gallery": [
-      "https://picsum.photos/seed/prod-401-a/800/800",
-      "https://picsum.photos/seed/prod-401-b/800/800"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/so-tay-bia-da-notaro-a5-401-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/so-tay-bia-da-notaro-a5-401-b.webp"
     ],
     "specifications": {
       "Khổ giấy": "A5 (14.8 x 21cm)",
@@ -203,6 +355,54 @@
     "createdAt": "2026-08-01T00:00:00.000Z"
   },
   {
+    "id": "prod-402",
+    "slug": "but-gel-writely-hop-12-402",
+    "name": "Bút Gel Mực Đen Writely 0.5mm - Hộp 12 Cây",
+    "categoryId": "cat-4",
+    "brand": "Writely",
+    "sku": "WRT-GEL-05-BLK-12",
+    "price": 99000,
+    "originalPrice": 125000,
+    "discountPercent": 21,
+    "unit": "hộp",
+    "shortDescription": "Hộp 12 bút gel mực đen ngòi 0.5mm, mực ra đều, khô nhanh, thân bút cầm êm tay, phù hợp học tập và văn phòng.",
+    "description": "Bút gel Writely ngòi bi 0.5mm cho nét chữ mảnh, đều và sắc nét, viết trơn tru không bị đứt nét hay vón cục mực. Mực gel đen đậm khô nhanh, hạn chế lem khi viết bằng tay trái hoặc ghi chép nhanh. Thân bút nhựa trong có phần cầm cao su mềm giúp cầm êm tay, giảm mỏi khi viết trong thời gian dài. Nắp bút có kẹp chắc chắn, dễ dàng cài vào túi áo hoặc sổ tay. Mỗi hộp gồm 12 cây, tiện lợi cho học sinh, sinh viên và văn phòng dùng chung.",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/sach-van-phong-pham/but-gel-writely-hop-12-402.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/sach-van-phong-pham/but-gel-writely-hop-12-402.webp",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/but-gel-writely-hop-12-402-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/but-gel-writely-hop-12-402-b.webp"
+    ],
+    "specifications": {
+      "Loại bút": "Bút gel có nắp",
+      "Cỡ ngòi": "0.5mm",
+      "Màu mực": "Đen",
+      "Số lượng": "12 cây / hộp",
+      "Chất liệu thân bút": "Nhựa trong, phần cầm cao su mềm",
+      "Chiều dài nét viết": "Khoảng 500m mỗi cây"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 418
+    },
+    "stock": 460,
+    "soldCount": 2890,
+    "weight": 150,
+    "dimensions": {
+      "length": 17,
+      "width": 9,
+      "height": 2.5
+    },
+    "origin": "Việt Nam",
+    "warranty": "Đổi trả trong 7 ngày nếu lỗi sản xuất",
+    "tags": [
+      "bút gel",
+      "văn phòng phẩm",
+      "bút mực đen"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
+  },
+  {
     "id": "prod-501",
     "slug": "ca-phe-rang-xay-cao-nguyen-gold-501",
     "name": "Cà Phê Rang Xay Nguyên Chất Cao Nguyên Gold 500g",
@@ -215,11 +415,11 @@
     "unit": "gói",
     "shortDescription": "Cà phê Robusta rang mộc nguyên chất 100%, xay sẵn, đóng gói 500g, hương thơm đậm đà vị đắng nhẹ hậu ngọt.",
     "description": "Cà Phê Cao Nguyên Gold được tuyển chọn từ hạt Robusta trồng tại vùng cao nguyên, rang mộc theo phương pháp truyền thống không tẩm phụ gia, giữ trọn hương thơm tự nhiên và vị đắng đặc trưng hậu ngọt dịu nơi cổ họng. Hạt cà phê sau khi rang được xay vừa, phù hợp pha phin kiểu Việt Nam truyền thống, cho ra ly cà phê đậm đà, sánh mịn. Sản phẩm đóng gói trong túi zipper có van thoát khí một chiều, giữ hương vị tươi mới lâu dài, thuận tiện đóng mở nhiều lần mà không lo ẩm mốc.",
-    "thumbUrl": "https://picsum.photos/seed/prod-501/400/400",
-    "detailUrl": "https://picsum.photos/seed/prod-501/800/800",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/thuc-pham-do-uong/ca-phe-rang-xay-cao-nguyen-gold-501.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/thuc-pham-do-uong/ca-phe-rang-xay-cao-nguyen-gold-501.webp",
     "gallery": [
-      "https://picsum.photos/seed/prod-501-a/800/800",
-      "https://picsum.photos/seed/prod-501-b/800/800"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/thuc-pham-do-uong/ca-phe-rang-xay-cao-nguyen-gold-501-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/thuc-pham-do-uong/ca-phe-rang-xay-cao-nguyen-gold-501-b.webp"
     ],
     "specifications": {
       "Thành phần": "100% cà phê Robusta rang xay nguyên chất",
@@ -252,6 +452,54 @@
     "createdAt": "2026-08-01T00:00:00.000Z"
   },
   {
+    "id": "prod-502",
+    "slug": "tra-o-long-tui-loc-tealeaf-502",
+    "name": "Trà Ô Long Túi Lọc TeaLeaf Premium - Hộp 50 Gói",
+    "categoryId": "cat-5",
+    "brand": "TeaLeaf",
+    "sku": "TL-OOLONG-50",
+    "price": 89000,
+    "originalPrice": 110000,
+    "discountPercent": 19,
+    "unit": "hộp",
+    "shortDescription": "Trà ô long túi lọc từ búp trà cao nguyên, hộp 50 gói, hương thơm nhẹ, vị chát dịu hậu ngọt.",
+    "description": "Trà ô long TeaLeaf Premium được làm từ búp trà non trồng tại vùng cao nguyên, qua công đoạn sao và vò thủ công cho hương thơm dịu nhẹ, vị chát thanh và hậu ngọt kéo dài. Trà được đóng thành túi lọc tiện lợi, chỉ cần hãm với nước nóng khoảng 90°C trong 3-5 phút là có ngay một tách trà thơm ngon, phù hợp dùng tại nhà, văn phòng hoặc mang đi du lịch. Mỗi gói được bọc kín riêng trong túi giấy bạc giúp giữ hương vị tươi mới. Trà không chứa hương liệu hay chất bảo quản, có thể pha nóng hoặc ủ lạnh đều ngon.",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/thuc-pham-do-uong/tra-o-long-tui-loc-tealeaf-502.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/thuc-pham-do-uong/tra-o-long-tui-loc-tealeaf-502.webp",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/thuc-pham-do-uong/tra-o-long-tui-loc-tealeaf-502-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/thuc-pham-do-uong/tra-o-long-tui-loc-tealeaf-502-b.webp"
+    ],
+    "specifications": {
+      "Thành phần": "100% trà ô long",
+      "Khối lượng tịnh": "100g (50 gói x 2g)",
+      "Cách pha": "Hãm với nước 90°C trong 3-5 phút",
+      "Hạn sử dụng": "24 tháng kể từ ngày sản xuất",
+      "Bảo quản": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp",
+      "Đóng gói": "Hộp giấy, mỗi gói bọc túi giấy bạc riêng"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 356
+    },
+    "stock": 420,
+    "soldCount": 2670,
+    "weight": 180,
+    "dimensions": {
+      "length": 18,
+      "width": 9,
+      "height": 8
+    },
+    "origin": "Việt Nam (Lâm Đồng)",
+    "warranty": "Đổi trả nếu sản phẩm lỗi/hết hạn khi nhận hàng",
+    "tags": [
+      "trà ô long",
+      "trà túi lọc",
+      "đồ uống"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
+  },
+  {
     "id": "prod-601",
     "slug": "kem-duong-am-derma-pure-601",
     "name": "Kem Dưỡng Ẩm Ban Đêm DermaPure Hyaluronic 50ml",
@@ -264,11 +512,11 @@
     "unit": "hũ",
     "shortDescription": "Kem dưỡng ẩm ban đêm chứa Hyaluronic Acid và Niacinamide, phục hồi và cấp ẩm sâu cho da khô, thiếu nước.",
     "description": "Kem dưỡng ẩm ban đêm DermaPure kết hợp Hyaluronic Acid phân tử thấp và Niacinamide 5%, thẩm thấu nhanh vào các lớp biểu bì giúp cấp ẩm sâu, làm dịu da và hỗ trợ củng cố hàng rào bảo vệ da tự nhiên trong khi ngủ. Kết cấu kem mỏng nhẹ, không gây bí da hay nhờn rít, phù hợp cho cả da khô lẫn da hỗn hợp. Sử dụng đều đặn giúp cải thiện tình trạng da xỉn màu, khô ráp, mang lại làn da căng mọng, đều màu hơn sau 2-4 tuần sử dụng. Sản phẩm đã được kiểm nghiệm da liễu, không chứa Paraben và hương liệu gây kích ứng.",
-    "thumbUrl": "https://picsum.photos/seed/prod-601/400/400",
-    "detailUrl": "https://picsum.photos/seed/prod-601/800/800",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/my-pham-cham-soc-ca-nhan/kem-duong-am-derma-pure-601.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/my-pham-cham-soc-ca-nhan/kem-duong-am-derma-pure-601.webp",
     "gallery": [
-      "https://picsum.photos/seed/prod-601-a/800/800",
-      "https://picsum.photos/seed/prod-601-b/800/800"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/kem-duong-am-derma-pure-601-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/kem-duong-am-derma-pure-601-b.webp"
     ],
     "specifications": {
       "Dung tích": "50ml",
@@ -301,6 +549,55 @@
     "createdAt": "2026-08-01T00:00:00.000Z"
   },
   {
+    "id": "prod-602",
+    "slug": "kem-chong-nang-sunguard-602",
+    "name": "Kem Chống Nắng Dịu Nhẹ SunGuard SPF50+ PA++++ 50ml",
+    "categoryId": "cat-6",
+    "brand": "SunGuard",
+    "sku": "SG-SUN-SPF50-50",
+    "price": 265000,
+    "originalPrice": 320000,
+    "discountPercent": 17,
+    "unit": "tuýp",
+    "shortDescription": "Kem chống nắng vật lý lai hoá học SPF50+ PA++++, kết cấu mỏng nhẹ, không bết dính, không để lại vệt trắng.",
+    "description": "Kem chống nắng SunGuard SPF50+ PA++++ bảo vệ da hiệu quả trước tia UVA và UVB, phù hợp sử dụng hằng ngày cũng như khi hoạt động ngoài trời. Công thức lai giữa màng lọc vật lý và hoá học cho kết cấu mỏng nhẹ, thẩm thấu nhanh, không bết dính và không để lại vệt trắng trên da. Thành phần chiết xuất trà xanh và Panthenol giúp làm dịu da, hạn chế khô căng sau khi thoa. Sản phẩm không chứa cồn và hương liệu gây kích ứng, có thể dùng làm lớp lót trước khi trang điểm. Khuyến nghị thoa lại sau mỗi 2-3 giờ khi tiếp xúc trực tiếp với ánh nắng.",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/my-pham-cham-soc-ca-nhan/kem-chong-nang-sunguard-602.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/my-pham-cham-soc-ca-nhan/kem-chong-nang-sunguard-602.webp",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/kem-chong-nang-sunguard-602-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/kem-chong-nang-sunguard-602-b.webp"
+    ],
+    "specifications": {
+      "Dung tích": "50ml",
+      "Chỉ số chống nắng": "SPF50+ / PA++++",
+      "Thành phần nổi bật": "Chiết xuất trà xanh, Panthenol",
+      "Loại da phù hợp": "Mọi loại da, kể cả da nhạy cảm",
+      "Xuất xứ": "Nhật Bản",
+      "Hạn sử dụng": "36 tháng kể từ ngày sản xuất",
+      "Hướng dẫn sử dụng": "Thoa đều lên mặt và cổ trước khi ra nắng 15-20 phút"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1120
+    },
+    "stock": 305,
+    "soldCount": 6480,
+    "weight": 85,
+    "dimensions": {
+      "length": 14,
+      "width": 4.5,
+      "height": 2.5
+    },
+    "origin": "Nhật Bản",
+    "warranty": "Đổi trả trong 7 ngày nếu chưa mở seal",
+    "tags": [
+      "mỹ phẩm",
+      "kem chống nắng",
+      "chăm sóc da mặt"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
+  },
+  {
     "id": "prod-701",
     "slug": "do-choi-xep-hinh-go-kidblocks-701",
     "name": "Bộ Đồ Chơi Xếp Hình Gỗ An Toàn KidBlocks 50 Chi Tiết",
@@ -313,12 +610,12 @@
     "unit": "bộ",
     "shortDescription": "Bộ xếp hình gỗ tự nhiên 50 chi tiết nhiều màu sắc, cạnh bo tròn an toàn, giúp bé phát triển tư duy không gian.",
     "description": "Bộ đồ chơi xếp hình KidBlocks gồm 50 khối gỗ tự nhiên với nhiều hình dạng và màu sắc khác nhau, giúp bé rèn luyện khả năng nhận biết hình khối, màu sắc và phát triển tư duy không gian, sự khéo léo của đôi tay ngay từ nhỏ. Tất cả các khối gỗ đều được mài nhẵn, bo tròn cạnh, sơn bằng màu gốc nước an toàn không chứa chì, không mùi hắc, đảm bảo an toàn khi bé ngậm hoặc cầm nắm. Sản phẩm đi kèm hộp đựng gỗ tiện lợi, giúp bé rèn thói quen tự dọn dẹp đồ chơi sau khi chơi xong.",
-    "thumbUrl": "https://picsum.photos/seed/prod-701/400/400",
-    "detailUrl": "https://picsum.photos/seed/prod-701/800/800",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/do-choi-xep-hinh-go-kidblocks-701.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/do-choi-xep-hinh-go-kidblocks-701.webp",
     "gallery": [
-      "https://picsum.photos/seed/prod-701-a/800/800",
-      "https://picsum.photos/seed/prod-701-b/800/800",
-      "https://picsum.photos/seed/prod-701-c/800/800"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-xep-hinh-go-kidblocks-701-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-xep-hinh-go-kidblocks-701-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-xep-hinh-go-kidblocks-701-c.webp"
     ],
     "specifications": {
       "Số lượng chi tiết": "50 khối",
@@ -350,6 +647,55 @@
     "createdAt": "2026-08-01T00:00:00.000Z"
   },
   {
+    "id": "prod-702",
+    "slug": "binh-sua-co-rong-babycare-702",
+    "name": "Bình Sữa Cổ Rộng Chống Đầy Hơi BabyCare PPSU 240ml",
+    "categoryId": "cat-7",
+    "brand": "BabyCare",
+    "sku": "BC-BOTTLE-PPSU-240",
+    "price": 189000,
+    "originalPrice": 229000,
+    "discountPercent": 17,
+    "unit": "cái",
+    "shortDescription": "Bình sữa cổ rộng chất liệu nhựa PPSU cao cấp 240ml, núm ti silicone mềm, van chống đầy hơi, chịu nhiệt tới 180°C.",
+    "description": "Bình sữa BabyCare được làm từ nhựa PPSU cao cấp, không chứa BPA, chịu nhiệt tốt và bền bỉ, có thể tiệt trùng bằng nước sôi hoặc máy tiệt trùng nhiều lần mà không biến dạng, ố vàng. Núm ti silicone y tế mềm mại mô phỏng cảm giác bú mẹ, giúp bé dễ dàng chuyển đổi giữa bú mẹ và bú bình. Van thông khí chống đầy hơi ở đáy núm ti giúp giảm nguy cơ bé bị nuốt khí, ợ hơi hay trớ sữa sau khi bú. Miệng bình cổ rộng thuận tiện cho việc pha sữa và vệ sinh, thân bình có vạch chia dung tích rõ ràng, bề mặt nhám giúp mẹ cầm chắc tay.",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/binh-sua-co-rong-babycare-702.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/binh-sua-co-rong-babycare-702.webp",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-co-rong-babycare-702-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-co-rong-babycare-702-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-co-rong-babycare-702-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "240ml",
+      "Chất liệu bình": "Nhựa PPSU, không chứa BPA",
+      "Chất liệu núm ti": "Silicone y tế, size M (3 tháng trở lên)",
+      "Tính năng": "Van chống đầy hơi, cổ rộng",
+      "Khả năng chịu nhiệt": "Tới 180°C, tiệt trùng được",
+      "Xuất xứ": "Thái Lan"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 376
+    },
+    "stock": 232,
+    "soldCount": 2260,
+    "weight": 180,
+    "dimensions": {
+      "length": 7,
+      "width": 7,
+      "height": 16
+    },
+    "origin": "Thái Lan",
+    "warranty": "Đổi trả trong 15 ngày nếu lỗi sản xuất",
+    "tags": [
+      "bình sữa",
+      "PPSU",
+      "cho bé"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
+  },
+  {
     "id": "prod-801",
     "slug": "balo-leo-nui-trekpro-40l-801",
     "name": "Balo Leo Núi Chống Nước TrekPro 40L",
@@ -362,11 +708,11 @@
     "unit": "cái",
     "shortDescription": "Balo leo núi/dã ngoại dung tích 40L, vải chống nước, khung nâng đỡ lưng thoáng khí, nhiều ngăn chức năng.",
     "description": "Balo TrekPro 40L được thiết kế dành riêng cho các chuyến leo núi, trekking dài ngày với dung tích lớn 40 lít cùng nhiều ngăn chia hợp lý cho quần áo, đồ ăn, dụng cụ cắm trại. Chất liệu vải Polyester phủ lớp chống nước chống bám bụi, kèm áo mưa trùm balo đi kèm giúp bảo vệ đồ đạc trong điều kiện thời tiết xấu. Hệ khung xương nhôm nhẹ kết hợp đệm lưng lưới thoáng khí giúp phân bổ trọng lượng đều, giảm áp lực lên vai và cột sống khi mang vác nặng trong thời gian dài. Balo có dây đai hông và dây đai ngực có thể điều chỉnh, cùng nhiều điểm móc ngoài để gắn thêm gậy leo núi, bình nước.",
-    "thumbUrl": "https://picsum.photos/seed/prod-801/400/400",
-    "detailUrl": "https://picsum.photos/seed/prod-801/800/800",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/balo-leo-nui-trekpro-40l-801.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/balo-leo-nui-trekpro-40l-801.webp",
     "gallery": [
-      "https://picsum.photos/seed/prod-801-a/800/800",
-      "https://picsum.photos/seed/prod-801-b/800/800"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/balo-leo-nui-trekpro-40l-801-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/balo-leo-nui-trekpro-40l-801-b.webp"
     ],
     "specifications": {
       "Dung tích": "40 lít",
@@ -399,6 +745,55 @@
     "createdAt": "2026-08-01T00:00:00.000Z"
   },
   {
+    "id": "prod-802",
+    "slug": "tham-tap-yoga-flexfit-802",
+    "name": "Thảm Tập Yoga TPE 2 Lớp Chống Trượt FlexFit 6mm",
+    "categoryId": "cat-8",
+    "brand": "FlexFit",
+    "sku": "FF-YOGA-TPE-6MM-PUR",
+    "price": 329000,
+    "originalPrice": 429000,
+    "discountPercent": 23,
+    "unit": "tấm",
+    "shortDescription": "Thảm tập yoga chất liệu TPE 2 lớp dày 6mm, bề mặt chống trượt, đàn hồi tốt, kèm dây đeo và túi đựng.",
+    "description": "Thảm yoga FlexFit làm từ chất liệu TPE thân thiện môi trường, không chứa PVC và không mùi khó chịu, an toàn cho da khi tiếp xúc lâu. Cấu tạo 2 lớp với độ dày 6mm giúp giảm áp lực lên khớp gối, khuỷu tay và cột sống khi tập các tư thế yoga, pilates hoặc các bài tập thể dục tại nhà. Bề mặt có vân chống trượt tốt cả khi tay chân ra mồ hôi, đồng thời độ đàn hồi cao giúp thảm nhanh phục hồi sau khi gập cuộn. Sản phẩm đi kèm dây đeo và túi đựng, thuận tiện mang theo đến phòng tập hoặc công viên.",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/tham-tap-yoga-flexfit-802.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/tham-tap-yoga-flexfit-802.webp",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-tap-yoga-flexfit-802-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-tap-yoga-flexfit-802-b.webp"
+    ],
+    "specifications": {
+      "Chất liệu": "TPE 2 lớp, không chứa PVC",
+      "Độ dày": "6mm",
+      "Kích thước": "183 x 61 cm",
+      "Bề mặt": "Vân chống trượt",
+      "Phụ kiện kèm theo": "Dây đeo, túi đựng",
+      "Trọng lượng": "Khoảng 0.9 kg",
+      "Màu sắc": "Tím Lavender, Xanh Mint, Xám"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 297
+    },
+    "stock": 174,
+    "soldCount": 1350,
+    "weight": 900,
+    "dimensions": {
+      "length": 183,
+      "width": 61,
+      "height": 0.6
+    },
+    "origin": "Việt Nam",
+    "warranty": "Đổi trả trong 15 ngày nếu lỗi sản xuất",
+    "tags": [
+      "thảm yoga",
+      "tập luyện tại nhà",
+      "TPE"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
+  },
+  {
     "id": "prod-901",
     "slug": "den-ban-hoc-lumidesk-pro-901",
     "name": "Đèn Bàn Học LED Chống Cận LumiDesk Pro",
@@ -411,11 +806,11 @@
     "unit": "cái",
     "shortDescription": "Đèn bàn LED chống cận, 5 mức độ sáng, 3 tông màu ánh sáng, cổng sạc USB tích hợp, tay đèn gập linh hoạt.",
     "description": "Đèn bàn LumiDesk Pro sử dụng công nghệ LED chống nhấp nháy, ánh sáng dịu mắt đạt chuẩn chống cận, phù hợp cho học sinh, sinh viên và dân văn phòng làm việc trong thời gian dài. Đèn có 5 mức độ sáng và 3 tông màu ánh sáng (trắng, trung tính, vàng ấm) có thể tuỳ chỉnh theo nhu cầu sử dụng ban ngày hoặc buổi tối. Tay đèn được thiết kế gập xoay linh hoạt nhiều khớp, dễ dàng điều chỉnh góc chiếu sáng phù hợp. Đế đèn tích hợp cổng sạc USB tiện lợi để sạc điện thoại, cùng cảm ứng chạm nhẹ để bật/tắt và điều chỉnh độ sáng.",
-    "thumbUrl": "https://picsum.photos/seed/prod-901/400/400",
-    "detailUrl": "https://picsum.photos/seed/prod-901/800/800",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/den-ban-hoc-lumidesk-pro-901.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/den-ban-hoc-lumidesk-pro-901.webp",
     "gallery": [
-      "https://picsum.photos/seed/prod-901-a/800/800",
-      "https://picsum.photos/seed/prod-901-b/800/800"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/den-ban-hoc-lumidesk-pro-901-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/den-ban-hoc-lumidesk-pro-901-b.webp"
     ],
     "specifications": {
       "Công suất": "10W",
@@ -448,6 +843,55 @@
     "createdAt": "2026-08-01T00:00:00.000Z"
   },
   {
+    "id": "prod-902",
+    "slug": "ke-sach-go-5-tang-woodly-902",
+    "name": "Kệ Sách Gỗ 5 Tầng Woodly Nordic 150cm",
+    "categoryId": "cat-9",
+    "brand": "Woodly",
+    "sku": "WD-SHELF-5T-OAK",
+    "price": 1290000,
+    "originalPrice": 1690000,
+    "discountPercent": 24,
+    "unit": "cái",
+    "shortDescription": "Kệ sách 5 tầng phong cách Bắc Âu, gỗ MDF phủ melamine chống ẩm, khung thép sơn tĩnh điện, dễ lắp ráp.",
+    "description": "Kệ sách Woodly Nordic 5 tầng có thiết kế tối giản theo phong cách Bắc Âu, phù hợp đặt trong phòng khách, phòng làm việc hay phòng ngủ. Mặt kệ làm từ gỗ MDF phủ melamine chống ẩm, chống trầy xước, kết hợp khung thép sơn tĩnh điện chắc chắn, chịu tải tốt. Mỗi tầng chịu được khoảng 15kg, đủ để chứa sách, hộp đựng và đồ trang trí. Sản phẩm được đóng gói phẳng kèm đầy đủ phụ kiện và hướng dẫn lắp ráp, một người có thể tự lắp trong khoảng 30 phút. Chân kệ có nút cao su điều chỉnh giúp kệ đứng vững trên nền không bằng phẳng.",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/ke-sach-go-5-tang-woodly-902.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/ke-sach-go-5-tang-woodly-902.webp",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ke-sach-go-5-tang-woodly-902-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ke-sach-go-5-tang-woodly-902-b.webp"
+    ],
+    "specifications": {
+      "Số tầng": "5 tầng",
+      "Chất liệu mặt kệ": "Gỗ MDF phủ melamine chống ẩm",
+      "Chất liệu khung": "Thép sơn tĩnh điện",
+      "Tải trọng mỗi tầng": "15kg",
+      "Kích thước": "60 x 28 x 150 cm",
+      "Màu sắc": "Vân Sồi Sáng, Vân Óc Chó",
+      "Lắp ráp": "Tự lắp, kèm đầy đủ phụ kiện"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 187
+    },
+    "stock": 64,
+    "soldCount": 520,
+    "weight": 14500,
+    "dimensions": {
+      "length": 60,
+      "width": 28,
+      "height": 150
+    },
+    "origin": "Việt Nam",
+    "warranty": "12 tháng cho khung và kết cấu",
+    "tags": [
+      "kệ sách",
+      "nội thất",
+      "phong cách Bắc Âu"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
+  },
+  {
     "id": "prod-1001",
     "slug": "thuc-an-cho-cho-petnova-3kg-1001",
     "name": "Thức Ăn Hạt Cho Chó Trưởng Thành PetNova Chicken & Rice 3kg",
@@ -460,11 +904,11 @@
     "unit": "bao",
     "shortDescription": "Thức ăn hạt khô cho chó trưởng thành mọi kích cỡ, thành phần chính từ thịt gà và gạo, bổ sung Omega 3-6.",
     "description": "Thức ăn hạt PetNova Chicken & Rice được nghiên cứu dành riêng cho chó trưởng thành với thành phần chính từ thịt gà tươi và gạo dễ tiêu hoá, cung cấp nguồn đạm và năng lượng cân đối cho hoạt động hàng ngày. Công thức bổ sung Omega 3-6 giúp lông mượt, da khoẻ mạnh, cùng các loại vitamin và khoáng chất thiết yếu hỗ trợ hệ miễn dịch và tiêu hoá. Hạt thức ăn được thiết kế kích thước vừa phải, giúp làm sạch mảng bám răng tự nhiên khi chó nhai. Bao bì có khoá zip tiện lợi, giữ thức ăn luôn tươi giòn sau khi mở.",
-    "thumbUrl": "https://picsum.photos/seed/prod-1001/400/400",
-    "detailUrl": "https://picsum.photos/seed/prod-1001/800/800",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/thuc-an-cho-cho-petnova-3kg-1001.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/thuc-an-cho-cho-petnova-3kg-1001.webp",
     "gallery": [
-      "https://picsum.photos/seed/prod-1001-a/800/800",
-      "https://picsum.photos/seed/prod-1001-b/800/800"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-cho-cho-petnova-3kg-1001-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-cho-cho-petnova-3kg-1001-b.webp"
     ],
     "specifications": {
       "Khối lượng tịnh": "3kg",
@@ -493,6 +937,55 @@
       "thức ăn cho chó",
       "thú cưng",
       "hạt khô"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1002",
+    "slug": "cat-ve-sinh-meo-catfresh-1002",
+    "name": "Cát Vệ Sinh Cho Mèo Đậu Nành CatFresh 6L",
+    "categoryId": "cat-10",
+    "brand": "CatFresh",
+    "sku": "CF-LITTER-SOY-6L",
+    "price": 135000,
+    "originalPrice": 165000,
+    "discountPercent": 18,
+    "unit": "túi",
+    "shortDescription": "Cát vệ sinh cho mèo từ bã đậu nành tự nhiên, vón cục nhanh, khử mùi tốt, ít bụi, có thể xả bồn cầu.",
+    "description": "Cát vệ sinh CatFresh được làm từ bã đậu nành tự nhiên, vón cục nhanh chỉ trong vài giây khi tiếp xúc nước tiểu, giúp dễ dàng xúc bỏ và giữ khay cát luôn sạch sẽ. Công thức khử mùi hiệu quả kết hợp hương trà xanh nhẹ, hạn chế mùi hôi trong nhà. Hạt cát mềm, kích thước vừa phải, ít bụi và không gây kích ứng cho móng chân và đường hô hấp của mèo. Sản phẩm có khả năng phân huỷ sinh học, có thể xả trực tiếp xuống bồn cầu với lượng nhỏ. Túi 6 lít có khoá zip tiện lợi, dùng được cho mèo mọi lứa tuổi.",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/cat-ve-sinh-meo-catfresh-1002.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/cat-ve-sinh-meo-catfresh-1002.webp",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/cat-ve-sinh-meo-catfresh-1002-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/cat-ve-sinh-meo-catfresh-1002-b.webp"
+    ],
+    "specifications": {
+      "Dung tích": "6 lít (khoảng 2.5kg)",
+      "Thành phần chính": "Bã đậu nành tự nhiên",
+      "Khả năng vón cục": "Vón nhanh, dễ xúc",
+      "Mùi hương": "Trà xanh nhẹ",
+      "Đối tượng sử dụng": "Mèo mọi lứa tuổi",
+      "Bảo quản": "Nơi khô ráo, đóng kín sau khi dùng",
+      "Xuất xứ": "Việt Nam"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 589
+    },
+    "stock": 318,
+    "soldCount": 3560,
+    "weight": 2600,
+    "dimensions": {
+      "length": 35,
+      "width": 22,
+      "height": 12
+    },
+    "origin": "Việt Nam",
+    "warranty": "Đổi trả nếu bao bì hư hỏng/hết hạn khi nhận hàng",
+    "tags": [
+      "cát vệ sinh mèo",
+      "thú cưng",
+      "cát đậu nành"
     ],
     "createdAt": "2026-08-01T00:00:00.000Z"
   }

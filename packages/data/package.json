@@ -7,7 +7,10 @@
     "merge": "node scripts/merge.mjs",
     "process-images": "node scripts/process-images.mjs",
     "upload-r2": "node scripts/upload-r2.mjs",
-    "update-urls": "node scripts/update-urls.mjs"
+    "update-urls": "node scripts/update-urls.mjs",
+    "sync": "pnpm process-images && pnpm upload-r2 && pnpm update-urls && pnpm merge",
+    "sync:images": "pnpm process-images && pnpm upload-r2",
+    "sync:data": "pnpm update-urls && pnpm merge"
   },
   "devDependencies": {
     "@aws-sdk/client-s3": "^3.1136.0",
