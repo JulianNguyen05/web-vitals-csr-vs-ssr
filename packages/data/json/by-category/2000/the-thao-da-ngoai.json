@@ -1,51 +1,4832 @@
 [
   {
-    "id": "prod-801",
-    "slug": "balo-leo-nui-trekpro-40l-801",
-    "name": "Balo Leo Núi Chống Nước TrekPro 40L",
-    "categoryId": "cat-8",
-    "brand": "TrekPro",
-    "sku": "TP-BAG-40L-GRN",
-    "price": 890000,
-    "originalPrice": 1190000,
-    "discountPercent": 25,
-    "unit": "cái",
-    "shortDescription": "Balo leo núi/dã ngoại dung tích 40L, vải chống nước, khung nâng đỡ lưng thoáng khí, nhiều ngăn chức năng.",
-    "description": "Balo TrekPro 40L được thiết kế dành riêng cho các chuyến leo núi, trekking dài ngày với dung tích lớn 40 lít cùng nhiều ngăn chia hợp lý cho quần áo, đồ ăn, dụng cụ cắm trại. Chất liệu vải Polyester phủ lớp chống nước chống bám bụi, kèm áo mưa trùm balo đi kèm giúp bảo vệ đồ đạc trong điều kiện thời tiết xấu. Hệ khung xương nhôm nhẹ kết hợp đệm lưng lưới thoáng khí giúp phân bổ trọng lượng đều, giảm áp lực lên vai và cột sống khi mang vác nặng trong thời gian dài. Balo có dây đai hông và dây đai ngực có thể điều chỉnh, cùng nhiều điểm móc ngoài để gắn thêm gậy leo núi, bình nước.",
-    "thumbUrl": "https://picsum.photos/seed/prod-801/400/400",
-    "detailUrl": "https://picsum.photos/seed/prod-801/800/800",
+    "id": "prod-701",
+    "name": "Giày thể thao Puma chạy bộ",
+    "slug": "giay-the-thao-puma-chay-bo-701",
+    "price": 673000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-701/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-701/800/800",
+    "description": "Giày thể thao đệm êm giảm chấn. Upper thoáng khí. Đế bám tốt. Phù hợp chạy bộ tập gym hoặc mang hàng ngày. Nhiều size màu.",
+    "brand": "Adidas",
+    "sku": "ADI-0701-ĐÔI",
+    "originalPrice": 814000,
+    "discountPercent": 17,
+    "unit": "đôi",
+    "shortDescription": "Giày thể thao đệm êm nhẹ thoáng khí nhiều mục đích.",
     "gallery": [
-      "https://picsum.photos/seed/prod-801-a/800/800",
-      "https://picsum.photos/seed/prod-801-b/800/800"
+      "https://picsum.photos/seed/prod-701-a/800/800",
+      "https://picsum.photos/seed/prod-701-b/800/800",
+      "https://picsum.photos/seed/prod-701-c/800/800"
     ],
     "specifications": {
-      "Dung tích": "40 lít",
-      "Chất liệu": "Polyester chống nước 600D",
-      "Khung lưng": "Khung nhôm, đệm lưới thoáng khí",
-      "Số ngăn chính": "3 ngăn lớn + 4 ngăn phụ",
-      "Phụ kiện kèm theo": "Áo mưa trùm balo",
-      "Trọng lượng balo": "1.4 kg",
-      "Màu sắc": "Xanh Rêu, Đen, Cam Đất"
+      "Loại": "Chạy / Training / Lifestyle",
+      "Đệm": "Êm",
+      "Upper": "Lưới / Dệt",
+      "Đế": "Cao su"
     },
     "rating": {
       "average": 4.7,
-      "count": 358
+      "count": 246
     },
-    "stock": 96,
-    "soldCount": 1120,
-    "weight": 1400,
+    "stock": 124,
+    "soldCount": 2072,
+    "weight": 341,
     "dimensions": {
-      "length": 65,
-      "width": 35,
-      "height": 25
+      "length": 28.1,
+      "width": 21.3,
+      "height": 12.3
     },
-    "origin": "Việt Nam",
-    "warranty": "12 tháng cho khung và khoá kéo",
+    "origin": "Việt Nam / Trung Quốc / Indonesia",
+    "warranty": "12 tháng chính hãng",
     "tags": [
-      "balo leo núi",
-      "dã ngoại",
-      "chống nước"
+      "giày thể thao",
+      "chạy bộ",
+      "thể thao",
+      "adidas"
     ],
-    "createdAt": "2026-08-01T00:00:00.000Z"
+    "createdAt": "2026-09-19T00:00:00.000Z"
+  },
+  {
+    "id": "prod-702",
+    "name": "Thảm yoga / Thảm tập Decathlon Mini",
+    "slug": "tham-yoga-tham-tap-decathlon-mini-702",
+    "price": 628000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-702/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-702/800/800",
+    "description": "Thảm yoga chất liệu TPE hoặc PVC cao cấp. Chống trượt tốt. Độ dày hỗ trợ khớp. Thân thiện môi trường. Kèm túi đựng.",
+    "brand": "Xiaomi",
+    "sku": "XIA-0702-CHI",
+    "originalPrice": 679000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Thảm yoga chống trượt dày hỗ trợ khớp thân thiện MT.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-702-a/800/800",
+      "https://picsum.photos/seed/prod-702-b/800/800",
+      "https://picsum.photos/seed/prod-702-c/800/800"
+    ],
+    "specifications": {
+      "Chất liệu": "TPE / PVC",
+      "Độ dày": "5-8mm",
+      "Chống trượt": "2 mặt",
+      "Kích thước": "183x61cm"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 585
+    },
+    "stock": 104,
+    "soldCount": 2752,
+    "weight": 2307,
+    "dimensions": {
+      "length": 179.2,
+      "width": 65.5,
+      "height": 0.8
+    },
+    "origin": "Trung Quốc / Mỹ / Pháp",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "thảm yoga",
+      "pilates",
+      "thể thao",
+      "xiaomi"
+    ],
+    "createdAt": "2026-07-23T00:00:00.000Z"
+  },
+  {
+    "id": "prod-703",
+    "name": "Bình nước thể thao Contigo 1L",
+    "slug": "binh-nuoc-the-thao-contigo-1l-703",
+    "price": 283000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-703/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-703/800/800",
+    "description": "Bình nước thể thao giữ nhiệt hoặc nhựa an toàn. Nắp tiện lợi một tay. Dung tích phù hợp tập luyện. Dễ vệ sinh.",
+    "brand": "Contigo",
+    "sku": "CON-0703-CHI",
+    "originalPrice": 309000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Bình nước thể thao giữ nhiệt hoặc nhựa BPA free.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-703-a/800/800",
+      "https://picsum.photos/seed/prod-703-b/800/800",
+      "https://picsum.photos/seed/prod-703-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "500ml-1L",
+      "Chất liệu": "Inox / Nhựa BPA free",
+      "Giữ nhiệt": "Có / Không",
+      "Nắp": "Bật / Hút"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 555
+    },
+    "stock": 145,
+    "soldCount": 835,
+    "weight": 265,
+    "dimensions": {
+      "length": 8.4,
+      "width": 7.4,
+      "height": 27.2
+    },
+    "origin": "Việt Nam / Trung Quốc / Mỹ",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "bình nước",
+      "thể thao",
+      "giữ nhiệt",
+      "contigo"
+    ],
+    "createdAt": "2026-08-20T00:00:00.000Z"
+  },
+  {
+    "id": "prod-704",
+    "name": "Áo thể thao Adidas",
+    "slug": "ao-the-thao-adidas-704",
+    "price": 834000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-704/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-704/800/800",
+    "description": "Áo thể thao công nghệ thấm hút thoát mồ hôi. Co giãn 4 chiều. Form vừa hoặc ôm. Phù hợp tập luyện mọi môn.",
+    "brand": "Decathlon",
+    "sku": "DEC-0704-CHI",
+    "originalPrice": 937000,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Áo thể thao thấm hút mồ hôi nhanh co giãn thoải mái.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-704-a/800/800",
+      "https://picsum.photos/seed/prod-704-b/800/800",
+      "https://picsum.photos/seed/prod-704-c/800/800"
+    ],
+    "specifications": {
+      "Chất liệu": "Polyester / Co giãn",
+      "Công nghệ": "Dry-fit / Climalite",
+      "Form": "Vừa / Ôm",
+      "Giới tính": "Nam / Nữ"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 685
+    },
+    "stock": 31,
+    "soldCount": 3547,
+    "weight": 221,
+    "dimensions": {
+      "length": 32.3,
+      "width": 22.5,
+      "height": 2.0
+    },
+    "origin": "Việt Nam / Trung Quốc / Bangladesh",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "áo thể thao",
+      "dry-fit",
+      "thể thao",
+      "decathlon"
+    ],
+    "createdAt": "2026-09-12T00:00:00.000Z"
+  },
+  {
+    "id": "prod-705",
+    "name": "Vợt cầu lông / Tennis Victor",
+    "slug": "vot-cau-long-tennis-victor-705",
+    "price": 2590000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-705/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-705/800/800",
+    "description": "Vợt khung carbon hoặc hợp kim nhẹ. Cân bằng phù hợp nhiều lối đánh. Đã căng dây hoặc chưa. Phù hợp người mới đến nâng cao.",
+    "brand": "Wilson",
+    "sku": "WIL-0705-CHI",
+    "originalPrice": 2850000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Vợt cầu lông hoặc tennis khung carbon nhẹ linh hoạt.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-705-a/800/800",
+      "https://picsum.photos/seed/prod-705-b/800/800",
+      "https://picsum.photos/seed/prod-705-c/800/800"
+    ],
+    "specifications": {
+      "Môn": "Cầu lông / Tennis",
+      "Chất liệu": "Carbon / Hợp kim",
+      "Trọng lượng": "Nhẹ - Trung bình",
+      "Trình độ": "Mới - Nâng cao"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 249
+    },
+    "stock": 29,
+    "soldCount": 1188,
+    "weight": 316,
+    "dimensions": {
+      "length": 67.5,
+      "width": 21.4,
+      "height": 3.2
+    },
+    "origin": "Nhật Bản / Trung Quốc / Mỹ",
+    "warranty": "6-12 tháng khung",
+    "tags": [
+      "vợt",
+      "cầu lông",
+      "tennis",
+      "thể thao",
+      "wilson"
+    ],
+    "createdAt": "2026-09-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-706",
+    "name": "Lều cắm trại Camel 4 người",
+    "slug": "leu-cam-trai-camel-4-nguoi-706",
+    "price": 2530000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-706/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-706/800/800",
+    "description": "Lều cắm trại chống nước tốt. Dựng nhanh. Có mái hiên. Thông gió. Túi đựng gọn nhẹ. Phù hợp dã ngoại gia đình.",
+    "brand": "Coleman",
+    "sku": "COL-0706-CHI",
+    "originalPrice": 2820000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Lều cắm trại chống nước dễ dựng có mái hiên.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-706-a/800/800",
+      "https://picsum.photos/seed/prod-706-b/800/800",
+      "https://picsum.photos/seed/prod-706-c/800/800"
+    ],
+    "specifications": {
+      "Sức chứa": "2-4 người",
+      "Chống nước": "2000-3000mm",
+      "Thời gian dựng": "5-15 phút",
+      "Trọng lượng": "2-5kg"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 726
+    },
+    "stock": 221,
+    "soldCount": 3973,
+    "weight": 2335,
+    "dimensions": {
+      "length": 53.8,
+      "width": 26.5,
+      "height": 22.0
+    },
+    "origin": "Trung Quốc / Mỹ / Pháp",
+    "warranty": "12 tháng",
+    "tags": [
+      "lều",
+      "cắm trại",
+      "dã ngoại",
+      "coleman"
+    ],
+    "createdAt": "2026-02-03T00:00:00.000Z"
+  },
+  {
+    "id": "prod-707",
+    "name": "Thảm picnic / Đệm ngồi Decathlon Plus",
+    "slug": "tham-picnic-dem-ngoi-decathlon-plus-707",
+    "price": 132000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-707/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-707/800/800",
+    "description": "Thảm picnic mặt trên mềm mặt dưới chống thấm. Gấp gọn thành túi. Kích thước đủ cho nhiều người. Dã ngoại biển công viên.",
+    "brand": "Coleman",
+    "sku": "COL-0707-CHI",
+    "originalPrice": 157000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Thảm picnic chống thấm gấp gọn mặt mềm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-707-a/800/800",
+      "https://picsum.photos/seed/prod-707-b/800/800",
+      "https://picsum.photos/seed/prod-707-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "150x200 đến 200x200cm",
+      "Chống thấm": "Có",
+      "Gấp gọn": "Có",
+      "Mặt trên": "Vải mềm"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 362
+    },
+    "stock": 133,
+    "soldCount": 1062,
+    "weight": 599,
+    "dimensions": {
+      "length": 36.2,
+      "width": 19.7,
+      "height": 9.0
+    },
+    "origin": "Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "thảm picnic",
+      "dã ngoại",
+      "chống thấm",
+      "coleman"
+    ],
+    "createdAt": "2026-02-11T00:00:00.000Z"
+  },
+  {
+    "id": "prod-708",
+    "name": "Đèn pin / Đèn đội đầu Xiaomi Plus",
+    "slug": "den-pin-den-doi-dau-xiaomi-plus-708",
+    "price": 799000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-708/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-708/800/800",
+    "description": "Đèn pin hoặc đèn đội đầu LED độ sáng cao. Nhiều chế độ. Sạc USB. Chống nước. Pin lâu. Phù hợp dã ngoại sửa chữa.",
+    "brand": "Fenix",
+    "sku": "FEN-0708-CHI",
+    "originalPrice": 934000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Đèn pin hoặc đội đầu LED sáng sạc USB chống nước.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-708-a/800/800",
+      "https://picsum.photos/seed/prod-708-b/800/800",
+      "https://picsum.photos/seed/prod-708-c/800/800"
+    ],
+    "specifications": {
+      "Độ sáng": "200-1000 lumen",
+      "Chế độ": "3-5",
+      "Sạc": "USB",
+      "Chống nước": "IPX4-IP66"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 660
+    },
+    "stock": 233,
+    "soldCount": 2421,
+    "weight": 110,
+    "dimensions": {
+      "length": 13.1,
+      "width": 4.2,
+      "height": 4.1
+    },
+    "origin": "Trung Quốc / Mỹ",
+    "warranty": "12 tháng",
+    "tags": [
+      "đèn pin",
+      "đội đầu",
+      "dã ngoại",
+      "led",
+      "fenix"
+    ],
+    "createdAt": "2026-02-15T00:00:00.000Z"
+  },
+  {
+    "id": "prod-709",
+    "name": "Bóng thể thao Molten đá",
+    "slug": "bong-the-thao-molten-da-709",
+    "price": 478000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-709/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-709/800/800",
+    "description": "Bóng thể thao size chuẩn. Chất liệu da PU hoặc cao su bền. Độ nảy tốt. Phù hợp thi đấu và tập luyện.",
+    "brand": "Nike",
+    "sku": "NIK-0709-QUẢ",
+    "originalPrice": 589000,
+    "discountPercent": 19,
+    "unit": "quả",
+    "shortDescription": "Bóng đá rổ chuyền size chuẩn thi đấu hoặc tập.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-709-a/800/800",
+      "https://picsum.photos/seed/prod-709-b/800/800",
+      "https://picsum.photos/seed/prod-709-c/800/800"
+    ],
+    "specifications": {
+      "Môn": "Đá / Rổ / Chuyền",
+      "Size": "Chuẩn",
+      "Chất liệu": "Da PU / Cao su",
+      "Loại": "Thi đấu / Tập"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 328
+    },
+    "stock": 317,
+    "soldCount": 2614,
+    "weight": 527,
+    "dimensions": {
+      "length": 20.1,
+      "width": 20.4,
+      "height": 23.8
+    },
+    "origin": "Thái Lan / Trung Quốc / Nhật Bản",
+    "warranty": "Đổi trả nếu xì",
+    "tags": [
+      "bóng",
+      "thể thao",
+      "đá rổ chuyền",
+      "nike"
+    ],
+    "createdAt": "2026-05-05T00:00:00.000Z"
+  },
+  {
+    "id": "prod-710",
+    "name": "Balo / Túi thể thao The North Face",
+    "slug": "balo-tui-the-thao-the-north-face-710",
+    "price": 524000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-710/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-710/800/800",
+    "description": "Balo thể thao hoặc leo núi dung tích đa dạng. Đệm lưng đai hông. Chống nước nhẹ. Nhiều ngăn. Phù hợp gym dã ngoại.",
+    "brand": "The North Face",
+    "sku": "THE-0710-CHI",
+    "originalPrice": 616000,
+    "discountPercent": 15,
+    "unit": "chiếc",
+    "shortDescription": "Balo thể thao hoặc leo núi nhiều ngăn chống nước.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-710-a/800/800",
+      "https://picsum.photos/seed/prod-710-b/800/800",
+      "https://picsum.photos/seed/prod-710-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "20-50L",
+      "Chống nước": "Nhẹ / Có",
+      "Đệm lưng": "Có",
+      "Đai hông": "Tùy model"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 633
+    },
+    "stock": 342,
+    "soldCount": 2605,
+    "weight": 901,
+    "dimensions": {
+      "length": 53.5,
+      "width": 29.4,
+      "height": 25.6
+    },
+    "origin": "Việt Nam / Trung Quốc / Bangladesh",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "balo",
+      "thể thao",
+      "leo núi",
+      "dã ngoại",
+      "the-north-face"
+    ],
+    "createdAt": "2026-01-17T00:00:00.000Z"
+  },
+  {
+    "id": "prod-711",
+    "name": "Giày thể thao New Balance training",
+    "slug": "giay-the-thao-new-balance-training-711",
+    "price": 3190000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-711/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-711/800/800",
+    "description": "Giày thể thao đệm êm giảm chấn. Upper thoáng khí. Đế bám tốt. Phù hợp chạy bộ tập gym hoặc mang hàng ngày. Nhiều size màu.",
+    "brand": "New Balance",
+    "sku": "NEW-0711-ĐÔI",
+    "originalPrice": 3780000,
+    "discountPercent": 16,
+    "unit": "đôi",
+    "shortDescription": "Giày thể thao đệm êm nhẹ thoáng khí nhiều mục đích.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-711-a/800/800",
+      "https://picsum.photos/seed/prod-711-b/800/800",
+      "https://picsum.photos/seed/prod-711-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Chạy / Training / Lifestyle",
+      "Đệm": "Êm",
+      "Upper": "Lưới / Dệt",
+      "Đế": "Cao su"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 621
+    },
+    "stock": 103,
+    "soldCount": 492,
+    "weight": 336,
+    "dimensions": {
+      "length": 30.9,
+      "width": 20.7,
+      "height": 10.9
+    },
+    "origin": "Việt Nam / Trung Quốc / Indonesia",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "giày thể thao",
+      "chạy bộ",
+      "thể thao",
+      "new-balance"
+    ],
+    "createdAt": "2026-02-10T00:00:00.000Z"
+  },
+  {
+    "id": "prod-712",
+    "name": "Thảm yoga / Thảm tập Liforme",
+    "slug": "tham-yoga-tham-tap-liforme-712",
+    "price": 1430000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-712/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-712/800/800",
+    "description": "Thảm yoga chất liệu TPE hoặc PVC cao cấp. Chống trượt tốt. Độ dày hỗ trợ khớp. Thân thiện môi trường. Kèm túi đựng.",
+    "brand": "Liforme",
+    "sku": "LIF-0712-CHI",
+    "originalPrice": 1740000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Thảm yoga chống trượt dày hỗ trợ khớp thân thiện MT.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-712-a/800/800",
+      "https://picsum.photos/seed/prod-712-b/800/800",
+      "https://picsum.photos/seed/prod-712-c/800/800"
+    ],
+    "specifications": {
+      "Chất liệu": "TPE / PVC",
+      "Độ dày": "5-8mm",
+      "Chống trượt": "2 mặt",
+      "Kích thước": "183x61cm"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 512
+    },
+    "stock": 322,
+    "soldCount": 1871,
+    "weight": 1396,
+    "dimensions": {
+      "length": 197.8,
+      "width": 56.4,
+      "height": 0.8
+    },
+    "origin": "Trung Quốc / Mỹ / Pháp",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "thảm yoga",
+      "pilates",
+      "thể thao",
+      "liforme"
+    ],
+    "createdAt": "2026-03-03T00:00:00.000Z"
+  },
+  {
+    "id": "prod-713",
+    "name": "Bình nước thể thao Nike 500ml",
+    "slug": "binh-nuoc-the-thao-nike-500ml-713",
+    "price": 233000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-713/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-713/800/800",
+    "description": "Bình nước thể thao giữ nhiệt hoặc nhựa an toàn. Nắp tiện lợi một tay. Dung tích phù hợp tập luyện. Dễ vệ sinh.",
+    "brand": "Lock&Lock",
+    "sku": "LOC-0713-CHI",
+    "originalPrice": 264000,
+    "discountPercent": 12,
+    "unit": "chiếc",
+    "shortDescription": "Bình nước thể thao giữ nhiệt hoặc nhựa BPA free.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-713-a/800/800",
+      "https://picsum.photos/seed/prod-713-b/800/800",
+      "https://picsum.photos/seed/prod-713-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "500ml-1L",
+      "Chất liệu": "Inox / Nhựa BPA free",
+      "Giữ nhiệt": "Có / Không",
+      "Nắp": "Bật / Hút"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 574
+    },
+    "stock": 79,
+    "soldCount": 653,
+    "weight": 423,
+    "dimensions": {
+      "length": 8.0,
+      "width": 8.2,
+      "height": 24.3
+    },
+    "origin": "Việt Nam / Trung Quốc / Mỹ",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "bình nước",
+      "thể thao",
+      "giữ nhiệt",
+      "locklock"
+    ],
+    "createdAt": "2026-05-15T00:00:00.000Z"
+  },
+  {
+    "id": "prod-714",
+    "name": "Áo thể thao Puma",
+    "slug": "ao-the-thao-puma-714",
+    "price": 577000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-714/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-714/800/800",
+    "description": "Áo thể thao công nghệ thấm hút thoát mồ hôi. Co giãn 4 chiều. Form vừa hoặc ôm. Phù hợp tập luyện mọi môn.",
+    "brand": "Puma",
+    "sku": "PUM-0714-CHI",
+    "originalPrice": 718000,
+    "discountPercent": 20,
+    "unit": "chiếc",
+    "shortDescription": "Áo thể thao thấm hút mồ hôi nhanh co giãn thoải mái.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-714-a/800/800",
+      "https://picsum.photos/seed/prod-714-b/800/800",
+      "https://picsum.photos/seed/prod-714-c/800/800"
+    ],
+    "specifications": {
+      "Chất liệu": "Polyester / Co giãn",
+      "Công nghệ": "Dry-fit / Climalite",
+      "Form": "Vừa / Ôm",
+      "Giới tính": "Nam / Nữ"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 875
+    },
+    "stock": 291,
+    "soldCount": 3567,
+    "weight": 216,
+    "dimensions": {
+      "length": 30.5,
+      "width": 25.9,
+      "height": 1.8
+    },
+    "origin": "Việt Nam / Trung Quốc / Bangladesh",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "áo thể thao",
+      "dry-fit",
+      "thể thao",
+      "puma"
+    ],
+    "createdAt": "2026-01-28T00:00:00.000Z"
+  },
+  {
+    "id": "prod-715",
+    "name": "Vợt cầu lông / Tennis Wilson limited",
+    "slug": "vot-cau-long-tennis-wilson-limited-715",
+    "price": 864000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-715/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-715/800/800",
+    "description": "Vợt khung carbon hoặc hợp kim nhẹ. Cân bằng phù hợp nhiều lối đánh. Đã căng dây hoặc chưa. Phù hợp người mới đến nâng cao.",
+    "brand": "Lining",
+    "sku": "LIN-0715-CHI",
+    "originalPrice": 983000,
+    "discountPercent": 12,
+    "unit": "chiếc",
+    "shortDescription": "Vợt cầu lông hoặc tennis khung carbon nhẹ linh hoạt.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-715-a/800/800",
+      "https://picsum.photos/seed/prod-715-b/800/800",
+      "https://picsum.photos/seed/prod-715-c/800/800"
+    ],
+    "specifications": {
+      "Môn": "Cầu lông / Tennis",
+      "Chất liệu": "Carbon / Hợp kim",
+      "Trọng lượng": "Nhẹ - Trung bình",
+      "Trình độ": "Mới - Nâng cao"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 892
+    },
+    "stock": 301,
+    "soldCount": 2368,
+    "weight": 335,
+    "dimensions": {
+      "length": 67.7,
+      "width": 22.8,
+      "height": 3.0
+    },
+    "origin": "Nhật Bản / Trung Quốc / Mỹ",
+    "warranty": "6-12 tháng khung",
+    "tags": [
+      "vợt",
+      "cầu lông",
+      "tennis",
+      "thể thao",
+      "lining"
+    ],
+    "createdAt": "2026-09-18T00:00:00.000Z"
+  },
+  {
+    "id": "prod-716",
+    "name": "Lều cắm trại Decathlon 4 người Plus",
+    "slug": "leu-cam-trai-decathlon-4-nguoi-plus-716",
+    "price": 1330000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-716/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-716/800/800",
+    "description": "Lều cắm trại chống nước tốt. Dựng nhanh. Có mái hiên. Thông gió. Túi đựng gọn nhẹ. Phù hợp dã ngoại gia đình.",
+    "brand": "Naturehike",
+    "sku": "NAT-0716-CHI",
+    "originalPrice": 1540000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Lều cắm trại chống nước dễ dựng có mái hiên.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-716-a/800/800",
+      "https://picsum.photos/seed/prod-716-b/800/800",
+      "https://picsum.photos/seed/prod-716-c/800/800"
+    ],
+    "specifications": {
+      "Sức chứa": "2-4 người",
+      "Chống nước": "2000-3000mm",
+      "Thời gian dựng": "5-15 phút",
+      "Trọng lượng": "2-5kg"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 729
+    },
+    "stock": 122,
+    "soldCount": 1960,
+    "weight": 5232,
+    "dimensions": {
+      "length": 54.1,
+      "width": 25.0,
+      "height": 21.7
+    },
+    "origin": "Trung Quốc / Mỹ / Pháp",
+    "warranty": "12 tháng",
+    "tags": [
+      "lều",
+      "cắm trại",
+      "dã ngoại",
+      "naturehike"
+    ],
+    "createdAt": "2026-06-23T00:00:00.000Z"
+  },
+  {
+    "id": "prod-717",
+    "name": "Thảm picnic / Đệm ngồi Decathlon Plus",
+    "slug": "tham-picnic-dem-ngoi-decathlon-plus-717",
+    "price": 207000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-717/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-717/800/800",
+    "description": "Thảm picnic mặt trên mềm mặt dưới chống thấm. Gấp gọn thành túi. Kích thước đủ cho nhiều người. Dã ngoại biển công viên.",
+    "brand": "Outway",
+    "sku": "OUT-0717-CHI",
+    "originalPrice": 238000,
+    "discountPercent": 13,
+    "unit": "chiếc",
+    "shortDescription": "Thảm picnic chống thấm gấp gọn mặt mềm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-717-a/800/800",
+      "https://picsum.photos/seed/prod-717-b/800/800",
+      "https://picsum.photos/seed/prod-717-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "150x200 đến 200x200cm",
+      "Chống thấm": "Có",
+      "Gấp gọn": "Có",
+      "Mặt trên": "Vải mềm"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 137
+    },
+    "stock": 77,
+    "soldCount": 1240,
+    "weight": 1345,
+    "dimensions": {
+      "length": 43.9,
+      "width": 19.5,
+      "height": 9.1
+    },
+    "origin": "Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "thảm picnic",
+      "dã ngoại",
+      "chống thấm",
+      "outway"
+    ],
+    "createdAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-718",
+    "name": "Đèn pin / Đèn đội đầu Nitecore",
+    "slug": "den-pin-den-doi-dau-nitecore-718",
+    "price": 191000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-718/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-718/800/800",
+    "description": "Đèn pin hoặc đèn đội đầu LED độ sáng cao. Nhiều chế độ. Sạc USB. Chống nước. Pin lâu. Phù hợp dã ngoại sửa chữa.",
+    "brand": "Decathlon",
+    "sku": "DEC-0718-CHI",
+    "originalPrice": 238000,
+    "discountPercent": 20,
+    "unit": "chiếc",
+    "shortDescription": "Đèn pin hoặc đội đầu LED sáng sạc USB chống nước.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-718-a/800/800",
+      "https://picsum.photos/seed/prod-718-b/800/800",
+      "https://picsum.photos/seed/prod-718-c/800/800"
+    ],
+    "specifications": {
+      "Độ sáng": "200-1000 lumen",
+      "Chế độ": "3-5",
+      "Sạc": "USB",
+      "Chống nước": "IPX4-IP66"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 367
+    },
+    "stock": 288,
+    "soldCount": 1057,
+    "weight": 100,
+    "dimensions": {
+      "length": 11.3,
+      "width": 3.7,
+      "height": 4.3
+    },
+    "origin": "Trung Quốc / Mỹ",
+    "warranty": "12 tháng",
+    "tags": [
+      "đèn pin",
+      "đội đầu",
+      "dã ngoại",
+      "led",
+      "decathlon"
+    ],
+    "createdAt": "2026-03-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-719",
+    "name": "Bóng thể thao Mikasa đá Pro",
+    "slug": "bong-the-thao-mikasa-da-pro-719",
+    "price": 172000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-719/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-719/800/800",
+    "description": "Bóng thể thao size chuẩn. Chất liệu da PU hoặc cao su bền. Độ nảy tốt. Phù hợp thi đấu và tập luyện.",
+    "brand": "Molten",
+    "sku": "MOL-0719-QUẢ",
+    "originalPrice": 210000,
+    "discountPercent": 18,
+    "unit": "quả",
+    "shortDescription": "Bóng đá rổ chuyền size chuẩn thi đấu hoặc tập.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-719-a/800/800",
+      "https://picsum.photos/seed/prod-719-b/800/800",
+      "https://picsum.photos/seed/prod-719-c/800/800"
+    ],
+    "specifications": {
+      "Môn": "Đá / Rổ / Chuyền",
+      "Size": "Chuẩn",
+      "Chất liệu": "Da PU / Cao su",
+      "Loại": "Thi đấu / Tập"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 332
+    },
+    "stock": 238,
+    "soldCount": 1033,
+    "weight": 385,
+    "dimensions": {
+      "length": 21.5,
+      "width": 23.3,
+      "height": 20.3
+    },
+    "origin": "Thái Lan / Trung Quốc / Nhật Bản",
+    "warranty": "Đổi trả nếu xì",
+    "tags": [
+      "bóng",
+      "thể thao",
+      "đá rổ chuyền",
+      "molten"
+    ],
+    "createdAt": "2026-04-19T00:00:00.000Z"
+  },
+  {
+    "id": "prod-720",
+    "name": "Balo / Túi thể thao Adidas",
+    "slug": "balo-tui-the-thao-adidas-720",
+    "price": 2500000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-720/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-720/800/800",
+    "description": "Balo thể thao hoặc leo núi dung tích đa dạng. Đệm lưng đai hông. Chống nước nhẹ. Nhiều ngăn. Phù hợp gym dã ngoại.",
+    "brand": "Nike",
+    "sku": "NIK-0720-CHI",
+    "originalPrice": 3120000,
+    "discountPercent": 20,
+    "unit": "chiếc",
+    "shortDescription": "Balo thể thao hoặc leo núi nhiều ngăn chống nước.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-720-a/800/800",
+      "https://picsum.photos/seed/prod-720-b/800/800",
+      "https://picsum.photos/seed/prod-720-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "20-50L",
+      "Chống nước": "Nhẹ / Có",
+      "Đệm lưng": "Có",
+      "Đai hông": "Tùy model"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 153
+    },
+    "stock": 102,
+    "soldCount": 835,
+    "weight": 1238,
+    "dimensions": {
+      "length": 53.8,
+      "width": 32.3,
+      "height": 22.8
+    },
+    "origin": "Việt Nam / Trung Quốc / Bangladesh",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "balo",
+      "thể thao",
+      "leo núi",
+      "dã ngoại",
+      "nike"
+    ],
+    "createdAt": "2026-05-31T00:00:00.000Z"
+  },
+  {
+    "id": "prod-721",
+    "name": "Giày thể thao New Balance lifestyle 2026",
+    "slug": "giay-the-thao-new-balance-lifestyle-2026-721",
+    "price": 3260000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-721/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-721/800/800",
+    "description": "Giày thể thao đệm êm giảm chấn. Upper thoáng khí. Đế bám tốt. Phù hợp chạy bộ tập gym hoặc mang hàng ngày. Nhiều size màu.",
+    "brand": "New Balance",
+    "sku": "NEW-0721-ĐÔI",
+    "originalPrice": 3660000,
+    "discountPercent": 11,
+    "unit": "đôi",
+    "shortDescription": "Giày thể thao đệm êm nhẹ thoáng khí nhiều mục đích.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-721-a/800/800",
+      "https://picsum.photos/seed/prod-721-b/800/800",
+      "https://picsum.photos/seed/prod-721-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Chạy / Training / Lifestyle",
+      "Đệm": "Êm",
+      "Upper": "Lưới / Dệt",
+      "Đế": "Cao su"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 172
+    },
+    "stock": 172,
+    "soldCount": 1062,
+    "weight": 261,
+    "dimensions": {
+      "length": 31.6,
+      "width": 20.3,
+      "height": 12.9
+    },
+    "origin": "Việt Nam / Trung Quốc / Indonesia",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "giày thể thao",
+      "chạy bộ",
+      "thể thao",
+      "new-balance"
+    ],
+    "createdAt": "2026-01-28T00:00:00.000Z"
+  },
+  {
+    "id": "prod-722",
+    "name": "Thảm yoga / Thảm tập Decathlon",
+    "slug": "tham-yoga-tham-tap-decathlon-722",
+    "price": 1410000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-722/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-722/800/800",
+    "description": "Thảm yoga chất liệu TPE hoặc PVC cao cấp. Chống trượt tốt. Độ dày hỗ trợ khớp. Thân thiện môi trường. Kèm túi đựng.",
+    "brand": "Xiaomi",
+    "sku": "XIA-0722-CHI",
+    "originalPrice": 1740000,
+    "discountPercent": 19,
+    "unit": "chiếc",
+    "shortDescription": "Thảm yoga chống trượt dày hỗ trợ khớp thân thiện MT.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-722-a/800/800",
+      "https://picsum.photos/seed/prod-722-b/800/800",
+      "https://picsum.photos/seed/prod-722-c/800/800"
+    ],
+    "specifications": {
+      "Chất liệu": "TPE / PVC",
+      "Độ dày": "5-8mm",
+      "Chống trượt": "2 mặt",
+      "Kích thước": "183x61cm"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 191
+    },
+    "stock": 265,
+    "soldCount": 1639,
+    "weight": 1428,
+    "dimensions": {
+      "length": 191.3,
+      "width": 64.5,
+      "height": 0.8
+    },
+    "origin": "Trung Quốc / Mỹ / Pháp",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "thảm yoga",
+      "pilates",
+      "thể thao",
+      "xiaomi"
+    ],
+    "createdAt": "2026-07-26T00:00:00.000Z"
+  },
+  {
+    "id": "prod-723",
+    "name": "Bình nước thể thao Contigo 750ml",
+    "slug": "binh-nuoc-the-thao-contigo-750ml-723",
+    "price": 287000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-723/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-723/800/800",
+    "description": "Bình nước thể thao giữ nhiệt hoặc nhựa an toàn. Nắp tiện lợi một tay. Dung tích phù hợp tập luyện. Dễ vệ sinh.",
+    "brand": "Hydro Flask",
+    "sku": "HYD-0723-CHI",
+    "originalPrice": 326000,
+    "discountPercent": 12,
+    "unit": "chiếc",
+    "shortDescription": "Bình nước thể thao giữ nhiệt hoặc nhựa BPA free.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-723-a/800/800",
+      "https://picsum.photos/seed/prod-723-b/800/800",
+      "https://picsum.photos/seed/prod-723-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "500ml-1L",
+      "Chất liệu": "Inox / Nhựa BPA free",
+      "Giữ nhiệt": "Có / Không",
+      "Nắp": "Bật / Hút"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 615
+    },
+    "stock": 210,
+    "soldCount": 2663,
+    "weight": 391,
+    "dimensions": {
+      "length": 8.0,
+      "width": 8.0,
+      "height": 27.3
+    },
+    "origin": "Việt Nam / Trung Quốc / Mỹ",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "bình nước",
+      "thể thao",
+      "giữ nhiệt",
+      "hydro-flask"
+    ],
+    "createdAt": "2026-09-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-724",
+    "name": "Áo thể thao Decathlon",
+    "slug": "ao-the-thao-decathlon-724",
+    "price": 420000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-724/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-724/800/800",
+    "description": "Áo thể thao công nghệ thấm hút thoát mồ hôi. Co giãn 4 chiều. Form vừa hoặc ôm. Phù hợp tập luyện mọi môn.",
+    "brand": "Nike",
+    "sku": "NIK-0724-CHI",
+    "originalPrice": 517000,
+    "discountPercent": 19,
+    "unit": "chiếc",
+    "shortDescription": "Áo thể thao thấm hút mồ hôi nhanh co giãn thoải mái.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-724-a/800/800",
+      "https://picsum.photos/seed/prod-724-b/800/800",
+      "https://picsum.photos/seed/prod-724-c/800/800"
+    ],
+    "specifications": {
+      "Chất liệu": "Polyester / Co giãn",
+      "Công nghệ": "Dry-fit / Climalite",
+      "Form": "Vừa / Ôm",
+      "Giới tính": "Nam / Nữ"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 605
+    },
+    "stock": 85,
+    "soldCount": 3881,
+    "weight": 207,
+    "dimensions": {
+      "length": 32.2,
+      "width": 24.5,
+      "height": 1.9
+    },
+    "origin": "Việt Nam / Trung Quốc / Bangladesh",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "áo thể thao",
+      "dry-fit",
+      "thể thao",
+      "nike"
+    ],
+    "createdAt": "2026-08-18T00:00:00.000Z"
+  },
+  {
+    "id": "prod-725",
+    "name": "Vợt cầu lông / Tennis Victor cao cấp",
+    "slug": "vot-cau-long-tennis-victor-cao-cap-725",
+    "price": 995000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-725/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-725/800/800",
+    "description": "Vợt khung carbon hoặc hợp kim nhẹ. Cân bằng phù hợp nhiều lối đánh. Đã căng dây hoặc chưa. Phù hợp người mới đến nâng cao.",
+    "brand": "Lining",
+    "sku": "LIN-0725-CHI",
+    "originalPrice": 1120000,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Vợt cầu lông hoặc tennis khung carbon nhẹ linh hoạt.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-725-a/800/800",
+      "https://picsum.photos/seed/prod-725-b/800/800",
+      "https://picsum.photos/seed/prod-725-c/800/800"
+    ],
+    "specifications": {
+      "Môn": "Cầu lông / Tennis",
+      "Chất liệu": "Carbon / Hợp kim",
+      "Trọng lượng": "Nhẹ - Trung bình",
+      "Trình độ": "Mới - Nâng cao"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 456
+    },
+    "stock": 235,
+    "soldCount": 1965,
+    "weight": 316,
+    "dimensions": {
+      "length": 66.0,
+      "width": 22.4,
+      "height": 3.0
+    },
+    "origin": "Nhật Bản / Trung Quốc / Mỹ",
+    "warranty": "6-12 tháng khung",
+    "tags": [
+      "vợt",
+      "cầu lông",
+      "tennis",
+      "thể thao",
+      "lining"
+    ],
+    "createdAt": "2026-05-05T00:00:00.000Z"
+  },
+  {
+    "id": "prod-726",
+    "name": "Lều cắm trại Camel 3 người",
+    "slug": "leu-cam-trai-camel-3-nguoi-726",
+    "price": 2040000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-726/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-726/800/800",
+    "description": "Lều cắm trại chống nước tốt. Dựng nhanh. Có mái hiên. Thông gió. Túi đựng gọn nhẹ. Phù hợp dã ngoại gia đình.",
+    "brand": "Decathlon",
+    "sku": "DEC-0726-CHI",
+    "originalPrice": 2340000,
+    "discountPercent": 13,
+    "unit": "chiếc",
+    "shortDescription": "Lều cắm trại chống nước dễ dựng có mái hiên.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-726-a/800/800",
+      "https://picsum.photos/seed/prod-726-b/800/800",
+      "https://picsum.photos/seed/prod-726-c/800/800"
+    ],
+    "specifications": {
+      "Sức chứa": "2-4 người",
+      "Chống nước": "2000-3000mm",
+      "Thời gian dựng": "5-15 phút",
+      "Trọng lượng": "2-5kg"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 321
+    },
+    "stock": 261,
+    "soldCount": 2150,
+    "weight": 2735,
+    "dimensions": {
+      "length": 49.4,
+      "width": 23.8,
+      "height": 18.3
+    },
+    "origin": "Trung Quốc / Mỹ / Pháp",
+    "warranty": "12 tháng",
+    "tags": [
+      "lều",
+      "cắm trại",
+      "dã ngoại",
+      "decathlon"
+    ],
+    "createdAt": "2026-06-03T00:00:00.000Z"
+  },
+  {
+    "id": "prod-727",
+    "name": "Thảm picnic / Đệm ngồi Naturehike",
+    "slug": "tham-picnic-dem-ngoi-naturehike-727",
+    "price": 151000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-727/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-727/800/800",
+    "description": "Thảm picnic mặt trên mềm mặt dưới chống thấm. Gấp gọn thành túi. Kích thước đủ cho nhiều người. Dã ngoại biển công viên.",
+    "brand": "Decathlon",
+    "sku": "DEC-0727-CHI",
+    "originalPrice": 166000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Thảm picnic chống thấm gấp gọn mặt mềm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-727-a/800/800",
+      "https://picsum.photos/seed/prod-727-b/800/800",
+      "https://picsum.photos/seed/prod-727-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "150x200 đến 200x200cm",
+      "Chống thấm": "Có",
+      "Gấp gọn": "Có",
+      "Mặt trên": "Vải mềm"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 329
+    },
+    "stock": 145,
+    "soldCount": 830,
+    "weight": 868,
+    "dimensions": {
+      "length": 36.3,
+      "width": 18.8,
+      "height": 9.4
+    },
+    "origin": "Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "thảm picnic",
+      "dã ngoại",
+      "chống thấm",
+      "decathlon"
+    ],
+    "createdAt": "2026-07-14T00:00:00.000Z"
+  },
+  {
+    "id": "prod-728",
+    "name": "Đèn pin / Đèn đội đầu Anker",
+    "slug": "den-pin-den-doi-dau-anker-728",
+    "price": 647000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-728/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-728/800/800",
+    "description": "Đèn pin hoặc đèn đội đầu LED độ sáng cao. Nhiều chế độ. Sạc USB. Chống nước. Pin lâu. Phù hợp dã ngoại sửa chữa.",
+    "brand": "Anker",
+    "sku": "ANK-0728-CHI",
+    "originalPrice": 700000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Đèn pin hoặc đội đầu LED sáng sạc USB chống nước.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-728-a/800/800",
+      "https://picsum.photos/seed/prod-728-b/800/800",
+      "https://picsum.photos/seed/prod-728-c/800/800"
+    ],
+    "specifications": {
+      "Độ sáng": "200-1000 lumen",
+      "Chế độ": "3-5",
+      "Sạc": "USB",
+      "Chống nước": "IPX4-IP66"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 861
+    },
+    "stock": 301,
+    "soldCount": 3153,
+    "weight": 126,
+    "dimensions": {
+      "length": 11.5,
+      "width": 3.9,
+      "height": 4.4
+    },
+    "origin": "Trung Quốc / Mỹ",
+    "warranty": "12 tháng",
+    "tags": [
+      "đèn pin",
+      "đội đầu",
+      "dã ngoại",
+      "led",
+      "anker"
+    ],
+    "createdAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-729",
+    "name": "Bóng thể thao Molten rổ",
+    "slug": "bong-the-thao-molten-ro-729",
+    "price": 567000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-729/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-729/800/800",
+    "description": "Bóng thể thao size chuẩn. Chất liệu da PU hoặc cao su bền. Độ nảy tốt. Phù hợp thi đấu và tập luyện.",
+    "brand": "Mikasa",
+    "sku": "MIK-0729-QUẢ",
+    "originalPrice": 634000,
+    "discountPercent": 11,
+    "unit": "quả",
+    "shortDescription": "Bóng đá rổ chuyền size chuẩn thi đấu hoặc tập.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-729-a/800/800",
+      "https://picsum.photos/seed/prod-729-b/800/800",
+      "https://picsum.photos/seed/prod-729-c/800/800"
+    ],
+    "specifications": {
+      "Môn": "Đá / Rổ / Chuyền",
+      "Size": "Chuẩn",
+      "Chất liệu": "Da PU / Cao su",
+      "Loại": "Thi đấu / Tập"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 795
+    },
+    "stock": 244,
+    "soldCount": 3009,
+    "weight": 535,
+    "dimensions": {
+      "length": 23.1,
+      "width": 21.9,
+      "height": 22.1
+    },
+    "origin": "Thái Lan / Trung Quốc / Nhật Bản",
+    "warranty": "Đổi trả nếu xì",
+    "tags": [
+      "bóng",
+      "thể thao",
+      "đá rổ chuyền",
+      "mikasa"
+    ],
+    "createdAt": "2026-08-11T00:00:00.000Z"
+  },
+  {
+    "id": "prod-730",
+    "name": "Balo / Túi thể thao Decathlon",
+    "slug": "balo-tui-the-thao-decathlon-730",
+    "price": 650000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-730/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-730/800/800",
+    "description": "Balo thể thao hoặc leo núi dung tích đa dạng. Đệm lưng đai hông. Chống nước nhẹ. Nhiều ngăn. Phù hợp gym dã ngoại.",
+    "brand": "Adidas",
+    "sku": "ADI-0730-CHI",
+    "originalPrice": 737000,
+    "discountPercent": 12,
+    "unit": "chiếc",
+    "shortDescription": "Balo thể thao hoặc leo núi nhiều ngăn chống nước.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-730-a/800/800",
+      "https://picsum.photos/seed/prod-730-b/800/800",
+      "https://picsum.photos/seed/prod-730-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "20-50L",
+      "Chống nước": "Nhẹ / Có",
+      "Đệm lưng": "Có",
+      "Đai hông": "Tùy model"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 893
+    },
+    "stock": 290,
+    "soldCount": 173,
+    "weight": 792,
+    "dimensions": {
+      "length": 49.3,
+      "width": 32.7,
+      "height": 24.6
+    },
+    "origin": "Việt Nam / Trung Quốc / Bangladesh",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "balo",
+      "thể thao",
+      "leo núi",
+      "dã ngoại",
+      "adidas"
+    ],
+    "createdAt": "2026-04-20T00:00:00.000Z"
+  },
+  {
+    "id": "prod-731",
+    "name": "Giày thể thao Adidas lifestyle",
+    "slug": "giay-the-thao-adidas-lifestyle-731",
+    "price": 631000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-731/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-731/800/800",
+    "description": "Giày thể thao đệm êm giảm chấn. Upper thoáng khí. Đế bám tốt. Phù hợp chạy bộ tập gym hoặc mang hàng ngày. Nhiều size màu.",
+    "brand": "Puma",
+    "sku": "PUM-0731-ĐÔI",
+    "originalPrice": 735000,
+    "discountPercent": 14,
+    "unit": "đôi",
+    "shortDescription": "Giày thể thao đệm êm nhẹ thoáng khí nhiều mục đích.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-731-a/800/800",
+      "https://picsum.photos/seed/prod-731-b/800/800",
+      "https://picsum.photos/seed/prod-731-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Chạy / Training / Lifestyle",
+      "Đệm": "Êm",
+      "Upper": "Lưới / Dệt",
+      "Đế": "Cao su"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 817
+    },
+    "stock": 280,
+    "soldCount": 1277,
+    "weight": 340,
+    "dimensions": {
+      "length": 29.0,
+      "width": 19.7,
+      "height": 12.4
+    },
+    "origin": "Việt Nam / Trung Quốc / Indonesia",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "giày thể thao",
+      "chạy bộ",
+      "thể thao",
+      "puma"
+    ],
+    "createdAt": "2026-04-08T00:00:00.000Z"
+  },
+  {
+    "id": "prod-732",
+    "name": "Thảm yoga / Thảm tập Xiaomi",
+    "slug": "tham-yoga-tham-tap-xiaomi-732",
+    "price": 512000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-732/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-732/800/800",
+    "description": "Thảm yoga chất liệu TPE hoặc PVC cao cấp. Chống trượt tốt. Độ dày hỗ trợ khớp. Thân thiện môi trường. Kèm túi đựng.",
+    "brand": "Manduka",
+    "sku": "MAN-0732-CHI",
+    "originalPrice": 638000,
+    "discountPercent": 20,
+    "unit": "chiếc",
+    "shortDescription": "Thảm yoga chống trượt dày hỗ trợ khớp thân thiện MT.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-732-a/800/800",
+      "https://picsum.photos/seed/prod-732-b/800/800",
+      "https://picsum.photos/seed/prod-732-c/800/800"
+    ],
+    "specifications": {
+      "Chất liệu": "TPE / PVC",
+      "Độ dày": "5-8mm",
+      "Chống trượt": "2 mặt",
+      "Kích thước": "183x61cm"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 420
+    },
+    "stock": 200,
+    "soldCount": 886,
+    "weight": 1676,
+    "dimensions": {
+      "length": 185.5,
+      "width": 64.6,
+      "height": 0.9
+    },
+    "origin": "Trung Quốc / Mỹ / Pháp",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "thảm yoga",
+      "pilates",
+      "thể thao",
+      "manduka"
+    ],
+    "createdAt": "2026-09-14T00:00:00.000Z"
+  },
+  {
+    "id": "prod-733",
+    "name": "Bình nước thể thao Hydro Flask 500ml",
+    "slug": "binh-nuoc-the-thao-hydro-flask-500ml-733",
+    "price": 597000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-733/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-733/800/800",
+    "description": "Bình nước thể thao giữ nhiệt hoặc nhựa an toàn. Nắp tiện lợi một tay. Dung tích phù hợp tập luyện. Dễ vệ sinh.",
+    "brand": "Nike",
+    "sku": "NIK-0733-CHI",
+    "originalPrice": 656000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Bình nước thể thao giữ nhiệt hoặc nhựa BPA free.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-733-a/800/800",
+      "https://picsum.photos/seed/prod-733-b/800/800",
+      "https://picsum.photos/seed/prod-733-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "500ml-1L",
+      "Chất liệu": "Inox / Nhựa BPA free",
+      "Giữ nhiệt": "Có / Không",
+      "Nắp": "Bật / Hút"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 711
+    },
+    "stock": 288,
+    "soldCount": 777,
+    "weight": 491,
+    "dimensions": {
+      "length": 8.7,
+      "width": 8.2,
+      "height": 24.0
+    },
+    "origin": "Việt Nam / Trung Quốc / Mỹ",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "bình nước",
+      "thể thao",
+      "giữ nhiệt",
+      "nike"
+    ],
+    "createdAt": "2026-01-23T00:00:00.000Z"
+  },
+  {
+    "id": "prod-734",
+    "name": "Áo thể thao Decathlon",
+    "slug": "ao-the-thao-decathlon-734",
+    "price": 399000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-734/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-734/800/800",
+    "description": "Áo thể thao công nghệ thấm hút thoát mồ hôi. Co giãn 4 chiều. Form vừa hoặc ôm. Phù hợp tập luyện mọi môn.",
+    "brand": "Nike",
+    "sku": "NIK-0734-CHI",
+    "originalPrice": 436000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Áo thể thao thấm hút mồ hôi nhanh co giãn thoải mái.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-734-a/800/800",
+      "https://picsum.photos/seed/prod-734-b/800/800",
+      "https://picsum.photos/seed/prod-734-c/800/800"
+    ],
+    "specifications": {
+      "Chất liệu": "Polyester / Co giãn",
+      "Công nghệ": "Dry-fit / Climalite",
+      "Form": "Vừa / Ôm",
+      "Giới tính": "Nam / Nữ"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 78
+    },
+    "stock": 193,
+    "soldCount": 2173,
+    "weight": 199,
+    "dimensions": {
+      "length": 28.7,
+      "width": 23.7,
+      "height": 2.1
+    },
+    "origin": "Việt Nam / Trung Quốc / Bangladesh",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "áo thể thao",
+      "dry-fit",
+      "thể thao",
+      "nike"
+    ],
+    "createdAt": "2026-01-17T00:00:00.000Z"
+  },
+  {
+    "id": "prod-735",
+    "name": "Vợt cầu lông / Tennis Lining Max",
+    "slug": "vot-cau-long-tennis-lining-max-735",
+    "price": 1610000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-735/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-735/800/800",
+    "description": "Vợt khung carbon hoặc hợp kim nhẹ. Cân bằng phù hợp nhiều lối đánh. Đã căng dây hoặc chưa. Phù hợp người mới đến nâng cao.",
+    "brand": "Wilson",
+    "sku": "WIL-0735-CHI",
+    "originalPrice": 2010000,
+    "discountPercent": 20,
+    "unit": "chiếc",
+    "shortDescription": "Vợt cầu lông hoặc tennis khung carbon nhẹ linh hoạt.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-735-a/800/800",
+      "https://picsum.photos/seed/prod-735-b/800/800",
+      "https://picsum.photos/seed/prod-735-c/800/800"
+    ],
+    "specifications": {
+      "Môn": "Cầu lông / Tennis",
+      "Chất liệu": "Carbon / Hợp kim",
+      "Trọng lượng": "Nhẹ - Trung bình",
+      "Trình độ": "Mới - Nâng cao"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 231
+    },
+    "stock": 71,
+    "soldCount": 3615,
+    "weight": 266,
+    "dimensions": {
+      "length": 68.5,
+      "width": 21.9,
+      "height": 2.7
+    },
+    "origin": "Nhật Bản / Trung Quốc / Mỹ",
+    "warranty": "6-12 tháng khung",
+    "tags": [
+      "vợt",
+      "cầu lông",
+      "tennis",
+      "thể thao",
+      "wilson"
+    ],
+    "createdAt": "2026-03-08T00:00:00.000Z"
+  },
+  {
+    "id": "prod-736",
+    "name": "Lều cắm trại Decathlon 3 người",
+    "slug": "leu-cam-trai-decathlon-3-nguoi-736",
+    "price": 1560000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-736/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-736/800/800",
+    "description": "Lều cắm trại chống nước tốt. Dựng nhanh. Có mái hiên. Thông gió. Túi đựng gọn nhẹ. Phù hợp dã ngoại gia đình.",
+    "brand": "Camel",
+    "sku": "CAM-0736-CHI",
+    "originalPrice": 1840000,
+    "discountPercent": 15,
+    "unit": "chiếc",
+    "shortDescription": "Lều cắm trại chống nước dễ dựng có mái hiên.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-736-a/800/800",
+      "https://picsum.photos/seed/prod-736-b/800/800",
+      "https://picsum.photos/seed/prod-736-c/800/800"
+    ],
+    "specifications": {
+      "Sức chứa": "2-4 người",
+      "Chống nước": "2000-3000mm",
+      "Thời gian dựng": "5-15 phút",
+      "Trọng lượng": "2-5kg"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 27
+    },
+    "stock": 78,
+    "soldCount": 1875,
+    "weight": 3271,
+    "dimensions": {
+      "length": 50.9,
+      "width": 25.0,
+      "height": 20.7
+    },
+    "origin": "Trung Quốc / Mỹ / Pháp",
+    "warranty": "12 tháng",
+    "tags": [
+      "lều",
+      "cắm trại",
+      "dã ngoại",
+      "camel"
+    ],
+    "createdAt": "2026-01-31T00:00:00.000Z"
+  },
+  {
+    "id": "prod-737",
+    "name": "Thảm picnic / Đệm ngồi Outway",
+    "slug": "tham-picnic-dem-ngoi-outway-737",
+    "price": 375000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-737/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-737/800/800",
+    "description": "Thảm picnic mặt trên mềm mặt dưới chống thấm. Gấp gọn thành túi. Kích thước đủ cho nhiều người. Dã ngoại biển công viên.",
+    "brand": "Decathlon",
+    "sku": "DEC-0737-CHI",
+    "originalPrice": 426000,
+    "discountPercent": 12,
+    "unit": "chiếc",
+    "shortDescription": "Thảm picnic chống thấm gấp gọn mặt mềm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-737-a/800/800",
+      "https://picsum.photos/seed/prod-737-b/800/800",
+      "https://picsum.photos/seed/prod-737-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "150x200 đến 200x200cm",
+      "Chống thấm": "Có",
+      "Gấp gọn": "Có",
+      "Mặt trên": "Vải mềm"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 314
+    },
+    "stock": 335,
+    "soldCount": 3658,
+    "weight": 1082,
+    "dimensions": {
+      "length": 43.0,
+      "width": 19.8,
+      "height": 10.2
+    },
+    "origin": "Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "thảm picnic",
+      "dã ngoại",
+      "chống thấm",
+      "decathlon"
+    ],
+    "createdAt": "2026-09-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-738",
+    "name": "Đèn pin / Đèn đội đầu Xiaomi Pro",
+    "slug": "den-pin-den-doi-dau-xiaomi-pro-738",
+    "price": 1380000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-738/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-738/800/800",
+    "description": "Đèn pin hoặc đèn đội đầu LED độ sáng cao. Nhiều chế độ. Sạc USB. Chống nước. Pin lâu. Phù hợp dã ngoại sửa chữa.",
+    "brand": "Xiaomi",
+    "sku": "XIA-0738-CHI",
+    "originalPrice": 1680000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Đèn pin hoặc đội đầu LED sáng sạc USB chống nước.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-738-a/800/800",
+      "https://picsum.photos/seed/prod-738-b/800/800",
+      "https://picsum.photos/seed/prod-738-c/800/800"
+    ],
+    "specifications": {
+      "Độ sáng": "200-1000 lumen",
+      "Chế độ": "3-5",
+      "Sạc": "USB",
+      "Chống nước": "IPX4-IP66"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 413
+    },
+    "stock": 342,
+    "soldCount": 801,
+    "weight": 94,
+    "dimensions": {
+      "length": 11.8,
+      "width": 3.7,
+      "height": 4.1
+    },
+    "origin": "Trung Quốc / Mỹ",
+    "warranty": "12 tháng",
+    "tags": [
+      "đèn pin",
+      "đội đầu",
+      "dã ngoại",
+      "led",
+      "xiaomi"
+    ],
+    "createdAt": "2026-07-12T00:00:00.000Z"
+  },
+  {
+    "id": "prod-739",
+    "name": "Bóng thể thao Decathlon đá",
+    "slug": "bong-the-thao-decathlon-da-739",
+    "price": 316000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-739/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-739/800/800",
+    "description": "Bóng thể thao size chuẩn. Chất liệu da PU hoặc cao su bền. Độ nảy tốt. Phù hợp thi đấu và tập luyện.",
+    "brand": "Mikasa",
+    "sku": "MIK-0739-QUẢ",
+    "originalPrice": 356000,
+    "discountPercent": 11,
+    "unit": "quả",
+    "shortDescription": "Bóng đá rổ chuyền size chuẩn thi đấu hoặc tập.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-739-a/800/800",
+      "https://picsum.photos/seed/prod-739-b/800/800",
+      "https://picsum.photos/seed/prod-739-c/800/800"
+    ],
+    "specifications": {
+      "Môn": "Đá / Rổ / Chuyền",
+      "Size": "Chuẩn",
+      "Chất liệu": "Da PU / Cao su",
+      "Loại": "Thi đấu / Tập"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 242
+    },
+    "stock": 257,
+    "soldCount": 1734,
+    "weight": 510,
+    "dimensions": {
+      "length": 22.2,
+      "width": 22.7,
+      "height": 20.1
+    },
+    "origin": "Thái Lan / Trung Quốc / Nhật Bản",
+    "warranty": "Đổi trả nếu xì",
+    "tags": [
+      "bóng",
+      "thể thao",
+      "đá rổ chuyền",
+      "mikasa"
+    ],
+    "createdAt": "2026-07-29T00:00:00.000Z"
+  },
+  {
+    "id": "prod-740",
+    "name": "Balo / Túi thể thao Naturehike",
+    "slug": "balo-tui-the-thao-naturehike-740",
+    "price": 1840000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-740/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-740/800/800",
+    "description": "Balo thể thao hoặc leo núi dung tích đa dạng. Đệm lưng đai hông. Chống nước nhẹ. Nhiều ngăn. Phù hợp gym dã ngoại.",
+    "brand": "The North Face",
+    "sku": "THE-0740-CHI",
+    "originalPrice": 2010000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Balo thể thao hoặc leo núi nhiều ngăn chống nước.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-740-a/800/800",
+      "https://picsum.photos/seed/prod-740-b/800/800",
+      "https://picsum.photos/seed/prod-740-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "20-50L",
+      "Chống nước": "Nhẹ / Có",
+      "Đệm lưng": "Có",
+      "Đai hông": "Tùy model"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 232
+    },
+    "stock": 264,
+    "soldCount": 232,
+    "weight": 707,
+    "dimensions": {
+      "length": 50.0,
+      "width": 31.7,
+      "height": 24.6
+    },
+    "origin": "Việt Nam / Trung Quốc / Bangladesh",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "balo",
+      "thể thao",
+      "leo núi",
+      "dã ngoại",
+      "the-north-face"
+    ],
+    "createdAt": "2026-05-13T00:00:00.000Z"
+  },
+  {
+    "id": "prod-741",
+    "name": "Giày thể thao Nike chạy bộ",
+    "slug": "giay-the-thao-nike-chay-bo-741",
+    "price": 2530000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-741/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-741/800/800",
+    "description": "Giày thể thao đệm êm giảm chấn. Upper thoáng khí. Đế bám tốt. Phù hợp chạy bộ tập gym hoặc mang hàng ngày. Nhiều size màu.",
+    "brand": "Bitis",
+    "sku": "BIT-0741-ĐÔI",
+    "originalPrice": 2900000,
+    "discountPercent": 13,
+    "unit": "đôi",
+    "shortDescription": "Giày thể thao đệm êm nhẹ thoáng khí nhiều mục đích.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-741-a/800/800",
+      "https://picsum.photos/seed/prod-741-b/800/800",
+      "https://picsum.photos/seed/prod-741-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Chạy / Training / Lifestyle",
+      "Đệm": "Êm",
+      "Upper": "Lưới / Dệt",
+      "Đế": "Cao su"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 159
+    },
+    "stock": 172,
+    "soldCount": 2795,
+    "weight": 352,
+    "dimensions": {
+      "length": 32.1,
+      "width": 19.6,
+      "height": 10.8
+    },
+    "origin": "Việt Nam / Trung Quốc / Indonesia",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "giày thể thao",
+      "chạy bộ",
+      "thể thao",
+      "bitis"
+    ],
+    "createdAt": "2026-07-25T00:00:00.000Z"
+  },
+  {
+    "id": "prod-742",
+    "name": "Thảm yoga / Thảm tập Adidas",
+    "slug": "tham-yoga-tham-tap-adidas-742",
+    "price": 363000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-742/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-742/800/800",
+    "description": "Thảm yoga chất liệu TPE hoặc PVC cao cấp. Chống trượt tốt. Độ dày hỗ trợ khớp. Thân thiện môi trường. Kèm túi đựng.",
+    "brand": "Liforme",
+    "sku": "LIF-0742-CHI",
+    "originalPrice": 426000,
+    "discountPercent": 15,
+    "unit": "chiếc",
+    "shortDescription": "Thảm yoga chống trượt dày hỗ trợ khớp thân thiện MT.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-742-a/800/800",
+      "https://picsum.photos/seed/prod-742-b/800/800",
+      "https://picsum.photos/seed/prod-742-c/800/800"
+    ],
+    "specifications": {
+      "Chất liệu": "TPE / PVC",
+      "Độ dày": "5-8mm",
+      "Chống trượt": "2 mặt",
+      "Kích thước": "183x61cm"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 185
+    },
+    "stock": 92,
+    "soldCount": 3484,
+    "weight": 1496,
+    "dimensions": {
+      "length": 190.8,
+      "width": 60.2,
+      "height": 0.8
+    },
+    "origin": "Trung Quốc / Mỹ / Pháp",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "thảm yoga",
+      "pilates",
+      "thể thao",
+      "liforme"
+    ],
+    "createdAt": "2026-01-19T00:00:00.000Z"
+  },
+  {
+    "id": "prod-743",
+    "name": "Bình nước thể thao Contigo 500ml cao cấp",
+    "slug": "binh-nuoc-the-thao-contigo-500ml-cao-cap-743",
+    "price": 876000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-743/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-743/800/800",
+    "description": "Bình nước thể thao giữ nhiệt hoặc nhựa an toàn. Nắp tiện lợi một tay. Dung tích phù hợp tập luyện. Dễ vệ sinh.",
+    "brand": "Contigo",
+    "sku": "CON-0743-CHI",
+    "originalPrice": 1000000,
+    "discountPercent": 12,
+    "unit": "chiếc",
+    "shortDescription": "Bình nước thể thao giữ nhiệt hoặc nhựa BPA free.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-743-a/800/800",
+      "https://picsum.photos/seed/prod-743-b/800/800",
+      "https://picsum.photos/seed/prod-743-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "500ml-1L",
+      "Chất liệu": "Inox / Nhựa BPA free",
+      "Giữ nhiệt": "Có / Không",
+      "Nắp": "Bật / Hút"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 202
+    },
+    "stock": 115,
+    "soldCount": 2976,
+    "weight": 239,
+    "dimensions": {
+      "length": 8.3,
+      "width": 7.2,
+      "height": 23.9
+    },
+    "origin": "Việt Nam / Trung Quốc / Mỹ",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "bình nước",
+      "thể thao",
+      "giữ nhiệt",
+      "contigo"
+    ],
+    "createdAt": "2026-01-23T00:00:00.000Z"
+  },
+  {
+    "id": "prod-744",
+    "name": "Áo thể thao Decathlon",
+    "slug": "ao-the-thao-decathlon-744",
+    "price": 862000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-744/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-744/800/800",
+    "description": "Áo thể thao công nghệ thấm hút thoát mồ hôi. Co giãn 4 chiều. Form vừa hoặc ôm. Phù hợp tập luyện mọi môn.",
+    "brand": "Decathlon",
+    "sku": "DEC-0744-CHI",
+    "originalPrice": 1030000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Áo thể thao thấm hút mồ hôi nhanh co giãn thoải mái.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-744-a/800/800",
+      "https://picsum.photos/seed/prod-744-b/800/800",
+      "https://picsum.photos/seed/prod-744-c/800/800"
+    ],
+    "specifications": {
+      "Chất liệu": "Polyester / Co giãn",
+      "Công nghệ": "Dry-fit / Climalite",
+      "Form": "Vừa / Ôm",
+      "Giới tính": "Nam / Nữ"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 24
+    },
+    "stock": 29,
+    "soldCount": 3213,
+    "weight": 234,
+    "dimensions": {
+      "length": 32.4,
+      "width": 24.5,
+      "height": 1.9
+    },
+    "origin": "Việt Nam / Trung Quốc / Bangladesh",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "áo thể thao",
+      "dry-fit",
+      "thể thao",
+      "decathlon"
+    ],
+    "createdAt": "2026-04-21T00:00:00.000Z"
+  },
+  {
+    "id": "prod-745",
+    "name": "Vợt cầu lông / Tennis Lining",
+    "slug": "vot-cau-long-tennis-lining-745",
+    "price": 2290000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-745/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-745/800/800",
+    "description": "Vợt khung carbon hoặc hợp kim nhẹ. Cân bằng phù hợp nhiều lối đánh. Đã căng dây hoặc chưa. Phù hợp người mới đến nâng cao.",
+    "brand": "Victor",
+    "sku": "VIC-0745-CHI",
+    "originalPrice": 2550000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Vợt cầu lông hoặc tennis khung carbon nhẹ linh hoạt.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-745-a/800/800",
+      "https://picsum.photos/seed/prod-745-b/800/800",
+      "https://picsum.photos/seed/prod-745-c/800/800"
+    ],
+    "specifications": {
+      "Môn": "Cầu lông / Tennis",
+      "Chất liệu": "Carbon / Hợp kim",
+      "Trọng lượng": "Nhẹ - Trung bình",
+      "Trình độ": "Mới - Nâng cao"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 705
+    },
+    "stock": 37,
+    "soldCount": 953,
+    "weight": 252,
+    "dimensions": {
+      "length": 66.9,
+      "width": 24.2,
+      "height": 2.9
+    },
+    "origin": "Nhật Bản / Trung Quốc / Mỹ",
+    "warranty": "6-12 tháng khung",
+    "tags": [
+      "vợt",
+      "cầu lông",
+      "tennis",
+      "thể thao",
+      "victor"
+    ],
+    "createdAt": "2026-09-17T00:00:00.000Z"
+  },
+  {
+    "id": "prod-746",
+    "name": "Lều cắm trại Coleman 4 người phiên bản mới",
+    "slug": "leu-cam-trai-coleman-4-nguoi-phien-ban-moi-746",
+    "price": 2630000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-746/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-746/800/800",
+    "description": "Lều cắm trại chống nước tốt. Dựng nhanh. Có mái hiên. Thông gió. Túi đựng gọn nhẹ. Phù hợp dã ngoại gia đình.",
+    "brand": "Coleman",
+    "sku": "COL-0746-CHI",
+    "originalPrice": 3070000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Lều cắm trại chống nước dễ dựng có mái hiên.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-746-a/800/800",
+      "https://picsum.photos/seed/prod-746-b/800/800",
+      "https://picsum.photos/seed/prod-746-c/800/800"
+    ],
+    "specifications": {
+      "Sức chứa": "2-4 người",
+      "Chống nước": "2000-3000mm",
+      "Thời gian dựng": "5-15 phút",
+      "Trọng lượng": "2-5kg"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 574
+    },
+    "stock": 207,
+    "soldCount": 3895,
+    "weight": 5340,
+    "dimensions": {
+      "length": 48.3,
+      "width": 25.3,
+      "height": 18.8
+    },
+    "origin": "Trung Quốc / Mỹ / Pháp",
+    "warranty": "12 tháng",
+    "tags": [
+      "lều",
+      "cắm trại",
+      "dã ngoại",
+      "coleman"
+    ],
+    "createdAt": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "prod-747",
+    "name": "Thảm picnic / Đệm ngồi Naturehike cao cấp",
+    "slug": "tham-picnic-dem-ngoi-naturehike-cao-cap-747",
+    "price": 269000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-747/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-747/800/800",
+    "description": "Thảm picnic mặt trên mềm mặt dưới chống thấm. Gấp gọn thành túi. Kích thước đủ cho nhiều người. Dã ngoại biển công viên.",
+    "brand": "Coleman",
+    "sku": "COL-0747-CHI",
+    "originalPrice": 298000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Thảm picnic chống thấm gấp gọn mặt mềm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-747-a/800/800",
+      "https://picsum.photos/seed/prod-747-b/800/800",
+      "https://picsum.photos/seed/prod-747-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "150x200 đến 200x200cm",
+      "Chống thấm": "Có",
+      "Gấp gọn": "Có",
+      "Mặt trên": "Vải mềm"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 693
+    },
+    "stock": 147,
+    "soldCount": 2712,
+    "weight": 911,
+    "dimensions": {
+      "length": 41.2,
+      "width": 18.0,
+      "height": 9.4
+    },
+    "origin": "Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "thảm picnic",
+      "dã ngoại",
+      "chống thấm",
+      "coleman"
+    ],
+    "createdAt": "2026-06-23T00:00:00.000Z"
+  },
+  {
+    "id": "prod-748",
+    "name": "Đèn pin / Đèn đội đầu Decathlon limited",
+    "slug": "den-pin-den-doi-dau-decathlon-limited-748",
+    "price": 731000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-748/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-748/800/800",
+    "description": "Đèn pin hoặc đèn đội đầu LED độ sáng cao. Nhiều chế độ. Sạc USB. Chống nước. Pin lâu. Phù hợp dã ngoại sửa chữa.",
+    "brand": "Xiaomi",
+    "sku": "XIA-0748-CHI",
+    "originalPrice": 885000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Đèn pin hoặc đội đầu LED sáng sạc USB chống nước.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-748-a/800/800",
+      "https://picsum.photos/seed/prod-748-b/800/800",
+      "https://picsum.photos/seed/prod-748-c/800/800"
+    ],
+    "specifications": {
+      "Độ sáng": "200-1000 lumen",
+      "Chế độ": "3-5",
+      "Sạc": "USB",
+      "Chống nước": "IPX4-IP66"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 890
+    },
+    "stock": 296,
+    "soldCount": 752,
+    "weight": 177,
+    "dimensions": {
+      "length": 13.2,
+      "width": 3.7,
+      "height": 4.0
+    },
+    "origin": "Trung Quốc / Mỹ",
+    "warranty": "12 tháng",
+    "tags": [
+      "đèn pin",
+      "đội đầu",
+      "dã ngoại",
+      "led",
+      "xiaomi"
+    ],
+    "createdAt": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "id": "prod-749",
+    "name": "Bóng thể thao Molten chuyền Max",
+    "slug": "bong-the-thao-molten-chuyen-max-749",
+    "price": 498000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-749/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-749/800/800",
+    "description": "Bóng thể thao size chuẩn. Chất liệu da PU hoặc cao su bền. Độ nảy tốt. Phù hợp thi đấu và tập luyện.",
+    "brand": "Mikasa",
+    "sku": "MIK-0749-QUẢ",
+    "originalPrice": 553000,
+    "discountPercent": 10,
+    "unit": "quả",
+    "shortDescription": "Bóng đá rổ chuyền size chuẩn thi đấu hoặc tập.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-749-a/800/800",
+      "https://picsum.photos/seed/prod-749-b/800/800",
+      "https://picsum.photos/seed/prod-749-c/800/800"
+    ],
+    "specifications": {
+      "Môn": "Đá / Rổ / Chuyền",
+      "Size": "Chuẩn",
+      "Chất liệu": "Da PU / Cao su",
+      "Loại": "Thi đấu / Tập"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 363
+    },
+    "stock": 14,
+    "soldCount": 2542,
+    "weight": 544,
+    "dimensions": {
+      "length": 23.7,
+      "width": 21.2,
+      "height": 23.5
+    },
+    "origin": "Thái Lan / Trung Quốc / Nhật Bản",
+    "warranty": "Đổi trả nếu xì",
+    "tags": [
+      "bóng",
+      "thể thao",
+      "đá rổ chuyền",
+      "mikasa"
+    ],
+    "createdAt": "2026-09-05T00:00:00.000Z"
+  },
+  {
+    "id": "prod-750",
+    "name": "Balo / Túi thể thao Naturehike",
+    "slug": "balo-tui-the-thao-naturehike-750",
+    "price": 1890000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-750/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-750/800/800",
+    "description": "Balo thể thao hoặc leo núi dung tích đa dạng. Đệm lưng đai hông. Chống nước nhẹ. Nhiều ngăn. Phù hợp gym dã ngoại.",
+    "brand": "Decathlon",
+    "sku": "DEC-0750-CHI",
+    "originalPrice": 2210000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Balo thể thao hoặc leo núi nhiều ngăn chống nước.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-750-a/800/800",
+      "https://picsum.photos/seed/prod-750-b/800/800",
+      "https://picsum.photos/seed/prod-750-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "20-50L",
+      "Chống nước": "Nhẹ / Có",
+      "Đệm lưng": "Có",
+      "Đai hông": "Tùy model"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 651
+    },
+    "stock": 68,
+    "soldCount": 1315,
+    "weight": 1359,
+    "dimensions": {
+      "length": 47.3,
+      "width": 30.5,
+      "height": 27.4
+    },
+    "origin": "Việt Nam / Trung Quốc / Bangladesh",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "balo",
+      "thể thao",
+      "leo núi",
+      "dã ngoại",
+      "decathlon"
+    ],
+    "createdAt": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-751",
+    "name": "Giày thể thao Bitis training",
+    "slug": "giay-the-thao-bitis-training-751",
+    "price": 923000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-751/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-751/800/800",
+    "description": "Giày thể thao đệm êm giảm chấn. Upper thoáng khí. Đế bám tốt. Phù hợp chạy bộ tập gym hoặc mang hàng ngày. Nhiều size màu.",
+    "brand": "Asics",
+    "sku": "ASI-0751-ĐÔI",
+    "originalPrice": 1010000,
+    "discountPercent": 9,
+    "unit": "đôi",
+    "shortDescription": "Giày thể thao đệm êm nhẹ thoáng khí nhiều mục đích.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-751-a/800/800",
+      "https://picsum.photos/seed/prod-751-b/800/800",
+      "https://picsum.photos/seed/prod-751-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Chạy / Training / Lifestyle",
+      "Đệm": "Êm",
+      "Upper": "Lưới / Dệt",
+      "Đế": "Cao su"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 263
+    },
+    "stock": 311,
+    "soldCount": 3924,
+    "weight": 345,
+    "dimensions": {
+      "length": 30.0,
+      "width": 18.8,
+      "height": 11.7
+    },
+    "origin": "Việt Nam / Trung Quốc / Indonesia",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "giày thể thao",
+      "chạy bộ",
+      "thể thao",
+      "asics"
+    ],
+    "createdAt": "2026-05-08T00:00:00.000Z"
+  },
+  {
+    "id": "prod-752",
+    "name": "Thảm yoga / Thảm tập Decathlon Plus",
+    "slug": "tham-yoga-tham-tap-decathlon-plus-752",
+    "price": 1280000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-752/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-752/800/800",
+    "description": "Thảm yoga chất liệu TPE hoặc PVC cao cấp. Chống trượt tốt. Độ dày hỗ trợ khớp. Thân thiện môi trường. Kèm túi đựng.",
+    "brand": "Liforme",
+    "sku": "LIF-0752-CHI",
+    "originalPrice": 1550000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Thảm yoga chống trượt dày hỗ trợ khớp thân thiện MT.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-752-a/800/800",
+      "https://picsum.photos/seed/prod-752-b/800/800",
+      "https://picsum.photos/seed/prod-752-c/800/800"
+    ],
+    "specifications": {
+      "Chất liệu": "TPE / PVC",
+      "Độ dày": "5-8mm",
+      "Chống trượt": "2 mặt",
+      "Kích thước": "183x61cm"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 359
+    },
+    "stock": 180,
+    "soldCount": 1042,
+    "weight": 1849,
+    "dimensions": {
+      "length": 188.4,
+      "width": 58.4,
+      "height": 0.7
+    },
+    "origin": "Trung Quốc / Mỹ / Pháp",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "thảm yoga",
+      "pilates",
+      "thể thao",
+      "liforme"
+    ],
+    "createdAt": "2026-03-08T00:00:00.000Z"
+  },
+  {
+    "id": "prod-753",
+    "name": "Bình nước thể thao Contigo 500ml",
+    "slug": "binh-nuoc-the-thao-contigo-500ml-753",
+    "price": 820000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-753/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-753/800/800",
+    "description": "Bình nước thể thao giữ nhiệt hoặc nhựa an toàn. Nắp tiện lợi một tay. Dung tích phù hợp tập luyện. Dễ vệ sinh.",
+    "brand": "Nike",
+    "sku": "NIK-0753-CHI",
+    "originalPrice": 983000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Bình nước thể thao giữ nhiệt hoặc nhựa BPA free.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-753-a/800/800",
+      "https://picsum.photos/seed/prod-753-b/800/800",
+      "https://picsum.photos/seed/prod-753-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "500ml-1L",
+      "Chất liệu": "Inox / Nhựa BPA free",
+      "Giữ nhiệt": "Có / Không",
+      "Nắp": "Bật / Hút"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 26
+    },
+    "stock": 38,
+    "soldCount": 3612,
+    "weight": 313,
+    "dimensions": {
+      "length": 8.2,
+      "width": 7.8,
+      "height": 24.1
+    },
+    "origin": "Việt Nam / Trung Quốc / Mỹ",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "bình nước",
+      "thể thao",
+      "giữ nhiệt",
+      "nike"
+    ],
+    "createdAt": "2026-05-20T00:00:00.000Z"
+  },
+  {
+    "id": "prod-754",
+    "name": "Áo thể thao Adidas",
+    "slug": "ao-the-thao-adidas-754",
+    "price": 855000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-754/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-754/800/800",
+    "description": "Áo thể thao công nghệ thấm hút thoát mồ hôi. Co giãn 4 chiều. Form vừa hoặc ôm. Phù hợp tập luyện mọi môn.",
+    "brand": "Adidas",
+    "sku": "ADI-0754-CHI",
+    "originalPrice": 1070000,
+    "discountPercent": 20,
+    "unit": "chiếc",
+    "shortDescription": "Áo thể thao thấm hút mồ hôi nhanh co giãn thoải mái.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-754-a/800/800",
+      "https://picsum.photos/seed/prod-754-b/800/800",
+      "https://picsum.photos/seed/prod-754-c/800/800"
+    ],
+    "specifications": {
+      "Chất liệu": "Polyester / Co giãn",
+      "Công nghệ": "Dry-fit / Climalite",
+      "Form": "Vừa / Ôm",
+      "Giới tính": "Nam / Nữ"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 229
+    },
+    "stock": 125,
+    "soldCount": 2128,
+    "weight": 176,
+    "dimensions": {
+      "length": 27.8,
+      "width": 23.4,
+      "height": 2.0
+    },
+    "origin": "Việt Nam / Trung Quốc / Bangladesh",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "áo thể thao",
+      "dry-fit",
+      "thể thao",
+      "adidas"
+    ],
+    "createdAt": "2026-02-04T00:00:00.000Z"
+  },
+  {
+    "id": "prod-755",
+    "name": "Vợt cầu lông / Tennis Wilson",
+    "slug": "vot-cau-long-tennis-wilson-755",
+    "price": 1670000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-755/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-755/800/800",
+    "description": "Vợt khung carbon hoặc hợp kim nhẹ. Cân bằng phù hợp nhiều lối đánh. Đã căng dây hoặc chưa. Phù hợp người mới đến nâng cao.",
+    "brand": "Victor",
+    "sku": "VIC-0755-CHI",
+    "originalPrice": 2010000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Vợt cầu lông hoặc tennis khung carbon nhẹ linh hoạt.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-755-a/800/800",
+      "https://picsum.photos/seed/prod-755-b/800/800",
+      "https://picsum.photos/seed/prod-755-c/800/800"
+    ],
+    "specifications": {
+      "Môn": "Cầu lông / Tennis",
+      "Chất liệu": "Carbon / Hợp kim",
+      "Trọng lượng": "Nhẹ - Trung bình",
+      "Trình độ": "Mới - Nâng cao"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 670
+    },
+    "stock": 108,
+    "soldCount": 1163,
+    "weight": 281,
+    "dimensions": {
+      "length": 67.0,
+      "width": 22.5,
+      "height": 2.9
+    },
+    "origin": "Nhật Bản / Trung Quốc / Mỹ",
+    "warranty": "6-12 tháng khung",
+    "tags": [
+      "vợt",
+      "cầu lông",
+      "tennis",
+      "thể thao",
+      "victor"
+    ],
+    "createdAt": "2026-08-23T00:00:00.000Z"
+  },
+  {
+    "id": "prod-756",
+    "name": "Lều cắm trại Camel 2 người",
+    "slug": "leu-cam-trai-camel-2-nguoi-756",
+    "price": 2560000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-756/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-756/800/800",
+    "description": "Lều cắm trại chống nước tốt. Dựng nhanh. Có mái hiên. Thông gió. Túi đựng gọn nhẹ. Phù hợp dã ngoại gia đình.",
+    "brand": "Decathlon",
+    "sku": "DEC-0756-CHI",
+    "originalPrice": 2930000,
+    "discountPercent": 13,
+    "unit": "chiếc",
+    "shortDescription": "Lều cắm trại chống nước dễ dựng có mái hiên.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-756-a/800/800",
+      "https://picsum.photos/seed/prod-756-b/800/800",
+      "https://picsum.photos/seed/prod-756-c/800/800"
+    ],
+    "specifications": {
+      "Sức chứa": "2-4 người",
+      "Chống nước": "2000-3000mm",
+      "Thời gian dựng": "5-15 phút",
+      "Trọng lượng": "2-5kg"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 859
+    },
+    "stock": 251,
+    "soldCount": 131,
+    "weight": 3928,
+    "dimensions": {
+      "length": 49.4,
+      "width": 25.0,
+      "height": 20.9
+    },
+    "origin": "Trung Quốc / Mỹ / Pháp",
+    "warranty": "12 tháng",
+    "tags": [
+      "lều",
+      "cắm trại",
+      "dã ngoại",
+      "decathlon"
+    ],
+    "createdAt": "2026-07-29T00:00:00.000Z"
+  },
+  {
+    "id": "prod-757",
+    "name": "Thảm picnic / Đệm ngồi Outway",
+    "slug": "tham-picnic-dem-ngoi-outway-757",
+    "price": 256000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-757/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-757/800/800",
+    "description": "Thảm picnic mặt trên mềm mặt dưới chống thấm. Gấp gọn thành túi. Kích thước đủ cho nhiều người. Dã ngoại biển công viên.",
+    "brand": "Naturehike",
+    "sku": "NAT-0757-CHI",
+    "originalPrice": 302000,
+    "discountPercent": 15,
+    "unit": "chiếc",
+    "shortDescription": "Thảm picnic chống thấm gấp gọn mặt mềm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-757-a/800/800",
+      "https://picsum.photos/seed/prod-757-b/800/800",
+      "https://picsum.photos/seed/prod-757-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "150x200 đến 200x200cm",
+      "Chống thấm": "Có",
+      "Gấp gọn": "Có",
+      "Mặt trên": "Vải mềm"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 310
+    },
+    "stock": 197,
+    "soldCount": 2352,
+    "weight": 656,
+    "dimensions": {
+      "length": 40.4,
+      "width": 18.7,
+      "height": 9.8
+    },
+    "origin": "Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "thảm picnic",
+      "dã ngoại",
+      "chống thấm",
+      "naturehike"
+    ],
+    "createdAt": "2026-06-19T00:00:00.000Z"
+  },
+  {
+    "id": "prod-758",
+    "name": "Đèn pin / Đèn đội đầu Xiaomi phiên bản mới",
+    "slug": "den-pin-den-doi-dau-xiaomi-phien-ban-moi-758",
+    "price": 509000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-758/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-758/800/800",
+    "description": "Đèn pin hoặc đèn đội đầu LED độ sáng cao. Nhiều chế độ. Sạc USB. Chống nước. Pin lâu. Phù hợp dã ngoại sửa chữa.",
+    "brand": "Xiaomi",
+    "sku": "XIA-0758-CHI",
+    "originalPrice": 563000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Đèn pin hoặc đội đầu LED sáng sạc USB chống nước.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-758-a/800/800",
+      "https://picsum.photos/seed/prod-758-b/800/800",
+      "https://picsum.photos/seed/prod-758-c/800/800"
+    ],
+    "specifications": {
+      "Độ sáng": "200-1000 lumen",
+      "Chế độ": "3-5",
+      "Sạc": "USB",
+      "Chống nước": "IPX4-IP66"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 434
+    },
+    "stock": 217,
+    "soldCount": 3901,
+    "weight": 98,
+    "dimensions": {
+      "length": 10.8,
+      "width": 4.3,
+      "height": 4.2
+    },
+    "origin": "Trung Quốc / Mỹ",
+    "warranty": "12 tháng",
+    "tags": [
+      "đèn pin",
+      "đội đầu",
+      "dã ngoại",
+      "led",
+      "xiaomi"
+    ],
+    "createdAt": "2026-04-26T00:00:00.000Z"
+  },
+  {
+    "id": "prod-759",
+    "name": "Bóng thể thao Adidas rổ",
+    "slug": "bong-the-thao-adidas-ro-759",
+    "price": 225000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-759/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-759/800/800",
+    "description": "Bóng thể thao size chuẩn. Chất liệu da PU hoặc cao su bền. Độ nảy tốt. Phù hợp thi đấu và tập luyện.",
+    "brand": "Decathlon",
+    "sku": "DEC-0759-QUẢ",
+    "originalPrice": 259000,
+    "discountPercent": 13,
+    "unit": "quả",
+    "shortDescription": "Bóng đá rổ chuyền size chuẩn thi đấu hoặc tập.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-759-a/800/800",
+      "https://picsum.photos/seed/prod-759-b/800/800",
+      "https://picsum.photos/seed/prod-759-c/800/800"
+    ],
+    "specifications": {
+      "Môn": "Đá / Rổ / Chuyền",
+      "Size": "Chuẩn",
+      "Chất liệu": "Da PU / Cao su",
+      "Loại": "Thi đấu / Tập"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 801
+    },
+    "stock": 228,
+    "soldCount": 3970,
+    "weight": 359,
+    "dimensions": {
+      "length": 24.2,
+      "width": 20.3,
+      "height": 23.9
+    },
+    "origin": "Thái Lan / Trung Quốc / Nhật Bản",
+    "warranty": "Đổi trả nếu xì",
+    "tags": [
+      "bóng",
+      "thể thao",
+      "đá rổ chuyền",
+      "decathlon"
+    ],
+    "createdAt": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "prod-760",
+    "name": "Balo / Túi thể thao Adidas",
+    "slug": "balo-tui-the-thao-adidas-760",
+    "price": 2340000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-760/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-760/800/800",
+    "description": "Balo thể thao hoặc leo núi dung tích đa dạng. Đệm lưng đai hông. Chống nước nhẹ. Nhiều ngăn. Phù hợp gym dã ngoại.",
+    "brand": "Naturehike",
+    "sku": "NAT-0760-CHI",
+    "originalPrice": 2780000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Balo thể thao hoặc leo núi nhiều ngăn chống nước.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-760-a/800/800",
+      "https://picsum.photos/seed/prod-760-b/800/800",
+      "https://picsum.photos/seed/prod-760-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "20-50L",
+      "Chống nước": "Nhẹ / Có",
+      "Đệm lưng": "Có",
+      "Đai hông": "Tùy model"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 268
+    },
+    "stock": 249,
+    "soldCount": 191,
+    "weight": 977,
+    "dimensions": {
+      "length": 52.0,
+      "width": 30.9,
+      "height": 27.1
+    },
+    "origin": "Việt Nam / Trung Quốc / Bangladesh",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "balo",
+      "thể thao",
+      "leo núi",
+      "dã ngoại",
+      "naturehike"
+    ],
+    "createdAt": "2026-09-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-761",
+    "name": "Giày thể thao Puma lifestyle",
+    "slug": "giay-the-thao-puma-lifestyle-761",
+    "price": 3380000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-761/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-761/800/800",
+    "description": "Giày thể thao đệm êm giảm chấn. Upper thoáng khí. Đế bám tốt. Phù hợp chạy bộ tập gym hoặc mang hàng ngày. Nhiều size màu.",
+    "brand": "Nike",
+    "sku": "NIK-0761-ĐÔI",
+    "originalPrice": 4020000,
+    "discountPercent": 16,
+    "unit": "đôi",
+    "shortDescription": "Giày thể thao đệm êm nhẹ thoáng khí nhiều mục đích.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-761-a/800/800",
+      "https://picsum.photos/seed/prod-761-b/800/800",
+      "https://picsum.photos/seed/prod-761-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Chạy / Training / Lifestyle",
+      "Đệm": "Êm",
+      "Upper": "Lưới / Dệt",
+      "Đế": "Cao su"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 612
+    },
+    "stock": 344,
+    "soldCount": 3496,
+    "weight": 316,
+    "dimensions": {
+      "length": 30.6,
+      "width": 21.8,
+      "height": 11.2
+    },
+    "origin": "Việt Nam / Trung Quốc / Indonesia",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "giày thể thao",
+      "chạy bộ",
+      "thể thao",
+      "nike"
+    ],
+    "createdAt": "2026-02-25T00:00:00.000Z"
+  },
+  {
+    "id": "prod-762",
+    "name": "Thảm yoga / Thảm tập Liforme cao cấp",
+    "slug": "tham-yoga-tham-tap-liforme-cao-cap-762",
+    "price": 1020000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-762/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-762/800/800",
+    "description": "Thảm yoga chất liệu TPE hoặc PVC cao cấp. Chống trượt tốt. Độ dày hỗ trợ khớp. Thân thiện môi trường. Kèm túi đựng.",
+    "brand": "Adidas",
+    "sku": "ADI-0762-CHI",
+    "originalPrice": 1220000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Thảm yoga chống trượt dày hỗ trợ khớp thân thiện MT.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-762-a/800/800",
+      "https://picsum.photos/seed/prod-762-b/800/800",
+      "https://picsum.photos/seed/prod-762-c/800/800"
+    ],
+    "specifications": {
+      "Chất liệu": "TPE / PVC",
+      "Độ dày": "5-8mm",
+      "Chống trượt": "2 mặt",
+      "Kích thước": "183x61cm"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 278
+    },
+    "stock": 159,
+    "soldCount": 2100,
+    "weight": 1164,
+    "dimensions": {
+      "length": 183.7,
+      "width": 57.2,
+      "height": 0.8
+    },
+    "origin": "Trung Quốc / Mỹ / Pháp",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "thảm yoga",
+      "pilates",
+      "thể thao",
+      "adidas"
+    ],
+    "createdAt": "2026-09-19T00:00:00.000Z"
+  },
+  {
+    "id": "prod-763",
+    "name": "Bình nước thể thao Contigo 1L",
+    "slug": "binh-nuoc-the-thao-contigo-1l-763",
+    "price": 422000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-763/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-763/800/800",
+    "description": "Bình nước thể thao giữ nhiệt hoặc nhựa an toàn. Nắp tiện lợi một tay. Dung tích phù hợp tập luyện. Dễ vệ sinh.",
+    "brand": "Contigo",
+    "sku": "CON-0763-CHI",
+    "originalPrice": 508000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Bình nước thể thao giữ nhiệt hoặc nhựa BPA free.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-763-a/800/800",
+      "https://picsum.photos/seed/prod-763-b/800/800",
+      "https://picsum.photos/seed/prod-763-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "500ml-1L",
+      "Chất liệu": "Inox / Nhựa BPA free",
+      "Giữ nhiệt": "Có / Không",
+      "Nắp": "Bật / Hút"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 295
+    },
+    "stock": 112,
+    "soldCount": 3859,
+    "weight": 245,
+    "dimensions": {
+      "length": 7.4,
+      "width": 8.1,
+      "height": 26.5
+    },
+    "origin": "Việt Nam / Trung Quốc / Mỹ",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "bình nước",
+      "thể thao",
+      "giữ nhiệt",
+      "contigo"
+    ],
+    "createdAt": "2026-07-25T00:00:00.000Z"
+  },
+  {
+    "id": "prod-764",
+    "name": "Áo thể thao Under Armour",
+    "slug": "ao-the-thao-under-armour-764",
+    "price": 367000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-764/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-764/800/800",
+    "description": "Áo thể thao công nghệ thấm hút thoát mồ hôi. Co giãn 4 chiều. Form vừa hoặc ôm. Phù hợp tập luyện mọi môn.",
+    "brand": "Adidas",
+    "sku": "ADI-0764-CHI",
+    "originalPrice": 447000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Áo thể thao thấm hút mồ hôi nhanh co giãn thoải mái.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-764-a/800/800",
+      "https://picsum.photos/seed/prod-764-b/800/800",
+      "https://picsum.photos/seed/prod-764-c/800/800"
+    ],
+    "specifications": {
+      "Chất liệu": "Polyester / Co giãn",
+      "Công nghệ": "Dry-fit / Climalite",
+      "Form": "Vừa / Ôm",
+      "Giới tính": "Nam / Nữ"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 315
+    },
+    "stock": 225,
+    "soldCount": 748,
+    "weight": 150,
+    "dimensions": {
+      "length": 27.6,
+      "width": 26.4,
+      "height": 2.0
+    },
+    "origin": "Việt Nam / Trung Quốc / Bangladesh",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "áo thể thao",
+      "dry-fit",
+      "thể thao",
+      "adidas"
+    ],
+    "createdAt": "2026-03-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-765",
+    "name": "Vợt cầu lông / Tennis Victor phiên bản mới",
+    "slug": "vot-cau-long-tennis-victor-phien-ban-moi-765",
+    "price": 4370000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-765/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-765/800/800",
+    "description": "Vợt khung carbon hoặc hợp kim nhẹ. Cân bằng phù hợp nhiều lối đánh. Đã căng dây hoặc chưa. Phù hợp người mới đến nâng cao.",
+    "brand": "Lining",
+    "sku": "LIN-0765-CHI",
+    "originalPrice": 4850000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Vợt cầu lông hoặc tennis khung carbon nhẹ linh hoạt.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-765-a/800/800",
+      "https://picsum.photos/seed/prod-765-b/800/800",
+      "https://picsum.photos/seed/prod-765-c/800/800"
+    ],
+    "specifications": {
+      "Môn": "Cầu lông / Tennis",
+      "Chất liệu": "Carbon / Hợp kim",
+      "Trọng lượng": "Nhẹ - Trung bình",
+      "Trình độ": "Mới - Nâng cao"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 207
+    },
+    "stock": 103,
+    "soldCount": 1112,
+    "weight": 264,
+    "dimensions": {
+      "length": 67.3,
+      "width": 23.4,
+      "height": 2.8
+    },
+    "origin": "Nhật Bản / Trung Quốc / Mỹ",
+    "warranty": "6-12 tháng khung",
+    "tags": [
+      "vợt",
+      "cầu lông",
+      "tennis",
+      "thể thao",
+      "lining"
+    ],
+    "createdAt": "2026-09-02T00:00:00.000Z"
+  },
+  {
+    "id": "prod-766",
+    "name": "Lều cắm trại Camel 3 người",
+    "slug": "leu-cam-trai-camel-3-nguoi-766",
+    "price": 1350000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-766/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-766/800/800",
+    "description": "Lều cắm trại chống nước tốt. Dựng nhanh. Có mái hiên. Thông gió. Túi đựng gọn nhẹ. Phù hợp dã ngoại gia đình.",
+    "brand": "Outway",
+    "sku": "OUT-0766-CHI",
+    "originalPrice": 1660000,
+    "discountPercent": 19,
+    "unit": "chiếc",
+    "shortDescription": "Lều cắm trại chống nước dễ dựng có mái hiên.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-766-a/800/800",
+      "https://picsum.photos/seed/prod-766-b/800/800",
+      "https://picsum.photos/seed/prod-766-c/800/800"
+    ],
+    "specifications": {
+      "Sức chứa": "2-4 người",
+      "Chống nước": "2000-3000mm",
+      "Thời gian dựng": "5-15 phút",
+      "Trọng lượng": "2-5kg"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 50
+    },
+    "stock": 304,
+    "soldCount": 1011,
+    "weight": 2680,
+    "dimensions": {
+      "length": 45.8,
+      "width": 22.9,
+      "height": 18.5
+    },
+    "origin": "Trung Quốc / Mỹ / Pháp",
+    "warranty": "12 tháng",
+    "tags": [
+      "lều",
+      "cắm trại",
+      "dã ngoại",
+      "outway"
+    ],
+    "createdAt": "2026-05-17T00:00:00.000Z"
+  },
+  {
+    "id": "prod-767",
+    "name": "Thảm picnic / Đệm ngồi Outway",
+    "slug": "tham-picnic-dem-ngoi-outway-767",
+    "price": 104000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-767/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-767/800/800",
+    "description": "Thảm picnic mặt trên mềm mặt dưới chống thấm. Gấp gọn thành túi. Kích thước đủ cho nhiều người. Dã ngoại biển công viên.",
+    "brand": "Naturehike",
+    "sku": "NAT-0767-CHI",
+    "originalPrice": 113000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Thảm picnic chống thấm gấp gọn mặt mềm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-767-a/800/800",
+      "https://picsum.photos/seed/prod-767-b/800/800",
+      "https://picsum.photos/seed/prod-767-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "150x200 đến 200x200cm",
+      "Chống thấm": "Có",
+      "Gấp gọn": "Có",
+      "Mặt trên": "Vải mềm"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 236
+    },
+    "stock": 272,
+    "soldCount": 3293,
+    "weight": 1269,
+    "dimensions": {
+      "length": 43.6,
+      "width": 20.7,
+      "height": 10.6
+    },
+    "origin": "Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "thảm picnic",
+      "dã ngoại",
+      "chống thấm",
+      "naturehike"
+    ],
+    "createdAt": "2026-01-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-768",
+    "name": "Đèn pin / Đèn đội đầu Xiaomi",
+    "slug": "den-pin-den-doi-dau-xiaomi-768",
+    "price": 1120000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-768/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-768/800/800",
+    "description": "Đèn pin hoặc đèn đội đầu LED độ sáng cao. Nhiều chế độ. Sạc USB. Chống nước. Pin lâu. Phù hợp dã ngoại sửa chữa.",
+    "brand": "Decathlon",
+    "sku": "DEC-0768-CHI",
+    "originalPrice": 1300000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Đèn pin hoặc đội đầu LED sáng sạc USB chống nước.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-768-a/800/800",
+      "https://picsum.photos/seed/prod-768-b/800/800",
+      "https://picsum.photos/seed/prod-768-c/800/800"
+    ],
+    "specifications": {
+      "Độ sáng": "200-1000 lumen",
+      "Chế độ": "3-5",
+      "Sạc": "USB",
+      "Chống nước": "IPX4-IP66"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 342
+    },
+    "stock": 127,
+    "soldCount": 3904,
+    "weight": 136,
+    "dimensions": {
+      "length": 12.3,
+      "width": 3.9,
+      "height": 4.1
+    },
+    "origin": "Trung Quốc / Mỹ",
+    "warranty": "12 tháng",
+    "tags": [
+      "đèn pin",
+      "đội đầu",
+      "dã ngoại",
+      "led",
+      "decathlon"
+    ],
+    "createdAt": "2026-04-17T00:00:00.000Z"
+  },
+  {
+    "id": "prod-769",
+    "name": "Bóng thể thao Nike rổ",
+    "slug": "bong-the-thao-nike-ro-769",
+    "price": 496000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-769/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-769/800/800",
+    "description": "Bóng thể thao size chuẩn. Chất liệu da PU hoặc cao su bền. Độ nảy tốt. Phù hợp thi đấu và tập luyện.",
+    "brand": "Adidas",
+    "sku": "ADI-0769-QUẢ",
+    "originalPrice": 604000,
+    "discountPercent": 18,
+    "unit": "quả",
+    "shortDescription": "Bóng đá rổ chuyền size chuẩn thi đấu hoặc tập.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-769-a/800/800",
+      "https://picsum.photos/seed/prod-769-b/800/800",
+      "https://picsum.photos/seed/prod-769-c/800/800"
+    ],
+    "specifications": {
+      "Môn": "Đá / Rổ / Chuyền",
+      "Size": "Chuẩn",
+      "Chất liệu": "Da PU / Cao su",
+      "Loại": "Thi đấu / Tập"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 162
+    },
+    "stock": 18,
+    "soldCount": 2515,
+    "weight": 350,
+    "dimensions": {
+      "length": 21.8,
+      "width": 22.9,
+      "height": 23.0
+    },
+    "origin": "Thái Lan / Trung Quốc / Nhật Bản",
+    "warranty": "Đổi trả nếu xì",
+    "tags": [
+      "bóng",
+      "thể thao",
+      "đá rổ chuyền",
+      "adidas"
+    ],
+    "createdAt": "2026-02-15T00:00:00.000Z"
+  },
+  {
+    "id": "prod-770",
+    "name": "Balo / Túi thể thao Naturehike",
+    "slug": "balo-tui-the-thao-naturehike-770",
+    "price": 1330000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-770/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-770/800/800",
+    "description": "Balo thể thao hoặc leo núi dung tích đa dạng. Đệm lưng đai hông. Chống nước nhẹ. Nhiều ngăn. Phù hợp gym dã ngoại.",
+    "brand": "Adidas",
+    "sku": "ADI-0770-CHI",
+    "originalPrice": 1520000,
+    "discountPercent": 12,
+    "unit": "chiếc",
+    "shortDescription": "Balo thể thao hoặc leo núi nhiều ngăn chống nước.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-770-a/800/800",
+      "https://picsum.photos/seed/prod-770-b/800/800",
+      "https://picsum.photos/seed/prod-770-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "20-50L",
+      "Chống nước": "Nhẹ / Có",
+      "Đệm lưng": "Có",
+      "Đai hông": "Tùy model"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 23
+    },
+    "stock": 331,
+    "soldCount": 3972,
+    "weight": 1233,
+    "dimensions": {
+      "length": 51.9,
+      "width": 32.2,
+      "height": 25.1
+    },
+    "origin": "Việt Nam / Trung Quốc / Bangladesh",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "balo",
+      "thể thao",
+      "leo núi",
+      "dã ngoại",
+      "adidas"
+    ],
+    "createdAt": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "prod-771",
+    "name": "Giày thể thao Puma chạy bộ",
+    "slug": "giay-the-thao-puma-chay-bo-771",
+    "price": 1960000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-771/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-771/800/800",
+    "description": "Giày thể thao đệm êm giảm chấn. Upper thoáng khí. Đế bám tốt. Phù hợp chạy bộ tập gym hoặc mang hàng ngày. Nhiều size màu.",
+    "brand": "Nike",
+    "sku": "NIK-0771-ĐÔI",
+    "originalPrice": 2340000,
+    "discountPercent": 16,
+    "unit": "đôi",
+    "shortDescription": "Giày thể thao đệm êm nhẹ thoáng khí nhiều mục đích.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-771-a/800/800",
+      "https://picsum.photos/seed/prod-771-b/800/800",
+      "https://picsum.photos/seed/prod-771-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Chạy / Training / Lifestyle",
+      "Đệm": "Êm",
+      "Upper": "Lưới / Dệt",
+      "Đế": "Cao su"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 458
+    },
+    "stock": 248,
+    "soldCount": 2746,
+    "weight": 309,
+    "dimensions": {
+      "length": 30.6,
+      "width": 19.6,
+      "height": 12.3
+    },
+    "origin": "Việt Nam / Trung Quốc / Indonesia",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "giày thể thao",
+      "chạy bộ",
+      "thể thao",
+      "nike"
+    ],
+    "createdAt": "2026-08-22T00:00:00.000Z"
+  },
+  {
+    "id": "prod-772",
+    "name": "Thảm yoga / Thảm tập Liforme",
+    "slug": "tham-yoga-tham-tap-liforme-772",
+    "price": 1460000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-772/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-772/800/800",
+    "description": "Thảm yoga chất liệu TPE hoặc PVC cao cấp. Chống trượt tốt. Độ dày hỗ trợ khớp. Thân thiện môi trường. Kèm túi đựng.",
+    "brand": "Decathlon",
+    "sku": "DEC-0772-CHI",
+    "originalPrice": 1630000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Thảm yoga chống trượt dày hỗ trợ khớp thân thiện MT.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-772-a/800/800",
+      "https://picsum.photos/seed/prod-772-b/800/800",
+      "https://picsum.photos/seed/prod-772-c/800/800"
+    ],
+    "specifications": {
+      "Chất liệu": "TPE / PVC",
+      "Độ dày": "5-8mm",
+      "Chống trượt": "2 mặt",
+      "Kích thước": "183x61cm"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 52
+    },
+    "stock": 70,
+    "soldCount": 2089,
+    "weight": 1293,
+    "dimensions": {
+      "length": 196.5,
+      "width": 65.6,
+      "height": 0.8
+    },
+    "origin": "Trung Quốc / Mỹ / Pháp",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "thảm yoga",
+      "pilates",
+      "thể thao",
+      "decathlon"
+    ],
+    "createdAt": "2026-08-06T00:00:00.000Z"
+  },
+  {
+    "id": "prod-773",
+    "name": "Bình nước thể thao Lock&Lock 750ml",
+    "slug": "binh-nuoc-the-thao-locklock-750ml-773",
+    "price": 588000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-773/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-773/800/800",
+    "description": "Bình nước thể thao giữ nhiệt hoặc nhựa an toàn. Nắp tiện lợi một tay. Dung tích phù hợp tập luyện. Dễ vệ sinh.",
+    "brand": "Contigo",
+    "sku": "CON-0773-CHI",
+    "originalPrice": 652000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Bình nước thể thao giữ nhiệt hoặc nhựa BPA free.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-773-a/800/800",
+      "https://picsum.photos/seed/prod-773-b/800/800",
+      "https://picsum.photos/seed/prod-773-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "500ml-1L",
+      "Chất liệu": "Inox / Nhựa BPA free",
+      "Giữ nhiệt": "Có / Không",
+      "Nắp": "Bật / Hút"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 194
+    },
+    "stock": 342,
+    "soldCount": 2916,
+    "weight": 428,
+    "dimensions": {
+      "length": 8.7,
+      "width": 8.0,
+      "height": 25.2
+    },
+    "origin": "Việt Nam / Trung Quốc / Mỹ",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "bình nước",
+      "thể thao",
+      "giữ nhiệt",
+      "contigo"
+    ],
+    "createdAt": "2026-02-06T00:00:00.000Z"
+  },
+  {
+    "id": "prod-774",
+    "name": "Áo thể thao Adidas",
+    "slug": "ao-the-thao-adidas-774",
+    "price": 358000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-774/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-774/800/800",
+    "description": "Áo thể thao công nghệ thấm hút thoát mồ hôi. Co giãn 4 chiều. Form vừa hoặc ôm. Phù hợp tập luyện mọi môn.",
+    "brand": "Adidas",
+    "sku": "ADI-0774-CHI",
+    "originalPrice": 443000,
+    "discountPercent": 19,
+    "unit": "chiếc",
+    "shortDescription": "Áo thể thao thấm hút mồ hôi nhanh co giãn thoải mái.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-774-a/800/800",
+      "https://picsum.photos/seed/prod-774-b/800/800",
+      "https://picsum.photos/seed/prod-774-c/800/800"
+    ],
+    "specifications": {
+      "Chất liệu": "Polyester / Co giãn",
+      "Công nghệ": "Dry-fit / Climalite",
+      "Form": "Vừa / Ôm",
+      "Giới tính": "Nam / Nữ"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 507
+    },
+    "stock": 348,
+    "soldCount": 554,
+    "weight": 191,
+    "dimensions": {
+      "length": 32.4,
+      "width": 26.3,
+      "height": 1.9
+    },
+    "origin": "Việt Nam / Trung Quốc / Bangladesh",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "áo thể thao",
+      "dry-fit",
+      "thể thao",
+      "adidas"
+    ],
+    "createdAt": "2026-07-04T00:00:00.000Z"
+  },
+  {
+    "id": "prod-775",
+    "name": "Vợt cầu lông / Tennis Lining",
+    "slug": "vot-cau-long-tennis-lining-775",
+    "price": 1050000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-775/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-775/800/800",
+    "description": "Vợt khung carbon hoặc hợp kim nhẹ. Cân bằng phù hợp nhiều lối đánh. Đã căng dây hoặc chưa. Phù hợp người mới đến nâng cao.",
+    "brand": "Wilson",
+    "sku": "WIL-0775-CHI",
+    "originalPrice": 1280000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Vợt cầu lông hoặc tennis khung carbon nhẹ linh hoạt.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-775-a/800/800",
+      "https://picsum.photos/seed/prod-775-b/800/800",
+      "https://picsum.photos/seed/prod-775-c/800/800"
+    ],
+    "specifications": {
+      "Môn": "Cầu lông / Tennis",
+      "Chất liệu": "Carbon / Hợp kim",
+      "Trọng lượng": "Nhẹ - Trung bình",
+      "Trình độ": "Mới - Nâng cao"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 679
+    },
+    "stock": 180,
+    "soldCount": 1594,
+    "weight": 292,
+    "dimensions": {
+      "length": 73.1,
+      "width": 23.9,
+      "height": 3.2
+    },
+    "origin": "Nhật Bản / Trung Quốc / Mỹ",
+    "warranty": "6-12 tháng khung",
+    "tags": [
+      "vợt",
+      "cầu lông",
+      "tennis",
+      "thể thao",
+      "wilson"
+    ],
+    "createdAt": "2026-09-05T00:00:00.000Z"
+  },
+  {
+    "id": "prod-776",
+    "name": "Lều cắm trại Camel 4 người",
+    "slug": "leu-cam-trai-camel-4-nguoi-776",
+    "price": 4940000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-776/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-776/800/800",
+    "description": "Lều cắm trại chống nước tốt. Dựng nhanh. Có mái hiên. Thông gió. Túi đựng gọn nhẹ. Phù hợp dã ngoại gia đình.",
+    "brand": "Outway",
+    "sku": "OUT-0776-CHI",
+    "originalPrice": 6050000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Lều cắm trại chống nước dễ dựng có mái hiên.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-776-a/800/800",
+      "https://picsum.photos/seed/prod-776-b/800/800",
+      "https://picsum.photos/seed/prod-776-c/800/800"
+    ],
+    "specifications": {
+      "Sức chứa": "2-4 người",
+      "Chống nước": "2000-3000mm",
+      "Thời gian dựng": "5-15 phút",
+      "Trọng lượng": "2-5kg"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 368
+    },
+    "stock": 308,
+    "soldCount": 3888,
+    "weight": 5311,
+    "dimensions": {
+      "length": 47.3,
+      "width": 23.8,
+      "height": 19.2
+    },
+    "origin": "Trung Quốc / Mỹ / Pháp",
+    "warranty": "12 tháng",
+    "tags": [
+      "lều",
+      "cắm trại",
+      "dã ngoại",
+      "outway"
+    ],
+    "createdAt": "2026-03-04T00:00:00.000Z"
+  },
+  {
+    "id": "prod-777",
+    "name": "Thảm picnic / Đệm ngồi Naturehike",
+    "slug": "tham-picnic-dem-ngoi-naturehike-777",
+    "price": 263000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-777/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-777/800/800",
+    "description": "Thảm picnic mặt trên mềm mặt dưới chống thấm. Gấp gọn thành túi. Kích thước đủ cho nhiều người. Dã ngoại biển công viên.",
+    "brand": "Decathlon",
+    "sku": "DEC-0777-CHI",
+    "originalPrice": 327000,
+    "discountPercent": 20,
+    "unit": "chiếc",
+    "shortDescription": "Thảm picnic chống thấm gấp gọn mặt mềm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-777-a/800/800",
+      "https://picsum.photos/seed/prod-777-b/800/800",
+      "https://picsum.photos/seed/prod-777-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "150x200 đến 200x200cm",
+      "Chống thấm": "Có",
+      "Gấp gọn": "Có",
+      "Mặt trên": "Vải mềm"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 417
+    },
+    "stock": 221,
+    "soldCount": 1359,
+    "weight": 1090,
+    "dimensions": {
+      "length": 41.9,
+      "width": 19.2,
+      "height": 10.2
+    },
+    "origin": "Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "thảm picnic",
+      "dã ngoại",
+      "chống thấm",
+      "decathlon"
+    ],
+    "createdAt": "2026-07-31T00:00:00.000Z"
+  },
+  {
+    "id": "prod-778",
+    "name": "Đèn pin / Đèn đội đầu Decathlon",
+    "slug": "den-pin-den-doi-dau-decathlon-778",
+    "price": 1190000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-778/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-778/800/800",
+    "description": "Đèn pin hoặc đèn đội đầu LED độ sáng cao. Nhiều chế độ. Sạc USB. Chống nước. Pin lâu. Phù hợp dã ngoại sửa chữa.",
+    "brand": "Nitecore",
+    "sku": "NIT-0778-CHI",
+    "originalPrice": 1420000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Đèn pin hoặc đội đầu LED sáng sạc USB chống nước.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-778-a/800/800",
+      "https://picsum.photos/seed/prod-778-b/800/800",
+      "https://picsum.photos/seed/prod-778-c/800/800"
+    ],
+    "specifications": {
+      "Độ sáng": "200-1000 lumen",
+      "Chế độ": "3-5",
+      "Sạc": "USB",
+      "Chống nước": "IPX4-IP66"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 855
+    },
+    "stock": 156,
+    "soldCount": 3479,
+    "weight": 106,
+    "dimensions": {
+      "length": 11.1,
+      "width": 3.6,
+      "height": 4.3
+    },
+    "origin": "Trung Quốc / Mỹ",
+    "warranty": "12 tháng",
+    "tags": [
+      "đèn pin",
+      "đội đầu",
+      "dã ngoại",
+      "led",
+      "nitecore"
+    ],
+    "createdAt": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "prod-779",
+    "name": "Bóng thể thao Nike chuyền",
+    "slug": "bong-the-thao-nike-chuyen-779",
+    "price": 447000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-779/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-779/800/800",
+    "description": "Bóng thể thao size chuẩn. Chất liệu da PU hoặc cao su bền. Độ nảy tốt. Phù hợp thi đấu và tập luyện.",
+    "brand": "Decathlon",
+    "sku": "DEC-0779-QUẢ",
+    "originalPrice": 494000,
+    "discountPercent": 10,
+    "unit": "quả",
+    "shortDescription": "Bóng đá rổ chuyền size chuẩn thi đấu hoặc tập.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-779-a/800/800",
+      "https://picsum.photos/seed/prod-779-b/800/800",
+      "https://picsum.photos/seed/prod-779-c/800/800"
+    ],
+    "specifications": {
+      "Môn": "Đá / Rổ / Chuyền",
+      "Size": "Chuẩn",
+      "Chất liệu": "Da PU / Cao su",
+      "Loại": "Thi đấu / Tập"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 534
+    },
+    "stock": 68,
+    "soldCount": 1170,
+    "weight": 520,
+    "dimensions": {
+      "length": 23.5,
+      "width": 23.4,
+      "height": 20.0
+    },
+    "origin": "Thái Lan / Trung Quốc / Nhật Bản",
+    "warranty": "Đổi trả nếu xì",
+    "tags": [
+      "bóng",
+      "thể thao",
+      "đá rổ chuyền",
+      "decathlon"
+    ],
+    "createdAt": "2026-08-20T00:00:00.000Z"
+  },
+  {
+    "id": "prod-780",
+    "name": "Balo / Túi thể thao Naturehike",
+    "slug": "balo-tui-the-thao-naturehike-780",
+    "price": 2940000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-780/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-780/800/800",
+    "description": "Balo thể thao hoặc leo núi dung tích đa dạng. Đệm lưng đai hông. Chống nước nhẹ. Nhiều ngăn. Phù hợp gym dã ngoại.",
+    "brand": "Decathlon",
+    "sku": "DEC-0780-CHI",
+    "originalPrice": 3590000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Balo thể thao hoặc leo núi nhiều ngăn chống nước.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-780-a/800/800",
+      "https://picsum.photos/seed/prod-780-b/800/800",
+      "https://picsum.photos/seed/prod-780-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "20-50L",
+      "Chống nước": "Nhẹ / Có",
+      "Đệm lưng": "Có",
+      "Đai hông": "Tùy model"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 176
+    },
+    "stock": 112,
+    "soldCount": 3523,
+    "weight": 1106,
+    "dimensions": {
+      "length": 47.9,
+      "width": 32.8,
+      "height": 22.8
+    },
+    "origin": "Việt Nam / Trung Quốc / Bangladesh",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "balo",
+      "thể thao",
+      "leo núi",
+      "dã ngoại",
+      "decathlon"
+    ],
+    "createdAt": "2026-07-21T00:00:00.000Z"
+  },
+  {
+    "id": "prod-781",
+    "name": "Giày thể thao Adidas lifestyle",
+    "slug": "giay-the-thao-adidas-lifestyle-781",
+    "price": 2630000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-781/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-781/800/800",
+    "description": "Giày thể thao đệm êm giảm chấn. Upper thoáng khí. Đế bám tốt. Phù hợp chạy bộ tập gym hoặc mang hàng ngày. Nhiều size màu.",
+    "brand": "Adidas",
+    "sku": "ADI-0781-ĐÔI",
+    "originalPrice": 3170000,
+    "discountPercent": 17,
+    "unit": "đôi",
+    "shortDescription": "Giày thể thao đệm êm nhẹ thoáng khí nhiều mục đích.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-781-a/800/800",
+      "https://picsum.photos/seed/prod-781-b/800/800",
+      "https://picsum.photos/seed/prod-781-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Chạy / Training / Lifestyle",
+      "Đệm": "Êm",
+      "Upper": "Lưới / Dệt",
+      "Đế": "Cao su"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 581
+    },
+    "stock": 205,
+    "soldCount": 1432,
+    "weight": 326,
+    "dimensions": {
+      "length": 32.9,
+      "width": 20.6,
+      "height": 12.8
+    },
+    "origin": "Việt Nam / Trung Quốc / Indonesia",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "giày thể thao",
+      "chạy bộ",
+      "thể thao",
+      "adidas"
+    ],
+    "createdAt": "2026-05-03T00:00:00.000Z"
+  },
+  {
+    "id": "prod-782",
+    "name": "Thảm yoga / Thảm tập Adidas",
+    "slug": "tham-yoga-tham-tap-adidas-782",
+    "price": 1010000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-782/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-782/800/800",
+    "description": "Thảm yoga chất liệu TPE hoặc PVC cao cấp. Chống trượt tốt. Độ dày hỗ trợ khớp. Thân thiện môi trường. Kèm túi đựng.",
+    "brand": "Adidas",
+    "sku": "ADI-0782-CHI",
+    "originalPrice": 1100000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Thảm yoga chống trượt dày hỗ trợ khớp thân thiện MT.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-782-a/800/800",
+      "https://picsum.photos/seed/prod-782-b/800/800",
+      "https://picsum.photos/seed/prod-782-c/800/800"
+    ],
+    "specifications": {
+      "Chất liệu": "TPE / PVC",
+      "Độ dày": "5-8mm",
+      "Chống trượt": "2 mặt",
+      "Kích thước": "183x61cm"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 423
+    },
+    "stock": 54,
+    "soldCount": 586,
+    "weight": 2488,
+    "dimensions": {
+      "length": 175.1,
+      "width": 63.4,
+      "height": 0.8
+    },
+    "origin": "Trung Quốc / Mỹ / Pháp",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "thảm yoga",
+      "pilates",
+      "thể thao",
+      "adidas"
+    ],
+    "createdAt": "2026-04-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-783",
+    "name": "Bình nước thể thao Contigo 500ml",
+    "slug": "binh-nuoc-the-thao-contigo-500ml-783",
+    "price": 579000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-783/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-783/800/800",
+    "description": "Bình nước thể thao giữ nhiệt hoặc nhựa an toàn. Nắp tiện lợi một tay. Dung tích phù hợp tập luyện. Dễ vệ sinh.",
+    "brand": "Decathlon",
+    "sku": "DEC-0783-CHI",
+    "originalPrice": 690000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Bình nước thể thao giữ nhiệt hoặc nhựa BPA free.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-783-a/800/800",
+      "https://picsum.photos/seed/prod-783-b/800/800",
+      "https://picsum.photos/seed/prod-783-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "500ml-1L",
+      "Chất liệu": "Inox / Nhựa BPA free",
+      "Giữ nhiệt": "Có / Không",
+      "Nắp": "Bật / Hút"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 243
+    },
+    "stock": 105,
+    "soldCount": 3061,
+    "weight": 495,
+    "dimensions": {
+      "length": 7.4,
+      "width": 8.3,
+      "height": 24.0
+    },
+    "origin": "Việt Nam / Trung Quốc / Mỹ",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "bình nước",
+      "thể thao",
+      "giữ nhiệt",
+      "decathlon"
+    ],
+    "createdAt": "2026-06-30T00:00:00.000Z"
+  },
+  {
+    "id": "prod-784",
+    "name": "Áo thể thao Adidas 2026",
+    "slug": "ao-the-thao-adidas-2026-784",
+    "price": 901000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-784/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-784/800/800",
+    "description": "Áo thể thao công nghệ thấm hút thoát mồ hôi. Co giãn 4 chiều. Form vừa hoặc ôm. Phù hợp tập luyện mọi môn.",
+    "brand": "Adidas",
+    "sku": "ADI-0784-CHI",
+    "originalPrice": 1090000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Áo thể thao thấm hút mồ hôi nhanh co giãn thoải mái.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-784-a/800/800",
+      "https://picsum.photos/seed/prod-784-b/800/800",
+      "https://picsum.photos/seed/prod-784-c/800/800"
+    ],
+    "specifications": {
+      "Chất liệu": "Polyester / Co giãn",
+      "Công nghệ": "Dry-fit / Climalite",
+      "Form": "Vừa / Ôm",
+      "Giới tính": "Nam / Nữ"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 77
+    },
+    "stock": 54,
+    "soldCount": 1506,
+    "weight": 168,
+    "dimensions": {
+      "length": 29.3,
+      "width": 27.4,
+      "height": 2.1
+    },
+    "origin": "Việt Nam / Trung Quốc / Bangladesh",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "áo thể thao",
+      "dry-fit",
+      "thể thao",
+      "adidas"
+    ],
+    "createdAt": "2026-09-21T00:00:00.000Z"
+  },
+  {
+    "id": "prod-785",
+    "name": "Vợt cầu lông / Tennis Wilson",
+    "slug": "vot-cau-long-tennis-wilson-785",
+    "price": 4610000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-785/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-785/800/800",
+    "description": "Vợt khung carbon hoặc hợp kim nhẹ. Cân bằng phù hợp nhiều lối đánh. Đã căng dây hoặc chưa. Phù hợp người mới đến nâng cao.",
+    "brand": "Yonex",
+    "sku": "YON-0785-CHI",
+    "originalPrice": 5490000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Vợt cầu lông hoặc tennis khung carbon nhẹ linh hoạt.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-785-a/800/800",
+      "https://picsum.photos/seed/prod-785-b/800/800",
+      "https://picsum.photos/seed/prod-785-c/800/800"
+    ],
+    "specifications": {
+      "Môn": "Cầu lông / Tennis",
+      "Chất liệu": "Carbon / Hợp kim",
+      "Trọng lượng": "Nhẹ - Trung bình",
+      "Trình độ": "Mới - Nâng cao"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 141
+    },
+    "stock": 128,
+    "soldCount": 1674,
+    "weight": 325,
+    "dimensions": {
+      "length": 67.1,
+      "width": 20.5,
+      "height": 3.1
+    },
+    "origin": "Nhật Bản / Trung Quốc / Mỹ",
+    "warranty": "6-12 tháng khung",
+    "tags": [
+      "vợt",
+      "cầu lông",
+      "tennis",
+      "thể thao",
+      "yonex"
+    ],
+    "createdAt": "2026-05-20T00:00:00.000Z"
+  },
+  {
+    "id": "prod-786",
+    "name": "Lều cắm trại Decathlon 4 người",
+    "slug": "leu-cam-trai-decathlon-4-nguoi-786",
+    "price": 3630000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-786/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-786/800/800",
+    "description": "Lều cắm trại chống nước tốt. Dựng nhanh. Có mái hiên. Thông gió. Túi đựng gọn nhẹ. Phù hợp dã ngoại gia đình.",
+    "brand": "Naturehike",
+    "sku": "NAT-0786-CHI",
+    "originalPrice": 4380000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Lều cắm trại chống nước dễ dựng có mái hiên.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-786-a/800/800",
+      "https://picsum.photos/seed/prod-786-b/800/800",
+      "https://picsum.photos/seed/prod-786-c/800/800"
+    ],
+    "specifications": {
+      "Sức chứa": "2-4 người",
+      "Chống nước": "2000-3000mm",
+      "Thời gian dựng": "5-15 phút",
+      "Trọng lượng": "2-5kg"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 857
+    },
+    "stock": 337,
+    "soldCount": 1615,
+    "weight": 5177,
+    "dimensions": {
+      "length": 51.9,
+      "width": 26.5,
+      "height": 20.6
+    },
+    "origin": "Trung Quốc / Mỹ / Pháp",
+    "warranty": "12 tháng",
+    "tags": [
+      "lều",
+      "cắm trại",
+      "dã ngoại",
+      "naturehike"
+    ],
+    "createdAt": "2026-03-26T00:00:00.000Z"
+  },
+  {
+    "id": "prod-787",
+    "name": "Thảm picnic / Đệm ngồi Outway cao cấp",
+    "slug": "tham-picnic-dem-ngoi-outway-cao-cap-787",
+    "price": 142000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-787/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-787/800/800",
+    "description": "Thảm picnic mặt trên mềm mặt dưới chống thấm. Gấp gọn thành túi. Kích thước đủ cho nhiều người. Dã ngoại biển công viên.",
+    "brand": "Naturehike",
+    "sku": "NAT-0787-CHI",
+    "originalPrice": 156000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Thảm picnic chống thấm gấp gọn mặt mềm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-787-a/800/800",
+      "https://picsum.photos/seed/prod-787-b/800/800",
+      "https://picsum.photos/seed/prod-787-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "150x200 đến 200x200cm",
+      "Chống thấm": "Có",
+      "Gấp gọn": "Có",
+      "Mặt trên": "Vải mềm"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 606
+    },
+    "stock": 250,
+    "soldCount": 1171,
+    "weight": 1156,
+    "dimensions": {
+      "length": 41.4,
+      "width": 20.0,
+      "height": 9.0
+    },
+    "origin": "Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "thảm picnic",
+      "dã ngoại",
+      "chống thấm",
+      "naturehike"
+    ],
+    "createdAt": "2026-07-11T00:00:00.000Z"
+  },
+  {
+    "id": "prod-788",
+    "name": "Đèn pin / Đèn đội đầu Fenix",
+    "slug": "den-pin-den-doi-dau-fenix-788",
+    "price": 904000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-788/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-788/800/800",
+    "description": "Đèn pin hoặc đèn đội đầu LED độ sáng cao. Nhiều chế độ. Sạc USB. Chống nước. Pin lâu. Phù hợp dã ngoại sửa chữa.",
+    "brand": "Nitecore",
+    "sku": "NIT-0788-CHI",
+    "originalPrice": 1050000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Đèn pin hoặc đội đầu LED sáng sạc USB chống nước.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-788-a/800/800",
+      "https://picsum.photos/seed/prod-788-b/800/800",
+      "https://picsum.photos/seed/prod-788-c/800/800"
+    ],
+    "specifications": {
+      "Độ sáng": "200-1000 lumen",
+      "Chế độ": "3-5",
+      "Sạc": "USB",
+      "Chống nước": "IPX4-IP66"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 834
+    },
+    "stock": 280,
+    "soldCount": 807,
+    "weight": 161,
+    "dimensions": {
+      "length": 11.5,
+      "width": 3.7,
+      "height": 3.9
+    },
+    "origin": "Trung Quốc / Mỹ",
+    "warranty": "12 tháng",
+    "tags": [
+      "đèn pin",
+      "đội đầu",
+      "dã ngoại",
+      "led",
+      "nitecore"
+    ],
+    "createdAt": "2026-04-28T00:00:00.000Z"
+  },
+  {
+    "id": "prod-789",
+    "name": "Bóng thể thao Molten rổ",
+    "slug": "bong-the-thao-molten-ro-789",
+    "price": 706000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-789/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-789/800/800",
+    "description": "Bóng thể thao size chuẩn. Chất liệu da PU hoặc cao su bền. Độ nảy tốt. Phù hợp thi đấu và tập luyện.",
+    "brand": "Decathlon",
+    "sku": "DEC-0789-QUẢ",
+    "originalPrice": 821000,
+    "discountPercent": 14,
+    "unit": "quả",
+    "shortDescription": "Bóng đá rổ chuyền size chuẩn thi đấu hoặc tập.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-789-a/800/800",
+      "https://picsum.photos/seed/prod-789-b/800/800",
+      "https://picsum.photos/seed/prod-789-c/800/800"
+    ],
+    "specifications": {
+      "Môn": "Đá / Rổ / Chuyền",
+      "Size": "Chuẩn",
+      "Chất liệu": "Da PU / Cao su",
+      "Loại": "Thi đấu / Tập"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 791
+    },
+    "stock": 111,
+    "soldCount": 2747,
+    "weight": 482,
+    "dimensions": {
+      "length": 23.5,
+      "width": 22.2,
+      "height": 23.4
+    },
+    "origin": "Thái Lan / Trung Quốc / Nhật Bản",
+    "warranty": "Đổi trả nếu xì",
+    "tags": [
+      "bóng",
+      "thể thao",
+      "đá rổ chuyền",
+      "decathlon"
+    ],
+    "createdAt": "2026-09-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-790",
+    "name": "Balo / Túi thể thao The North Face",
+    "slug": "balo-tui-the-thao-the-north-face-790",
+    "price": 2800000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-790/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-790/800/800",
+    "description": "Balo thể thao hoặc leo núi dung tích đa dạng. Đệm lưng đai hông. Chống nước nhẹ. Nhiều ngăn. Phù hợp gym dã ngoại.",
+    "brand": "Nike",
+    "sku": "NIK-0790-CHI",
+    "originalPrice": 3350000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Balo thể thao hoặc leo núi nhiều ngăn chống nước.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-790-a/800/800",
+      "https://picsum.photos/seed/prod-790-b/800/800",
+      "https://picsum.photos/seed/prod-790-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "20-50L",
+      "Chống nước": "Nhẹ / Có",
+      "Đệm lưng": "Có",
+      "Đai hông": "Tùy model"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 231
+    },
+    "stock": 339,
+    "soldCount": 710,
+    "weight": 605,
+    "dimensions": {
+      "length": 50.5,
+      "width": 31.8,
+      "height": 23.1
+    },
+    "origin": "Việt Nam / Trung Quốc / Bangladesh",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "balo",
+      "thể thao",
+      "leo núi",
+      "dã ngoại",
+      "nike"
+    ],
+    "createdAt": "2026-02-06T00:00:00.000Z"
+  },
+  {
+    "id": "prod-791",
+    "name": "Giày thể thao Asics training",
+    "slug": "giay-the-thao-asics-training-791",
+    "price": 945000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-791/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-791/800/800",
+    "description": "Giày thể thao đệm êm giảm chấn. Upper thoáng khí. Đế bám tốt. Phù hợp chạy bộ tập gym hoặc mang hàng ngày. Nhiều size màu.",
+    "brand": "Nike",
+    "sku": "NIK-0791-ĐÔI",
+    "originalPrice": 1180000,
+    "discountPercent": 20,
+    "unit": "đôi",
+    "shortDescription": "Giày thể thao đệm êm nhẹ thoáng khí nhiều mục đích.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-791-a/800/800",
+      "https://picsum.photos/seed/prod-791-b/800/800",
+      "https://picsum.photos/seed/prod-791-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Chạy / Training / Lifestyle",
+      "Đệm": "Êm",
+      "Upper": "Lưới / Dệt",
+      "Đế": "Cao su"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 693
+    },
+    "stock": 5,
+    "soldCount": 1067,
+    "weight": 379,
+    "dimensions": {
+      "length": 28.8,
+      "width": 21.9,
+      "height": 11.2
+    },
+    "origin": "Việt Nam / Trung Quốc / Indonesia",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "giày thể thao",
+      "chạy bộ",
+      "thể thao",
+      "nike"
+    ],
+    "createdAt": "2026-04-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-792",
+    "name": "Thảm yoga / Thảm tập Liforme",
+    "slug": "tham-yoga-tham-tap-liforme-792",
+    "price": 805000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-792/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-792/800/800",
+    "description": "Thảm yoga chất liệu TPE hoặc PVC cao cấp. Chống trượt tốt. Độ dày hỗ trợ khớp. Thân thiện môi trường. Kèm túi đựng.",
+    "brand": "Xiaomi",
+    "sku": "XIA-0792-CHI",
+    "originalPrice": 960000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Thảm yoga chống trượt dày hỗ trợ khớp thân thiện MT.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-792-a/800/800",
+      "https://picsum.photos/seed/prod-792-b/800/800",
+      "https://picsum.photos/seed/prod-792-c/800/800"
+    ],
+    "specifications": {
+      "Chất liệu": "TPE / PVC",
+      "Độ dày": "5-8mm",
+      "Chống trượt": "2 mặt",
+      "Kích thước": "183x61cm"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 380
+    },
+    "stock": 315,
+    "soldCount": 2254,
+    "weight": 1911,
+    "dimensions": {
+      "length": 169.8,
+      "width": 60.9,
+      "height": 0.8
+    },
+    "origin": "Trung Quốc / Mỹ / Pháp",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "thảm yoga",
+      "pilates",
+      "thể thao",
+      "xiaomi"
+    ],
+    "createdAt": "2026-05-25T00:00:00.000Z"
+  },
+  {
+    "id": "prod-793",
+    "name": "Bình nước thể thao Nike 1L",
+    "slug": "binh-nuoc-the-thao-nike-1l-793",
+    "price": 138000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-793/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-793/800/800",
+    "description": "Bình nước thể thao giữ nhiệt hoặc nhựa an toàn. Nắp tiện lợi một tay. Dung tích phù hợp tập luyện. Dễ vệ sinh.",
+    "brand": "Nike",
+    "sku": "NIK-0793-CHI",
+    "originalPrice": 153000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Bình nước thể thao giữ nhiệt hoặc nhựa BPA free.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-793-a/800/800",
+      "https://picsum.photos/seed/prod-793-b/800/800",
+      "https://picsum.photos/seed/prod-793-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "500ml-1L",
+      "Chất liệu": "Inox / Nhựa BPA free",
+      "Giữ nhiệt": "Có / Không",
+      "Nắp": "Bật / Hút"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 625
+    },
+    "stock": 188,
+    "soldCount": 1186,
+    "weight": 353,
+    "dimensions": {
+      "length": 8.6,
+      "width": 7.5,
+      "height": 23.2
+    },
+    "origin": "Việt Nam / Trung Quốc / Mỹ",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "bình nước",
+      "thể thao",
+      "giữ nhiệt",
+      "nike"
+    ],
+    "createdAt": "2026-02-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-794",
+    "name": "Áo thể thao Decathlon",
+    "slug": "ao-the-thao-decathlon-794",
+    "price": 457000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-794/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-794/800/800",
+    "description": "Áo thể thao công nghệ thấm hút thoát mồ hôi. Co giãn 4 chiều. Form vừa hoặc ôm. Phù hợp tập luyện mọi môn.",
+    "brand": "Decathlon",
+    "sku": "DEC-0794-CHI",
+    "originalPrice": 514000,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Áo thể thao thấm hút mồ hôi nhanh co giãn thoải mái.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-794-a/800/800",
+      "https://picsum.photos/seed/prod-794-b/800/800",
+      "https://picsum.photos/seed/prod-794-c/800/800"
+    ],
+    "specifications": {
+      "Chất liệu": "Polyester / Co giãn",
+      "Công nghệ": "Dry-fit / Climalite",
+      "Form": "Vừa / Ôm",
+      "Giới tính": "Nam / Nữ"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 455
+    },
+    "stock": 78,
+    "soldCount": 2245,
+    "weight": 233,
+    "dimensions": {
+      "length": 32.4,
+      "width": 24.5,
+      "height": 1.8
+    },
+    "origin": "Việt Nam / Trung Quốc / Bangladesh",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "áo thể thao",
+      "dry-fit",
+      "thể thao",
+      "decathlon"
+    ],
+    "createdAt": "2026-03-08T00:00:00.000Z"
+  },
+  {
+    "id": "prod-795",
+    "name": "Vợt cầu lông / Tennis Yonex",
+    "slug": "vot-cau-long-tennis-yonex-795",
+    "price": 1910000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-795/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-795/800/800",
+    "description": "Vợt khung carbon hoặc hợp kim nhẹ. Cân bằng phù hợp nhiều lối đánh. Đã căng dây hoặc chưa. Phù hợp người mới đến nâng cao.",
+    "brand": "Victor",
+    "sku": "VIC-0795-CHI",
+    "originalPrice": 2290000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Vợt cầu lông hoặc tennis khung carbon nhẹ linh hoạt.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-795-a/800/800",
+      "https://picsum.photos/seed/prod-795-b/800/800",
+      "https://picsum.photos/seed/prod-795-c/800/800"
+    ],
+    "specifications": {
+      "Môn": "Cầu lông / Tennis",
+      "Chất liệu": "Carbon / Hợp kim",
+      "Trọng lượng": "Nhẹ - Trung bình",
+      "Trình độ": "Mới - Nâng cao"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 177
+    },
+    "stock": 166,
+    "soldCount": 3276,
+    "weight": 322,
+    "dimensions": {
+      "length": 70.1,
+      "width": 23.4,
+      "height": 3.1
+    },
+    "origin": "Nhật Bản / Trung Quốc / Mỹ",
+    "warranty": "6-12 tháng khung",
+    "tags": [
+      "vợt",
+      "cầu lông",
+      "tennis",
+      "thể thao",
+      "victor"
+    ],
+    "createdAt": "2026-05-06T00:00:00.000Z"
+  },
+  {
+    "id": "prod-796",
+    "name": "Lều cắm trại Camel 2 người",
+    "slug": "leu-cam-trai-camel-2-nguoi-796",
+    "price": 1220000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-796/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-796/800/800",
+    "description": "Lều cắm trại chống nước tốt. Dựng nhanh. Có mái hiên. Thông gió. Túi đựng gọn nhẹ. Phù hợp dã ngoại gia đình.",
+    "brand": "Naturehike",
+    "sku": "NAT-0796-CHI",
+    "originalPrice": 1370000,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Lều cắm trại chống nước dễ dựng có mái hiên.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-796-a/800/800",
+      "https://picsum.photos/seed/prod-796-b/800/800",
+      "https://picsum.photos/seed/prod-796-c/800/800"
+    ],
+    "specifications": {
+      "Sức chứa": "2-4 người",
+      "Chống nước": "2000-3000mm",
+      "Thời gian dựng": "5-15 phút",
+      "Trọng lượng": "2-5kg"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 391
+    },
+    "stock": 175,
+    "soldCount": 3236,
+    "weight": 4176,
+    "dimensions": {
+      "length": 46.1,
+      "width": 25.2,
+      "height": 18.3
+    },
+    "origin": "Trung Quốc / Mỹ / Pháp",
+    "warranty": "12 tháng",
+    "tags": [
+      "lều",
+      "cắm trại",
+      "dã ngoại",
+      "naturehike"
+    ],
+    "createdAt": "2026-03-25T00:00:00.000Z"
+  },
+  {
+    "id": "prod-797",
+    "name": "Thảm picnic / Đệm ngồi Decathlon",
+    "slug": "tham-picnic-dem-ngoi-decathlon-797",
+    "price": 242000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-797/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-797/800/800",
+    "description": "Thảm picnic mặt trên mềm mặt dưới chống thấm. Gấp gọn thành túi. Kích thước đủ cho nhiều người. Dã ngoại biển công viên.",
+    "brand": "Decathlon",
+    "sku": "DEC-0797-CHI",
+    "originalPrice": 262000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Thảm picnic chống thấm gấp gọn mặt mềm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-797-a/800/800",
+      "https://picsum.photos/seed/prod-797-b/800/800",
+      "https://picsum.photos/seed/prod-797-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "150x200 đến 200x200cm",
+      "Chống thấm": "Có",
+      "Gấp gọn": "Có",
+      "Mặt trên": "Vải mềm"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 146
+    },
+    "stock": 94,
+    "soldCount": 2206,
+    "weight": 886,
+    "dimensions": {
+      "length": 43.8,
+      "width": 18.9,
+      "height": 10.9
+    },
+    "origin": "Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "thảm picnic",
+      "dã ngoại",
+      "chống thấm",
+      "decathlon"
+    ],
+    "createdAt": "2026-07-20T00:00:00.000Z"
+  },
+  {
+    "id": "prod-798",
+    "name": "Đèn pin / Đèn đội đầu Decathlon",
+    "slug": "den-pin-den-doi-dau-decathlon-798",
+    "price": 299000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-798/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-798/800/800",
+    "description": "Đèn pin hoặc đèn đội đầu LED độ sáng cao. Nhiều chế độ. Sạc USB. Chống nước. Pin lâu. Phù hợp dã ngoại sửa chữa.",
+    "brand": "Xiaomi",
+    "sku": "XIA-0798-CHI",
+    "originalPrice": 350000,
+    "discountPercent": 15,
+    "unit": "chiếc",
+    "shortDescription": "Đèn pin hoặc đội đầu LED sáng sạc USB chống nước.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-798-a/800/800",
+      "https://picsum.photos/seed/prod-798-b/800/800",
+      "https://picsum.photos/seed/prod-798-c/800/800"
+    ],
+    "specifications": {
+      "Độ sáng": "200-1000 lumen",
+      "Chế độ": "3-5",
+      "Sạc": "USB",
+      "Chống nước": "IPX4-IP66"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 194
+    },
+    "stock": 167,
+    "soldCount": 3926,
+    "weight": 196,
+    "dimensions": {
+      "length": 12.9,
+      "width": 4.0,
+      "height": 4.1
+    },
+    "origin": "Trung Quốc / Mỹ",
+    "warranty": "12 tháng",
+    "tags": [
+      "đèn pin",
+      "đội đầu",
+      "dã ngoại",
+      "led",
+      "xiaomi"
+    ],
+    "createdAt": "2026-07-26T00:00:00.000Z"
+  },
+  {
+    "id": "prod-799",
+    "name": "Bóng thể thao Nike đá 2025",
+    "slug": "bong-the-thao-nike-da-2025-799",
+    "price": 774000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-799/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-799/800/800",
+    "description": "Bóng thể thao size chuẩn. Chất liệu da PU hoặc cao su bền. Độ nảy tốt. Phù hợp thi đấu và tập luyện.",
+    "brand": "Decathlon",
+    "sku": "DEC-0799-QUẢ",
+    "originalPrice": 952000,
+    "discountPercent": 19,
+    "unit": "quả",
+    "shortDescription": "Bóng đá rổ chuyền size chuẩn thi đấu hoặc tập.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-799-a/800/800",
+      "https://picsum.photos/seed/prod-799-b/800/800",
+      "https://picsum.photos/seed/prod-799-c/800/800"
+    ],
+    "specifications": {
+      "Môn": "Đá / Rổ / Chuyền",
+      "Size": "Chuẩn",
+      "Chất liệu": "Da PU / Cao su",
+      "Loại": "Thi đấu / Tập"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 179
+    },
+    "stock": 341,
+    "soldCount": 567,
+    "weight": 453,
+    "dimensions": {
+      "length": 21.9,
+      "width": 20.4,
+      "height": 19.8
+    },
+    "origin": "Thái Lan / Trung Quốc / Nhật Bản",
+    "warranty": "Đổi trả nếu xì",
+    "tags": [
+      "bóng",
+      "thể thao",
+      "đá rổ chuyền",
+      "decathlon"
+    ],
+    "createdAt": "2026-02-20T00:00:00.000Z"
+  },
+  {
+    "id": "prod-800",
+    "name": "Balo / Túi thể thao Decathlon",
+    "slug": "balo-tui-the-thao-decathlon-800",
+    "price": 1410000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://picsum.photos/seed/prod-800/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-800/800/800",
+    "description": "Balo thể thao hoặc leo núi dung tích đa dạng. Đệm lưng đai hông. Chống nước nhẹ. Nhiều ngăn. Phù hợp gym dã ngoại.",
+    "brand": "Naturehike",
+    "sku": "NAT-0800-CHI",
+    "originalPrice": 1540000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Balo thể thao hoặc leo núi nhiều ngăn chống nước.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-800-a/800/800",
+      "https://picsum.photos/seed/prod-800-b/800/800",
+      "https://picsum.photos/seed/prod-800-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "20-50L",
+      "Chống nước": "Nhẹ / Có",
+      "Đệm lưng": "Có",
+      "Đai hông": "Tùy model"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 448
+    },
+    "stock": 239,
+    "soldCount": 799,
+    "weight": 1342,
+    "dimensions": {
+      "length": 51.4,
+      "width": 29.2,
+      "height": 26.4
+    },
+    "origin": "Việt Nam / Trung Quốc / Bangladesh",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "balo",
+      "thể thao",
+      "leo núi",
+      "dã ngoại",
+      "naturehike"
+    ],
+    "createdAt": "2026-05-07T00:00:00.000Z"
   }
 ]

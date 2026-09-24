@@ -1,111 +1,990 @@
 [
   {
     "id": "prod-101",
-    "slug": "dien-thoai-xelio-nova-x12-101",
-    "name": "Điện thoại thông minh Xelio Nova X12",
+    "name": "Điện thoại thông minh Vivo Nova X12 Pro",
+    "slug": "dien-thoai-thong-minh-vivo-nova-x12-pro-101",
+    "price": 8240000,
     "categoryId": "cat-1",
-    "brand": "Xelio",
-    "sku": "XLI-NX12-256-BLK",
-    "price": 8990000,
-    "originalPrice": 10490000,
-    "discountPercent": 14,
+    "thumbUrl": "https://picsum.photos/seed/prod-101/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-101/800/800",
+    "description": "Smartphone cao cấp với màn hình chất lượng cao, hiệu năng mạnh mẽ cho đa nhiệm và chơi game. Hệ thống camera nhiều ống kính hỗ trợ chụp đêm và chân dung. Pin dung lượng lớn kèm sạc nhanh. Chạy hệ điều hành mới nhất với cam kết cập nhật phần mềm.",
+    "brand": "NovaTech",
+    "sku": "NOV-0101-CHI",
+    "originalPrice": 9090000,
+    "discountPercent": 9,
     "unit": "chiếc",
-    "shortDescription": "Smartphone màn hình AMOLED 6.7 inch, chip 8 nhân, camera chính 108MP, pin 5000mAh sạc nhanh 67W.",
-    "description": "Xelio Nova X12 sở hữu màn hình AMOLED 6.7 inch tần số quét 120Hz cho trải nghiệm cuộn mượt mà, độ sáng tối đa 1200 nits phù hợp sử dụng ngoài trời. Máy trang bị chip xử lý 8 nhân tốc độ 2.6GHz kết hợp RAM 8GB giúp đa nhiệm mượt mà, chơi game nặng không giật lag. Hệ thống camera sau gồm cảm biến chính 108MP, camera góc siêu rộng 8MP và camera macro 2MP, hỗ trợ quay video 4K@30fps. Viên pin 5000mAh cùng công nghệ sạc nhanh 67W giúp sạc đầy chỉ trong khoảng 45 phút. Máy chạy hệ điều hành tuỳ biến trên nền Android mới nhất, cam kết cập nhật phần mềm 2 năm.",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/dien-thoai-xelio-nova-x12-101.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/dien-thoai-xelio-nova-x12-101.webp",
+    "shortDescription": "Smartphone màn hình AMOLED, chip mạnh, camera AI, pin dung lượng lớn sạc nhanh.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dien-thoai-xelio-nova-x12-101-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dien-thoai-xelio-nova-x12-101-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dien-thoai-xelio-nova-x12-101-c.webp"
+      "https://picsum.photos/seed/prod-101-a/800/800",
+      "https://picsum.photos/seed/prod-101-b/800/800",
+      "https://picsum.photos/seed/prod-101-c/800/800"
     ],
     "specifications": {
-      "Màn hình": "AMOLED 6.7 inch, 120Hz, độ phân giải FHD+",
-      "Chip xử lý": "8 nhân, 2.6GHz",
-      "RAM": "8GB",
-      "Bộ nhớ trong": "256GB",
-      "Camera sau": "108MP + 8MP + 2MP",
-      "Camera trước": "32MP",
-      "Dung lượng pin": "5000mAh, sạc nhanh 67W",
-      "Hệ điều hành": "Android 15 (tuỳ biến XelioOS)",
-      "Kết nối": "5G, WiFi 6, Bluetooth 5.3, NFC",
-      "Chất liệu": "Khung nhôm, mặt lưng kính cường lực",
-      "Màu sắc": "Đen Titan, Bạc Ánh Kim, Xanh Lam Đêm"
+      "Màn hình": "AMOLED 6.5-6.8 inch",
+      "Chip": "8 nhân",
+      "RAM": "8-12GB",
+      "Bộ nhớ": "128-256GB",
+      "Camera sau": "50-108MP",
+      "Pin": "5000mAh sạc nhanh"
     },
     "rating": {
-      "average": 4.6,
-      "count": 328
+      "average": 4.3,
+      "count": 50
     },
-    "stock": 154,
-    "soldCount": 1240,
-    "weight": 198,
+    "stock": 52,
+    "soldCount": 945,
+    "weight": 186,
     "dimensions": {
-      "length": 16.2,
-      "width": 7.5,
-      "height": 0.82
+      "length": 16.6,
+      "width": 8.1,
+      "height": 0.7
     },
-    "origin": "Việt Nam (lắp ráp)",
-    "warranty": "12 tháng chính hãng, 1 đổi 1 trong 30 ngày đầu",
+    "origin": "Việt Nam (lắp ráp) / Trung Quốc",
+    "warranty": "12 tháng chính hãng",
     "tags": [
       "smartphone",
       "5G",
-      "camera 108MP",
-      "sạc nhanh"
+      "camera",
+      "sạc nhanh",
+      "novatech"
     ],
-    "createdAt": "2026-08-01T00:00:00.000Z"
+    "createdAt": "2026-03-15T00:00:00.000Z"
   },
   {
     "id": "prod-102",
-    "slug": "tai-nghe-chong-on-sonaro-pulse-q5-102",
-    "name": "Tai nghe chống ồn Sonaro Pulse Q5",
+    "name": "Laptop Lenovo IdeaPad limited",
+    "slug": "laptop-lenovo-ideapad-limited-102",
+    "price": 20890000,
     "categoryId": "cat-1",
-    "brand": "Sonaro",
-    "sku": "SNR-PQ5-BLK",
-    "price": 2490000,
-    "originalPrice": 2990000,
+    "thumbUrl": "https://picsum.photos/seed/prod-102/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-102/800/800",
+    "description": "Laptop thiết kế mỏng nhẹ dễ mang theo. Màn hình Full HD chống chói. Bộ xử lý thế hệ mới kết hợp RAM và SSD cho hiệu năng mượt mà. Pin sử dụng cả ngày. Bàn phím có đèn nền.",
+    "brand": "Acer",
+    "sku": "ACE-0102-CHI",
+    "originalPrice": 25050000,
     "discountPercent": 17,
     "unit": "chiếc",
-    "shortDescription": "Tai nghe Bluetooth chụp tai chống ồn chủ động ANC, driver 40mm, pin 40 giờ, sạc nhanh 10 phút dùng 5 giờ.",
-    "description": "Sonaro Pulse Q5 trang bị công nghệ chống ồn chủ động ANC với 4 micro, giảm tiếng ồn môi trường tới 35dB, phù hợp khi đi lại, làm việc ở quán cà phê hay văn phòng mở. Driver 40mm cho âm bass dày, dải trung rõ và âm treble sáng, hỗ trợ codec AAC và LDAC. Chế độ xuyên âm giúp nghe được xung quanh mà không cần tháo tai nghe. Pin dung lượng lớn cho thời gian nghe liên tục tới 40 giờ khi tắt ANC (30 giờ khi bật ANC), sạc nhanh 10 phút dùng thêm 5 giờ qua cổng USB-C. Tai nghe kết nối đồng thời 2 thiết bị, thiết kế gập gọn kèm hộp đựng cứng, đệm tai mút hoạt tính êm ái khi đeo lâu.",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/tai-nghe-chong-on-sonaro-pulse-q5-102.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/tai-nghe-chong-on-sonaro-pulse-q5-102.webp",
+    "shortDescription": "Laptop văn phòng / học tập mỏng nhẹ, chip mới, SSD nhanh, pin lâu.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/tai-nghe-chong-on-sonaro-pulse-q5-102-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/tai-nghe-chong-on-sonaro-pulse-q5-102-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/tai-nghe-chong-on-sonaro-pulse-q5-102-c.webp"
+      "https://picsum.photos/seed/prod-102-a/800/800",
+      "https://picsum.photos/seed/prod-102-b/800/800",
+      "https://picsum.photos/seed/prod-102-c/800/800"
     ],
     "specifications": {
-      "Kiểu tai nghe": "Chụp tai (over-ear), không dây",
-      "Chống ồn": "ANC chủ động 4 micro, chế độ xuyên âm",
-      "Driver": "40mm",
-      "Codec hỗ trợ": "SBC, AAC, LDAC",
-      "Thời lượng pin": "40 giờ (30 giờ khi bật ANC)",
-      "Sạc nhanh": "10 phút dùng 5 giờ",
-      "Cổng sạc": "USB-C",
-      "Kết nối": "Bluetooth 5.3, kết nối đồng thời 2 thiết bị",
-      "Chất liệu": "Khung nhựa PC, đệm tai mút hoạt tính bọc da PU",
-      "Màu sắc": "Đen Than, Xám Bạc, Xanh Navy"
+      "Màn hình": "14-15.6 inch FHD",
+      "CPU": "Intel/AMD thế hệ mới",
+      "RAM": "8-16GB",
+      "SSD": "256-512GB",
+      "Pin": "8-12 giờ"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 845
+    },
+    "stock": 86,
+    "soldCount": 2909,
+    "weight": 1629,
+    "dimensions": {
+      "length": 30.2,
+      "width": 22.4,
+      "height": 1.7
+    },
+    "origin": "Trung Quốc",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "laptop",
+      "văn phòng",
+      "mỏng nhẹ",
+      "ssd",
+      "acer"
+    ],
+    "createdAt": "2026-05-03T00:00:00.000Z"
+  },
+  {
+    "id": "prod-103",
+    "name": "Tai nghe không dây JBL Tune Flex Plus",
+    "slug": "tai-nghe-khong-day-jbl-tune-flex-plus-103",
+    "price": 879000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://picsum.photos/seed/prod-103/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-103/800/800",
+    "description": "Tai nghe true wireless với chống ồn chủ động, âm thanh sống động. Pin sử dụng nhiều giờ kèm hộp sạc. Kết nối Bluetooth ổn định, chống nước. Thiết kế êm tai.",
+    "brand": "SoundMax",
+    "sku": "SOU-0103-CHI",
+    "originalPrice": 1010000,
+    "discountPercent": 13,
+    "unit": "chiếc",
+    "shortDescription": "Tai nghe true wireless chống ồn, pin lâu, sạc nhanh.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-103-a/800/800",
+      "https://picsum.photos/seed/prod-103-b/800/800",
+      "https://picsum.photos/seed/prod-103-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "True Wireless",
+      "Chống ồn": "ANC",
+      "Pin": "20-40 giờ",
+      "Bluetooth": "5.2-5.3",
+      "Chống nước": "IPX4-IPX5"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 569
+    },
+    "stock": 68,
+    "soldCount": 3827,
+    "weight": 51,
+    "dimensions": {
+      "length": 6.4,
+      "width": 5.1,
+      "height": 3.2
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "tai nghe",
+      "true wireless",
+      "chống ồn",
+      "bluetooth",
+      "soundmax"
+    ],
+    "createdAt": "2026-04-21T00:00:00.000Z"
+  },
+  {
+    "id": "prod-104",
+    "name": "Đồng hồ thông minh FitLife GTR 2026",
+    "slug": "dong-ho-thong-minh-fitlife-gtr-2026-104",
+    "price": 5830000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://picsum.photos/seed/prod-104/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-104/800/800",
+    "description": "Đồng hồ thông minh theo dõi nhịp tim, SpO2, giấc ngủ và nhiều chế độ thể thao. Có GPS, chống nước. Pin sử dụng nhiều ngày. Hỗ trợ thông báo và điều khiển nhạc.",
+    "brand": "Huawei",
+    "sku": "HUA-0104-CHI",
+    "originalPrice": 6490000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Đồng hồ thông minh theo dõi sức khỏe, GPS, pin nhiều ngày.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-104-a/800/800",
+      "https://picsum.photos/seed/prod-104-b/800/800",
+      "https://picsum.photos/seed/prod-104-c/800/800"
+    ],
+    "specifications": {
+      "Màn hình": "AMOLED/LCD",
+      "Cảm biến": "Nhịp tim SpO2",
+      "Chống nước": "5ATM",
+      "Pin": "7-14 ngày",
+      "GPS": "Có"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 258
+    },
+    "stock": 56,
+    "soldCount": 1606,
+    "weight": 32,
+    "dimensions": {
+      "length": 4.1,
+      "width": 4.3,
+      "height": 1.1
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "đồng hồ thông minh",
+      "fitness",
+      "gps",
+      "sức khỏe",
+      "huawei"
+    ],
+    "createdAt": "2026-03-27T00:00:00.000Z"
+  },
+  {
+    "id": "prod-105",
+    "name": "Máy tính bảng Xiaomi Tab M11 Plus",
+    "slug": "may-tinh-bang-xiaomi-tab-m11-plus-105",
+    "price": 8470000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://picsum.photos/seed/prod-105/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-105/800/800",
+    "description": "Máy tính bảng màn hình sắc nét tần số quét cao. Hỗ trợ bút cảm ứng ghi chú vẽ. Pin dung lượng lớn dùng cả ngày. Loa stereo. Phù hợp học tập giải trí.",
+    "brand": "Samsung",
+    "sku": "SAM-0105-CHI",
+    "originalPrice": 10160000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Máy tính bảng màn hình lớn, hỗ trợ bút cảm ứng, pin trâu.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-105-a/800/800",
+      "https://picsum.photos/seed/prod-105-b/800/800",
+      "https://picsum.photos/seed/prod-105-c/800/800"
+    ],
+    "specifications": {
+      "Màn hình": "10.5-11 inch",
+      "RAM": "4-8GB",
+      "Bộ nhớ": "64-128GB",
+      "Pin": "7000-8000mAh",
+      "Bút cảm ứng": "Hỗ trợ"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 187
+    },
+    "stock": 241,
+    "soldCount": 1604,
+    "weight": 537,
+    "dimensions": {
+      "length": 25.7,
+      "width": 16.9,
+      "height": 0.7
+    },
+    "origin": "Trung Quốc / Việt Nam",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "máy tính bảng",
+      "tablet",
+      "bút cảm ứng",
+      "học tập",
+      "samsung"
+    ],
+    "createdAt": "2026-03-25T00:00:00.000Z"
+  },
+  {
+    "id": "prod-106",
+    "name": "Loa bluetooth Xiaomi Flip 6",
+    "slug": "loa-bluetooth-xiaomi-flip-6-106",
+    "price": 1350000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://picsum.photos/seed/prod-106/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-106/800/800",
+    "description": "Loa bluetooth công suất mạnh bass sâu. Chống nước tốt dùng ngoài trời. Pin phát nhạc nhiều giờ. Hỗ trợ ghép đôi TWS. Đèn LED trang trí.",
+    "brand": "SoundMax",
+    "sku": "SOU-0106-CHI",
+    "originalPrice": 1650000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Loa bluetooth công suất lớn, chống nước, pin lâu, đèn LED.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-106-a/800/800",
+      "https://picsum.photos/seed/prod-106-b/800/800",
+      "https://picsum.photos/seed/prod-106-c/800/800"
+    ],
+    "specifications": {
+      "Công suất": "20-40W",
+      "Bluetooth": "5.0-5.3",
+      "Chống nước": "IPX5-IPX7",
+      "Pin": "12-24 giờ"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 755
+    },
+    "stock": 166,
+    "soldCount": 920,
+    "weight": 812,
+    "dimensions": {
+      "length": 17.3,
+      "width": 7.6,
+      "height": 7.5
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "loa bluetooth",
+      "chống nước",
+      "bass",
+      "ngoài trời",
+      "soundmax"
+    ],
+    "createdAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-107",
+    "name": "Sạc dự phòng Aukey 30000mAh",
+    "slug": "sac-du-phong-aukey-30000mah-107",
+    "price": 440000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://picsum.photos/seed/prod-107/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-107/800/800",
+    "description": "Sạc dự phòng dung lượng cao hỗ trợ sạc nhanh PD/QC. Nhiều cổng sạc đồng thời. Màn hình hiển thị %. An toàn nhiều lớp bảo vệ.",
+    "brand": "Aukey",
+    "sku": "AUK-0107-CHI",
+    "originalPrice": 495000,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Sạc dự phòng dung lượng lớn sạc nhanh nhiều cổng.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-107-a/800/800",
+      "https://picsum.photos/seed/prod-107-b/800/800",
+      "https://picsum.photos/seed/prod-107-c/800/800"
+    ],
+    "specifications": {
+      "Dung lượng": "10000-30000mAh",
+      "Sạc nhanh": "PD/QC",
+      "Cổng": "USB-C + USB-A",
+      "Màn hình": "LED"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 617
+    },
+    "stock": 209,
+    "soldCount": 1532,
+    "weight": 263,
+    "dimensions": {
+      "length": 14.7,
+      "width": 7.1,
+      "height": 2.6
+    },
+    "origin": "Trung Quốc",
+    "warranty": "18 tháng chính hãng",
+    "tags": [
+      "sạc dự phòng",
+      "powerbank",
+      "sạc nhanh",
+      "aukey"
+    ],
+    "createdAt": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "prod-108",
+    "name": "Chuột không dây Rapoo EM901",
+    "slug": "chuot-khong-day-rapoo-em901-108",
+    "price": 650000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://picsum.photos/seed/prod-108/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-108/800/800",
+    "description": "Chuột không dây thiết kế ergonomic. Cảm biến chính xác. Kết nối Bluetooth hoặc receiver. Pin sử dụng lâu. Nút tùy chỉnh.",
+    "brand": "Logitech",
+    "sku": "LOG-0108-CHI",
+    "originalPrice": 719000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Chuột không dây êm ái, pin lâu, kết nối đa thiết bị.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-108-a/800/800",
+      "https://picsum.photos/seed/prod-108-b/800/800",
+      "https://picsum.photos/seed/prod-108-c/800/800"
+    ],
+    "specifications": {
+      "Cảm biến": "Cao DPI",
+      "Kết nối": "BT / 2.4G",
+      "Pin": "Nhiều tháng",
+      "Nút": "Tùy chỉnh"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 499
+    },
+    "stock": 275,
+    "soldCount": 1079,
+    "weight": 100,
+    "dimensions": {
+      "length": 12.7,
+      "width": 6.9,
+      "height": 3.7
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "chuột không dây",
+      "ergonomic",
+      "văn phòng",
+      "logitech"
+    ],
+    "createdAt": "2026-09-20T00:00:00.000Z"
+  },
+  {
+    "id": "prod-109",
+    "name": "Bàn phím cơ Razer K8 Pro",
+    "slug": "ban-phim-co-razer-k8-pro-109",
+    "price": 3140000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://picsum.photos/seed/prod-109/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-109/800/800",
+    "description": "Bàn phím cơ switch hot-swap dễ thay. Đèn RGB nhiều chế độ. Kết nối Bluetooth hoặc USB-C. Keycap chất lượng. Tương thích đa hệ điều hành.",
+    "brand": "Keychron",
+    "sku": "KEY-0109-CHI",
+    "originalPrice": 3790000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Bàn phím cơ hot-swap, RGB, kết nối không dây hoặc dây.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-109-a/800/800",
+      "https://picsum.photos/seed/prod-109-b/800/800",
+      "https://picsum.photos/seed/prod-109-c/800/800"
+    ],
+    "specifications": {
+      "Layout": "87-104 phím",
+      "Switch": "Hot-swap",
+      "Kết nối": "BT + USB-C",
+      "RGB": "Có"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 759
+    },
+    "stock": 139,
+    "soldCount": 2100,
+    "weight": 1093,
+    "dimensions": {
+      "length": 37.0,
+      "width": 12.0,
+      "height": 3.5
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "bàn phím cơ",
+      "mechanical",
+      "hot-swap",
+      "rgb",
+      "keychron"
+    ],
+    "createdAt": "2026-07-29T00:00:00.000Z"
+  },
+  {
+    "id": "prod-110",
+    "name": "Webcam Rapoo C960",
+    "slug": "webcam-rapoo-c960-110",
+    "price": 1540000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://picsum.photos/seed/prod-110/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-110/800/800",
+    "description": "Webcam Full HD hình ảnh sắc nét. Lấy nét tự động. Micro kép khử tiếng ồn. Kẹp linh hoạt. Tương thích Zoom Teams Meet.",
+    "brand": "Logitech",
+    "sku": "LOG-0110-CHI",
+    "originalPrice": 1880000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Webcam Full HD lấy nét tự động, micro khử ồn.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-110-a/800/800",
+      "https://picsum.photos/seed/prod-110-b/800/800",
+      "https://picsum.photos/seed/prod-110-c/800/800"
+    ],
+    "specifications": {
+      "Độ phân giải": "1080p",
+      "Lấy nét": "Tự động",
+      "Micro": "Khử ồn",
+      "Góc nhìn": "78-90°"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 817
+    },
+    "stock": 276,
+    "soldCount": 3812,
+    "weight": 144,
+    "dimensions": {
+      "length": 8.2,
+      "width": 3.7,
+      "height": 3.2
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "webcam",
+      "họp online",
+      "1080p",
+      "autofocus",
+      "logitech"
+    ],
+    "createdAt": "2026-01-15T00:00:00.000Z"
+  },
+  {
+    "id": "prod-111",
+    "name": "Điện thoại thông minh Oppo Redmi Note 13",
+    "slug": "dien-thoai-thong-minh-oppo-redmi-note-13-111",
+    "price": 10590000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://picsum.photos/seed/prod-111/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-111/800/800",
+    "description": "Smartphone cao cấp với màn hình chất lượng cao, hiệu năng mạnh mẽ cho đa nhiệm và chơi game. Hệ thống camera nhiều ống kính hỗ trợ chụp đêm và chân dung. Pin dung lượng lớn kèm sạc nhanh. Chạy hệ điều hành mới nhất với cam kết cập nhật phần mềm.",
+    "brand": "Xelio",
+    "sku": "XEL-0111-CHI",
+    "originalPrice": 13020000,
+    "discountPercent": 19,
+    "unit": "chiếc",
+    "shortDescription": "Smartphone màn hình AMOLED, chip mạnh, camera AI, pin dung lượng lớn sạc nhanh.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-111-a/800/800",
+      "https://picsum.photos/seed/prod-111-b/800/800",
+      "https://picsum.photos/seed/prod-111-c/800/800"
+    ],
+    "specifications": {
+      "Màn hình": "AMOLED 6.5-6.8 inch",
+      "Chip": "8 nhân",
+      "RAM": "8-12GB",
+      "Bộ nhớ": "128-256GB",
+      "Camera sau": "50-108MP",
+      "Pin": "5000mAh sạc nhanh"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 769
+    },
+    "stock": 253,
+    "soldCount": 3392,
+    "weight": 199,
+    "dimensions": {
+      "length": 15.2,
+      "width": 7.1,
+      "height": 0.8
+    },
+    "origin": "Việt Nam (lắp ráp) / Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "smartphone",
+      "5G",
+      "camera",
+      "sạc nhanh",
+      "xelio"
+    ],
+    "createdAt": "2026-02-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-112",
+    "name": "Laptop Lenovo Inspiron 15 Mini",
+    "slug": "laptop-lenovo-inspiron-15-mini-112",
+    "price": 12760000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://picsum.photos/seed/prod-112/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-112/800/800",
+    "description": "Laptop thiết kế mỏng nhẹ dễ mang theo. Màn hình Full HD chống chói. Bộ xử lý thế hệ mới kết hợp RAM và SSD cho hiệu năng mượt mà. Pin sử dụng cả ngày. Bàn phím có đèn nền.",
+    "brand": "Lenovo",
+    "sku": "LEN-0112-CHI",
+    "originalPrice": 14360000,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Laptop văn phòng / học tập mỏng nhẹ, chip mới, SSD nhanh, pin lâu.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-112-a/800/800",
+      "https://picsum.photos/seed/prod-112-b/800/800",
+      "https://picsum.photos/seed/prod-112-c/800/800"
+    ],
+    "specifications": {
+      "Màn hình": "14-15.6 inch FHD",
+      "CPU": "Intel/AMD thế hệ mới",
+      "RAM": "8-16GB",
+      "SSD": "256-512GB",
+      "Pin": "8-12 giờ"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 750
+    },
+    "stock": 164,
+    "soldCount": 1684,
+    "weight": 1633,
+    "dimensions": {
+      "length": 35.0,
+      "width": 23.9,
+      "height": 1.7
+    },
+    "origin": "Trung Quốc",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "laptop",
+      "văn phòng",
+      "mỏng nhẹ",
+      "ssd",
+      "lenovo"
+    ],
+    "createdAt": "2026-07-05T00:00:00.000Z"
+  },
+  {
+    "id": "prod-113",
+    "name": "Tai nghe không dây JBL Soundcore",
+    "slug": "tai-nghe-khong-day-jbl-soundcore-113",
+    "price": 998000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://picsum.photos/seed/prod-113/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-113/800/800",
+    "description": "Tai nghe true wireless với chống ồn chủ động, âm thanh sống động. Pin sử dụng nhiều giờ kèm hộp sạc. Kết nối Bluetooth ổn định, chống nước. Thiết kế êm tai.",
+    "brand": "Anker",
+    "sku": "ANK-0113-CHI",
+    "originalPrice": 1120000,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Tai nghe true wireless chống ồn, pin lâu, sạc nhanh.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-113-a/800/800",
+      "https://picsum.photos/seed/prod-113-b/800/800",
+      "https://picsum.photos/seed/prod-113-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "True Wireless",
+      "Chống ồn": "ANC",
+      "Pin": "20-40 giờ",
+      "Bluetooth": "5.2-5.3",
+      "Chống nước": "IPX4-IPX5"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 92
+    },
+    "stock": 328,
+    "soldCount": 291,
+    "weight": 42,
+    "dimensions": {
+      "length": 5.8,
+      "width": 5.1,
+      "height": 2.8
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "tai nghe",
+      "true wireless",
+      "chống ồn",
+      "bluetooth",
+      "anker"
+    ],
+    "createdAt": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "prod-114",
+    "name": "Đồng hồ thông minh FitLife Ultra",
+    "slug": "dong-ho-thong-minh-fitlife-ultra-114",
+    "price": 5300000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://picsum.photos/seed/prod-114/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-114/800/800",
+    "description": "Đồng hồ thông minh theo dõi nhịp tim, SpO2, giấc ngủ và nhiều chế độ thể thao. Có GPS, chống nước. Pin sử dụng nhiều ngày. Hỗ trợ thông báo và điều khiển nhạc.",
+    "brand": "FitLife",
+    "sku": "FIT-0114-CHI",
+    "originalPrice": 5940000,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Đồng hồ thông minh theo dõi sức khỏe, GPS, pin nhiều ngày.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-114-a/800/800",
+      "https://picsum.photos/seed/prod-114-b/800/800",
+      "https://picsum.photos/seed/prod-114-c/800/800"
+    ],
+    "specifications": {
+      "Màn hình": "AMOLED/LCD",
+      "Cảm biến": "Nhịp tim SpO2",
+      "Chống nước": "5ATM",
+      "Pin": "7-14 ngày",
+      "GPS": "Có"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 610
+    },
+    "stock": 247,
+    "soldCount": 1045,
+    "weight": 51,
+    "dimensions": {
+      "length": 4.5,
+      "width": 4.5,
+      "height": 1.3
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "đồng hồ thông minh",
+      "fitness",
+      "gps",
+      "sức khỏe",
+      "fitlife"
+    ],
+    "createdAt": "2026-08-03T00:00:00.000Z"
+  },
+  {
+    "id": "prod-115",
+    "name": "Máy tính bảng Xiaomi Pad 6 cao cấp",
+    "slug": "may-tinh-bang-xiaomi-pad-6-cao-cap-115",
+    "price": 9930000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://picsum.photos/seed/prod-115/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-115/800/800",
+    "description": "Máy tính bảng màn hình sắc nét tần số quét cao. Hỗ trợ bút cảm ứng ghi chú vẽ. Pin dung lượng lớn dùng cả ngày. Loa stereo. Phù hợp học tập giải trí.",
+    "brand": "Xiaomi",
+    "sku": "XIA-0115-CHI",
+    "originalPrice": 11440000,
+    "discountPercent": 13,
+    "unit": "chiếc",
+    "shortDescription": "Máy tính bảng màn hình lớn, hỗ trợ bút cảm ứng, pin trâu.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-115-a/800/800",
+      "https://picsum.photos/seed/prod-115-b/800/800",
+      "https://picsum.photos/seed/prod-115-c/800/800"
+    ],
+    "specifications": {
+      "Màn hình": "10.5-11 inch",
+      "RAM": "4-8GB",
+      "Bộ nhớ": "64-128GB",
+      "Pin": "7000-8000mAh",
+      "Bút cảm ứng": "Hỗ trợ"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 82
+    },
+    "stock": 211,
+    "soldCount": 3032,
+    "weight": 509,
+    "dimensions": {
+      "length": 26.8,
+      "width": 15.0,
+      "height": 0.7
+    },
+    "origin": "Trung Quốc / Việt Nam",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "máy tính bảng",
+      "tablet",
+      "bút cảm ứng",
+      "học tập",
+      "xiaomi"
+    ],
+    "createdAt": "2026-04-11T00:00:00.000Z"
+  },
+  {
+    "id": "prod-116",
+    "name": "Loa bluetooth SoundMax Flip 6 2025",
+    "slug": "loa-bluetooth-soundmax-flip-6-2025-116",
+    "price": 978000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://picsum.photos/seed/prod-116/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-116/800/800",
+    "description": "Loa bluetooth công suất mạnh bass sâu. Chống nước tốt dùng ngoài trời. Pin phát nhạc nhiều giờ. Hỗ trợ ghép đôi TWS. Đèn LED trang trí.",
+    "brand": "Anker",
+    "sku": "ANK-0116-CHI",
+    "originalPrice": 1130000,
+    "discountPercent": 13,
+    "unit": "chiếc",
+    "shortDescription": "Loa bluetooth công suất lớn, chống nước, pin lâu, đèn LED.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-116-a/800/800",
+      "https://picsum.photos/seed/prod-116-b/800/800",
+      "https://picsum.photos/seed/prod-116-c/800/800"
+    ],
+    "specifications": {
+      "Công suất": "20-40W",
+      "Bluetooth": "5.0-5.3",
+      "Chống nước": "IPX5-IPX7",
+      "Pin": "12-24 giờ"
     },
     "rating": {
       "average": 4.7,
-      "count": 412
+      "count": 896
     },
-    "stock": 96,
-    "soldCount": 980,
-    "weight": 254,
+    "stock": 286,
+    "soldCount": 451,
+    "weight": 542,
     "dimensions": {
-      "length": 19.5,
-      "width": 16.8,
-      "height": 8.2
+      "length": 17.9,
+      "width": 8.6,
+      "height": 7.3
     },
     "origin": "Trung Quốc",
-    "warranty": "12 tháng chính hãng, 1 đổi 1 trong 30 ngày đầu",
+    "warranty": "12 tháng chính hãng",
     "tags": [
-      "tai nghe",
-      "chống ồn",
-      "bluetooth",
-      "ANC"
+      "loa bluetooth",
+      "chống nước",
+      "bass",
+      "ngoài trời",
+      "anker"
     ],
-    "createdAt": "2026-08-01T00:00:00.000Z"
+    "createdAt": "2026-01-27T00:00:00.000Z"
+  },
+  {
+    "id": "prod-117",
+    "name": "Sạc dự phòng Romoss 10000mAh",
+    "slug": "sac-du-phong-romoss-10000mah-117",
+    "price": 464000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://picsum.photos/seed/prod-117/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-117/800/800",
+    "description": "Sạc dự phòng dung lượng cao hỗ trợ sạc nhanh PD/QC. Nhiều cổng sạc đồng thời. Màn hình hiển thị %. An toàn nhiều lớp bảo vệ.",
+    "brand": "Baseus",
+    "sku": "BAS-0117-CHI",
+    "originalPrice": 533000,
+    "discountPercent": 13,
+    "unit": "chiếc",
+    "shortDescription": "Sạc dự phòng dung lượng lớn sạc nhanh nhiều cổng.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-117-a/800/800",
+      "https://picsum.photos/seed/prod-117-b/800/800",
+      "https://picsum.photos/seed/prod-117-c/800/800"
+    ],
+    "specifications": {
+      "Dung lượng": "10000-30000mAh",
+      "Sạc nhanh": "PD/QC",
+      "Cổng": "USB-C + USB-A",
+      "Màn hình": "LED"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 419
+    },
+    "stock": 140,
+    "soldCount": 3845,
+    "weight": 323,
+    "dimensions": {
+      "length": 13.2,
+      "width": 6.9,
+      "height": 2.3
+    },
+    "origin": "Trung Quốc",
+    "warranty": "18 tháng chính hãng",
+    "tags": [
+      "sạc dự phòng",
+      "powerbank",
+      "sạc nhanh",
+      "baseus"
+    ],
+    "createdAt": "2026-08-03T00:00:00.000Z"
+  },
+  {
+    "id": "prod-118",
+    "name": "Chuột không dây Xiaomi Arc",
+    "slug": "chuot-khong-day-xiaomi-arc-118",
+    "price": 2230000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://picsum.photos/seed/prod-118/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-118/800/800",
+    "description": "Chuột không dây thiết kế ergonomic. Cảm biến chính xác. Kết nối Bluetooth hoặc receiver. Pin sử dụng lâu. Nút tùy chỉnh.",
+    "brand": "Dareu",
+    "sku": "DAR-0118-CHI",
+    "originalPrice": 2470000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Chuột không dây êm ái, pin lâu, kết nối đa thiết bị.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-118-a/800/800",
+      "https://picsum.photos/seed/prod-118-b/800/800",
+      "https://picsum.photos/seed/prod-118-c/800/800"
+    ],
+    "specifications": {
+      "Cảm biến": "Cao DPI",
+      "Kết nối": "BT / 2.4G",
+      "Pin": "Nhiều tháng",
+      "Nút": "Tùy chỉnh"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 341
+    },
+    "stock": 34,
+    "soldCount": 255,
+    "weight": 117,
+    "dimensions": {
+      "length": 11.3,
+      "width": 6.4,
+      "height": 4.2
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "chuột không dây",
+      "ergonomic",
+      "văn phòng",
+      "dareu"
+    ],
+    "createdAt": "2026-06-13T00:00:00.000Z"
+  },
+  {
+    "id": "prod-119",
+    "name": "Bàn phím cơ Logitech BlackWidow",
+    "slug": "ban-phim-co-logitech-blackwidow-119",
+    "price": 1550000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://picsum.photos/seed/prod-119/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-119/800/800",
+    "description": "Bàn phím cơ switch hot-swap dễ thay. Đèn RGB nhiều chế độ. Kết nối Bluetooth hoặc USB-C. Keycap chất lượng. Tương thích đa hệ điều hành.",
+    "brand": "Razer",
+    "sku": "RAZ-0119-CHI",
+    "originalPrice": 1690000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Bàn phím cơ hot-swap, RGB, kết nối không dây hoặc dây.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-119-a/800/800",
+      "https://picsum.photos/seed/prod-119-b/800/800",
+      "https://picsum.photos/seed/prod-119-c/800/800"
+    ],
+    "specifications": {
+      "Layout": "87-104 phím",
+      "Switch": "Hot-swap",
+      "Kết nối": "BT + USB-C",
+      "RGB": "Có"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 260
+    },
+    "stock": 211,
+    "soldCount": 541,
+    "weight": 960,
+    "dimensions": {
+      "length": 33.0,
+      "width": 12.2,
+      "height": 3.6
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "bàn phím cơ",
+      "mechanical",
+      "hot-swap",
+      "rgb",
+      "razer"
+    ],
+    "createdAt": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "id": "prod-120",
+    "name": "Webcam Emeet C270",
+    "slug": "webcam-emeet-c270-120",
+    "price": 457000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://picsum.photos/seed/prod-120/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-120/800/800",
+    "description": "Webcam Full HD hình ảnh sắc nét. Lấy nét tự động. Micro kép khử tiếng ồn. Kẹp linh hoạt. Tương thích Zoom Teams Meet.",
+    "brand": "Emeet",
+    "sku": "EME-0120-CHI",
+    "originalPrice": 542000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Webcam Full HD lấy nét tự động, micro khử ồn.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-120-a/800/800",
+      "https://picsum.photos/seed/prod-120-b/800/800",
+      "https://picsum.photos/seed/prod-120-c/800/800"
+    ],
+    "specifications": {
+      "Độ phân giải": "1080p",
+      "Lấy nét": "Tự động",
+      "Micro": "Khử ồn",
+      "Góc nhìn": "78-90°"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 705
+    },
+    "stock": 165,
+    "soldCount": 1027,
+    "weight": 133,
+    "dimensions": {
+      "length": 8.3,
+      "width": 4.1,
+      "height": 2.9
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "webcam",
+      "họp online",
+      "1080p",
+      "autofocus",
+      "emeet"
+    ],
+    "createdAt": "2026-03-23T00:00:00.000Z"
   }
 ]

@@ -6,43 +6,43 @@
   },
   {
     "id": "cat-2",
-    "name": "Thời trang",
-    "slug": "thoi-trang"
-  },
-  {
-    "id": "cat-3",
     "name": "Gia dụng",
     "slug": "gia-dung"
   },
   {
-    "id": "cat-4",
-    "name": "Sách - văn phòng phẩm",
-    "slug": "sach-van-phong-pham"
-  },
-  {
-    "id": "cat-5",
-    "name": "Thực phẩm - đồ uống",
-    "slug": "thuc-pham-do-uong"
-  },
-  {
-    "id": "cat-6",
-    "name": "Mỹ phẩm - chăm sóc cá nhân",
-    "slug": "my-pham-cham-soc-ca-nhan"
-  },
-  {
-    "id": "cat-7",
+    "id": "cat-3",
     "name": "Mẹ và bé - đồ chơi trẻ em",
     "slug": "me-va-be-do-choi-tre-em"
   },
   {
-    "id": "cat-8",
+    "id": "cat-4",
+    "name": "Mỹ phẩm - chăm sóc cá nhân",
+    "slug": "my-pham-cham-soc-ca-nhan"
+  },
+  {
+    "id": "cat-5",
+    "name": "Nội thất - trang trí",
+    "slug": "noi-that-trang-tri"
+  },
+  {
+    "id": "cat-6",
+    "name": "Sách - văn phòng phẩm",
+    "slug": "sach-van-phong-pham"
+  },
+  {
+    "id": "cat-7",
     "name": "Thể thao - dã ngoại",
     "slug": "the-thao-da-ngoai"
   },
   {
+    "id": "cat-8",
+    "name": "Thời trang",
+    "slug": "thoi-trang"
+  },
+  {
     "id": "cat-9",
-    "name": "Nội thất - trang trí",
-    "slug": "noi-that-trang-tri"
+    "name": "Thực phẩm - đồ uống",
+    "slug": "thuc-pham-do-uong"
   },
   {
     "id": "cat-10",

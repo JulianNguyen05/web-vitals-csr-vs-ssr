@@ -1,51 +1,4762 @@
 [
   {
-    "id": "prod-501",
-    "slug": "ca-phe-rang-xay-cao-nguyen-gold-501",
-    "name": "Cà Phê Rang Xay Nguyên Chất Cao Nguyên Gold 500g",
-    "categoryId": "cat-5",
-    "brand": "Cao Nguyên Gold",
-    "sku": "CNG-COFFEE-500-RB",
-    "price": 145000,
-    "originalPrice": 175000,
-    "discountPercent": 17,
-    "unit": "gói",
-    "shortDescription": "Cà phê Robusta rang mộc nguyên chất 100%, xay sẵn, đóng gói 500g, hương thơm đậm đà vị đắng nhẹ hậu ngọt.",
-    "description": "Cà Phê Cao Nguyên Gold được tuyển chọn từ hạt Robusta trồng tại vùng cao nguyên, rang mộc theo phương pháp truyền thống không tẩm phụ gia, giữ trọn hương thơm tự nhiên và vị đắng đặc trưng hậu ngọt dịu nơi cổ họng. Hạt cà phê sau khi rang được xay vừa, phù hợp pha phin kiểu Việt Nam truyền thống, cho ra ly cà phê đậm đà, sánh mịn. Sản phẩm đóng gói trong túi zipper có van thoát khí một chiều, giữ hương vị tươi mới lâu dài, thuận tiện đóng mở nhiều lần mà không lo ẩm mốc.",
-    "thumbUrl": "https://picsum.photos/seed/prod-501/400/400",
-    "detailUrl": "https://picsum.photos/seed/prod-501/800/800",
+    "id": "prod-901",
+    "name": "Cà phê Trung Nguyên rang xay Mini",
+    "slug": "ca-phe-trung-nguyen-rang-xay-mini-901",
+    "price": 287000,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-901/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-901/800/800",
+    "description": "Cà phê chọn lọc rang theo công thức riêng. Hương vị đậm đà chua thanh hoặc đậm ngọt. Dạng rang xay hòa tan hoặc phin giấy tiện dụng.",
+    "brand": "Nescafe",
+    "sku": "NES-0901-GÓI",
+    "originalPrice": 311000,
+    "discountPercent": 8,
+    "unit": "gói/hộp",
+    "shortDescription": "Cà phê rang xay hoặc hòa tan hương vị đậm đà.",
     "gallery": [
-      "https://picsum.photos/seed/prod-501-a/800/800",
-      "https://picsum.photos/seed/prod-501-b/800/800"
+      "https://picsum.photos/seed/prod-901-a/800/800",
+      "https://picsum.photos/seed/prod-901-b/800/800",
+      "https://picsum.photos/seed/prod-901-c/800/800"
     ],
     "specifications": {
-      "Thành phần": "100% cà phê Robusta rang xay nguyên chất",
-      "Khối lượng tịnh": "500g",
-      "Phương pháp rang": "Rang mộc truyền thống",
-      "Độ xay": "Vừa, phù hợp pha phin",
-      "Hạn sử dụng": "12 tháng kể từ ngày sản xuất",
-      "Bảo quản": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp",
-      "Đóng gói": "Túi zipper có van thoát khí"
+      "Loại": "Rang xay / Hòa tan",
+      "Trọng lượng": "100-500g",
+      "Hương vị": "Đậm đà / Chua thanh"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 194
+    },
+    "stock": 9,
+    "soldCount": 2483,
+    "weight": 342,
+    "dimensions": {
+      "length": 14.8,
+      "width": 9.0,
+      "height": 5.5
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "cà phê",
+      "rang xay",
+      "hòa tan",
+      "đồ uống",
+      "nescafe"
+    ],
+    "createdAt": "2026-04-15T00:00:00.000Z"
+  },
+  {
+    "id": "prod-902",
+    "name": "Sữa tươi / Sữa chua Nestle",
+    "slug": "sua-tuoi-sua-chua-nestle-902",
+    "price": 82200,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-902/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-902/800/800",
+    "description": "Sữa tươi 100% hoặc sữa chua men sống. Giàu canxi protein. Hỗ trợ tiêu hóa và phát triển. Nhiều hương vị. Tiện lợi dùng hàng ngày.",
+    "brand": "Nestle",
+    "sku": "NES-0902-HỘP",
+    "originalPrice": 92234,
+    "discountPercent": 11,
+    "unit": "hộp/lốc",
+    "shortDescription": "Sữa tươi tiệt trùng hoặc sữa chua men sống dinh dưỡng.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-902-a/800/800",
+      "https://picsum.photos/seed/prod-902-b/800/800",
+      "https://picsum.photos/seed/prod-902-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Sữa tươi / Sữa chua",
+      "Dung tích": "110ml-1L",
+      "Dinh dưỡng": "Canxi Protein Men sống"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 253
+    },
+    "stock": 273,
+    "soldCount": 2110,
+    "weight": 222,
+    "dimensions": {
+      "length": 18.2,
+      "width": 7.2,
+      "height": 8.3
+    },
+    "origin": "Việt Nam / Thái Lan / New Zealand",
+    "warranty": "Theo HSD",
+    "tags": [
+      "sữa",
+      "sữa chua",
+      "dinh dưỡng",
+      "đồ uống",
+      "nestle"
+    ],
+    "createdAt": "2026-02-26T00:00:00.000Z"
+  },
+  {
+    "id": "prod-903",
+    "name": "Gạo Ông Cụ ST25 Plus",
+    "slug": "gao-ong-cu-st25-plus-903",
+    "price": 153000,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-903/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-903/800/800",
+    "description": "Gạo chất lượng cao hạt dài trắng trong. Cơm dẻo thơm tự nhiên. Nhiều giống nổi tiếng. Túi tiện dùng gia đình.",
+    "brand": "Nàng Hoa",
+    "sku": "NAN-0903-TÚI",
+    "originalPrice": 184000,
+    "discountPercent": 17,
+    "unit": "túi",
+    "shortDescription": "Gạo ngon hạt dài dẻo thơm túi 2-5kg.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-903-a/800/800",
+      "https://picsum.photos/seed/prod-903-b/800/800",
+      "https://picsum.photos/seed/prod-903-c/800/800"
+    ],
+    "specifications": {
+      "Giống": "ST25 / Jasmine / Tám xoan",
+      "Trọng lượng": "2-5kg",
+      "Đặc điểm": "Hạt dài dẻo thơm"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 381
+    },
+    "stock": 159,
+    "soldCount": 2958,
+    "weight": 4235,
+    "dimensions": {
+      "length": 38.1,
+      "width": 24.9,
+      "height": 9.7
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "gạo",
+      "thực phẩm",
+      "gia đình",
+      "nang-hoa"
+    ],
+    "createdAt": "2026-04-10T00:00:00.000Z"
+  },
+  {
+    "id": "prod-904",
+    "name": "Dầu ăn Meizan gạo 2025",
+    "slug": "dau-an-meizan-gao-2025-904",
+    "price": 83800,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-904/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-904/800/800",
+    "description": "Dầu ăn từ olive đậu nành hướng dương hoặc gạo. Ép hoặc tinh luyện. Phù hợp chiên xào salad. Chai tiện dụng.",
+    "brand": "Simply",
+    "sku": "SIM-0904-CHA",
+    "originalPrice": 104000,
+    "discountPercent": 19,
+    "unit": "chai",
+    "shortDescription": "Dầu ăn nguyên chất nhiều loại tốt cho sức khỏe.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-904-a/800/800",
+      "https://picsum.photos/seed/prod-904-b/800/800",
+      "https://picsum.photos/seed/prod-904-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Olive / Đậu nành / Hướng dương / Gạo",
+      "Dung tích": "400ml-1L",
+      "Phương pháp": "Ép / Tinh luyện"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 778
+    },
+    "stock": 225,
+    "soldCount": 1522,
+    "weight": 625,
+    "dimensions": {
+      "length": 10.3,
+      "width": 9.3,
+      "height": 25.0
+    },
+    "origin": "Việt Nam / Tây Ban Nha / Thái Lan",
+    "warranty": "Theo HSD",
+    "tags": [
+      "dầu ăn",
+      "gia vị",
+      "thực phẩm",
+      "simply"
+    ],
+    "createdAt": "2026-03-08T00:00:00.000Z"
+  },
+  {
+    "id": "prod-905",
+    "name": "Trà Cozy đen",
+    "slug": "tra-cozy-den-905",
+    "price": 53300,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-905/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-905/800/800",
+    "description": "Trà xanh đen hoặc hương hoa quả. Dạng túi lọc tiện pha hoặc trà lá. Hương vị dịu thanh. Phù hợp văn phòng gia đình.",
+    "brand": "Phúc Long",
+    "sku": "PHU-0905-HỘP",
+    "originalPrice": 66311,
+    "discountPercent": 20,
+    "unit": "hộp",
+    "shortDescription": "Trà túi lọc hoặc trà lá hương vị thơm ngon.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-905-a/800/800",
+      "https://picsum.photos/seed/prod-905-b/800/800",
+      "https://picsum.photos/seed/prod-905-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Xanh / Đen / Hoa quả",
+      "Dạng": "Túi lọc / Lá",
+      "Số gói": "20-50"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 559
+    },
+    "stock": 94,
+    "soldCount": 1136,
+    "weight": 274,
+    "dimensions": {
+      "length": 15.4,
+      "width": 10.1,
+      "height": 8.7
+    },
+    "origin": "Việt Nam / Sri Lanka / Anh",
+    "warranty": "Theo HSD",
+    "tags": [
+      "trà",
+      "đồ uống",
+      "túi lọc",
+      "phuc-long"
+    ],
+    "createdAt": "2026-09-05T00:00:00.000Z"
+  },
+  {
+    "id": "prod-906",
+    "name": "Gia vị Knorr hạt nêm Max",
+    "slug": "gia-vi-knorr-hat-nem-max-906",
+    "price": 52500,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-906/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-906/800/800",
+    "description": "Gia vị thiết yếu cho mọi căn bếp. Nước mắm đậm đà tương ớt cay hạt nêm umami. Chất lượng ổn định. Dùng hàng ngày.",
+    "brand": "Knorr",
+    "sku": "KNO-0906-CHA",
+    "originalPrice": 58400,
+    "discountPercent": 10,
+    "unit": "chai/gói",
+    "shortDescription": "Gia vị thiết yếu nước mắm tương ớt hạt nêm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-906-a/800/800",
+      "https://picsum.photos/seed/prod-906-b/800/800",
+      "https://picsum.photos/seed/prod-906-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Nước mắm / Tương ớt / Hạt nêm",
+      "Dung tích/Trọng lượng": "Đa dạng",
+      "Đặc điểm": "Đậm đà / Cay vừa"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 485
+    },
+    "stock": 295,
+    "soldCount": 3296,
+    "weight": 396,
+    "dimensions": {
+      "length": 7.0,
+      "width": 6.8,
+      "height": 18.4
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "gia vị",
+      "nước mắm",
+      "tương ớt",
+      "hạt nêm",
+      "knorr"
+    ],
+    "createdAt": "2026-08-05T00:00:00.000Z"
+  },
+  {
+    "id": "prod-907",
+    "name": "Bánh kẹo / Snack Orion",
+    "slug": "banh-keo-snack-orion-907",
+    "price": 27300,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-907/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-907/800/800",
+    "description": "Bánh quy kẹo hoặc snack khoai tây. Hương vị đa dạng. Giòn ngon. Phù hợp ăn vặt mọi lứa tuổi. Gói tiện lợi.",
+    "brand": "Poca",
+    "sku": "POC-0907-GÓI",
+    "originalPrice": 31648,
+    "discountPercent": 14,
+    "unit": "gói",
+    "shortDescription": "Bánh kẹo snack giòn ngon nhiều hương vị.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-907-a/800/800",
+      "https://picsum.photos/seed/prod-907-b/800/800",
+      "https://picsum.photos/seed/prod-907-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bánh quy / Kẹo / Snack",
+      "Trọng lượng": "30-200g",
+      "Hương vị": "Đa dạng"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 518
+    },
+    "stock": 152,
+    "soldCount": 314,
+    "weight": 68,
+    "dimensions": {
+      "length": 15.1,
+      "width": 7.7,
+      "height": 5.1
+    },
+    "origin": "Việt Nam / Trung Quốc / Hàn Quốc",
+    "warranty": "Theo HSD",
+    "tags": [
+      "bánh kẹo",
+      "snack",
+      "ăn vặt",
+      "poca"
+    ],
+    "createdAt": "2026-08-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-908",
+    "name": "Mì / Phở / Cháo ăn liền Kokomi",
+    "slug": "mi-pho-chao-an-lien-kokomi-908",
+    "price": 40600,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-908/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-908/800/800",
+    "description": "Mì tôm phở hoặc cháo ăn liền. Nấu nhanh 3-5 phút. Nhiều hương vị. Thùng dự trữ hoặc gói lẻ. Bữa ăn nhanh tiện lợi.",
+    "brand": "Omachi",
+    "sku": "OMA-0908-THÙ",
+    "originalPrice": 49545,
+    "discountPercent": 18,
+    "unit": "thùng/gói",
+    "shortDescription": "Mì phở cháo ăn liền tiện lợi nhiều hương vị.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-908-a/800/800",
+      "https://picsum.photos/seed/prod-908-b/800/800",
+      "https://picsum.photos/seed/prod-908-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Mì / Phở / Cháo",
+      "Vị": "Đa dạng",
+      "Thời gian nấu": "3-5 phút",
+      "Quy cách": "Gói / Thùng"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 20
+    },
+    "stock": 30,
+    "soldCount": 1079,
+    "weight": 575,
+    "dimensions": {
+      "length": 36.4,
+      "width": 24.0,
+      "height": 19.7
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "mì ăn liền",
+      "phở",
+      "cháo",
+      "tiện lợi",
+      "omachi"
+    ],
+    "createdAt": "2026-02-19T00:00:00.000Z"
+  },
+  {
+    "id": "prod-909",
+    "name": "Nước ngọt / Nước trái cây Lavie",
+    "slug": "nuoc-ngot-nuoc-trai-cay-lavie-909",
+    "price": 79500,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-909/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-909/800/800",
+    "description": "Nước ngọt có ga hương vị quen thuộc hoặc nước trái cây. Sảng khoái khi uống lạnh. Lon chai hoặc lốc tiện lợi.",
+    "brand": "Number 1",
+    "sku": "NUM-0909-LỐC",
+    "originalPrice": 87955,
+    "discountPercent": 10,
+    "unit": "lốc/chai",
+    "shortDescription": "Nước ngọt có ga hoặc nước trái cây giải khát.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-909-a/800/800",
+      "https://picsum.photos/seed/prod-909-b/800/800",
+      "https://picsum.photos/seed/prod-909-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Có ga / Trái cây / Suối",
+      "Dung tích": "330ml-1.5L",
+      "Quy cách": "Lon / Chai / Lốc"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 102
+    },
+    "stock": 153,
+    "soldCount": 946,
+    "weight": 1034,
+    "dimensions": {
+      "length": 20.9,
+      "width": 13.9,
+      "height": 12.6
+    },
+    "origin": "Việt Nam / Thái Lan",
+    "warranty": "Theo HSD",
+    "tags": [
+      "nước ngọt",
+      "nước trái cây",
+      "giải khát",
+      "number-1"
+    ],
+    "createdAt": "2026-01-23T00:00:00.000Z"
+  },
+  {
+    "id": "prod-910",
+    "name": "Hạt / Ngũ cốc Quaker",
+    "slug": "hat-ngu-coc-quaker-910",
+    "price": 90200,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-910/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-910/800/800",
+    "description": "Hạt điều hạnh nhân hoặc ngũ cốc ăn sáng. Giàu dinh dưỡng. Rang muối hoặc nguyên vị. Phù hợp ăn vặt hoặc bữa sáng.",
+    "brand": "Calbee",
+    "sku": "CAL-0910-GÓI",
+    "originalPrice": 110000,
+    "discountPercent": 18,
+    "unit": "gói",
+    "shortDescription": "Hạt điều ngũ cốc dinh dưỡng ăn vặt lành mạnh.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-910-a/800/800",
+      "https://picsum.photos/seed/prod-910-b/800/800",
+      "https://picsum.photos/seed/prod-910-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Hạt điều / Hạnh nhân / Ngũ cốc",
+      "Trọng lượng": "100-500g",
+      "Đặc điểm": "Dinh dưỡng / Ít dầu"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 329
+    },
+    "stock": 310,
+    "soldCount": 1322,
+    "weight": 426,
+    "dimensions": {
+      "length": 14.7,
+      "width": 9.8,
+      "height": 5.4
+    },
+    "origin": "Việt Nam / Thái Lan / Mỹ / Nhật Bản",
+    "warranty": "Theo HSD",
+    "tags": [
+      "hạt",
+      "ngũ cốc",
+      "ăn vặt",
+      "dinh dưỡng",
+      "calbee"
+    ],
+    "createdAt": "2026-02-28T00:00:00.000Z"
+  },
+  {
+    "id": "prod-911",
+    "name": "Cà phê G7 hòa tan",
+    "slug": "ca-phe-g7-hoa-tan-911",
+    "price": 246000,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-911/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-911/800/800",
+    "description": "Cà phê chọn lọc rang theo công thức riêng. Hương vị đậm đà chua thanh hoặc đậm ngọt. Dạng rang xay hòa tan hoặc phin giấy tiện dụng.",
+    "brand": "Starbucks",
+    "sku": "STA-0911-GÓI",
+    "originalPrice": 290000,
+    "discountPercent": 15,
+    "unit": "gói/hộp",
+    "shortDescription": "Cà phê rang xay hoặc hòa tan hương vị đậm đà.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-911-a/800/800",
+      "https://picsum.photos/seed/prod-911-b/800/800",
+      "https://picsum.photos/seed/prod-911-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Rang xay / Hòa tan",
+      "Trọng lượng": "100-500g",
+      "Hương vị": "Đậm đà / Chua thanh"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 332
+    },
+    "stock": 48,
+    "soldCount": 1267,
+    "weight": 449,
+    "dimensions": {
+      "length": 15.8,
+      "width": 9.5,
+      "height": 4.9
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "cà phê",
+      "rang xay",
+      "hòa tan",
+      "đồ uống",
+      "starbucks"
+    ],
+    "createdAt": "2026-06-09T00:00:00.000Z"
+  },
+  {
+    "id": "prod-912",
+    "name": "Sữa tươi / Sữa chua Nestle",
+    "slug": "sua-tuoi-sua-chua-nestle-912",
+    "price": 76300,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-912/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-912/800/800",
+    "description": "Sữa tươi 100% hoặc sữa chua men sống. Giàu canxi protein. Hỗ trợ tiêu hóa và phát triển. Nhiều hương vị. Tiện lợi dùng hàng ngày.",
+    "brand": "Nestle",
+    "sku": "NES-0912-HỘP",
+    "originalPrice": 93765,
+    "discountPercent": 19,
+    "unit": "hộp/lốc",
+    "shortDescription": "Sữa tươi tiệt trùng hoặc sữa chua men sống dinh dưỡng.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-912-a/800/800",
+      "https://picsum.photos/seed/prod-912-b/800/800",
+      "https://picsum.photos/seed/prod-912-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Sữa tươi / Sữa chua",
+      "Dung tích": "110ml-1L",
+      "Dinh dưỡng": "Canxi Protein Men sống"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 721
+    },
+    "stock": 188,
+    "soldCount": 1968,
+    "weight": 557,
+    "dimensions": {
+      "length": 18.4,
+      "width": 8.0,
+      "height": 8.3
+    },
+    "origin": "Việt Nam / Thái Lan / New Zealand",
+    "warranty": "Theo HSD",
+    "tags": [
+      "sữa",
+      "sữa chua",
+      "dinh dưỡng",
+      "đồ uống",
+      "nestle"
+    ],
+    "createdAt": "2026-04-15T00:00:00.000Z"
+  },
+  {
+    "id": "prod-913",
+    "name": "Gạo Nàng Hoa lứt",
+    "slug": "gao-nang-hoa-lut-913",
+    "price": 149000,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-913/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-913/800/800",
+    "description": "Gạo chất lượng cao hạt dài trắng trong. Cơm dẻo thơm tự nhiên. Nhiều giống nổi tiếng. Túi tiện dùng gia đình.",
+    "brand": "Nàng Hoa",
+    "sku": "NAN-0913-TÚI",
+    "originalPrice": 162000,
+    "discountPercent": 8,
+    "unit": "túi",
+    "shortDescription": "Gạo ngon hạt dài dẻo thơm túi 2-5kg.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-913-a/800/800",
+      "https://picsum.photos/seed/prod-913-b/800/800",
+      "https://picsum.photos/seed/prod-913-c/800/800"
+    ],
+    "specifications": {
+      "Giống": "ST25 / Jasmine / Tám xoan",
+      "Trọng lượng": "2-5kg",
+      "Đặc điểm": "Hạt dài dẻo thơm"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 329
+    },
+    "stock": 129,
+    "soldCount": 2427,
+    "weight": 4289,
+    "dimensions": {
+      "length": 36.2,
+      "width": 26.3,
+      "height": 9.2
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "gạo",
+      "thực phẩm",
+      "gia đình",
+      "nang-hoa"
+    ],
+    "createdAt": "2026-05-26T00:00:00.000Z"
+  },
+  {
+    "id": "prod-914",
+    "name": "Dầu ăn Olivoilà đậu nành",
+    "slug": "dau-an-olivoila-dau-nanh-914",
+    "price": 275000,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-914/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-914/800/800",
+    "description": "Dầu ăn từ olive đậu nành hướng dương hoặc gạo. Ép hoặc tinh luyện. Phù hợp chiên xào salad. Chai tiện dụng.",
+    "brand": "Meizan",
+    "sku": "MEI-0914-CHA",
+    "originalPrice": 311000,
+    "discountPercent": 12,
+    "unit": "chai",
+    "shortDescription": "Dầu ăn nguyên chất nhiều loại tốt cho sức khỏe.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-914-a/800/800",
+      "https://picsum.photos/seed/prod-914-b/800/800",
+      "https://picsum.photos/seed/prod-914-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Olive / Đậu nành / Hướng dương / Gạo",
+      "Dung tích": "400ml-1L",
+      "Phương pháp": "Ép / Tinh luyện"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 550
+    },
+    "stock": 240,
+    "soldCount": 3487,
+    "weight": 802,
+    "dimensions": {
+      "length": 9.3,
+      "width": 10.3,
+      "height": 24.8
+    },
+    "origin": "Việt Nam / Tây Ban Nha / Thái Lan",
+    "warranty": "Theo HSD",
+    "tags": [
+      "dầu ăn",
+      "gia vị",
+      "thực phẩm",
+      "meizan"
+    ],
+    "createdAt": "2026-01-28T00:00:00.000Z"
+  },
+  {
+    "id": "prod-915",
+    "name": "Trà Cozy xanh cao cấp",
+    "slug": "tra-cozy-xanh-cao-cap-915",
+    "price": 181000,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-915/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-915/800/800",
+    "description": "Trà xanh đen hoặc hương hoa quả. Dạng túi lọc tiện pha hoặc trà lá. Hương vị dịu thanh. Phù hợp văn phòng gia đình.",
+    "brand": "Dilmah",
+    "sku": "DIL-0915-HỘP",
+    "originalPrice": 198000,
+    "discountPercent": 9,
+    "unit": "hộp",
+    "shortDescription": "Trà túi lọc hoặc trà lá hương vị thơm ngon.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-915-a/800/800",
+      "https://picsum.photos/seed/prod-915-b/800/800",
+      "https://picsum.photos/seed/prod-915-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Xanh / Đen / Hoa quả",
+      "Dạng": "Túi lọc / Lá",
+      "Số gói": "20-50"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 618
+    },
+    "stock": 350,
+    "soldCount": 2142,
+    "weight": 124,
+    "dimensions": {
+      "length": 15.2,
+      "width": 10.4,
+      "height": 8.6
+    },
+    "origin": "Việt Nam / Sri Lanka / Anh",
+    "warranty": "Theo HSD",
+    "tags": [
+      "trà",
+      "đồ uống",
+      "túi lọc",
+      "dilmah"
+    ],
+    "createdAt": "2026-07-23T00:00:00.000Z"
+  },
+  {
+    "id": "prod-916",
+    "name": "Gia vị Chin-su tương ớt",
+    "slug": "gia-vi-chin-su-tuong-ot-916",
+    "price": 76900,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-916/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-916/800/800",
+    "description": "Gia vị thiết yếu cho mọi căn bếp. Nước mắm đậm đà tương ớt cay hạt nêm umami. Chất lượng ổn định. Dùng hàng ngày.",
+    "brand": "Đầu bếp",
+    "sku": "DAU-0916-CHA",
+    "originalPrice": 84835,
+    "discountPercent": 9,
+    "unit": "chai/gói",
+    "shortDescription": "Gia vị thiết yếu nước mắm tương ớt hạt nêm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-916-a/800/800",
+      "https://picsum.photos/seed/prod-916-b/800/800",
+      "https://picsum.photos/seed/prod-916-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Nước mắm / Tương ớt / Hạt nêm",
+      "Dung tích/Trọng lượng": "Đa dạng",
+      "Đặc điểm": "Đậm đà / Cay vừa"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 26
+    },
+    "stock": 253,
+    "soldCount": 2604,
+    "weight": 558,
+    "dimensions": {
+      "length": 7.2,
+      "width": 7.5,
+      "height": 17.3
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "gia vị",
+      "nước mắm",
+      "tương ớt",
+      "hạt nêm",
+      "dau-bep"
+    ],
+    "createdAt": "2026-07-10T00:00:00.000Z"
+  },
+  {
+    "id": "prod-917",
+    "name": "Bánh kẹo / Snack Kinh Đô",
+    "slug": "banh-keo-snack-kinh-do-917",
+    "price": 87100,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-917/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-917/800/800",
+    "description": "Bánh quy kẹo hoặc snack khoai tây. Hương vị đa dạng. Giòn ngon. Phù hợp ăn vặt mọi lứa tuổi. Gói tiện lợi.",
+    "brand": "Kinh Đô",
+    "sku": "KIN-0917-GÓI",
+    "originalPrice": 107000,
+    "discountPercent": 19,
+    "unit": "gói",
+    "shortDescription": "Bánh kẹo snack giòn ngon nhiều hương vị.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-917-a/800/800",
+      "https://picsum.photos/seed/prod-917-b/800/800",
+      "https://picsum.photos/seed/prod-917-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bánh quy / Kẹo / Snack",
+      "Trọng lượng": "30-200g",
+      "Hương vị": "Đa dạng"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 474
+    },
+    "stock": 205,
+    "soldCount": 277,
+    "weight": 163,
+    "dimensions": {
+      "length": 13.8,
+      "width": 7.5,
+      "height": 5.0
+    },
+    "origin": "Việt Nam / Trung Quốc / Hàn Quốc",
+    "warranty": "Theo HSD",
+    "tags": [
+      "bánh kẹo",
+      "snack",
+      "ăn vặt",
+      "kinh-do"
+    ],
+    "createdAt": "2026-09-09T00:00:00.000Z"
+  },
+  {
+    "id": "prod-918",
+    "name": "Mì / Phở / Cháo ăn liền Hảo Hảo Mini",
+    "slug": "mi-pho-chao-an-lien-hao-hao-mini-918",
+    "price": 111000,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-918/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-918/800/800",
+    "description": "Mì tôm phở hoặc cháo ăn liền. Nấu nhanh 3-5 phút. Nhiều hương vị. Thùng dự trữ hoặc gói lẻ. Bữa ăn nhanh tiện lợi.",
+    "brand": "Omachi",
+    "sku": "OMA-0918-THÙ",
+    "originalPrice": 124000,
+    "discountPercent": 10,
+    "unit": "thùng/gói",
+    "shortDescription": "Mì phở cháo ăn liền tiện lợi nhiều hương vị.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-918-a/800/800",
+      "https://picsum.photos/seed/prod-918-b/800/800",
+      "https://picsum.photos/seed/prod-918-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Mì / Phở / Cháo",
+      "Vị": "Đa dạng",
+      "Thời gian nấu": "3-5 phút",
+      "Quy cách": "Gói / Thùng"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 146
+    },
+    "stock": 226,
+    "soldCount": 649,
+    "weight": 2309,
+    "dimensions": {
+      "length": 38.1,
+      "width": 25.6,
+      "height": 19.8
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "mì ăn liền",
+      "phở",
+      "cháo",
+      "tiện lợi",
+      "omachi"
+    ],
+    "createdAt": "2026-06-26T00:00:00.000Z"
+  },
+  {
+    "id": "prod-919",
+    "name": "Nước ngọt / Nước trái cây Coca-Cola limited",
+    "slug": "nuoc-ngot-nuoc-trai-cay-coca-cola-limited-919",
+    "price": 73000,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-919/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-919/800/800",
+    "description": "Nước ngọt có ga hương vị quen thuộc hoặc nước trái cây. Sảng khoái khi uống lạnh. Lon chai hoặc lốc tiện lợi.",
+    "brand": "Pepsi",
+    "sku": "PEP-0919-LỐC",
+    "originalPrice": 88044,
+    "discountPercent": 17,
+    "unit": "lốc/chai",
+    "shortDescription": "Nước ngọt có ga hoặc nước trái cây giải khát.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-919-a/800/800",
+      "https://picsum.photos/seed/prod-919-b/800/800",
+      "https://picsum.photos/seed/prod-919-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Có ga / Trái cây / Suối",
+      "Dung tích": "330ml-1.5L",
+      "Quy cách": "Lon / Chai / Lốc"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 622
+    },
+    "stock": 257,
+    "soldCount": 1554,
+    "weight": 4808,
+    "dimensions": {
+      "length": 18.8,
+      "width": 14.9,
+      "height": 11.5
+    },
+    "origin": "Việt Nam / Thái Lan",
+    "warranty": "Theo HSD",
+    "tags": [
+      "nước ngọt",
+      "nước trái cây",
+      "giải khát",
+      "pepsi"
+    ],
+    "createdAt": "2026-07-04T00:00:00.000Z"
+  },
+  {
+    "id": "prod-920",
+    "name": "Hạt / Ngũ cốc Calbee",
+    "slug": "hat-ngu-coc-calbee-920",
+    "price": 126000,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-920/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-920/800/800",
+    "description": "Hạt điều hạnh nhân hoặc ngũ cốc ăn sáng. Giàu dinh dưỡng. Rang muối hoặc nguyên vị. Phù hợp ăn vặt hoặc bữa sáng.",
+    "brand": "Quaker",
+    "sku": "QUA-0920-GÓI",
+    "originalPrice": 151000,
+    "discountPercent": 17,
+    "unit": "gói",
+    "shortDescription": "Hạt điều ngũ cốc dinh dưỡng ăn vặt lành mạnh.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-920-a/800/800",
+      "https://picsum.photos/seed/prod-920-b/800/800",
+      "https://picsum.photos/seed/prod-920-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Hạt điều / Hạnh nhân / Ngũ cốc",
+      "Trọng lượng": "100-500g",
+      "Đặc điểm": "Dinh dưỡng / Ít dầu"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 143
+    },
+    "stock": 293,
+    "soldCount": 1645,
+    "weight": 154,
+    "dimensions": {
+      "length": 14.9,
+      "width": 10.6,
+      "height": 4.6
+    },
+    "origin": "Việt Nam / Thái Lan / Mỹ / Nhật Bản",
+    "warranty": "Theo HSD",
+    "tags": [
+      "hạt",
+      "ngũ cốc",
+      "ăn vặt",
+      "dinh dưỡng",
+      "quaker"
+    ],
+    "createdAt": "2026-01-17T00:00:00.000Z"
+  },
+  {
+    "id": "prod-921",
+    "name": "Cà phê G7 hòa tan 2026",
+    "slug": "ca-phe-g7-hoa-tan-2026-921",
+    "price": 46200,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-921/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-921/800/800",
+    "description": "Cà phê chọn lọc rang theo công thức riêng. Hương vị đậm đà chua thanh hoặc đậm ngọt. Dạng rang xay hòa tan hoặc phin giấy tiện dụng.",
+    "brand": "Vinacafe",
+    "sku": "VIN-0921-GÓI",
+    "originalPrice": 57028,
+    "discountPercent": 19,
+    "unit": "gói/hộp",
+    "shortDescription": "Cà phê rang xay hoặc hòa tan hương vị đậm đà.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-921-a/800/800",
+      "https://picsum.photos/seed/prod-921-b/800/800",
+      "https://picsum.photos/seed/prod-921-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Rang xay / Hòa tan",
+      "Trọng lượng": "100-500g",
+      "Hương vị": "Đậm đà / Chua thanh"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 182
+    },
+    "stock": 188,
+    "soldCount": 2100,
+    "weight": 281,
+    "dimensions": {
+      "length": 16.4,
+      "width": 9.9,
+      "height": 5.2
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "cà phê",
+      "rang xay",
+      "hòa tan",
+      "đồ uống",
+      "vinacafe"
+    ],
+    "createdAt": "2026-08-22T00:00:00.000Z"
+  },
+  {
+    "id": "prod-922",
+    "name": "Sữa tươi / Sữa chua Fami 2025",
+    "slug": "sua-tuoi-sua-chua-fami-2025-922",
+    "price": 58600,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-922/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-922/800/800",
+    "description": "Sữa tươi 100% hoặc sữa chua men sống. Giàu canxi protein. Hỗ trợ tiêu hóa và phát triển. Nhiều hương vị. Tiện lợi dùng hàng ngày.",
+    "brand": "Nestle",
+    "sku": "NES-0922-HỘP",
+    "originalPrice": 63913,
+    "discountPercent": 8,
+    "unit": "hộp/lốc",
+    "shortDescription": "Sữa tươi tiệt trùng hoặc sữa chua men sống dinh dưỡng.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-922-a/800/800",
+      "https://picsum.photos/seed/prod-922-b/800/800",
+      "https://picsum.photos/seed/prod-922-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Sữa tươi / Sữa chua",
+      "Dung tích": "110ml-1L",
+      "Dinh dưỡng": "Canxi Protein Men sống"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 899
+    },
+    "stock": 76,
+    "soldCount": 1190,
+    "weight": 781,
+    "dimensions": {
+      "length": 18.6,
+      "width": 8.2,
+      "height": 8.1
+    },
+    "origin": "Việt Nam / Thái Lan / New Zealand",
+    "warranty": "Theo HSD",
+    "tags": [
+      "sữa",
+      "sữa chua",
+      "dinh dưỡng",
+      "đồ uống",
+      "nestle"
+    ],
+    "createdAt": "2026-08-03T00:00:00.000Z"
+  },
+  {
+    "id": "prod-923",
+    "name": "Gạo ST25 lứt Mini",
+    "slug": "gao-st25-lut-mini-923",
+    "price": 215000,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-923/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-923/800/800",
+    "description": "Gạo chất lượng cao hạt dài trắng trong. Cơm dẻo thơm tự nhiên. Nhiều giống nổi tiếng. Túi tiện dùng gia đình.",
+    "brand": "Nàng Hoa",
+    "sku": "NAN-0923-TÚI",
+    "originalPrice": 249000,
+    "discountPercent": 14,
+    "unit": "túi",
+    "shortDescription": "Gạo ngon hạt dài dẻo thơm túi 2-5kg.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-923-a/800/800",
+      "https://picsum.photos/seed/prod-923-b/800/800",
+      "https://picsum.photos/seed/prod-923-c/800/800"
+    ],
+    "specifications": {
+      "Giống": "ST25 / Jasmine / Tám xoan",
+      "Trọng lượng": "2-5kg",
+      "Đặc điểm": "Hạt dài dẻo thơm"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 285
+    },
+    "stock": 71,
+    "soldCount": 2908,
+    "weight": 4699,
+    "dimensions": {
+      "length": 37.4,
+      "width": 26.0,
+      "height": 10.0
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "gạo",
+      "thực phẩm",
+      "gia đình",
+      "nang-hoa"
+    ],
+    "createdAt": "2026-04-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-924",
+    "name": "Dầu ăn Meizan hướng dương",
+    "slug": "dau-an-meizan-huong-duong-924",
+    "price": 62700,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-924/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-924/800/800",
+    "description": "Dầu ăn từ olive đậu nành hướng dương hoặc gạo. Ép hoặc tinh luyện. Phù hợp chiên xào salad. Chai tiện dụng.",
+    "brand": "Neptune",
+    "sku": "NEP-0924-CHA",
+    "originalPrice": 68194,
+    "discountPercent": 8,
+    "unit": "chai",
+    "shortDescription": "Dầu ăn nguyên chất nhiều loại tốt cho sức khỏe.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-924-a/800/800",
+      "https://picsum.photos/seed/prod-924-b/800/800",
+      "https://picsum.photos/seed/prod-924-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Olive / Đậu nành / Hướng dương / Gạo",
+      "Dung tích": "400ml-1L",
+      "Phương pháp": "Ép / Tinh luyện"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 351
+    },
+    "stock": 123,
+    "soldCount": 3211,
+    "weight": 562,
+    "dimensions": {
+      "length": 9.5,
+      "width": 10.3,
+      "height": 25.0
+    },
+    "origin": "Việt Nam / Tây Ban Nha / Thái Lan",
+    "warranty": "Theo HSD",
+    "tags": [
+      "dầu ăn",
+      "gia vị",
+      "thực phẩm",
+      "neptune"
+    ],
+    "createdAt": "2026-08-09T00:00:00.000Z"
+  },
+  {
+    "id": "prod-925",
+    "name": "Trà Lipton xanh",
+    "slug": "tra-lipton-xanh-925",
+    "price": 126000,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-925/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-925/800/800",
+    "description": "Trà xanh đen hoặc hương hoa quả. Dạng túi lọc tiện pha hoặc trà lá. Hương vị dịu thanh. Phù hợp văn phòng gia đình.",
+    "brand": "Lipton",
+    "sku": "LIP-0925-HỘP",
+    "originalPrice": 152000,
+    "discountPercent": 17,
+    "unit": "hộp",
+    "shortDescription": "Trà túi lọc hoặc trà lá hương vị thơm ngon.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-925-a/800/800",
+      "https://picsum.photos/seed/prod-925-b/800/800",
+      "https://picsum.photos/seed/prod-925-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Xanh / Đen / Hoa quả",
+      "Dạng": "Túi lọc / Lá",
+      "Số gói": "20-50"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 787
+    },
+    "stock": 42,
+    "soldCount": 1858,
+    "weight": 157,
+    "dimensions": {
+      "length": 16.3,
+      "width": 9.1,
+      "height": 7.6
+    },
+    "origin": "Việt Nam / Sri Lanka / Anh",
+    "warranty": "Theo HSD",
+    "tags": [
+      "trà",
+      "đồ uống",
+      "túi lọc",
+      "lipton"
+    ],
+    "createdAt": "2026-07-29T00:00:00.000Z"
+  },
+  {
+    "id": "prod-926",
+    "name": "Gia vị Knorr nước mắm",
+    "slug": "gia-vi-knorr-nuoc-mam-926",
+    "price": 26100,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-926/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-926/800/800",
+    "description": "Gia vị thiết yếu cho mọi căn bếp. Nước mắm đậm đà tương ớt cay hạt nêm umami. Chất lượng ổn định. Dùng hàng ngày.",
+    "brand": "Knorr",
+    "sku": "KNO-0926-CHA",
+    "originalPrice": 31288,
+    "discountPercent": 17,
+    "unit": "chai/gói",
+    "shortDescription": "Gia vị thiết yếu nước mắm tương ớt hạt nêm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-926-a/800/800",
+      "https://picsum.photos/seed/prod-926-b/800/800",
+      "https://picsum.photos/seed/prod-926-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Nước mắm / Tương ớt / Hạt nêm",
+      "Dung tích/Trọng lượng": "Đa dạng",
+      "Đặc điểm": "Đậm đà / Cay vừa"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 522
+    },
+    "stock": 229,
+    "soldCount": 2830,
+    "weight": 293,
+    "dimensions": {
+      "length": 6.5,
+      "width": 7.2,
+      "height": 18.2
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "gia vị",
+      "nước mắm",
+      "tương ớt",
+      "hạt nêm",
+      "knorr"
+    ],
+    "createdAt": "2026-03-29T00:00:00.000Z"
+  },
+  {
+    "id": "prod-927",
+    "name": "Bánh kẹo / Snack Kinh Đô phiên bản mới",
+    "slug": "banh-keo-snack-kinh-do-phien-ban-moi-927",
+    "price": 77300,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-927/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-927/800/800",
+    "description": "Bánh quy kẹo hoặc snack khoai tây. Hương vị đa dạng. Giòn ngon. Phù hợp ăn vặt mọi lứa tuổi. Gói tiện lợi.",
+    "brand": "Poca",
+    "sku": "POC-0927-GÓI",
+    "originalPrice": 94110,
+    "discountPercent": 18,
+    "unit": "gói",
+    "shortDescription": "Bánh kẹo snack giòn ngon nhiều hương vị.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-927-a/800/800",
+      "https://picsum.photos/seed/prod-927-b/800/800",
+      "https://picsum.photos/seed/prod-927-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bánh quy / Kẹo / Snack",
+      "Trọng lượng": "30-200g",
+      "Hương vị": "Đa dạng"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 54
+    },
+    "stock": 76,
+    "soldCount": 3708,
+    "weight": 79,
+    "dimensions": {
+      "length": 13.8,
+      "width": 7.2,
+      "height": 5.5
+    },
+    "origin": "Việt Nam / Trung Quốc / Hàn Quốc",
+    "warranty": "Theo HSD",
+    "tags": [
+      "bánh kẹo",
+      "snack",
+      "ăn vặt",
+      "poca"
+    ],
+    "createdAt": "2026-01-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-928",
+    "name": "Mì / Phở / Cháo ăn liền Kokomi",
+    "slug": "mi-pho-chao-an-lien-kokomi-928",
+    "price": 75100,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-928/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-928/800/800",
+    "description": "Mì tôm phở hoặc cháo ăn liền. Nấu nhanh 3-5 phút. Nhiều hương vị. Thùng dự trữ hoặc gói lẻ. Bữa ăn nhanh tiện lợi.",
+    "brand": "Acecook",
+    "sku": "ACE-0928-THÙ",
+    "originalPrice": 92144,
+    "discountPercent": 18,
+    "unit": "thùng/gói",
+    "shortDescription": "Mì phở cháo ăn liền tiện lợi nhiều hương vị.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-928-a/800/800",
+      "https://picsum.photos/seed/prod-928-b/800/800",
+      "https://picsum.photos/seed/prod-928-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Mì / Phở / Cháo",
+      "Vị": "Đa dạng",
+      "Thời gian nấu": "3-5 phút",
+      "Quy cách": "Gói / Thùng"
     },
     "rating": {
       "average": 4.5,
-      "count": 673
+      "count": 528
     },
-    "stock": 540,
-    "soldCount": 4210,
-    "weight": 520,
+    "stock": 102,
+    "soldCount": 3459,
+    "weight": 1465,
     "dimensions": {
-      "length": 20,
-      "width": 13,
-      "height": 6
+      "length": 37.5,
+      "width": 26.1,
+      "height": 21.6
     },
-    "origin": "Việt Nam (Đắk Lắk)",
-    "warranty": "Đổi trả nếu sản phẩm lỗi/hết hạn khi nhận hàng",
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "mì ăn liền",
+      "phở",
+      "cháo",
+      "tiện lợi",
+      "acecook"
+    ],
+    "createdAt": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "prod-929",
+    "name": "Nước ngọt / Nước trái cây Number 1",
+    "slug": "nuoc-ngot-nuoc-trai-cay-number-1-929",
+    "price": 52200,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-929/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-929/800/800",
+    "description": "Nước ngọt có ga hương vị quen thuộc hoặc nước trái cây. Sảng khoái khi uống lạnh. Lon chai hoặc lốc tiện lợi.",
+    "brand": "Number 1",
+    "sku": "NUM-0929-LỐC",
+    "originalPrice": 59539,
+    "discountPercent": 12,
+    "unit": "lốc/chai",
+    "shortDescription": "Nước ngọt có ga hoặc nước trái cây giải khát.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-929-a/800/800",
+      "https://picsum.photos/seed/prod-929-b/800/800",
+      "https://picsum.photos/seed/prod-929-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Có ga / Trái cây / Suối",
+      "Dung tích": "330ml-1.5L",
+      "Quy cách": "Lon / Chai / Lốc"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 92
+    },
+    "stock": 296,
+    "soldCount": 370,
+    "weight": 4906,
+    "dimensions": {
+      "length": 21.4,
+      "width": 15.9,
+      "height": 11.9
+    },
+    "origin": "Việt Nam / Thái Lan",
+    "warranty": "Theo HSD",
+    "tags": [
+      "nước ngọt",
+      "nước trái cây",
+      "giải khát",
+      "number-1"
+    ],
+    "createdAt": "2026-02-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-930",
+    "name": "Hạt / Ngũ cốc Nestle",
+    "slug": "hat-ngu-coc-nestle-930",
+    "price": 51500,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-930/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-930/800/800",
+    "description": "Hạt điều hạnh nhân hoặc ngũ cốc ăn sáng. Giàu dinh dưỡng. Rang muối hoặc nguyên vị. Phù hợp ăn vặt hoặc bữa sáng.",
+    "brand": "Calbee",
+    "sku": "CAL-0930-GÓI",
+    "originalPrice": 56652,
+    "discountPercent": 9,
+    "unit": "gói",
+    "shortDescription": "Hạt điều ngũ cốc dinh dưỡng ăn vặt lành mạnh.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-930-a/800/800",
+      "https://picsum.photos/seed/prod-930-b/800/800",
+      "https://picsum.photos/seed/prod-930-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Hạt điều / Hạnh nhân / Ngũ cốc",
+      "Trọng lượng": "100-500g",
+      "Đặc điểm": "Dinh dưỡng / Ít dầu"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 316
+    },
+    "stock": 133,
+    "soldCount": 1649,
+    "weight": 218,
+    "dimensions": {
+      "length": 13.7,
+      "width": 10.1,
+      "height": 4.5
+    },
+    "origin": "Việt Nam / Thái Lan / Mỹ / Nhật Bản",
+    "warranty": "Theo HSD",
+    "tags": [
+      "hạt",
+      "ngũ cốc",
+      "ăn vặt",
+      "dinh dưỡng",
+      "calbee"
+    ],
+    "createdAt": "2026-07-14T00:00:00.000Z"
+  },
+  {
+    "id": "prod-931",
+    "name": "Cà phê Starbucks rang xay",
+    "slug": "ca-phe-starbucks-rang-xay-931",
+    "price": 289000,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-931/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-931/800/800",
+    "description": "Cà phê chọn lọc rang theo công thức riêng. Hương vị đậm đà chua thanh hoặc đậm ngọt. Dạng rang xay hòa tan hoặc phin giấy tiện dụng.",
+    "brand": "Nescafe",
+    "sku": "NES-0931-GÓI",
+    "originalPrice": 326000,
+    "discountPercent": 11,
+    "unit": "gói/hộp",
+    "shortDescription": "Cà phê rang xay hoặc hòa tan hương vị đậm đà.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-931-a/800/800",
+      "https://picsum.photos/seed/prod-931-b/800/800",
+      "https://picsum.photos/seed/prod-931-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Rang xay / Hòa tan",
+      "Trọng lượng": "100-500g",
+      "Hương vị": "Đậm đà / Chua thanh"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 428
+    },
+    "stock": 321,
+    "soldCount": 282,
+    "weight": 373,
+    "dimensions": {
+      "length": 15.2,
+      "width": 10.7,
+      "height": 5.4
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
     "tags": [
       "cà phê",
-      "robusta",
-      "rang xay nguyên chất"
+      "rang xay",
+      "hòa tan",
+      "đồ uống",
+      "nescafe"
+    ],
+    "createdAt": "2026-06-03T00:00:00.000Z"
+  },
+  {
+    "id": "prod-932",
+    "name": "Sữa tươi / Sữa chua Vinamilk",
+    "slug": "sua-tuoi-sua-chua-vinamilk-932",
+    "price": 67800,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-932/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-932/800/800",
+    "description": "Sữa tươi 100% hoặc sữa chua men sống. Giàu canxi protein. Hỗ trợ tiêu hóa và phát triển. Nhiều hương vị. Tiện lợi dùng hàng ngày.",
+    "brand": "Dutch Lady",
+    "sku": "DUT-0932-HỘP",
+    "originalPrice": 73569,
+    "discountPercent": 8,
+    "unit": "hộp/lốc",
+    "shortDescription": "Sữa tươi tiệt trùng hoặc sữa chua men sống dinh dưỡng.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-932-a/800/800",
+      "https://picsum.photos/seed/prod-932-b/800/800",
+      "https://picsum.photos/seed/prod-932-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Sữa tươi / Sữa chua",
+      "Dung tích": "110ml-1L",
+      "Dinh dưỡng": "Canxi Protein Men sống"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 229
+    },
+    "stock": 285,
+    "soldCount": 3395,
+    "weight": 456,
+    "dimensions": {
+      "length": 19.7,
+      "width": 7.5,
+      "height": 8.6
+    },
+    "origin": "Việt Nam / Thái Lan / New Zealand",
+    "warranty": "Theo HSD",
+    "tags": [
+      "sữa",
+      "sữa chua",
+      "dinh dưỡng",
+      "đồ uống",
+      "dutch-lady"
+    ],
+    "createdAt": "2026-07-21T00:00:00.000Z"
+  },
+  {
+    "id": "prod-933",
+    "name": "Gạo ST25 ST25 cao cấp",
+    "slug": "gao-st25-st25-cao-cap-933",
+    "price": 208000,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-933/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-933/800/800",
+    "description": "Gạo chất lượng cao hạt dài trắng trong. Cơm dẻo thơm tự nhiên. Nhiều giống nổi tiếng. Túi tiện dùng gia đình.",
+    "brand": "Vinh Hiển",
+    "sku": "VIN-0933-TÚI",
+    "originalPrice": 246000,
+    "discountPercent": 15,
+    "unit": "túi",
+    "shortDescription": "Gạo ngon hạt dài dẻo thơm túi 2-5kg.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-933-a/800/800",
+      "https://picsum.photos/seed/prod-933-b/800/800",
+      "https://picsum.photos/seed/prod-933-c/800/800"
+    ],
+    "specifications": {
+      "Giống": "ST25 / Jasmine / Tám xoan",
+      "Trọng lượng": "2-5kg",
+      "Đặc điểm": "Hạt dài dẻo thơm"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 102
+    },
+    "stock": 287,
+    "soldCount": 2011,
+    "weight": 2144,
+    "dimensions": {
+      "length": 38.8,
+      "width": 22.9,
+      "height": 9.8
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "gạo",
+      "thực phẩm",
+      "gia đình",
+      "vinh-hien"
+    ],
+    "createdAt": "2026-09-14T00:00:00.000Z"
+  },
+  {
+    "id": "prod-934",
+    "name": "Dầu ăn Tường An hướng dương",
+    "slug": "dau-an-tuong-an-huong-duong-934",
+    "price": 54300,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-934/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-934/800/800",
+    "description": "Dầu ăn từ olive đậu nành hướng dương hoặc gạo. Ép hoặc tinh luyện. Phù hợp chiên xào salad. Chai tiện dụng.",
+    "brand": "Simply",
+    "sku": "SIM-0934-CHA",
+    "originalPrice": 63228,
+    "discountPercent": 14,
+    "unit": "chai",
+    "shortDescription": "Dầu ăn nguyên chất nhiều loại tốt cho sức khỏe.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-934-a/800/800",
+      "https://picsum.photos/seed/prod-934-b/800/800",
+      "https://picsum.photos/seed/prod-934-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Olive / Đậu nành / Hướng dương / Gạo",
+      "Dung tích": "400ml-1L",
+      "Phương pháp": "Ép / Tinh luyện"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 253
+    },
+    "stock": 15,
+    "soldCount": 3864,
+    "weight": 630,
+    "dimensions": {
+      "length": 10.3,
+      "width": 9.9,
+      "height": 24.0
+    },
+    "origin": "Việt Nam / Tây Ban Nha / Thái Lan",
+    "warranty": "Theo HSD",
+    "tags": [
+      "dầu ăn",
+      "gia vị",
+      "thực phẩm",
+      "simply"
+    ],
+    "createdAt": "2026-01-29T00:00:00.000Z"
+  },
+  {
+    "id": "prod-935",
+    "name": "Trà Cozy đen",
+    "slug": "tra-cozy-den-935",
+    "price": 29700,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-935/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-935/800/800",
+    "description": "Trà xanh đen hoặc hương hoa quả. Dạng túi lọc tiện pha hoặc trà lá. Hương vị dịu thanh. Phù hợp văn phòng gia đình.",
+    "brand": "Phúc Long",
+    "sku": "PHU-0935-HỘP",
+    "originalPrice": 34865,
+    "discountPercent": 15,
+    "unit": "hộp",
+    "shortDescription": "Trà túi lọc hoặc trà lá hương vị thơm ngon.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-935-a/800/800",
+      "https://picsum.photos/seed/prod-935-b/800/800",
+      "https://picsum.photos/seed/prod-935-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Xanh / Đen / Hoa quả",
+      "Dạng": "Túi lọc / Lá",
+      "Số gói": "20-50"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 582
+    },
+    "stock": 75,
+    "soldCount": 523,
+    "weight": 63,
+    "dimensions": {
+      "length": 14.7,
+      "width": 9.8,
+      "height": 7.4
+    },
+    "origin": "Việt Nam / Sri Lanka / Anh",
+    "warranty": "Theo HSD",
+    "tags": [
+      "trà",
+      "đồ uống",
+      "túi lọc",
+      "phuc-long"
+    ],
+    "createdAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-936",
+    "name": "Gia vị Chin-su hạt nêm Plus",
+    "slug": "gia-vi-chin-su-hat-nem-plus-936",
+    "price": 19600,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-936/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-936/800/800",
+    "description": "Gia vị thiết yếu cho mọi căn bếp. Nước mắm đậm đà tương ớt cay hạt nêm umami. Chất lượng ổn định. Dùng hàng ngày.",
+    "brand": "Maggi",
+    "sku": "MAG-0936-CHA",
+    "originalPrice": 21961,
+    "discountPercent": 11,
+    "unit": "chai/gói",
+    "shortDescription": "Gia vị thiết yếu nước mắm tương ớt hạt nêm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-936-a/800/800",
+      "https://picsum.photos/seed/prod-936-b/800/800",
+      "https://picsum.photos/seed/prod-936-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Nước mắm / Tương ớt / Hạt nêm",
+      "Dung tích/Trọng lượng": "Đa dạng",
+      "Đặc điểm": "Đậm đà / Cay vừa"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 832
+    },
+    "stock": 279,
+    "soldCount": 2376,
+    "weight": 147,
+    "dimensions": {
+      "length": 7.1,
+      "width": 6.6,
+      "height": 18.9
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "gia vị",
+      "nước mắm",
+      "tương ớt",
+      "hạt nêm",
+      "maggi"
+    ],
+    "createdAt": "2026-01-26T00:00:00.000Z"
+  },
+  {
+    "id": "prod-937",
+    "name": "Bánh kẹo / Snack Oreo",
+    "slug": "banh-keo-snack-oreo-937",
+    "price": 15500,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-937/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-937/800/800",
+    "description": "Bánh quy kẹo hoặc snack khoai tây. Hương vị đa dạng. Giòn ngon. Phù hợp ăn vặt mọi lứa tuổi. Gói tiện lợi.",
+    "brand": "Kinh Đô",
+    "sku": "KIN-0937-GÓI",
+    "originalPrice": 16941,
+    "discountPercent": 9,
+    "unit": "gói",
+    "shortDescription": "Bánh kẹo snack giòn ngon nhiều hương vị.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-937-a/800/800",
+      "https://picsum.photos/seed/prod-937-b/800/800",
+      "https://picsum.photos/seed/prod-937-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bánh quy / Kẹo / Snack",
+      "Trọng lượng": "30-200g",
+      "Hương vị": "Đa dạng"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 270
+    },
+    "stock": 154,
+    "soldCount": 581,
+    "weight": 62,
+    "dimensions": {
+      "length": 14.8,
+      "width": 7.7,
+      "height": 4.8
+    },
+    "origin": "Việt Nam / Trung Quốc / Hàn Quốc",
+    "warranty": "Theo HSD",
+    "tags": [
+      "bánh kẹo",
+      "snack",
+      "ăn vặt",
+      "kinh-do"
+    ],
+    "createdAt": "2026-06-19T00:00:00.000Z"
+  },
+  {
+    "id": "prod-938",
+    "name": "Mì / Phở / Cháo ăn liền Vifon",
+    "slug": "mi-pho-chao-an-lien-vifon-938",
+    "price": 89600,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-938/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-938/800/800",
+    "description": "Mì tôm phở hoặc cháo ăn liền. Nấu nhanh 3-5 phút. Nhiều hương vị. Thùng dự trữ hoặc gói lẻ. Bữa ăn nhanh tiện lợi.",
+    "brand": "Hảo Hảo",
+    "sku": "HAO-0938-THÙ",
+    "originalPrice": 97937,
+    "discountPercent": 9,
+    "unit": "thùng/gói",
+    "shortDescription": "Mì phở cháo ăn liền tiện lợi nhiều hương vị.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-938-a/800/800",
+      "https://picsum.photos/seed/prod-938-b/800/800",
+      "https://picsum.photos/seed/prod-938-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Mì / Phở / Cháo",
+      "Vị": "Đa dạng",
+      "Thời gian nấu": "3-5 phút",
+      "Quy cách": "Gói / Thùng"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 899
+    },
+    "stock": 117,
+    "soldCount": 1866,
+    "weight": 1094,
+    "dimensions": {
+      "length": 43.5,
+      "width": 23.5,
+      "height": 20.8
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "mì ăn liền",
+      "phở",
+      "cháo",
+      "tiện lợi",
+      "hao-hao"
+    ],
+    "createdAt": "2026-07-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-939",
+    "name": "Nước ngọt / Nước trái cây Lavie",
+    "slug": "nuoc-ngot-nuoc-trai-cay-lavie-939",
+    "price": 44400,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-939/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-939/800/800",
+    "description": "Nước ngọt có ga hương vị quen thuộc hoặc nước trái cây. Sảng khoái khi uống lạnh. Lon chai hoặc lốc tiện lợi.",
+    "brand": "Number 1",
+    "sku": "NUM-0939-LỐC",
+    "originalPrice": 54510,
+    "discountPercent": 19,
+    "unit": "lốc/chai",
+    "shortDescription": "Nước ngọt có ga hoặc nước trái cây giải khát.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-939-a/800/800",
+      "https://picsum.photos/seed/prod-939-b/800/800",
+      "https://picsum.photos/seed/prod-939-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Có ga / Trái cây / Suối",
+      "Dung tích": "330ml-1.5L",
+      "Quy cách": "Lon / Chai / Lốc"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 75
+    },
+    "stock": 182,
+    "soldCount": 3738,
+    "weight": 2330,
+    "dimensions": {
+      "length": 20.1,
+      "width": 14.3,
+      "height": 12.5
+    },
+    "origin": "Việt Nam / Thái Lan",
+    "warranty": "Theo HSD",
+    "tags": [
+      "nước ngọt",
+      "nước trái cây",
+      "giải khát",
+      "number-1"
+    ],
+    "createdAt": "2026-04-30T00:00:00.000Z"
+  },
+  {
+    "id": "prod-940",
+    "name": "Hạt / Ngũ cốc Nestle",
+    "slug": "hat-ngu-coc-nestle-940",
+    "price": 98300,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-940/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-940/800/800",
+    "description": "Hạt điều hạnh nhân hoặc ngũ cốc ăn sáng. Giàu dinh dưỡng. Rang muối hoặc nguyên vị. Phù hợp ăn vặt hoặc bữa sáng.",
+    "brand": "Quaker",
+    "sku": "QUA-0940-GÓI",
+    "originalPrice": 107000,
+    "discountPercent": 8,
+    "unit": "gói",
+    "shortDescription": "Hạt điều ngũ cốc dinh dưỡng ăn vặt lành mạnh.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-940-a/800/800",
+      "https://picsum.photos/seed/prod-940-b/800/800",
+      "https://picsum.photos/seed/prod-940-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Hạt điều / Hạnh nhân / Ngũ cốc",
+      "Trọng lượng": "100-500g",
+      "Đặc điểm": "Dinh dưỡng / Ít dầu"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 145
+    },
+    "stock": 195,
+    "soldCount": 3019,
+    "weight": 170,
+    "dimensions": {
+      "length": 16.0,
+      "width": 10.0,
+      "height": 4.8
+    },
+    "origin": "Việt Nam / Thái Lan / Mỹ / Nhật Bản",
+    "warranty": "Theo HSD",
+    "tags": [
+      "hạt",
+      "ngũ cốc",
+      "ăn vặt",
+      "dinh dưỡng",
+      "quaker"
+    ],
+    "createdAt": "2026-08-11T00:00:00.000Z"
+  },
+  {
+    "id": "prod-941",
+    "name": "Cà phê Nescafe rang xay",
+    "slug": "ca-phe-nescafe-rang-xay-941",
+    "price": 205000,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-941/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-941/800/800",
+    "description": "Cà phê chọn lọc rang theo công thức riêng. Hương vị đậm đà chua thanh hoặc đậm ngọt. Dạng rang xay hòa tan hoặc phin giấy tiện dụng.",
+    "brand": "Vinacafe",
+    "sku": "VIN-0941-GÓI",
+    "originalPrice": 248000,
+    "discountPercent": 17,
+    "unit": "gói/hộp",
+    "shortDescription": "Cà phê rang xay hoặc hòa tan hương vị đậm đà.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-941-a/800/800",
+      "https://picsum.photos/seed/prod-941-b/800/800",
+      "https://picsum.photos/seed/prod-941-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Rang xay / Hòa tan",
+      "Trọng lượng": "100-500g",
+      "Hương vị": "Đậm đà / Chua thanh"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 327
+    },
+    "stock": 48,
+    "soldCount": 294,
+    "weight": 158,
+    "dimensions": {
+      "length": 13.6,
+      "width": 10.7,
+      "height": 4.8
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "cà phê",
+      "rang xay",
+      "hòa tan",
+      "đồ uống",
+      "vinacafe"
+    ],
+    "createdAt": "2026-03-27T00:00:00.000Z"
+  },
+  {
+    "id": "prod-942",
+    "name": "Sữa tươi / Sữa chua Fami",
+    "slug": "sua-tuoi-sua-chua-fami-942",
+    "price": 50200,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-942/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-942/800/800",
+    "description": "Sữa tươi 100% hoặc sữa chua men sống. Giàu canxi protein. Hỗ trợ tiêu hóa và phát triển. Nhiều hương vị. Tiện lợi dùng hàng ngày.",
+    "brand": "Nestle",
+    "sku": "NES-0942-HỘP",
+    "originalPrice": 58005,
+    "discountPercent": 13,
+    "unit": "hộp/lốc",
+    "shortDescription": "Sữa tươi tiệt trùng hoặc sữa chua men sống dinh dưỡng.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-942-a/800/800",
+      "https://picsum.photos/seed/prod-942-b/800/800",
+      "https://picsum.photos/seed/prod-942-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Sữa tươi / Sữa chua",
+      "Dung tích": "110ml-1L",
+      "Dinh dưỡng": "Canxi Protein Men sống"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 332
+    },
+    "stock": 21,
+    "soldCount": 2268,
+    "weight": 339,
+    "dimensions": {
+      "length": 18.8,
+      "width": 7.5,
+      "height": 7.9
+    },
+    "origin": "Việt Nam / Thái Lan / New Zealand",
+    "warranty": "Theo HSD",
+    "tags": [
+      "sữa",
+      "sữa chua",
+      "dinh dưỡng",
+      "đồ uống",
+      "nestle"
+    ],
+    "createdAt": "2026-07-29T00:00:00.000Z"
+  },
+  {
+    "id": "prod-943",
+    "name": "Gạo ST25 ST25",
+    "slug": "gao-st25-st25-943",
+    "price": 210000,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-943/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-943/800/800",
+    "description": "Gạo chất lượng cao hạt dài trắng trong. Cơm dẻo thơm tự nhiên. Nhiều giống nổi tiếng. Túi tiện dùng gia đình.",
+    "brand": "ST25",
+    "sku": "ST2-0943-TÚI",
+    "originalPrice": 256000,
+    "discountPercent": 18,
+    "unit": "túi",
+    "shortDescription": "Gạo ngon hạt dài dẻo thơm túi 2-5kg.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-943-a/800/800",
+      "https://picsum.photos/seed/prod-943-b/800/800",
+      "https://picsum.photos/seed/prod-943-c/800/800"
+    ],
+    "specifications": {
+      "Giống": "ST25 / Jasmine / Tám xoan",
+      "Trọng lượng": "2-5kg",
+      "Đặc điểm": "Hạt dài dẻo thơm"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 869
+    },
+    "stock": 323,
+    "soldCount": 1827,
+    "weight": 3075,
+    "dimensions": {
+      "length": 42.5,
+      "width": 25.5,
+      "height": 10.5
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "gạo",
+      "thực phẩm",
+      "gia đình",
+      "st25"
+    ],
+    "createdAt": "2026-08-24T00:00:00.000Z"
+  },
+  {
+    "id": "prod-944",
+    "name": "Dầu ăn Neptune olive",
+    "slug": "dau-an-neptune-olive-944",
+    "price": 147000,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-944/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-944/800/800",
+    "description": "Dầu ăn từ olive đậu nành hướng dương hoặc gạo. Ép hoặc tinh luyện. Phù hợp chiên xào salad. Chai tiện dụng.",
+    "brand": "Meizan",
+    "sku": "MEI-0944-CHA",
+    "originalPrice": 183000,
+    "discountPercent": 20,
+    "unit": "chai",
+    "shortDescription": "Dầu ăn nguyên chất nhiều loại tốt cho sức khỏe.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-944-a/800/800",
+      "https://picsum.photos/seed/prod-944-b/800/800",
+      "https://picsum.photos/seed/prod-944-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Olive / Đậu nành / Hướng dương / Gạo",
+      "Dung tích": "400ml-1L",
+      "Phương pháp": "Ép / Tinh luyện"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 756
+    },
+    "stock": 295,
+    "soldCount": 3199,
+    "weight": 1094,
+    "dimensions": {
+      "length": 9.6,
+      "width": 11.0,
+      "height": 25.2
+    },
+    "origin": "Việt Nam / Tây Ban Nha / Thái Lan",
+    "warranty": "Theo HSD",
+    "tags": [
+      "dầu ăn",
+      "gia vị",
+      "thực phẩm",
+      "meizan"
+    ],
+    "createdAt": "2026-05-27T00:00:00.000Z"
+  },
+  {
+    "id": "prod-945",
+    "name": "Trà Dilmah đen",
+    "slug": "tra-dilmah-den-945",
+    "price": 87400,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-945/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-945/800/800",
+    "description": "Trà xanh đen hoặc hương hoa quả. Dạng túi lọc tiện pha hoặc trà lá. Hương vị dịu thanh. Phù hợp văn phòng gia đình.",
+    "brand": "Phúc Long",
+    "sku": "PHU-0945-HỘP",
+    "originalPrice": 96351,
+    "discountPercent": 9,
+    "unit": "hộp",
+    "shortDescription": "Trà túi lọc hoặc trà lá hương vị thơm ngon.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-945-a/800/800",
+      "https://picsum.photos/seed/prod-945-b/800/800",
+      "https://picsum.photos/seed/prod-945-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Xanh / Đen / Hoa quả",
+      "Dạng": "Túi lọc / Lá",
+      "Số gói": "20-50"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 809
+    },
+    "stock": 282,
+    "soldCount": 1261,
+    "weight": 53,
+    "dimensions": {
+      "length": 14.3,
+      "width": 10.4,
+      "height": 7.6
+    },
+    "origin": "Việt Nam / Sri Lanka / Anh",
+    "warranty": "Theo HSD",
+    "tags": [
+      "trà",
+      "đồ uống",
+      "túi lọc",
+      "phuc-long"
+    ],
+    "createdAt": "2026-04-11T00:00:00.000Z"
+  },
+  {
+    "id": "prod-946",
+    "name": "Gia vị Đầu bếp muối tiêu Pro",
+    "slug": "gia-vi-dau-bep-muoi-tieu-pro-946",
+    "price": 47200,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-946/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-946/800/800",
+    "description": "Gia vị thiết yếu cho mọi căn bếp. Nước mắm đậm đà tương ớt cay hạt nêm umami. Chất lượng ổn định. Dùng hàng ngày.",
+    "brand": "Knorr",
+    "sku": "KNO-0946-CHA",
+    "originalPrice": 56265,
+    "discountPercent": 16,
+    "unit": "chai/gói",
+    "shortDescription": "Gia vị thiết yếu nước mắm tương ớt hạt nêm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-946-a/800/800",
+      "https://picsum.photos/seed/prod-946-b/800/800",
+      "https://picsum.photos/seed/prod-946-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Nước mắm / Tương ớt / Hạt nêm",
+      "Dung tích/Trọng lượng": "Đa dạng",
+      "Đặc điểm": "Đậm đà / Cay vừa"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 696
+    },
+    "stock": 169,
+    "soldCount": 3474,
+    "weight": 500,
+    "dimensions": {
+      "length": 7.2,
+      "width": 7.4,
+      "height": 16.2
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "gia vị",
+      "nước mắm",
+      "tương ớt",
+      "hạt nêm",
+      "knorr"
+    ],
+    "createdAt": "2026-03-23T00:00:00.000Z"
+  },
+  {
+    "id": "prod-947",
+    "name": "Bánh kẹo / Snack Kinh Đô",
+    "slug": "banh-keo-snack-kinh-do-947",
+    "price": 65700,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-947/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-947/800/800",
+    "description": "Bánh quy kẹo hoặc snack khoai tây. Hương vị đa dạng. Giòn ngon. Phù hợp ăn vặt mọi lứa tuổi. Gói tiện lợi.",
+    "brand": "Oreo",
+    "sku": "ORE-0947-GÓI",
+    "originalPrice": 71055,
+    "discountPercent": 8,
+    "unit": "gói",
+    "shortDescription": "Bánh kẹo snack giòn ngon nhiều hương vị.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-947-a/800/800",
+      "https://picsum.photos/seed/prod-947-b/800/800",
+      "https://picsum.photos/seed/prod-947-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bánh quy / Kẹo / Snack",
+      "Trọng lượng": "30-200g",
+      "Hương vị": "Đa dạng"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 79
+    },
+    "stock": 301,
+    "soldCount": 3895,
+    "weight": 39,
+    "dimensions": {
+      "length": 16.4,
+      "width": 8.0,
+      "height": 5.3
+    },
+    "origin": "Việt Nam / Trung Quốc / Hàn Quốc",
+    "warranty": "Theo HSD",
+    "tags": [
+      "bánh kẹo",
+      "snack",
+      "ăn vặt",
+      "oreo"
+    ],
+    "createdAt": "2026-02-04T00:00:00.000Z"
+  },
+  {
+    "id": "prod-948",
+    "name": "Mì / Phở / Cháo ăn liền Kokomi",
+    "slug": "mi-pho-chao-an-lien-kokomi-948",
+    "price": 44700,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-948/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-948/800/800",
+    "description": "Mì tôm phở hoặc cháo ăn liền. Nấu nhanh 3-5 phút. Nhiều hương vị. Thùng dự trữ hoặc gói lẻ. Bữa ăn nhanh tiện lợi.",
+    "brand": "Acecook",
+    "sku": "ACE-0948-THÙ",
+    "originalPrice": 55520,
+    "discountPercent": 19,
+    "unit": "thùng/gói",
+    "shortDescription": "Mì phở cháo ăn liền tiện lợi nhiều hương vị.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-948-a/800/800",
+      "https://picsum.photos/seed/prod-948-b/800/800",
+      "https://picsum.photos/seed/prod-948-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Mì / Phở / Cháo",
+      "Vị": "Đa dạng",
+      "Thời gian nấu": "3-5 phút",
+      "Quy cách": "Gói / Thùng"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 150
+    },
+    "stock": 121,
+    "soldCount": 2631,
+    "weight": 1874,
+    "dimensions": {
+      "length": 37.4,
+      "width": 26.3,
+      "height": 19.1
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "mì ăn liền",
+      "phở",
+      "cháo",
+      "tiện lợi",
+      "acecook"
+    ],
+    "createdAt": "2026-02-28T00:00:00.000Z"
+  },
+  {
+    "id": "prod-949",
+    "name": "Nước ngọt / Nước trái cây Pepsi",
+    "slug": "nuoc-ngot-nuoc-trai-cay-pepsi-949",
+    "price": 36500,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-949/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-949/800/800",
+    "description": "Nước ngọt có ga hương vị quen thuộc hoặc nước trái cây. Sảng khoái khi uống lạnh. Lon chai hoặc lốc tiện lợi.",
+    "brand": "Coca-Cola",
+    "sku": "COC-0949-LỐC",
+    "originalPrice": 40130,
+    "discountPercent": 9,
+    "unit": "lốc/chai",
+    "shortDescription": "Nước ngọt có ga hoặc nước trái cây giải khát.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-949-a/800/800",
+      "https://picsum.photos/seed/prod-949-b/800/800",
+      "https://picsum.photos/seed/prod-949-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Có ga / Trái cây / Suối",
+      "Dung tích": "330ml-1.5L",
+      "Quy cách": "Lon / Chai / Lốc"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 586
+    },
+    "stock": 121,
+    "soldCount": 299,
+    "weight": 645,
+    "dimensions": {
+      "length": 18.7,
+      "width": 15.0,
+      "height": 11.9
+    },
+    "origin": "Việt Nam / Thái Lan",
+    "warranty": "Theo HSD",
+    "tags": [
+      "nước ngọt",
+      "nước trái cây",
+      "giải khát",
+      "coca-cola"
+    ],
+    "createdAt": "2026-09-15T00:00:00.000Z"
+  },
+  {
+    "id": "prod-950",
+    "name": "Hạt / Ngũ cốc Calbee",
+    "slug": "hat-ngu-coc-calbee-950",
+    "price": 29200,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-950/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-950/800/800",
+    "description": "Hạt điều hạnh nhân hoặc ngũ cốc ăn sáng. Giàu dinh dưỡng. Rang muối hoặc nguyên vị. Phù hợp ăn vặt hoặc bữa sáng.",
+    "brand": "Calbee",
+    "sku": "CAL-0950-GÓI",
+    "originalPrice": 34903,
+    "discountPercent": 16,
+    "unit": "gói",
+    "shortDescription": "Hạt điều ngũ cốc dinh dưỡng ăn vặt lành mạnh.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-950-a/800/800",
+      "https://picsum.photos/seed/prod-950-b/800/800",
+      "https://picsum.photos/seed/prod-950-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Hạt điều / Hạnh nhân / Ngũ cốc",
+      "Trọng lượng": "100-500g",
+      "Đặc điểm": "Dinh dưỡng / Ít dầu"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 539
+    },
+    "stock": 232,
+    "soldCount": 513,
+    "weight": 280,
+    "dimensions": {
+      "length": 15.1,
+      "width": 9.1,
+      "height": 4.7
+    },
+    "origin": "Việt Nam / Thái Lan / Mỹ / Nhật Bản",
+    "warranty": "Theo HSD",
+    "tags": [
+      "hạt",
+      "ngũ cốc",
+      "ăn vặt",
+      "dinh dưỡng",
+      "calbee"
+    ],
+    "createdAt": "2026-05-25T00:00:00.000Z"
+  },
+  {
+    "id": "prod-951",
+    "name": "Cà phê Trung Nguyên rang xay 2026",
+    "slug": "ca-phe-trung-nguyen-rang-xay-2026-951",
+    "price": 252000,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-951/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-951/800/800",
+    "description": "Cà phê chọn lọc rang theo công thức riêng. Hương vị đậm đà chua thanh hoặc đậm ngọt. Dạng rang xay hòa tan hoặc phin giấy tiện dụng.",
+    "brand": "Starbucks",
+    "sku": "STA-0951-GÓI",
+    "originalPrice": 307000,
+    "discountPercent": 18,
+    "unit": "gói/hộp",
+    "shortDescription": "Cà phê rang xay hoặc hòa tan hương vị đậm đà.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-951-a/800/800",
+      "https://picsum.photos/seed/prod-951-b/800/800",
+      "https://picsum.photos/seed/prod-951-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Rang xay / Hòa tan",
+      "Trọng lượng": "100-500g",
+      "Hương vị": "Đậm đà / Chua thanh"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 641
+    },
+    "stock": 189,
+    "soldCount": 1422,
+    "weight": 312,
+    "dimensions": {
+      "length": 13.7,
+      "width": 9.9,
+      "height": 4.8
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "cà phê",
+      "rang xay",
+      "hòa tan",
+      "đồ uống",
+      "starbucks"
+    ],
+    "createdAt": "2026-09-21T00:00:00.000Z"
+  },
+  {
+    "id": "prod-952",
+    "name": "Sữa tươi / Sữa chua Nestle",
+    "slug": "sua-tuoi-sua-chua-nestle-952",
+    "price": 55800,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-952/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-952/800/800",
+    "description": "Sữa tươi 100% hoặc sữa chua men sống. Giàu canxi protein. Hỗ trợ tiêu hóa và phát triển. Nhiều hương vị. Tiện lợi dùng hàng ngày.",
+    "brand": "Dutch Lady",
+    "sku": "DUT-0952-HỘP",
+    "originalPrice": 69204,
+    "discountPercent": 19,
+    "unit": "hộp/lốc",
+    "shortDescription": "Sữa tươi tiệt trùng hoặc sữa chua men sống dinh dưỡng.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-952-a/800/800",
+      "https://picsum.photos/seed/prod-952-b/800/800",
+      "https://picsum.photos/seed/prod-952-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Sữa tươi / Sữa chua",
+      "Dung tích": "110ml-1L",
+      "Dinh dưỡng": "Canxi Protein Men sống"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 625
+    },
+    "stock": 18,
+    "soldCount": 485,
+    "weight": 411,
+    "dimensions": {
+      "length": 20.5,
+      "width": 7.5,
+      "height": 7.3
+    },
+    "origin": "Việt Nam / Thái Lan / New Zealand",
+    "warranty": "Theo HSD",
+    "tags": [
+      "sữa",
+      "sữa chua",
+      "dinh dưỡng",
+      "đồ uống",
+      "dutch-lady"
+    ],
+    "createdAt": "2026-06-19T00:00:00.000Z"
+  },
+  {
+    "id": "prod-953",
+    "name": "Gạo Ông Cụ tám xoan",
+    "slug": "gao-ong-cu-tam-xoan-953",
+    "price": 192000,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-953/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-953/800/800",
+    "description": "Gạo chất lượng cao hạt dài trắng trong. Cơm dẻo thơm tự nhiên. Nhiều giống nổi tiếng. Túi tiện dùng gia đình.",
+    "brand": "Vinh Hiển",
+    "sku": "VIN-0953-TÚI",
+    "originalPrice": 226000,
+    "discountPercent": 15,
+    "unit": "túi",
+    "shortDescription": "Gạo ngon hạt dài dẻo thơm túi 2-5kg.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-953-a/800/800",
+      "https://picsum.photos/seed/prod-953-b/800/800",
+      "https://picsum.photos/seed/prod-953-c/800/800"
+    ],
+    "specifications": {
+      "Giống": "ST25 / Jasmine / Tám xoan",
+      "Trọng lượng": "2-5kg",
+      "Đặc điểm": "Hạt dài dẻo thơm"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 173
+    },
+    "stock": 200,
+    "soldCount": 3173,
+    "weight": 3409,
+    "dimensions": {
+      "length": 43.5,
+      "width": 24.4,
+      "height": 10.2
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "gạo",
+      "thực phẩm",
+      "gia đình",
+      "vinh-hien"
+    ],
+    "createdAt": "2026-06-30T00:00:00.000Z"
+  },
+  {
+    "id": "prod-954",
+    "name": "Dầu ăn Simply olive",
+    "slug": "dau-an-simply-olive-954",
+    "price": 193000,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-954/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-954/800/800",
+    "description": "Dầu ăn từ olive đậu nành hướng dương hoặc gạo. Ép hoặc tinh luyện. Phù hợp chiên xào salad. Chai tiện dụng.",
+    "brand": "Tường An",
+    "sku": "TUO-0954-CHA",
+    "originalPrice": 225000,
+    "discountPercent": 14,
+    "unit": "chai",
+    "shortDescription": "Dầu ăn nguyên chất nhiều loại tốt cho sức khỏe.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-954-a/800/800",
+      "https://picsum.photos/seed/prod-954-b/800/800",
+      "https://picsum.photos/seed/prod-954-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Olive / Đậu nành / Hướng dương / Gạo",
+      "Dung tích": "400ml-1L",
+      "Phương pháp": "Ép / Tinh luyện"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 560
+    },
+    "stock": 31,
+    "soldCount": 2536,
+    "weight": 988,
+    "dimensions": {
+      "length": 10.3,
+      "width": 10.5,
+      "height": 25.2
+    },
+    "origin": "Việt Nam / Tây Ban Nha / Thái Lan",
+    "warranty": "Theo HSD",
+    "tags": [
+      "dầu ăn",
+      "gia vị",
+      "thực phẩm",
+      "tuong-an"
+    ],
+    "createdAt": "2026-05-15T00:00:00.000Z"
+  },
+  {
+    "id": "prod-955",
+    "name": "Trà Trà Việt túi lọc limited",
+    "slug": "tra-tra-viet-tui-loc-limited-955",
+    "price": 102000,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-955/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-955/800/800",
+    "description": "Trà xanh đen hoặc hương hoa quả. Dạng túi lọc tiện pha hoặc trà lá. Hương vị dịu thanh. Phù hợp văn phòng gia đình.",
+    "brand": "Trà Việt",
+    "sku": "TRA-0955-HỘP",
+    "originalPrice": 126000,
+    "discountPercent": 19,
+    "unit": "hộp",
+    "shortDescription": "Trà túi lọc hoặc trà lá hương vị thơm ngon.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-955-a/800/800",
+      "https://picsum.photos/seed/prod-955-b/800/800",
+      "https://picsum.photos/seed/prod-955-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Xanh / Đen / Hoa quả",
+      "Dạng": "Túi lọc / Lá",
+      "Số gói": "20-50"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 786
+    },
+    "stock": 64,
+    "soldCount": 2888,
+    "weight": 134,
+    "dimensions": {
+      "length": 14.2,
+      "width": 10.5,
+      "height": 7.8
+    },
+    "origin": "Việt Nam / Sri Lanka / Anh",
+    "warranty": "Theo HSD",
+    "tags": [
+      "trà",
+      "đồ uống",
+      "túi lọc",
+      "tra-viet"
+    ],
+    "createdAt": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "prod-956",
+    "name": "Gia vị Maggi muối tiêu Plus",
+    "slug": "gia-vi-maggi-muoi-tieu-plus-956",
+    "price": 78300,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-956/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-956/800/800",
+    "description": "Gia vị thiết yếu cho mọi căn bếp. Nước mắm đậm đà tương ớt cay hạt nêm umami. Chất lượng ổn định. Dùng hàng ngày.",
+    "brand": "Đầu bếp",
+    "sku": "DAU-0956-CHA",
+    "originalPrice": 85581,
+    "discountPercent": 9,
+    "unit": "chai/gói",
+    "shortDescription": "Gia vị thiết yếu nước mắm tương ớt hạt nêm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-956-a/800/800",
+      "https://picsum.photos/seed/prod-956-b/800/800",
+      "https://picsum.photos/seed/prod-956-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Nước mắm / Tương ớt / Hạt nêm",
+      "Dung tích/Trọng lượng": "Đa dạng",
+      "Đặc điểm": "Đậm đà / Cay vừa"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 603
+    },
+    "stock": 69,
+    "soldCount": 3841,
+    "weight": 285,
+    "dimensions": {
+      "length": 7.2,
+      "width": 7.1,
+      "height": 17.8
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "gia vị",
+      "nước mắm",
+      "tương ớt",
+      "hạt nêm",
+      "dau-bep"
+    ],
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-957",
+    "name": "Bánh kẹo / Snack Kinh Đô",
+    "slug": "banh-keo-snack-kinh-do-957",
+    "price": 84600,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-957/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-957/800/800",
+    "description": "Bánh quy kẹo hoặc snack khoai tây. Hương vị đa dạng. Giòn ngon. Phù hợp ăn vặt mọi lứa tuổi. Gói tiện lợi.",
+    "brand": "Poca",
+    "sku": "POC-0957-GÓI",
+    "originalPrice": 101000,
+    "discountPercent": 16,
+    "unit": "gói",
+    "shortDescription": "Bánh kẹo snack giòn ngon nhiều hương vị.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-957-a/800/800",
+      "https://picsum.photos/seed/prod-957-b/800/800",
+      "https://picsum.photos/seed/prod-957-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bánh quy / Kẹo / Snack",
+      "Trọng lượng": "30-200g",
+      "Hương vị": "Đa dạng"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 451
+    },
+    "stock": 263,
+    "soldCount": 657,
+    "weight": 185,
+    "dimensions": {
+      "length": 14.3,
+      "width": 7.7,
+      "height": 4.8
+    },
+    "origin": "Việt Nam / Trung Quốc / Hàn Quốc",
+    "warranty": "Theo HSD",
+    "tags": [
+      "bánh kẹo",
+      "snack",
+      "ăn vặt",
+      "poca"
+    ],
+    "createdAt": "2026-06-11T00:00:00.000Z"
+  },
+  {
+    "id": "prod-958",
+    "name": "Mì / Phở / Cháo ăn liền Vifon",
+    "slug": "mi-pho-chao-an-lien-vifon-958",
+    "price": 27100,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-958/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-958/800/800",
+    "description": "Mì tôm phở hoặc cháo ăn liền. Nấu nhanh 3-5 phút. Nhiều hương vị. Thùng dự trữ hoặc gói lẻ. Bữa ăn nhanh tiện lợi.",
+    "brand": "Omachi",
+    "sku": "OMA-0958-THÙ",
+    "originalPrice": 33305,
+    "discountPercent": 19,
+    "unit": "thùng/gói",
+    "shortDescription": "Mì phở cháo ăn liền tiện lợi nhiều hương vị.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-958-a/800/800",
+      "https://picsum.photos/seed/prod-958-b/800/800",
+      "https://picsum.photos/seed/prod-958-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Mì / Phở / Cháo",
+      "Vị": "Đa dạng",
+      "Thời gian nấu": "3-5 phút",
+      "Quy cách": "Gói / Thùng"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 501
+    },
+    "stock": 56,
+    "soldCount": 567,
+    "weight": 133,
+    "dimensions": {
+      "length": 37.3,
+      "width": 24.6,
+      "height": 21.1
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "mì ăn liền",
+      "phở",
+      "cháo",
+      "tiện lợi",
+      "omachi"
+    ],
+    "createdAt": "2026-08-25T00:00:00.000Z"
+  },
+  {
+    "id": "prod-959",
+    "name": "Nước ngọt / Nước trái cây Coca-Cola",
+    "slug": "nuoc-ngot-nuoc-trai-cay-coca-cola-959",
+    "price": 27900,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-959/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-959/800/800",
+    "description": "Nước ngọt có ga hương vị quen thuộc hoặc nước trái cây. Sảng khoái khi uống lạnh. Lon chai hoặc lốc tiện lợi.",
+    "brand": "Coca-Cola",
+    "sku": "COC-0959-LỐC",
+    "originalPrice": 34827,
+    "discountPercent": 20,
+    "unit": "lốc/chai",
+    "shortDescription": "Nước ngọt có ga hoặc nước trái cây giải khát.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-959-a/800/800",
+      "https://picsum.photos/seed/prod-959-b/800/800",
+      "https://picsum.photos/seed/prod-959-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Có ga / Trái cây / Suối",
+      "Dung tích": "330ml-1.5L",
+      "Quy cách": "Lon / Chai / Lốc"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 150
+    },
+    "stock": 210,
+    "soldCount": 2904,
+    "weight": 1414,
+    "dimensions": {
+      "length": 20.1,
+      "width": 15.1,
+      "height": 11.7
+    },
+    "origin": "Việt Nam / Thái Lan",
+    "warranty": "Theo HSD",
+    "tags": [
+      "nước ngọt",
+      "nước trái cây",
+      "giải khát",
+      "coca-cola"
+    ],
+    "createdAt": "2026-06-06T00:00:00.000Z"
+  },
+  {
+    "id": "prod-960",
+    "name": "Hạt / Ngũ cốc Ohla",
+    "slug": "hat-ngu-coc-ohla-960",
+    "price": 56200,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-960/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-960/800/800",
+    "description": "Hạt điều hạnh nhân hoặc ngũ cốc ăn sáng. Giàu dinh dưỡng. Rang muối hoặc nguyên vị. Phù hợp ăn vặt hoặc bữa sáng.",
+    "brand": "Calbee",
+    "sku": "CAL-0960-GÓI",
+    "originalPrice": 63913,
+    "discountPercent": 12,
+    "unit": "gói",
+    "shortDescription": "Hạt điều ngũ cốc dinh dưỡng ăn vặt lành mạnh.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-960-a/800/800",
+      "https://picsum.photos/seed/prod-960-b/800/800",
+      "https://picsum.photos/seed/prod-960-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Hạt điều / Hạnh nhân / Ngũ cốc",
+      "Trọng lượng": "100-500g",
+      "Đặc điểm": "Dinh dưỡng / Ít dầu"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 776
+    },
+    "stock": 186,
+    "soldCount": 3940,
+    "weight": 272,
+    "dimensions": {
+      "length": 15.3,
+      "width": 10.2,
+      "height": 5.5
+    },
+    "origin": "Việt Nam / Thái Lan / Mỹ / Nhật Bản",
+    "warranty": "Theo HSD",
+    "tags": [
+      "hạt",
+      "ngũ cốc",
+      "ăn vặt",
+      "dinh dưỡng",
+      "calbee"
+    ],
+    "createdAt": "2026-05-09T00:00:00.000Z"
+  },
+  {
+    "id": "prod-961",
+    "name": "Cà phê Vinacafe phin giấy",
+    "slug": "ca-phe-vinacafe-phin-giay-961",
+    "price": 111000,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-961/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-961/800/800",
+    "description": "Cà phê chọn lọc rang theo công thức riêng. Hương vị đậm đà chua thanh hoặc đậm ngọt. Dạng rang xay hòa tan hoặc phin giấy tiện dụng.",
+    "brand": "Vinacafe",
+    "sku": "VIN-0961-GÓI",
+    "originalPrice": 134000,
+    "discountPercent": 17,
+    "unit": "gói/hộp",
+    "shortDescription": "Cà phê rang xay hoặc hòa tan hương vị đậm đà.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-961-a/800/800",
+      "https://picsum.photos/seed/prod-961-b/800/800",
+      "https://picsum.photos/seed/prod-961-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Rang xay / Hòa tan",
+      "Trọng lượng": "100-500g",
+      "Hương vị": "Đậm đà / Chua thanh"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 541
+    },
+    "stock": 47,
+    "soldCount": 673,
+    "weight": 458,
+    "dimensions": {
+      "length": 13.9,
+      "width": 9.4,
+      "height": 5.3
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "cà phê",
+      "rang xay",
+      "hòa tan",
+      "đồ uống",
+      "vinacafe"
+    ],
+    "createdAt": "2026-09-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-962",
+    "name": "Sữa tươi / Sữa chua Vinamilk",
+    "slug": "sua-tuoi-sua-chua-vinamilk-962",
+    "price": 69200,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-962/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-962/800/800",
+    "description": "Sữa tươi 100% hoặc sữa chua men sống. Giàu canxi protein. Hỗ trợ tiêu hóa và phát triển. Nhiều hương vị. Tiện lợi dùng hàng ngày.",
+    "brand": "Dutch Lady",
+    "sku": "DUT-0962-HỘP",
+    "originalPrice": 82375,
+    "discountPercent": 16,
+    "unit": "hộp/lốc",
+    "shortDescription": "Sữa tươi tiệt trùng hoặc sữa chua men sống dinh dưỡng.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-962-a/800/800",
+      "https://picsum.photos/seed/prod-962-b/800/800",
+      "https://picsum.photos/seed/prod-962-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Sữa tươi / Sữa chua",
+      "Dung tích": "110ml-1L",
+      "Dinh dưỡng": "Canxi Protein Men sống"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 811
+    },
+    "stock": 54,
+    "soldCount": 1001,
+    "weight": 498,
+    "dimensions": {
+      "length": 19.3,
+      "width": 7.5,
+      "height": 8.4
+    },
+    "origin": "Việt Nam / Thái Lan / New Zealand",
+    "warranty": "Theo HSD",
+    "tags": [
+      "sữa",
+      "sữa chua",
+      "dinh dưỡng",
+      "đồ uống",
+      "dutch-lady"
+    ],
+    "createdAt": "2026-04-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-963",
+    "name": "Gạo Nàng Hoa tám xoan 2025",
+    "slug": "gao-nang-hoa-tam-xoan-2025-963",
+    "price": 165000,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-963/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-963/800/800",
+    "description": "Gạo chất lượng cao hạt dài trắng trong. Cơm dẻo thơm tự nhiên. Nhiều giống nổi tiếng. Túi tiện dùng gia đình.",
+    "brand": "Vinh Hiển",
+    "sku": "VIN-0963-TÚI",
+    "originalPrice": 192000,
+    "discountPercent": 14,
+    "unit": "túi",
+    "shortDescription": "Gạo ngon hạt dài dẻo thơm túi 2-5kg.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-963-a/800/800",
+      "https://picsum.photos/seed/prod-963-b/800/800",
+      "https://picsum.photos/seed/prod-963-c/800/800"
+    ],
+    "specifications": {
+      "Giống": "ST25 / Jasmine / Tám xoan",
+      "Trọng lượng": "2-5kg",
+      "Đặc điểm": "Hạt dài dẻo thơm"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 62
+    },
+    "stock": 112,
+    "soldCount": 1813,
+    "weight": 3747,
+    "dimensions": {
+      "length": 38.3,
+      "width": 24.4,
+      "height": 10.5
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "gạo",
+      "thực phẩm",
+      "gia đình",
+      "vinh-hien"
+    ],
+    "createdAt": "2026-05-27T00:00:00.000Z"
+  },
+  {
+    "id": "prod-964",
+    "name": "Dầu ăn Olivoilà hướng dương Pro",
+    "slug": "dau-an-olivoila-huong-duong-pro-964",
+    "price": 76100,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-964/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-964/800/800",
+    "description": "Dầu ăn từ olive đậu nành hướng dương hoặc gạo. Ép hoặc tinh luyện. Phù hợp chiên xào salad. Chai tiện dụng.",
+    "brand": "Tường An",
+    "sku": "TUO-0964-CHA",
+    "originalPrice": 85911,
+    "discountPercent": 11,
+    "unit": "chai",
+    "shortDescription": "Dầu ăn nguyên chất nhiều loại tốt cho sức khỏe.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-964-a/800/800",
+      "https://picsum.photos/seed/prod-964-b/800/800",
+      "https://picsum.photos/seed/prod-964-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Olive / Đậu nành / Hướng dương / Gạo",
+      "Dung tích": "400ml-1L",
+      "Phương pháp": "Ép / Tinh luyện"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 640
+    },
+    "stock": 59,
+    "soldCount": 3836,
+    "weight": 898,
+    "dimensions": {
+      "length": 9.9,
+      "width": 10.8,
+      "height": 23.9
+    },
+    "origin": "Việt Nam / Tây Ban Nha / Thái Lan",
+    "warranty": "Theo HSD",
+    "tags": [
+      "dầu ăn",
+      "gia vị",
+      "thực phẩm",
+      "tuong-an"
+    ],
+    "createdAt": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "prod-965",
+    "name": "Trà Dilmah đen 2025",
+    "slug": "tra-dilmah-den-2025-965",
+    "price": 69300,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-965/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-965/800/800",
+    "description": "Trà xanh đen hoặc hương hoa quả. Dạng túi lọc tiện pha hoặc trà lá. Hương vị dịu thanh. Phù hợp văn phòng gia đình.",
+    "brand": "Trà Việt",
+    "sku": "TRA-0965-HỘP",
+    "originalPrice": 75166,
+    "discountPercent": 8,
+    "unit": "hộp",
+    "shortDescription": "Trà túi lọc hoặc trà lá hương vị thơm ngon.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-965-a/800/800",
+      "https://picsum.photos/seed/prod-965-b/800/800",
+      "https://picsum.photos/seed/prod-965-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Xanh / Đen / Hoa quả",
+      "Dạng": "Túi lọc / Lá",
+      "Số gói": "20-50"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 520
+    },
+    "stock": 18,
+    "soldCount": 1563,
+    "weight": 281,
+    "dimensions": {
+      "length": 13.6,
+      "width": 10.8,
+      "height": 8.1
+    },
+    "origin": "Việt Nam / Sri Lanka / Anh",
+    "warranty": "Theo HSD",
+    "tags": [
+      "trà",
+      "đồ uống",
+      "túi lọc",
+      "tra-viet"
+    ],
+    "createdAt": "2026-03-08T00:00:00.000Z"
+  },
+  {
+    "id": "prod-966",
+    "name": "Gia vị Knorr muối tiêu",
+    "slug": "gia-vi-knorr-muoi-tieu-966",
+    "price": 28500,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-966/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-966/800/800",
+    "description": "Gia vị thiết yếu cho mọi căn bếp. Nước mắm đậm đà tương ớt cay hạt nêm umami. Chất lượng ổn định. Dùng hàng ngày.",
+    "brand": "Đầu bếp",
+    "sku": "DAU-0966-CHA",
+    "originalPrice": 34806,
+    "discountPercent": 18,
+    "unit": "chai/gói",
+    "shortDescription": "Gia vị thiết yếu nước mắm tương ớt hạt nêm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-966-a/800/800",
+      "https://picsum.photos/seed/prod-966-b/800/800",
+      "https://picsum.photos/seed/prod-966-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Nước mắm / Tương ớt / Hạt nêm",
+      "Dung tích/Trọng lượng": "Đa dạng",
+      "Đặc điểm": "Đậm đà / Cay vừa"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 462
+    },
+    "stock": 257,
+    "soldCount": 1127,
+    "weight": 251,
+    "dimensions": {
+      "length": 7.6,
+      "width": 7.3,
+      "height": 19.5
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "gia vị",
+      "nước mắm",
+      "tương ớt",
+      "hạt nêm",
+      "dau-bep"
+    ],
+    "createdAt": "2026-02-06T00:00:00.000Z"
+  },
+  {
+    "id": "prod-967",
+    "name": "Bánh kẹo / Snack Kinh Đô",
+    "slug": "banh-keo-snack-kinh-do-967",
+    "price": 54400,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-967/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-967/800/800",
+    "description": "Bánh quy kẹo hoặc snack khoai tây. Hương vị đa dạng. Giòn ngon. Phù hợp ăn vặt mọi lứa tuổi. Gói tiện lợi.",
+    "brand": "Oreo",
+    "sku": "ORE-0967-GÓI",
+    "originalPrice": 66184,
+    "discountPercent": 18,
+    "unit": "gói",
+    "shortDescription": "Bánh kẹo snack giòn ngon nhiều hương vị.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-967-a/800/800",
+      "https://picsum.photos/seed/prod-967-b/800/800",
+      "https://picsum.photos/seed/prod-967-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bánh quy / Kẹo / Snack",
+      "Trọng lượng": "30-200g",
+      "Hương vị": "Đa dạng"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 665
+    },
+    "stock": 267,
+    "soldCount": 2802,
+    "weight": 86,
+    "dimensions": {
+      "length": 15.7,
+      "width": 7.7,
+      "height": 5.0
+    },
+    "origin": "Việt Nam / Trung Quốc / Hàn Quốc",
+    "warranty": "Theo HSD",
+    "tags": [
+      "bánh kẹo",
+      "snack",
+      "ăn vặt",
+      "oreo"
     ],
     "createdAt": "2026-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-968",
+    "name": "Mì / Phở / Cháo ăn liền Hảo Hảo",
+    "slug": "mi-pho-chao-an-lien-hao-hao-968",
+    "price": 8500,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-968/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-968/800/800",
+    "description": "Mì tôm phở hoặc cháo ăn liền. Nấu nhanh 3-5 phút. Nhiều hương vị. Thùng dự trữ hoặc gói lẻ. Bữa ăn nhanh tiện lợi.",
+    "brand": "Kokomi",
+    "sku": "KOK-0968-THÙ",
+    "originalPrice": 9806,
+    "discountPercent": 13,
+    "unit": "thùng/gói",
+    "shortDescription": "Mì phở cháo ăn liền tiện lợi nhiều hương vị.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-968-a/800/800",
+      "https://picsum.photos/seed/prod-968-b/800/800",
+      "https://picsum.photos/seed/prod-968-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Mì / Phở / Cháo",
+      "Vị": "Đa dạng",
+      "Thời gian nấu": "3-5 phút",
+      "Quy cách": "Gói / Thùng"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 56
+    },
+    "stock": 329,
+    "soldCount": 2619,
+    "weight": 2205,
+    "dimensions": {
+      "length": 38.5,
+      "width": 26.7,
+      "height": 20.6
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "mì ăn liền",
+      "phở",
+      "cháo",
+      "tiện lợi",
+      "kokomi"
+    ],
+    "createdAt": "2026-01-17T00:00:00.000Z"
+  },
+  {
+    "id": "prod-969",
+    "name": "Nước ngọt / Nước trái cây Pepsi Max",
+    "slug": "nuoc-ngot-nuoc-trai-cay-pepsi-max-969",
+    "price": 31600,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-969/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-969/800/800",
+    "description": "Nước ngọt có ga hương vị quen thuộc hoặc nước trái cây. Sảng khoái khi uống lạnh. Lon chai hoặc lốc tiện lợi.",
+    "brand": "Pepsi",
+    "sku": "PEP-0969-LỐC",
+    "originalPrice": 35553,
+    "discountPercent": 11,
+    "unit": "lốc/chai",
+    "shortDescription": "Nước ngọt có ga hoặc nước trái cây giải khát.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-969-a/800/800",
+      "https://picsum.photos/seed/prod-969-b/800/800",
+      "https://picsum.photos/seed/prod-969-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Có ga / Trái cây / Suối",
+      "Dung tích": "330ml-1.5L",
+      "Quy cách": "Lon / Chai / Lốc"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 670
+    },
+    "stock": 50,
+    "soldCount": 3944,
+    "weight": 1570,
+    "dimensions": {
+      "length": 19.9,
+      "width": 14.1,
+      "height": 12.0
+    },
+    "origin": "Việt Nam / Thái Lan",
+    "warranty": "Theo HSD",
+    "tags": [
+      "nước ngọt",
+      "nước trái cây",
+      "giải khát",
+      "pepsi"
+    ],
+    "createdAt": "2026-05-27T00:00:00.000Z"
+  },
+  {
+    "id": "prod-970",
+    "name": "Hạt / Ngũ cốc Ohla",
+    "slug": "hat-ngu-coc-ohla-970",
+    "price": 139000,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-970/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-970/800/800",
+    "description": "Hạt điều hạnh nhân hoặc ngũ cốc ăn sáng. Giàu dinh dưỡng. Rang muối hoặc nguyên vị. Phù hợp ăn vặt hoặc bữa sáng.",
+    "brand": "Vinamit",
+    "sku": "VIN-0970-GÓI",
+    "originalPrice": 152000,
+    "discountPercent": 9,
+    "unit": "gói",
+    "shortDescription": "Hạt điều ngũ cốc dinh dưỡng ăn vặt lành mạnh.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-970-a/800/800",
+      "https://picsum.photos/seed/prod-970-b/800/800",
+      "https://picsum.photos/seed/prod-970-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Hạt điều / Hạnh nhân / Ngũ cốc",
+      "Trọng lượng": "100-500g",
+      "Đặc điểm": "Dinh dưỡng / Ít dầu"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 648
+    },
+    "stock": 199,
+    "soldCount": 2634,
+    "weight": 385,
+    "dimensions": {
+      "length": 15.3,
+      "width": 10.4,
+      "height": 4.5
+    },
+    "origin": "Việt Nam / Thái Lan / Mỹ / Nhật Bản",
+    "warranty": "Theo HSD",
+    "tags": [
+      "hạt",
+      "ngũ cốc",
+      "ăn vặt",
+      "dinh dưỡng",
+      "vinamit"
+    ],
+    "createdAt": "2026-06-13T00:00:00.000Z"
+  },
+  {
+    "id": "prod-971",
+    "name": "Cà phê Nescafe phin giấy 2025",
+    "slug": "ca-phe-nescafe-phin-giay-2025-971",
+    "price": 265000,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-971/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-971/800/800",
+    "description": "Cà phê chọn lọc rang theo công thức riêng. Hương vị đậm đà chua thanh hoặc đậm ngọt. Dạng rang xay hòa tan hoặc phin giấy tiện dụng.",
+    "brand": "Nescafe",
+    "sku": "NES-0971-GÓI",
+    "originalPrice": 300000,
+    "discountPercent": 12,
+    "unit": "gói/hộp",
+    "shortDescription": "Cà phê rang xay hoặc hòa tan hương vị đậm đà.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-971-a/800/800",
+      "https://picsum.photos/seed/prod-971-b/800/800",
+      "https://picsum.photos/seed/prod-971-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Rang xay / Hòa tan",
+      "Trọng lượng": "100-500g",
+      "Hương vị": "Đậm đà / Chua thanh"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 632
+    },
+    "stock": 187,
+    "soldCount": 2275,
+    "weight": 218,
+    "dimensions": {
+      "length": 16.1,
+      "width": 10.3,
+      "height": 5.0
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "cà phê",
+      "rang xay",
+      "hòa tan",
+      "đồ uống",
+      "nescafe"
+    ],
+    "createdAt": "2026-05-18T00:00:00.000Z"
+  },
+  {
+    "id": "prod-972",
+    "name": "Sữa tươi / Sữa chua Dutch Lady cao cấp",
+    "slug": "sua-tuoi-sua-chua-dutch-lady-cao-cap-972",
+    "price": 52500,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-972/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-972/800/800",
+    "description": "Sữa tươi 100% hoặc sữa chua men sống. Giàu canxi protein. Hỗ trợ tiêu hóa và phát triển. Nhiều hương vị. Tiện lợi dùng hàng ngày.",
+    "brand": "Dutch Lady",
+    "sku": "DUT-0972-HỘP",
+    "originalPrice": 65351,
+    "discountPercent": 20,
+    "unit": "hộp/lốc",
+    "shortDescription": "Sữa tươi tiệt trùng hoặc sữa chua men sống dinh dưỡng.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-972-a/800/800",
+      "https://picsum.photos/seed/prod-972-b/800/800",
+      "https://picsum.photos/seed/prod-972-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Sữa tươi / Sữa chua",
+      "Dung tích": "110ml-1L",
+      "Dinh dưỡng": "Canxi Protein Men sống"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 696
+    },
+    "stock": 63,
+    "soldCount": 1473,
+    "weight": 443,
+    "dimensions": {
+      "length": 19.0,
+      "width": 7.9,
+      "height": 7.5
+    },
+    "origin": "Việt Nam / Thái Lan / New Zealand",
+    "warranty": "Theo HSD",
+    "tags": [
+      "sữa",
+      "sữa chua",
+      "dinh dưỡng",
+      "đồ uống",
+      "dutch-lady"
+    ],
+    "createdAt": "2026-07-12T00:00:00.000Z"
+  },
+  {
+    "id": "prod-973",
+    "name": "Gạo Nàng Hoa jasmine",
+    "slug": "gao-nang-hoa-jasmine-973",
+    "price": 199000,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-973/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-973/800/800",
+    "description": "Gạo chất lượng cao hạt dài trắng trong. Cơm dẻo thơm tự nhiên. Nhiều giống nổi tiếng. Túi tiện dùng gia đình.",
+    "brand": "Nàng Hoa",
+    "sku": "NAN-0973-TÚI",
+    "originalPrice": 242000,
+    "discountPercent": 18,
+    "unit": "túi",
+    "shortDescription": "Gạo ngon hạt dài dẻo thơm túi 2-5kg.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-973-a/800/800",
+      "https://picsum.photos/seed/prod-973-b/800/800",
+      "https://picsum.photos/seed/prod-973-c/800/800"
+    ],
+    "specifications": {
+      "Giống": "ST25 / Jasmine / Tám xoan",
+      "Trọng lượng": "2-5kg",
+      "Đặc điểm": "Hạt dài dẻo thơm"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 240
+    },
+    "stock": 214,
+    "soldCount": 299,
+    "weight": 4003,
+    "dimensions": {
+      "length": 40.8,
+      "width": 25.9,
+      "height": 9.1
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "gạo",
+      "thực phẩm",
+      "gia đình",
+      "nang-hoa"
+    ],
+    "createdAt": "2026-06-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-974",
+    "name": "Dầu ăn Olivoilà hướng dương",
+    "slug": "dau-an-olivoila-huong-duong-974",
+    "price": 148000,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-974/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-974/800/800",
+    "description": "Dầu ăn từ olive đậu nành hướng dương hoặc gạo. Ép hoặc tinh luyện. Phù hợp chiên xào salad. Chai tiện dụng.",
+    "brand": "Neptune",
+    "sku": "NEP-0974-CHA",
+    "originalPrice": 180000,
+    "discountPercent": 18,
+    "unit": "chai",
+    "shortDescription": "Dầu ăn nguyên chất nhiều loại tốt cho sức khỏe.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-974-a/800/800",
+      "https://picsum.photos/seed/prod-974-b/800/800",
+      "https://picsum.photos/seed/prod-974-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Olive / Đậu nành / Hướng dương / Gạo",
+      "Dung tích": "400ml-1L",
+      "Phương pháp": "Ép / Tinh luyện"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 367
+    },
+    "stock": 330,
+    "soldCount": 3402,
+    "weight": 835,
+    "dimensions": {
+      "length": 9.8,
+      "width": 10.8,
+      "height": 23.8
+    },
+    "origin": "Việt Nam / Tây Ban Nha / Thái Lan",
+    "warranty": "Theo HSD",
+    "tags": [
+      "dầu ăn",
+      "gia vị",
+      "thực phẩm",
+      "neptune"
+    ],
+    "createdAt": "2026-01-26T00:00:00.000Z"
+  },
+  {
+    "id": "prod-975",
+    "name": "Trà Dilmah túi lọc",
+    "slug": "tra-dilmah-tui-loc-975",
+    "price": 68700,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-975/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-975/800/800",
+    "description": "Trà xanh đen hoặc hương hoa quả. Dạng túi lọc tiện pha hoặc trà lá. Hương vị dịu thanh. Phù hợp văn phòng gia đình.",
+    "brand": "Trà Việt",
+    "sku": "TRA-0975-HỘP",
+    "originalPrice": 80456,
+    "discountPercent": 15,
+    "unit": "hộp",
+    "shortDescription": "Trà túi lọc hoặc trà lá hương vị thơm ngon.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-975-a/800/800",
+      "https://picsum.photos/seed/prod-975-b/800/800",
+      "https://picsum.photos/seed/prod-975-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Xanh / Đen / Hoa quả",
+      "Dạng": "Túi lọc / Lá",
+      "Số gói": "20-50"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 639
+    },
+    "stock": 281,
+    "soldCount": 131,
+    "weight": 249,
+    "dimensions": {
+      "length": 15.4,
+      "width": 10.9,
+      "height": 8.2
+    },
+    "origin": "Việt Nam / Sri Lanka / Anh",
+    "warranty": "Theo HSD",
+    "tags": [
+      "trà",
+      "đồ uống",
+      "túi lọc",
+      "tra-viet"
+    ],
+    "createdAt": "2026-09-15T00:00:00.000Z"
+  },
+  {
+    "id": "prod-976",
+    "name": "Gia vị Chin-su muối tiêu Plus",
+    "slug": "gia-vi-chin-su-muoi-tieu-plus-976",
+    "price": 84500,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-976/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-976/800/800",
+    "description": "Gia vị thiết yếu cho mọi căn bếp. Nước mắm đậm đà tương ớt cay hạt nêm umami. Chất lượng ổn định. Dùng hàng ngày.",
+    "brand": "Knorr",
+    "sku": "KNO-0976-CHA",
+    "originalPrice": 92171,
+    "discountPercent": 8,
+    "unit": "chai/gói",
+    "shortDescription": "Gia vị thiết yếu nước mắm tương ớt hạt nêm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-976-a/800/800",
+      "https://picsum.photos/seed/prod-976-b/800/800",
+      "https://picsum.photos/seed/prod-976-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Nước mắm / Tương ớt / Hạt nêm",
+      "Dung tích/Trọng lượng": "Đa dạng",
+      "Đặc điểm": "Đậm đà / Cay vừa"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 568
+    },
+    "stock": 207,
+    "soldCount": 3571,
+    "weight": 125,
+    "dimensions": {
+      "length": 7.0,
+      "width": 6.8,
+      "height": 16.9
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "gia vị",
+      "nước mắm",
+      "tương ớt",
+      "hạt nêm",
+      "knorr"
+    ],
+    "createdAt": "2026-07-17T00:00:00.000Z"
+  },
+  {
+    "id": "prod-977",
+    "name": "Bánh kẹo / Snack Kinh Đô phiên bản mới",
+    "slug": "banh-keo-snack-kinh-do-phien-ban-moi-977",
+    "price": 51400,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-977/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-977/800/800",
+    "description": "Bánh quy kẹo hoặc snack khoai tây. Hương vị đa dạng. Giòn ngon. Phù hợp ăn vặt mọi lứa tuổi. Gói tiện lợi.",
+    "brand": "Orion",
+    "sku": "ORI-0977-GÓI",
+    "originalPrice": 59124,
+    "discountPercent": 13,
+    "unit": "gói",
+    "shortDescription": "Bánh kẹo snack giòn ngon nhiều hương vị.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-977-a/800/800",
+      "https://picsum.photos/seed/prod-977-b/800/800",
+      "https://picsum.photos/seed/prod-977-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bánh quy / Kẹo / Snack",
+      "Trọng lượng": "30-200g",
+      "Hương vị": "Đa dạng"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 559
+    },
+    "stock": 57,
+    "soldCount": 2104,
+    "weight": 171,
+    "dimensions": {
+      "length": 15.7,
+      "width": 8.7,
+      "height": 4.5
+    },
+    "origin": "Việt Nam / Trung Quốc / Hàn Quốc",
+    "warranty": "Theo HSD",
+    "tags": [
+      "bánh kẹo",
+      "snack",
+      "ăn vặt",
+      "orion"
+    ],
+    "createdAt": "2026-04-26T00:00:00.000Z"
+  },
+  {
+    "id": "prod-978",
+    "name": "Mì / Phở / Cháo ăn liền Vifon Pro",
+    "slug": "mi-pho-chao-an-lien-vifon-pro-978",
+    "price": 6700,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-978/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-978/800/800",
+    "description": "Mì tôm phở hoặc cháo ăn liền. Nấu nhanh 3-5 phút. Nhiều hương vị. Thùng dự trữ hoặc gói lẻ. Bữa ăn nhanh tiện lợi.",
+    "brand": "Kokomi",
+    "sku": "KOK-0978-THÙ",
+    "originalPrice": 7497,
+    "discountPercent": 11,
+    "unit": "thùng/gói",
+    "shortDescription": "Mì phở cháo ăn liền tiện lợi nhiều hương vị.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-978-a/800/800",
+      "https://picsum.photos/seed/prod-978-b/800/800",
+      "https://picsum.photos/seed/prod-978-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Mì / Phở / Cháo",
+      "Vị": "Đa dạng",
+      "Thời gian nấu": "3-5 phút",
+      "Quy cách": "Gói / Thùng"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 430
+    },
+    "stock": 72,
+    "soldCount": 3401,
+    "weight": 1082,
+    "dimensions": {
+      "length": 36.3,
+      "width": 26.2,
+      "height": 21.3
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "mì ăn liền",
+      "phở",
+      "cháo",
+      "tiện lợi",
+      "kokomi"
+    ],
+    "createdAt": "2026-07-23T00:00:00.000Z"
+  },
+  {
+    "id": "prod-979",
+    "name": "Nước ngọt / Nước trái cây Lavie",
+    "slug": "nuoc-ngot-nuoc-trai-cay-lavie-979",
+    "price": 15700,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-979/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-979/800/800",
+    "description": "Nước ngọt có ga hương vị quen thuộc hoặc nước trái cây. Sảng khoái khi uống lạnh. Lon chai hoặc lốc tiện lợi.",
+    "brand": "Coca-Cola",
+    "sku": "COC-0979-LỐC",
+    "originalPrice": 18302,
+    "discountPercent": 14,
+    "unit": "lốc/chai",
+    "shortDescription": "Nước ngọt có ga hoặc nước trái cây giải khát.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-979-a/800/800",
+      "https://picsum.photos/seed/prod-979-b/800/800",
+      "https://picsum.photos/seed/prod-979-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Có ga / Trái cây / Suối",
+      "Dung tích": "330ml-1.5L",
+      "Quy cách": "Lon / Chai / Lốc"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 117
+    },
+    "stock": 306,
+    "soldCount": 3296,
+    "weight": 3732,
+    "dimensions": {
+      "length": 18.1,
+      "width": 15.7,
+      "height": 12.1
+    },
+    "origin": "Việt Nam / Thái Lan",
+    "warranty": "Theo HSD",
+    "tags": [
+      "nước ngọt",
+      "nước trái cây",
+      "giải khát",
+      "coca-cola"
+    ],
+    "createdAt": "2026-04-25T00:00:00.000Z"
+  },
+  {
+    "id": "prod-980",
+    "name": "Hạt / Ngũ cốc Ohla",
+    "slug": "hat-ngu-coc-ohla-980",
+    "price": 107000,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-980/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-980/800/800",
+    "description": "Hạt điều hạnh nhân hoặc ngũ cốc ăn sáng. Giàu dinh dưỡng. Rang muối hoặc nguyên vị. Phù hợp ăn vặt hoặc bữa sáng.",
+    "brand": "Nestle",
+    "sku": "NES-0980-GÓI",
+    "originalPrice": 130000,
+    "discountPercent": 18,
+    "unit": "gói",
+    "shortDescription": "Hạt điều ngũ cốc dinh dưỡng ăn vặt lành mạnh.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-980-a/800/800",
+      "https://picsum.photos/seed/prod-980-b/800/800",
+      "https://picsum.photos/seed/prod-980-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Hạt điều / Hạnh nhân / Ngũ cốc",
+      "Trọng lượng": "100-500g",
+      "Đặc điểm": "Dinh dưỡng / Ít dầu"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 290
+    },
+    "stock": 340,
+    "soldCount": 2410,
+    "weight": 317,
+    "dimensions": {
+      "length": 15.0,
+      "width": 9.0,
+      "height": 4.8
+    },
+    "origin": "Việt Nam / Thái Lan / Mỹ / Nhật Bản",
+    "warranty": "Theo HSD",
+    "tags": [
+      "hạt",
+      "ngũ cốc",
+      "ăn vặt",
+      "dinh dưỡng",
+      "nestle"
+    ],
+    "createdAt": "2026-05-15T00:00:00.000Z"
+  },
+  {
+    "id": "prod-981",
+    "name": "Cà phê Vinacafe hòa tan",
+    "slug": "ca-phe-vinacafe-hoa-tan-981",
+    "price": 288000,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-981/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-981/800/800",
+    "description": "Cà phê chọn lọc rang theo công thức riêng. Hương vị đậm đà chua thanh hoặc đậm ngọt. Dạng rang xay hòa tan hoặc phin giấy tiện dụng.",
+    "brand": "Nescafe",
+    "sku": "NES-0981-GÓI",
+    "originalPrice": 331000,
+    "discountPercent": 13,
+    "unit": "gói/hộp",
+    "shortDescription": "Cà phê rang xay hoặc hòa tan hương vị đậm đà.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-981-a/800/800",
+      "https://picsum.photos/seed/prod-981-b/800/800",
+      "https://picsum.photos/seed/prod-981-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Rang xay / Hòa tan",
+      "Trọng lượng": "100-500g",
+      "Hương vị": "Đậm đà / Chua thanh"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 37
+    },
+    "stock": 259,
+    "soldCount": 3030,
+    "weight": 242,
+    "dimensions": {
+      "length": 15.0,
+      "width": 10.8,
+      "height": 5.0
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "cà phê",
+      "rang xay",
+      "hòa tan",
+      "đồ uống",
+      "nescafe"
+    ],
+    "createdAt": "2026-04-25T00:00:00.000Z"
+  },
+  {
+    "id": "prod-982",
+    "name": "Sữa tươi / Sữa chua Dutch Lady",
+    "slug": "sua-tuoi-sua-chua-dutch-lady-982",
+    "price": 54600,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-982/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-982/800/800",
+    "description": "Sữa tươi 100% hoặc sữa chua men sống. Giàu canxi protein. Hỗ trợ tiêu hóa và phát triển. Nhiều hương vị. Tiện lợi dùng hàng ngày.",
+    "brand": "Vinamilk",
+    "sku": "VIN-0982-HỘP",
+    "originalPrice": 61047,
+    "discountPercent": 11,
+    "unit": "hộp/lốc",
+    "shortDescription": "Sữa tươi tiệt trùng hoặc sữa chua men sống dinh dưỡng.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-982-a/800/800",
+      "https://picsum.photos/seed/prod-982-b/800/800",
+      "https://picsum.photos/seed/prod-982-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Sữa tươi / Sữa chua",
+      "Dung tích": "110ml-1L",
+      "Dinh dưỡng": "Canxi Protein Men sống"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 678
+    },
+    "stock": 164,
+    "soldCount": 1411,
+    "weight": 135,
+    "dimensions": {
+      "length": 19.6,
+      "width": 7.6,
+      "height": 7.8
+    },
+    "origin": "Việt Nam / Thái Lan / New Zealand",
+    "warranty": "Theo HSD",
+    "tags": [
+      "sữa",
+      "sữa chua",
+      "dinh dưỡng",
+      "đồ uống",
+      "vinamilk"
+    ],
+    "createdAt": "2026-02-20T00:00:00.000Z"
+  },
+  {
+    "id": "prod-983",
+    "name": "Gạo Lộc Trời ST25",
+    "slug": "gao-loc-troi-st25-983",
+    "price": 202000,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-983/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-983/800/800",
+    "description": "Gạo chất lượng cao hạt dài trắng trong. Cơm dẻo thơm tự nhiên. Nhiều giống nổi tiếng. Túi tiện dùng gia đình.",
+    "brand": "Ông Cụ",
+    "sku": "ONG-0983-TÚI",
+    "originalPrice": 251000,
+    "discountPercent": 20,
+    "unit": "túi",
+    "shortDescription": "Gạo ngon hạt dài dẻo thơm túi 2-5kg.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-983-a/800/800",
+      "https://picsum.photos/seed/prod-983-b/800/800",
+      "https://picsum.photos/seed/prod-983-c/800/800"
+    ],
+    "specifications": {
+      "Giống": "ST25 / Jasmine / Tám xoan",
+      "Trọng lượng": "2-5kg",
+      "Đặc điểm": "Hạt dài dẻo thơm"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 760
+    },
+    "stock": 295,
+    "soldCount": 3165,
+    "weight": 4430,
+    "dimensions": {
+      "length": 38.0,
+      "width": 23.2,
+      "height": 10.2
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "gạo",
+      "thực phẩm",
+      "gia đình",
+      "ong-cu"
+    ],
+    "createdAt": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "prod-984",
+    "name": "Dầu ăn Simply gạo Pro",
+    "slug": "dau-an-simply-gao-pro-984",
+    "price": 264000,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-984/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-984/800/800",
+    "description": "Dầu ăn từ olive đậu nành hướng dương hoặc gạo. Ép hoặc tinh luyện. Phù hợp chiên xào salad. Chai tiện dụng.",
+    "brand": "Olivoilà",
+    "sku": "OLI-0984-CHA",
+    "originalPrice": 292000,
+    "discountPercent": 10,
+    "unit": "chai",
+    "shortDescription": "Dầu ăn nguyên chất nhiều loại tốt cho sức khỏe.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-984-a/800/800",
+      "https://picsum.photos/seed/prod-984-b/800/800",
+      "https://picsum.photos/seed/prod-984-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Olive / Đậu nành / Hướng dương / Gạo",
+      "Dung tích": "400ml-1L",
+      "Phương pháp": "Ép / Tinh luyện"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 234
+    },
+    "stock": 292,
+    "soldCount": 3305,
+    "weight": 729,
+    "dimensions": {
+      "length": 10.4,
+      "width": 10.2,
+      "height": 26.9
+    },
+    "origin": "Việt Nam / Tây Ban Nha / Thái Lan",
+    "warranty": "Theo HSD",
+    "tags": [
+      "dầu ăn",
+      "gia vị",
+      "thực phẩm",
+      "olivoila"
+    ],
+    "createdAt": "2026-05-20T00:00:00.000Z"
+  },
+  {
+    "id": "prod-985",
+    "name": "Trà Trà Việt túi lọc limited",
+    "slug": "tra-tra-viet-tui-loc-limited-985",
+    "price": 146000,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-985/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-985/800/800",
+    "description": "Trà xanh đen hoặc hương hoa quả. Dạng túi lọc tiện pha hoặc trà lá. Hương vị dịu thanh. Phù hợp văn phòng gia đình.",
+    "brand": "Dilmah",
+    "sku": "DIL-0985-HỘP",
+    "originalPrice": 175000,
+    "discountPercent": 17,
+    "unit": "hộp",
+    "shortDescription": "Trà túi lọc hoặc trà lá hương vị thơm ngon.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-985-a/800/800",
+      "https://picsum.photos/seed/prod-985-b/800/800",
+      "https://picsum.photos/seed/prod-985-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Xanh / Đen / Hoa quả",
+      "Dạng": "Túi lọc / Lá",
+      "Số gói": "20-50"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 455
+    },
+    "stock": 44,
+    "soldCount": 1588,
+    "weight": 181,
+    "dimensions": {
+      "length": 15.2,
+      "width": 10.5,
+      "height": 8.4
+    },
+    "origin": "Việt Nam / Sri Lanka / Anh",
+    "warranty": "Theo HSD",
+    "tags": [
+      "trà",
+      "đồ uống",
+      "túi lọc",
+      "dilmah"
+    ],
+    "createdAt": "2026-02-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-986",
+    "name": "Gia vị Chin-su tương ớt",
+    "slug": "gia-vi-chin-su-tuong-ot-986",
+    "price": 33800,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-986/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-986/800/800",
+    "description": "Gia vị thiết yếu cho mọi căn bếp. Nước mắm đậm đà tương ớt cay hạt nêm umami. Chất lượng ổn định. Dùng hàng ngày.",
+    "brand": "Chin-su",
+    "sku": "CHI-0986-CHA",
+    "originalPrice": 37638,
+    "discountPercent": 10,
+    "unit": "chai/gói",
+    "shortDescription": "Gia vị thiết yếu nước mắm tương ớt hạt nêm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-986-a/800/800",
+      "https://picsum.photos/seed/prod-986-b/800/800",
+      "https://picsum.photos/seed/prod-986-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Nước mắm / Tương ớt / Hạt nêm",
+      "Dung tích/Trọng lượng": "Đa dạng",
+      "Đặc điểm": "Đậm đà / Cay vừa"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 842
+    },
+    "stock": 273,
+    "soldCount": 2045,
+    "weight": 545,
+    "dimensions": {
+      "length": 7.7,
+      "width": 6.4,
+      "height": 17.7
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "gia vị",
+      "nước mắm",
+      "tương ớt",
+      "hạt nêm",
+      "chin-su"
+    ],
+    "createdAt": "2026-02-19T00:00:00.000Z"
+  },
+  {
+    "id": "prod-987",
+    "name": "Bánh kẹo / Snack Oishi",
+    "slug": "banh-keo-snack-oishi-987",
+    "price": 46900,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-987/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-987/800/800",
+    "description": "Bánh quy kẹo hoặc snack khoai tây. Hương vị đa dạng. Giòn ngon. Phù hợp ăn vặt mọi lứa tuổi. Gói tiện lợi.",
+    "brand": "Oreo",
+    "sku": "ORE-0987-GÓI",
+    "originalPrice": 51589,
+    "discountPercent": 9,
+    "unit": "gói",
+    "shortDescription": "Bánh kẹo snack giòn ngon nhiều hương vị.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-987-a/800/800",
+      "https://picsum.photos/seed/prod-987-b/800/800",
+      "https://picsum.photos/seed/prod-987-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bánh quy / Kẹo / Snack",
+      "Trọng lượng": "30-200g",
+      "Hương vị": "Đa dạng"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 400
+    },
+    "stock": 293,
+    "soldCount": 2713,
+    "weight": 105,
+    "dimensions": {
+      "length": 15.7,
+      "width": 8.6,
+      "height": 4.8
+    },
+    "origin": "Việt Nam / Trung Quốc / Hàn Quốc",
+    "warranty": "Theo HSD",
+    "tags": [
+      "bánh kẹo",
+      "snack",
+      "ăn vặt",
+      "oreo"
+    ],
+    "createdAt": "2026-02-26T00:00:00.000Z"
+  },
+  {
+    "id": "prod-988",
+    "name": "Mì / Phở / Cháo ăn liền Omachi limited",
+    "slug": "mi-pho-chao-an-lien-omachi-limited-988",
+    "price": 97100,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-988/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-988/800/800",
+    "description": "Mì tôm phở hoặc cháo ăn liền. Nấu nhanh 3-5 phút. Nhiều hương vị. Thùng dự trữ hoặc gói lẻ. Bữa ăn nhanh tiện lợi.",
+    "brand": "Acecook",
+    "sku": "ACE-0988-THÙ",
+    "originalPrice": 111000,
+    "discountPercent": 13,
+    "unit": "thùng/gói",
+    "shortDescription": "Mì phở cháo ăn liền tiện lợi nhiều hương vị.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-988-a/800/800",
+      "https://picsum.photos/seed/prod-988-b/800/800",
+      "https://picsum.photos/seed/prod-988-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Mì / Phở / Cháo",
+      "Vị": "Đa dạng",
+      "Thời gian nấu": "3-5 phút",
+      "Quy cách": "Gói / Thùng"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 892
+    },
+    "stock": 74,
+    "soldCount": 722,
+    "weight": 1099,
+    "dimensions": {
+      "length": 39.8,
+      "width": 23.6,
+      "height": 19.3
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "mì ăn liền",
+      "phở",
+      "cháo",
+      "tiện lợi",
+      "acecook"
+    ],
+    "createdAt": "2026-05-29T00:00:00.000Z"
+  },
+  {
+    "id": "prod-989",
+    "name": "Nước ngọt / Nước trái cây Tropicana Max",
+    "slug": "nuoc-ngot-nuoc-trai-cay-tropicana-max-989",
+    "price": 25700,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-989/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-989/800/800",
+    "description": "Nước ngọt có ga hương vị quen thuộc hoặc nước trái cây. Sảng khoái khi uống lạnh. Lon chai hoặc lốc tiện lợi.",
+    "brand": "Pepsi",
+    "sku": "PEP-0989-LỐC",
+    "originalPrice": 29811,
+    "discountPercent": 14,
+    "unit": "lốc/chai",
+    "shortDescription": "Nước ngọt có ga hoặc nước trái cây giải khát.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-989-a/800/800",
+      "https://picsum.photos/seed/prod-989-b/800/800",
+      "https://picsum.photos/seed/prod-989-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Có ga / Trái cây / Suối",
+      "Dung tích": "330ml-1.5L",
+      "Quy cách": "Lon / Chai / Lốc"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 358
+    },
+    "stock": 53,
+    "soldCount": 300,
+    "weight": 375,
+    "dimensions": {
+      "length": 19.2,
+      "width": 14.1,
+      "height": 12.5
+    },
+    "origin": "Việt Nam / Thái Lan",
+    "warranty": "Theo HSD",
+    "tags": [
+      "nước ngọt",
+      "nước trái cây",
+      "giải khát",
+      "pepsi"
+    ],
+    "createdAt": "2026-06-23T00:00:00.000Z"
+  },
+  {
+    "id": "prod-990",
+    "name": "Hạt / Ngũ cốc Quaker",
+    "slug": "hat-ngu-coc-quaker-990",
+    "price": 66000,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-990/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-990/800/800",
+    "description": "Hạt điều hạnh nhân hoặc ngũ cốc ăn sáng. Giàu dinh dưỡng. Rang muối hoặc nguyên vị. Phù hợp ăn vặt hoặc bữa sáng.",
+    "brand": "Nestle",
+    "sku": "NES-0990-GÓI",
+    "originalPrice": 72029,
+    "discountPercent": 8,
+    "unit": "gói",
+    "shortDescription": "Hạt điều ngũ cốc dinh dưỡng ăn vặt lành mạnh.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-990-a/800/800",
+      "https://picsum.photos/seed/prod-990-b/800/800",
+      "https://picsum.photos/seed/prod-990-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Hạt điều / Hạnh nhân / Ngũ cốc",
+      "Trọng lượng": "100-500g",
+      "Đặc điểm": "Dinh dưỡng / Ít dầu"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 301
+    },
+    "stock": 150,
+    "soldCount": 3411,
+    "weight": 425,
+    "dimensions": {
+      "length": 15.2,
+      "width": 9.5,
+      "height": 5.1
+    },
+    "origin": "Việt Nam / Thái Lan / Mỹ / Nhật Bản",
+    "warranty": "Theo HSD",
+    "tags": [
+      "hạt",
+      "ngũ cốc",
+      "ăn vặt",
+      "dinh dưỡng",
+      "nestle"
+    ],
+    "createdAt": "2026-09-05T00:00:00.000Z"
+  },
+  {
+    "id": "prod-991",
+    "name": "Cà phê Vinacafe phin giấy",
+    "slug": "ca-phe-vinacafe-phin-giay-991",
+    "price": 199000,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-991/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-991/800/800",
+    "description": "Cà phê chọn lọc rang theo công thức riêng. Hương vị đậm đà chua thanh hoặc đậm ngọt. Dạng rang xay hòa tan hoặc phin giấy tiện dụng.",
+    "brand": "Starbucks",
+    "sku": "STA-0991-GÓI",
+    "originalPrice": 241000,
+    "discountPercent": 17,
+    "unit": "gói/hộp",
+    "shortDescription": "Cà phê rang xay hoặc hòa tan hương vị đậm đà.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-991-a/800/800",
+      "https://picsum.photos/seed/prod-991-b/800/800",
+      "https://picsum.photos/seed/prod-991-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Rang xay / Hòa tan",
+      "Trọng lượng": "100-500g",
+      "Hương vị": "Đậm đà / Chua thanh"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 125
+    },
+    "stock": 115,
+    "soldCount": 1196,
+    "weight": 230,
+    "dimensions": {
+      "length": 15.2,
+      "width": 10.3,
+      "height": 4.7
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "cà phê",
+      "rang xay",
+      "hòa tan",
+      "đồ uống",
+      "starbucks"
+    ],
+    "createdAt": "2026-03-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-992",
+    "name": "Sữa tươi / Sữa chua Dutch Lady",
+    "slug": "sua-tuoi-sua-chua-dutch-lady-992",
+    "price": 77200,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-992/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-992/800/800",
+    "description": "Sữa tươi 100% hoặc sữa chua men sống. Giàu canxi protein. Hỗ trợ tiêu hóa và phát triển. Nhiều hương vị. Tiện lợi dùng hàng ngày.",
+    "brand": "TH True Milk",
+    "sku": "TH -0992-HỘP",
+    "originalPrice": 90230,
+    "discountPercent": 14,
+    "unit": "hộp/lốc",
+    "shortDescription": "Sữa tươi tiệt trùng hoặc sữa chua men sống dinh dưỡng.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-992-a/800/800",
+      "https://picsum.photos/seed/prod-992-b/800/800",
+      "https://picsum.photos/seed/prod-992-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Sữa tươi / Sữa chua",
+      "Dung tích": "110ml-1L",
+      "Dinh dưỡng": "Canxi Protein Men sống"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 303
+    },
+    "stock": 320,
+    "soldCount": 2788,
+    "weight": 770,
+    "dimensions": {
+      "length": 21.1,
+      "width": 7.7,
+      "height": 8.4
+    },
+    "origin": "Việt Nam / Thái Lan / New Zealand",
+    "warranty": "Theo HSD",
+    "tags": [
+      "sữa",
+      "sữa chua",
+      "dinh dưỡng",
+      "đồ uống",
+      "th-true-milk"
+    ],
+    "createdAt": "2026-09-04T00:00:00.000Z"
+  },
+  {
+    "id": "prod-993",
+    "name": "Gạo Nàng Hoa jasmine limited",
+    "slug": "gao-nang-hoa-jasmine-limited-993",
+    "price": 101000,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-993/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-993/800/800",
+    "description": "Gạo chất lượng cao hạt dài trắng trong. Cơm dẻo thơm tự nhiên. Nhiều giống nổi tiếng. Túi tiện dùng gia đình.",
+    "brand": "Ông Cụ",
+    "sku": "ONG-0993-TÚI",
+    "originalPrice": 125000,
+    "discountPercent": 19,
+    "unit": "túi",
+    "shortDescription": "Gạo ngon hạt dài dẻo thơm túi 2-5kg.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-993-a/800/800",
+      "https://picsum.photos/seed/prod-993-b/800/800",
+      "https://picsum.photos/seed/prod-993-c/800/800"
+    ],
+    "specifications": {
+      "Giống": "ST25 / Jasmine / Tám xoan",
+      "Trọng lượng": "2-5kg",
+      "Đặc điểm": "Hạt dài dẻo thơm"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 73
+    },
+    "stock": 75,
+    "soldCount": 2145,
+    "weight": 4518,
+    "dimensions": {
+      "length": 37.2,
+      "width": 23.3,
+      "height": 10.7
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "gạo",
+      "thực phẩm",
+      "gia đình",
+      "ong-cu"
+    ],
+    "createdAt": "2026-08-09T00:00:00.000Z"
+  },
+  {
+    "id": "prod-994",
+    "name": "Dầu ăn Neptune gạo",
+    "slug": "dau-an-neptune-gao-994",
+    "price": 124000,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-994/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-994/800/800",
+    "description": "Dầu ăn từ olive đậu nành hướng dương hoặc gạo. Ép hoặc tinh luyện. Phù hợp chiên xào salad. Chai tiện dụng.",
+    "brand": "Olivoilà",
+    "sku": "OLI-0994-CHA",
+    "originalPrice": 144000,
+    "discountPercent": 14,
+    "unit": "chai",
+    "shortDescription": "Dầu ăn nguyên chất nhiều loại tốt cho sức khỏe.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-994-a/800/800",
+      "https://picsum.photos/seed/prod-994-b/800/800",
+      "https://picsum.photos/seed/prod-994-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Olive / Đậu nành / Hướng dương / Gạo",
+      "Dung tích": "400ml-1L",
+      "Phương pháp": "Ép / Tinh luyện"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 383
+    },
+    "stock": 164,
+    "soldCount": 3485,
+    "weight": 520,
+    "dimensions": {
+      "length": 9.5,
+      "width": 9.8,
+      "height": 26.4
+    },
+    "origin": "Việt Nam / Tây Ban Nha / Thái Lan",
+    "warranty": "Theo HSD",
+    "tags": [
+      "dầu ăn",
+      "gia vị",
+      "thực phẩm",
+      "olivoila"
+    ],
+    "createdAt": "2026-05-28T00:00:00.000Z"
+  },
+  {
+    "id": "prod-995",
+    "name": "Trà Dilmah xanh",
+    "slug": "tra-dilmah-xanh-995",
+    "price": 68500,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-995/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-995/800/800",
+    "description": "Trà xanh đen hoặc hương hoa quả. Dạng túi lọc tiện pha hoặc trà lá. Hương vị dịu thanh. Phù hợp văn phòng gia đình.",
+    "brand": "Lipton",
+    "sku": "LIP-0995-HỘP",
+    "originalPrice": 84990,
+    "discountPercent": 19,
+    "unit": "hộp",
+    "shortDescription": "Trà túi lọc hoặc trà lá hương vị thơm ngon.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-995-a/800/800",
+      "https://picsum.photos/seed/prod-995-b/800/800",
+      "https://picsum.photos/seed/prod-995-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Xanh / Đen / Hoa quả",
+      "Dạng": "Túi lọc / Lá",
+      "Số gói": "20-50"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 731
+    },
+    "stock": 133,
+    "soldCount": 2857,
+    "weight": 263,
+    "dimensions": {
+      "length": 14.3,
+      "width": 9.3,
+      "height": 7.9
+    },
+    "origin": "Việt Nam / Sri Lanka / Anh",
+    "warranty": "Theo HSD",
+    "tags": [
+      "trà",
+      "đồ uống",
+      "túi lọc",
+      "lipton"
+    ],
+    "createdAt": "2026-02-14T00:00:00.000Z"
+  },
+  {
+    "id": "prod-996",
+    "name": "Gia vị Đầu bếp muối tiêu",
+    "slug": "gia-vi-dau-bep-muoi-tieu-996",
+    "price": 15300,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-996/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-996/800/800",
+    "description": "Gia vị thiết yếu cho mọi căn bếp. Nước mắm đậm đà tương ớt cay hạt nêm umami. Chất lượng ổn định. Dùng hàng ngày.",
+    "brand": "Nam Ngư",
+    "sku": "NAM-0996-CHA",
+    "originalPrice": 18776,
+    "discountPercent": 19,
+    "unit": "chai/gói",
+    "shortDescription": "Gia vị thiết yếu nước mắm tương ớt hạt nêm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-996-a/800/800",
+      "https://picsum.photos/seed/prod-996-b/800/800",
+      "https://picsum.photos/seed/prod-996-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Nước mắm / Tương ớt / Hạt nêm",
+      "Dung tích/Trọng lượng": "Đa dạng",
+      "Đặc điểm": "Đậm đà / Cay vừa"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 593
+    },
+    "stock": 102,
+    "soldCount": 1616,
+    "weight": 537,
+    "dimensions": {
+      "length": 7.0,
+      "width": 7.2,
+      "height": 18.8
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "gia vị",
+      "nước mắm",
+      "tương ớt",
+      "hạt nêm",
+      "nam-ngu"
+    ],
+    "createdAt": "2026-04-20T00:00:00.000Z"
+  },
+  {
+    "id": "prod-997",
+    "name": "Bánh kẹo / Snack Kinh Đô",
+    "slug": "banh-keo-snack-kinh-do-997",
+    "price": 33700,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-997/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-997/800/800",
+    "description": "Bánh quy kẹo hoặc snack khoai tây. Hương vị đa dạng. Giòn ngon. Phù hợp ăn vặt mọi lứa tuổi. Gói tiện lợi.",
+    "brand": "Oreo",
+    "sku": "ORE-0997-GÓI",
+    "originalPrice": 38928,
+    "discountPercent": 13,
+    "unit": "gói",
+    "shortDescription": "Bánh kẹo snack giòn ngon nhiều hương vị.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-997-a/800/800",
+      "https://picsum.photos/seed/prod-997-b/800/800",
+      "https://picsum.photos/seed/prod-997-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bánh quy / Kẹo / Snack",
+      "Trọng lượng": "30-200g",
+      "Hương vị": "Đa dạng"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 279
+    },
+    "stock": 262,
+    "soldCount": 3824,
+    "weight": 164,
+    "dimensions": {
+      "length": 14.1,
+      "width": 8.1,
+      "height": 4.8
+    },
+    "origin": "Việt Nam / Trung Quốc / Hàn Quốc",
+    "warranty": "Theo HSD",
+    "tags": [
+      "bánh kẹo",
+      "snack",
+      "ăn vặt",
+      "oreo"
+    ],
+    "createdAt": "2026-01-18T00:00:00.000Z"
+  },
+  {
+    "id": "prod-998",
+    "name": "Mì / Phở / Cháo ăn liền Acecook Pro",
+    "slug": "mi-pho-chao-an-lien-acecook-pro-998",
+    "price": 55700,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-998/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-998/800/800",
+    "description": "Mì tôm phở hoặc cháo ăn liền. Nấu nhanh 3-5 phút. Nhiều hương vị. Thùng dự trữ hoặc gói lẻ. Bữa ăn nhanh tiện lợi.",
+    "brand": "Vifon",
+    "sku": "VIF-0998-THÙ",
+    "originalPrice": 60571,
+    "discountPercent": 8,
+    "unit": "thùng/gói",
+    "shortDescription": "Mì phở cháo ăn liền tiện lợi nhiều hương vị.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-998-a/800/800",
+      "https://picsum.photos/seed/prod-998-b/800/800",
+      "https://picsum.photos/seed/prod-998-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Mì / Phở / Cháo",
+      "Vị": "Đa dạng",
+      "Thời gian nấu": "3-5 phút",
+      "Quy cách": "Gói / Thùng"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 755
+    },
+    "stock": 246,
+    "soldCount": 2538,
+    "weight": 1106,
+    "dimensions": {
+      "length": 38.2,
+      "width": 22.8,
+      "height": 20.3
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "mì ăn liền",
+      "phở",
+      "cháo",
+      "tiện lợi",
+      "vifon"
+    ],
+    "createdAt": "2026-06-25T00:00:00.000Z"
+  },
+  {
+    "id": "prod-999",
+    "name": "Nước ngọt / Nước trái cây Tropicana",
+    "slug": "nuoc-ngot-nuoc-trai-cay-tropicana-999",
+    "price": 77500,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-999/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-999/800/800",
+    "description": "Nước ngọt có ga hương vị quen thuộc hoặc nước trái cây. Sảng khoái khi uống lạnh. Lon chai hoặc lốc tiện lợi.",
+    "brand": "Tropicana",
+    "sku": "TRO-0999-LỐC",
+    "originalPrice": 94337,
+    "discountPercent": 18,
+    "unit": "lốc/chai",
+    "shortDescription": "Nước ngọt có ga hoặc nước trái cây giải khát.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-999-a/800/800",
+      "https://picsum.photos/seed/prod-999-b/800/800",
+      "https://picsum.photos/seed/prod-999-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Có ga / Trái cây / Suối",
+      "Dung tích": "330ml-1.5L",
+      "Quy cách": "Lon / Chai / Lốc"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 201
+    },
+    "stock": 72,
+    "soldCount": 389,
+    "weight": 642,
+    "dimensions": {
+      "length": 19.5,
+      "width": 15.3,
+      "height": 12.5
+    },
+    "origin": "Việt Nam / Thái Lan",
+    "warranty": "Theo HSD",
+    "tags": [
+      "nước ngọt",
+      "nước trái cây",
+      "giải khát",
+      "tropicana"
+    ],
+    "createdAt": "2026-05-02T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1000",
+    "name": "Hạt / Ngũ cốc Vinamit",
+    "slug": "hat-ngu-coc-vinamit-1000",
+    "price": 141000,
+    "categoryId": "cat-9",
+    "thumbUrl": "https://picsum.photos/seed/prod-1000/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1000/800/800",
+    "description": "Hạt điều hạnh nhân hoặc ngũ cốc ăn sáng. Giàu dinh dưỡng. Rang muối hoặc nguyên vị. Phù hợp ăn vặt hoặc bữa sáng.",
+    "brand": "Vinamit",
+    "sku": "VIN-1000-GÓI",
+    "originalPrice": 168000,
+    "discountPercent": 16,
+    "unit": "gói",
+    "shortDescription": "Hạt điều ngũ cốc dinh dưỡng ăn vặt lành mạnh.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1000-a/800/800",
+      "https://picsum.photos/seed/prod-1000-b/800/800",
+      "https://picsum.photos/seed/prod-1000-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Hạt điều / Hạnh nhân / Ngũ cốc",
+      "Trọng lượng": "100-500g",
+      "Đặc điểm": "Dinh dưỡng / Ít dầu"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 690
+    },
+    "stock": 319,
+    "soldCount": 3070,
+    "weight": 131,
+    "dimensions": {
+      "length": 14.4,
+      "width": 10.7,
+      "height": 4.8
+    },
+    "origin": "Việt Nam / Thái Lan / Mỹ / Nhật Bản",
+    "warranty": "Theo HSD",
+    "tags": [
+      "hạt",
+      "ngũ cốc",
+      "ăn vặt",
+      "dinh dưỡng",
+      "vinamit"
+    ],
+    "createdAt": "2026-01-19T00:00:00.000Z"
   }
 ]

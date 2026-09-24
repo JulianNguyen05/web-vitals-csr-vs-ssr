@@ -1,51 +1,4812 @@
 [
   {
     "id": "prod-1001",
-    "slug": "thuc-an-cho-cho-petnova-3kg-1001",
-    "name": "Thức Ăn Hạt Cho Chó Trưởng Thành PetNova Chicken & Rice 3kg",
+    "name": "Thức ăn hạt mèo Pedigree",
+    "slug": "thuc-an-hat-meo-pedigree-1001",
+    "price": 680000,
     "categoryId": "cat-10",
-    "brand": "PetNova",
-    "sku": "PN-DOG-CR-3KG",
-    "price": 245000,
-    "originalPrice": 289000,
-    "discountPercent": 15,
-    "unit": "bao",
-    "shortDescription": "Thức ăn hạt khô cho chó trưởng thành mọi kích cỡ, thành phần chính từ thịt gà và gạo, bổ sung Omega 3-6.",
-    "description": "Thức ăn hạt PetNova Chicken & Rice được nghiên cứu dành riêng cho chó trưởng thành với thành phần chính từ thịt gà tươi và gạo dễ tiêu hoá, cung cấp nguồn đạm và năng lượng cân đối cho hoạt động hàng ngày. Công thức bổ sung Omega 3-6 giúp lông mượt, da khoẻ mạnh, cùng các loại vitamin và khoáng chất thiết yếu hỗ trợ hệ miễn dịch và tiêu hoá. Hạt thức ăn được thiết kế kích thước vừa phải, giúp làm sạch mảng bám răng tự nhiên khi chó nhai. Bao bì có khoá zip tiện lợi, giữ thức ăn luôn tươi giòn sau khi mở.",
     "thumbUrl": "https://picsum.photos/seed/prod-1001/400/400",
     "detailUrl": "https://picsum.photos/seed/prod-1001/800/800",
+    "description": "Thức ăn hạt khô công thức cân bằng dinh dưỡng. Hỗ trợ tiêu hóa da lông và sức khỏe tổng thể. Nhiều size hạt phù hợp. Bao nhiều trọng lượng.",
+    "brand": "Whiskas",
+    "sku": "WHI-1001-BAO",
+    "originalPrice": 818000,
+    "discountPercent": 17,
+    "unit": "bao",
+    "shortDescription": "Thức ăn hạt khô dinh dưỡng cho chó mèo mọi lứa tuổi.",
     "gallery": [
       "https://picsum.photos/seed/prod-1001-a/800/800",
-      "https://picsum.photos/seed/prod-1001-b/800/800"
+      "https://picsum.photos/seed/prod-1001-b/800/800",
+      "https://picsum.photos/seed/prod-1001-c/800/800"
     ],
     "specifications": {
-      "Khối lượng tịnh": "3kg",
-      "Thành phần chính": "Thịt gà, gạo, dầu cá (Omega 3-6)",
-      "Đối tượng sử dụng": "Chó trưởng thành mọi kích cỡ",
-      "Hàm lượng đạm": "≥ 24%",
-      "Hạn sử dụng": "18 tháng kể từ ngày sản xuất",
-      "Bảo quản": "Nơi khô ráo, thoáng mát, đóng kín sau khi dùng",
-      "Xuất xứ": "Thái Lan"
+      "Đối tượng": "Chó / Mèo",
+      "Lứa tuổi": "Con / Trưởng thành / Già",
+      "Trọng lượng": "400g-5kg",
+      "Dạng": "Hạt khô"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 705
+    },
+    "stock": 36,
+    "soldCount": 316,
+    "weight": 3400,
+    "dimensions": {
+      "length": 25.1,
+      "width": 16.3,
+      "height": 9.8
+    },
+    "origin": "Pháp / Thái Lan / Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "thức ăn",
+      "chó mèo",
+      "hạt khô",
+      "dinh dưỡng",
+      "whiskas"
+    ],
+    "createdAt": "2026-03-05T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1002",
+    "name": "Cát vệ sinh mèo Unicharm Pro",
+    "slug": "cat-ve-sinh-meo-unicharm-pro-1002",
+    "price": 134000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1002/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1002/800/800",
+    "description": "Cát vệ sinh vón cục nhanh thấm hút cao. Khử mùi hiệu quả. Có loại gỗ hoặc đất sét. Thân thiện môi trường tùy loại.",
+    "brand": "Cat's Best",
+    "sku": "CAT-1002-BAO",
+    "originalPrice": 155000,
+    "discountPercent": 14,
+    "unit": "bao",
+    "shortDescription": "Cát vệ sinh mèo vón cục thấm hút khử mùi tốt.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1002-a/800/800",
+      "https://picsum.photos/seed/prod-1002-b/800/800",
+      "https://picsum.photos/seed/prod-1002-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Vón cục / Gỗ / Đất sét",
+      "Dung tích": "5-10L",
+      "Khử mùi": "Tốt",
+      "Xả được": "Tùy loại"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 882
+    },
+    "stock": 6,
+    "soldCount": 1324,
+    "weight": 5257,
+    "dimensions": {
+      "length": 40.9,
+      "width": 25.9,
+      "height": 14.7
+    },
+    "origin": "Đức / Thái Lan / Nhật Bản / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "cát mèo",
+      "vệ sinh",
+      "khử mùi",
+      "cats-best"
+    ],
+    "createdAt": "2026-03-26T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1003",
+    "name": "Vòng cổ / Dây dắt mèo Chuchu Mini",
+    "slug": "vong-co-day-dat-meo-chuchu-mini-1003",
+    "price": 410000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1003/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1003/800/800",
+    "description": "Vòng cổ và dây dắt chất liệu nylon hoặc da. Điều chỉnh chu vi. Khóa an toàn. Nhiều màu size. Phù hợp đi dạo hàng ngày.",
+    "brand": "Chuchu",
+    "sku": "CHU-1003-BỘ",
+    "originalPrice": 449000,
+    "discountPercent": 9,
+    "unit": "bộ",
+    "shortDescription": "Vòng cổ dây dắt chắc chắn điều chỉnh được.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1003-a/800/800",
+      "https://picsum.photos/seed/prod-1003-b/800/800",
+      "https://picsum.photos/seed/prod-1003-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Vòng cổ + Dây dắt",
+      "Chất liệu": "Nylon / Da",
+      "Chiều dài dây": "1-5m",
+      "Size": "S-M-L"
     },
     "rating": {
       "average": 4.6,
-      "count": 731
+      "count": 210
     },
-    "stock": 265,
-    "soldCount": 3040,
-    "weight": 3000,
+    "stock": 167,
+    "soldCount": 2471,
+    "weight": 288,
     "dimensions": {
-      "length": 35,
-      "width": 25,
-      "height": 8
+      "length": 29.8,
+      "width": 4.6,
+      "height": 4.6
     },
-    "origin": "Thái Lan",
-    "warranty": "Đổi trả nếu bao bì hư hỏng/hết hạn khi nhận hàng",
+    "origin": "Trung Quốc / Việt Nam / Đức",
+    "warranty": "Đổi trả nếu lỗi",
     "tags": [
-      "thức ăn cho chó",
-      "thú cưng",
-      "hạt khô"
+      "vòng cổ",
+      "dây dắt",
+      "chó mèo",
+      "đi dạo",
+      "chuchu"
     ],
-    "createdAt": "2026-08-01T00:00:00.000Z"
+    "createdAt": "2026-06-24T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1004",
+    "name": "Đồ chơi chó Kong",
+    "slug": "do-choi-cho-kong-1004",
+    "price": 231000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1004/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1004/800/800",
+    "description": "Đồ chơi bóng cần câu lông vũ hoặc nhét treat. Kích thích bản năng. Giúp vận động và giảm stress. Chất liệu bền an toàn.",
+    "brand": "Petstages",
+    "sku": "PET-1004-CHI",
+    "originalPrice": 268000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Đồ chơi cho chó mèo kích thích vận động giảm stress.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1004-a/800/800",
+      "https://picsum.photos/seed/prod-1004-b/800/800",
+      "https://picsum.photos/seed/prod-1004-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bóng / Cần câu / Nhét treat",
+      "Chất liệu": "Cao su / Cói / Vải",
+      "Đối tượng": "Chó / Mèo"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 215
+    },
+    "stock": 72,
+    "soldCount": 1321,
+    "weight": 274,
+    "dimensions": {
+      "length": 15.7,
+      "width": 7.6,
+      "height": 8.5
+    },
+    "origin": "Mỹ / Trung Quốc / Thái Lan",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "đồ chơi",
+      "chó mèo",
+      "vận động",
+      "petstages"
+    ],
+    "createdAt": "2026-01-28T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1005",
+    "name": "Sữa tắm mèo 8in1 phiên bản mới",
+    "slug": "sua-tam-meo-8in1-phien-ban-moi-1005",
+    "price": 138000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1005/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1005/800/800",
+    "description": "Sữa tắm chuyên dụng cho chó mèo. Làm sạch khử mùi. Dưỡng lông mềm mượt. pH cân bằng không khô da. Hương dịu.",
+    "brand": "Local",
+    "sku": "LOC-1005-CHA",
+    "originalPrice": 159000,
+    "discountPercent": 13,
+    "unit": "chai",
+    "shortDescription": "Sữa tắm chó mèo khử mùi dưỡng lông pH cân bằng.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1005-a/800/800",
+      "https://picsum.photos/seed/prod-1005-b/800/800",
+      "https://picsum.photos/seed/prod-1005-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "200-500ml",
+      "Đối tượng": "Chó / Mèo / Lông trắng",
+      "Công dụng": "Làm sạch khử mùi dưỡng lông",
+      "pH": "Cân bằng"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 470
+    },
+    "stock": 140,
+    "soldCount": 428,
+    "weight": 296,
+    "dimensions": {
+      "length": 6.7,
+      "width": 6.6,
+      "height": 19.7
+    },
+    "origin": "Thái Lan / Mỹ / Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "sữa tắm",
+      "chó mèo",
+      "chăm sóc",
+      "local"
+    ],
+    "createdAt": "2026-05-20T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1006",
+    "name": "Lồng / Nhà vệ sinh mèo Iris 2025",
+    "slug": "long-nha-ve-sinh-meo-iris-2025-1006",
+    "price": 1470000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1006/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1006/800/800",
+    "description": "Lồng vận chuyển thông khí khóa an toàn hoặc nhà vệ sinh có nắp. Dễ vệ sinh. Size phù hợp nhiều giống.",
+    "brand": "Local",
+    "sku": "LOC-1006-CHI",
+    "originalPrice": 1760000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Lồng vận chuyển hoặc nhà vệ sinh tiện dụng an toàn.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1006-a/800/800",
+      "https://picsum.photos/seed/prod-1006-b/800/800",
+      "https://picsum.photos/seed/prod-1006-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Lồng vận chuyển / Nhà vệ sinh",
+      "Size": "S-M-L",
+      "Chất liệu": "Nhựa",
+      "Tính năng": "Thông khí / Có nắp"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 235
+    },
+    "stock": 227,
+    "soldCount": 1470,
+    "weight": 1698,
+    "dimensions": {
+      "length": 45.4,
+      "width": 37.3,
+      "height": 34.2
+    },
+    "origin": "Trung Quốc / Nhật Bản / Việt Nam",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "lồng",
+      "nhà vệ sinh",
+      "chó mèo",
+      "local"
+    ],
+    "createdAt": "2026-06-29T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1007",
+    "name": "Thức ăn ướt / Pate chó Royal Canin 2025",
+    "slug": "thuc-an-uot-pate-cho-royal-canin-2025-1007",
+    "price": 112000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1007/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1007/800/800",
+    "description": "Thức ăn ướt hoặc pate mềm dễ ăn. Nhiều hương vị. Bổ sung dưỡng chất. Có thể trộn hạt hoặc cho ăn riêng. Vỉ tiện dụng.",
+    "brand": "Ciao",
+    "sku": "CIA-1007-VỈ/",
+    "originalPrice": 136000,
+    "discountPercent": 18,
+    "unit": "vỉ/hộp",
+    "shortDescription": "Pate thức ăn ướt thơm ngon bổ sung dưỡng chất.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1007-a/800/800",
+      "https://picsum.photos/seed/prod-1007-b/800/800",
+      "https://picsum.photos/seed/prod-1007-c/800/800"
+    ],
+    "specifications": {
+      "Đối tượng": "Chó / Mèo",
+      "Dạng": "Pate / Xốt",
+      "Trọng lượng": "70-100g/hộp",
+      "Quy cách": "Vỉ 6-12"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 138
+    },
+    "stock": 269,
+    "soldCount": 2746,
+    "weight": 492,
+    "dimensions": {
+      "length": 15.0,
+      "width": 9.4,
+      "height": 7.5
+    },
+    "origin": "Thái Lan / Pháp / Nhật Bản",
+    "warranty": "Theo HSD",
+    "tags": [
+      "pate",
+      "thức ăn ướt",
+      "chó mèo",
+      "ciao"
+    ],
+    "createdAt": "2026-06-25T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1008",
+    "name": "Bàn cào móng / Trụ cào Petstages",
+    "slug": "ban-cao-mong-tru-cao-petstages-1008",
+    "price": 704000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1008/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1008/800/800",
+    "description": "Bàn cào móng hoặc trụ cào cói. Giúp mèo mài móng tự nhiên. Bảo vệ đồ đạc. Đế chắc. Nhiều kích thước hình dáng.",
+    "brand": "Catit",
+    "sku": "CAT-1008-CHI",
+    "originalPrice": 799000,
+    "discountPercent": 12,
+    "unit": "chiếc",
+    "shortDescription": "Bàn cào móng hoặc trụ cào bảo vệ nội thất.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1008-a/800/800",
+      "https://picsum.photos/seed/prod-1008-b/800/800",
+      "https://picsum.photos/seed/prod-1008-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bàn / Trụ / Cây",
+      "Chất liệu": "Cói / Gỗ",
+      "Đế": "Chắc",
+      "Kích thước": "Đa dạng"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 387
+    },
+    "stock": 9,
+    "soldCount": 700,
+    "weight": 3595,
+    "dimensions": {
+      "length": 41.3,
+      "width": 21.6,
+      "height": 38.6
+    },
+    "origin": "Trung Quốc / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bàn cào móng",
+      "mèo",
+      "bảo vệ nội thất",
+      "catit"
+    ],
+    "createdAt": "2026-05-02T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1009",
+    "name": "Vòng chống ve rận / Thuốc Local cao cấp",
+    "slug": "vong-chong-ve-ran-thuoc-local-cao-cap-1009",
+    "price": 464000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1009/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1009/800/800",
+    "description": "Vòng cổ chống ve rận hoặc thuốc nhỏ gáy. Bảo vệ dài ngày. Chống nước. An toàn khi dùng đúng hướng dẫn. Phù hợp chó mèo.",
+    "brand": "Advocate",
+    "sku": "ADV-1009-HỘP",
+    "originalPrice": 525000,
+    "discountPercent": 12,
+    "unit": "hộp/chiếc",
+    "shortDescription": "Vòng cổ hoặc thuốc nhỏ gáy chống ve rận hiệu quả dài.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1009-a/800/800",
+      "https://picsum.photos/seed/prod-1009-b/800/800",
+      "https://picsum.photos/seed/prod-1009-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Vòng cổ / Nhỏ gáy",
+      "Hiệu quả": "1-8 tháng",
+      "Đối tượng": "Chó / Mèo",
+      "Chống nước": "Có"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 627
+    },
+    "stock": 299,
+    "soldCount": 2894,
+    "weight": 79,
+    "dimensions": {
+      "length": 15.1,
+      "width": 5.3,
+      "height": 2.0
+    },
+    "origin": "Pháp / Mỹ / Đức",
+    "warranty": "Theo HSD",
+    "tags": [
+      "chống ve rận",
+      "thuốc",
+      "chó mèo",
+      "advocate"
+    ],
+    "createdAt": "2026-05-06T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1010",
+    "name": "Bát ăn / Phụ kiện mèo Catit",
+    "slug": "bat-an-phu-kien-meo-catit-1010",
+    "price": 167000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1010/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1010/800/800",
+    "description": "Bát ăn uống đôi hoặc đơn. Inox 304 hoặc nhựa an toàn. Đế chống trượt. Dễ vệ sinh. Size phù hợp nhiều giống.",
+    "brand": "Local",
+    "sku": "LOC-1010-BỘ",
+    "originalPrice": 201000,
+    "discountPercent": 17,
+    "unit": "bộ",
+    "shortDescription": "Bát ăn uống inox hoặc nhựa đế chống trượt.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1010-a/800/800",
+      "https://picsum.photos/seed/prod-1010-b/800/800",
+      "https://picsum.photos/seed/prod-1010-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bát đôi / Đơn",
+      "Chất liệu": "Inox / Nhựa",
+      "Đế": "Chống trượt",
+      "Size": "S-M-L"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 259
+    },
+    "stock": 264,
+    "soldCount": 491,
+    "weight": 407,
+    "dimensions": {
+      "length": 24.2,
+      "width": 15.5,
+      "height": 5.8
+    },
+    "origin": "Trung Quốc / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bát ăn",
+      "phụ kiện",
+      "chó mèo",
+      "local"
+    ],
+    "createdAt": "2026-05-02T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1011",
+    "name": "Thức ăn hạt mèo Me-O",
+    "slug": "thuc-an-hat-meo-me-o-1011",
+    "price": 94900,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1011/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1011/800/800",
+    "description": "Thức ăn hạt khô công thức cân bằng dinh dưỡng. Hỗ trợ tiêu hóa da lông và sức khỏe tổng thể. Nhiều size hạt phù hợp. Bao nhiều trọng lượng.",
+    "brand": "Me-O",
+    "sku": "ME--1011-BAO",
+    "originalPrice": 105000,
+    "discountPercent": 10,
+    "unit": "bao",
+    "shortDescription": "Thức ăn hạt khô dinh dưỡng cho chó mèo mọi lứa tuổi.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1011-a/800/800",
+      "https://picsum.photos/seed/prod-1011-b/800/800",
+      "https://picsum.photos/seed/prod-1011-c/800/800"
+    ],
+    "specifications": {
+      "Đối tượng": "Chó / Mèo",
+      "Lứa tuổi": "Con / Trưởng thành / Già",
+      "Trọng lượng": "400g-5kg",
+      "Dạng": "Hạt khô"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 223
+    },
+    "stock": 295,
+    "soldCount": 3129,
+    "weight": 1763,
+    "dimensions": {
+      "length": 27.1,
+      "width": 16.2,
+      "height": 10.9
+    },
+    "origin": "Pháp / Thái Lan / Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "thức ăn",
+      "chó mèo",
+      "hạt khô",
+      "dinh dưỡng",
+      "me-o"
+    ],
+    "createdAt": "2026-02-19T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1012",
+    "name": "Cát vệ sinh mèo Catsan",
+    "slug": "cat-ve-sinh-meo-catsan-1012",
+    "price": 113000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1012/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1012/800/800",
+    "description": "Cát vệ sinh vón cục nhanh thấm hút cao. Khử mùi hiệu quả. Có loại gỗ hoặc đất sét. Thân thiện môi trường tùy loại.",
+    "brand": "Cat's Best",
+    "sku": "CAT-1012-BAO",
+    "originalPrice": 128000,
+    "discountPercent": 12,
+    "unit": "bao",
+    "shortDescription": "Cát vệ sinh mèo vón cục thấm hút khử mùi tốt.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1012-a/800/800",
+      "https://picsum.photos/seed/prod-1012-b/800/800",
+      "https://picsum.photos/seed/prod-1012-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Vón cục / Gỗ / Đất sét",
+      "Dung tích": "5-10L",
+      "Khử mùi": "Tốt",
+      "Xả được": "Tùy loại"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 171
+    },
+    "stock": 107,
+    "soldCount": 3666,
+    "weight": 4158,
+    "dimensions": {
+      "length": 42.4,
+      "width": 24.8,
+      "height": 14.0
+    },
+    "origin": "Đức / Thái Lan / Nhật Bản / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "cát mèo",
+      "vệ sinh",
+      "khử mùi",
+      "cats-best"
+    ],
+    "createdAt": "2026-02-28T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1013",
+    "name": "Vòng cổ / Dây dắt mèo Local limited",
+    "slug": "vong-co-day-dat-meo-local-limited-1013",
+    "price": 274000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1013/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1013/800/800",
+    "description": "Vòng cổ và dây dắt chất liệu nylon hoặc da. Điều chỉnh chu vi. Khóa an toàn. Nhiều màu size. Phù hợp đi dạo hàng ngày.",
+    "brand": "Petkit",
+    "sku": "PET-1013-BỘ",
+    "originalPrice": 300000,
+    "discountPercent": 9,
+    "unit": "bộ",
+    "shortDescription": "Vòng cổ dây dắt chắc chắn điều chỉnh được.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1013-a/800/800",
+      "https://picsum.photos/seed/prod-1013-b/800/800",
+      "https://picsum.photos/seed/prod-1013-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Vòng cổ + Dây dắt",
+      "Chất liệu": "Nylon / Da",
+      "Chiều dài dây": "1-5m",
+      "Size": "S-M-L"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 183
+    },
+    "stock": 181,
+    "soldCount": 459,
+    "weight": 112,
+    "dimensions": {
+      "length": 27.9,
+      "width": 5.1,
+      "height": 5.3
+    },
+    "origin": "Trung Quốc / Việt Nam / Đức",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "vòng cổ",
+      "dây dắt",
+      "chó mèo",
+      "đi dạo",
+      "petkit"
+    ],
+    "createdAt": "2026-05-15T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1014",
+    "name": "Đồ chơi mèo Chuckit",
+    "slug": "do-choi-meo-chuckit-1014",
+    "price": 232000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1014/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1014/800/800",
+    "description": "Đồ chơi bóng cần câu lông vũ hoặc nhét treat. Kích thích bản năng. Giúp vận động và giảm stress. Chất liệu bền an toàn.",
+    "brand": "Local",
+    "sku": "LOC-1014-CHI",
+    "originalPrice": 283000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Đồ chơi cho chó mèo kích thích vận động giảm stress.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1014-a/800/800",
+      "https://picsum.photos/seed/prod-1014-b/800/800",
+      "https://picsum.photos/seed/prod-1014-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bóng / Cần câu / Nhét treat",
+      "Chất liệu": "Cao su / Cói / Vải",
+      "Đối tượng": "Chó / Mèo"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 156
+    },
+    "stock": 209,
+    "soldCount": 3217,
+    "weight": 230,
+    "dimensions": {
+      "length": 14.2,
+      "width": 8.7,
+      "height": 7.8
+    },
+    "origin": "Mỹ / Trung Quốc / Thái Lan",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "đồ chơi",
+      "chó mèo",
+      "vận động",
+      "local"
+    ],
+    "createdAt": "2026-04-08T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1015",
+    "name": "Sữa tắm mèo Bio-Derm",
+    "slug": "sua-tam-meo-bio-derm-1015",
+    "price": 73800,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1015/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1015/800/800",
+    "description": "Sữa tắm chuyên dụng cho chó mèo. Làm sạch khử mùi. Dưỡng lông mềm mượt. pH cân bằng không khô da. Hương dịu.",
+    "brand": "Local",
+    "sku": "LOC-1015-CHA",
+    "originalPrice": 84055,
+    "discountPercent": 12,
+    "unit": "chai",
+    "shortDescription": "Sữa tắm chó mèo khử mùi dưỡng lông pH cân bằng.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1015-a/800/800",
+      "https://picsum.photos/seed/prod-1015-b/800/800",
+      "https://picsum.photos/seed/prod-1015-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "200-500ml",
+      "Đối tượng": "Chó / Mèo / Lông trắng",
+      "Công dụng": "Làm sạch khử mùi dưỡng lông",
+      "pH": "Cân bằng"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 806
+    },
+    "stock": 125,
+    "soldCount": 1561,
+    "weight": 542,
+    "dimensions": {
+      "length": 7.3,
+      "width": 7.1,
+      "height": 17.0
+    },
+    "origin": "Thái Lan / Mỹ / Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "sữa tắm",
+      "chó mèo",
+      "chăm sóc",
+      "local"
+    ],
+    "createdAt": "2026-04-17T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1016",
+    "name": "Lồng / Nhà vệ sinh chó Iris",
+    "slug": "long-nha-ve-sinh-cho-iris-1016",
+    "price": 311000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1016/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1016/800/800",
+    "description": "Lồng vận chuyển thông khí khóa an toàn hoặc nhà vệ sinh có nắp. Dễ vệ sinh. Size phù hợp nhiều giống.",
+    "brand": "Local",
+    "sku": "LOC-1016-CHI",
+    "originalPrice": 370000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Lồng vận chuyển hoặc nhà vệ sinh tiện dụng an toàn.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1016-a/800/800",
+      "https://picsum.photos/seed/prod-1016-b/800/800",
+      "https://picsum.photos/seed/prod-1016-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Lồng vận chuyển / Nhà vệ sinh",
+      "Size": "S-M-L",
+      "Chất liệu": "Nhựa",
+      "Tính năng": "Thông khí / Có nắp"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 413
+    },
+    "stock": 339,
+    "soldCount": 786,
+    "weight": 1565,
+    "dimensions": {
+      "length": 50.0,
+      "width": 31.8,
+      "height": 33.6
+    },
+    "origin": "Trung Quốc / Nhật Bản / Việt Nam",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "lồng",
+      "nhà vệ sinh",
+      "chó mèo",
+      "local"
+    ],
+    "createdAt": "2026-05-03T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1017",
+    "name": "Thức ăn ướt / Pate mèo Pedigree Mini",
+    "slug": "thuc-an-uot-pate-meo-pedigree-mini-1017",
+    "price": 49200,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1017/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1017/800/800",
+    "description": "Thức ăn ướt hoặc pate mềm dễ ăn. Nhiều hương vị. Bổ sung dưỡng chất. Có thể trộn hạt hoặc cho ăn riêng. Vỉ tiện dụng.",
+    "brand": "Whiskas",
+    "sku": "WHI-1017-VỈ/",
+    "originalPrice": 61153,
+    "discountPercent": 20,
+    "unit": "vỉ/hộp",
+    "shortDescription": "Pate thức ăn ướt thơm ngon bổ sung dưỡng chất.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1017-a/800/800",
+      "https://picsum.photos/seed/prod-1017-b/800/800",
+      "https://picsum.photos/seed/prod-1017-c/800/800"
+    ],
+    "specifications": {
+      "Đối tượng": "Chó / Mèo",
+      "Dạng": "Pate / Xốt",
+      "Trọng lượng": "70-100g/hộp",
+      "Quy cách": "Vỉ 6-12"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 845
+    },
+    "stock": 47,
+    "soldCount": 1468,
+    "weight": 831,
+    "dimensions": {
+      "length": 14.0,
+      "width": 9.8,
+      "height": 8.0
+    },
+    "origin": "Thái Lan / Pháp / Nhật Bản",
+    "warranty": "Theo HSD",
+    "tags": [
+      "pate",
+      "thức ăn ướt",
+      "chó mèo",
+      "whiskas"
+    ],
+    "createdAt": "2026-07-09T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1018",
+    "name": "Bàn cào móng / Trụ cào Cat Tree",
+    "slug": "ban-cao-mong-tru-cao-cat-tree-1018",
+    "price": 102000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1018/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1018/800/800",
+    "description": "Bàn cào móng hoặc trụ cào cói. Giúp mèo mài móng tự nhiên. Bảo vệ đồ đạc. Đế chắc. Nhiều kích thước hình dáng.",
+    "brand": "Catit",
+    "sku": "CAT-1018-CHI",
+    "originalPrice": 113000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Bàn cào móng hoặc trụ cào bảo vệ nội thất.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1018-a/800/800",
+      "https://picsum.photos/seed/prod-1018-b/800/800",
+      "https://picsum.photos/seed/prod-1018-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bàn / Trụ / Cây",
+      "Chất liệu": "Cói / Gỗ",
+      "Đế": "Chắc",
+      "Kích thước": "Đa dạng"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 706
+    },
+    "stock": 210,
+    "soldCount": 1780,
+    "weight": 1554,
+    "dimensions": {
+      "length": 40.6,
+      "width": 19.5,
+      "height": 39.6
+    },
+    "origin": "Trung Quốc / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bàn cào móng",
+      "mèo",
+      "bảo vệ nội thất",
+      "catit"
+    ],
+    "createdAt": "2026-07-31T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1019",
+    "name": "Vòng chống ve rận / Thuốc Frontline Pro",
+    "slug": "vong-chong-ve-ran-thuoc-frontline-pro-1019",
+    "price": 561000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1019/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1019/800/800",
+    "description": "Vòng cổ chống ve rận hoặc thuốc nhỏ gáy. Bảo vệ dài ngày. Chống nước. An toàn khi dùng đúng hướng dẫn. Phù hợp chó mèo.",
+    "brand": "Frontline",
+    "sku": "FRO-1019-HỘP",
+    "originalPrice": 654000,
+    "discountPercent": 14,
+    "unit": "hộp/chiếc",
+    "shortDescription": "Vòng cổ hoặc thuốc nhỏ gáy chống ve rận hiệu quả dài.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1019-a/800/800",
+      "https://picsum.photos/seed/prod-1019-b/800/800",
+      "https://picsum.photos/seed/prod-1019-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Vòng cổ / Nhỏ gáy",
+      "Hiệu quả": "1-8 tháng",
+      "Đối tượng": "Chó / Mèo",
+      "Chống nước": "Có"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 203
+    },
+    "stock": 222,
+    "soldCount": 2227,
+    "weight": 80,
+    "dimensions": {
+      "length": 15.6,
+      "width": 5.3,
+      "height": 2.2
+    },
+    "origin": "Pháp / Mỹ / Đức",
+    "warranty": "Theo HSD",
+    "tags": [
+      "chống ve rận",
+      "thuốc",
+      "chó mèo",
+      "frontline"
+    ],
+    "createdAt": "2026-07-28T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1020",
+    "name": "Bát ăn / Phụ kiện chó Catit",
+    "slug": "bat-an-phu-kien-cho-catit-1020",
+    "price": 38600,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1020/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1020/800/800",
+    "description": "Bát ăn uống đôi hoặc đơn. Inox 304 hoặc nhựa an toàn. Đế chống trượt. Dễ vệ sinh. Size phù hợp nhiều giống.",
+    "brand": "Local",
+    "sku": "LOC-1020-BỘ",
+    "originalPrice": 43900,
+    "discountPercent": 12,
+    "unit": "bộ",
+    "shortDescription": "Bát ăn uống inox hoặc nhựa đế chống trượt.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1020-a/800/800",
+      "https://picsum.photos/seed/prod-1020-b/800/800",
+      "https://picsum.photos/seed/prod-1020-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bát đôi / Đơn",
+      "Chất liệu": "Inox / Nhựa",
+      "Đế": "Chống trượt",
+      "Size": "S-M-L"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 485
+    },
+    "stock": 227,
+    "soldCount": 248,
+    "weight": 462,
+    "dimensions": {
+      "length": 25.5,
+      "width": 14.1,
+      "height": 6.4
+    },
+    "origin": "Trung Quốc / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bát ăn",
+      "phụ kiện",
+      "chó mèo",
+      "local"
+    ],
+    "createdAt": "2026-05-13T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1021",
+    "name": "Thức ăn hạt chó Pedigree Mini",
+    "slug": "thuc-an-hat-cho-pedigree-mini-1021",
+    "price": 450000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1021/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1021/800/800",
+    "description": "Thức ăn hạt khô công thức cân bằng dinh dưỡng. Hỗ trợ tiêu hóa da lông và sức khỏe tổng thể. Nhiều size hạt phù hợp. Bao nhiều trọng lượng.",
+    "brand": "Me-O",
+    "sku": "ME--1021-BAO",
+    "originalPrice": 490000,
+    "discountPercent": 8,
+    "unit": "bao",
+    "shortDescription": "Thức ăn hạt khô dinh dưỡng cho chó mèo mọi lứa tuổi.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1021-a/800/800",
+      "https://picsum.photos/seed/prod-1021-b/800/800",
+      "https://picsum.photos/seed/prod-1021-c/800/800"
+    ],
+    "specifications": {
+      "Đối tượng": "Chó / Mèo",
+      "Lứa tuổi": "Con / Trưởng thành / Già",
+      "Trọng lượng": "400g-5kg",
+      "Dạng": "Hạt khô"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 575
+    },
+    "stock": 141,
+    "soldCount": 782,
+    "weight": 3425,
+    "dimensions": {
+      "length": 23.8,
+      "width": 14.5,
+      "height": 9.6
+    },
+    "origin": "Pháp / Thái Lan / Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "thức ăn",
+      "chó mèo",
+      "hạt khô",
+      "dinh dưỡng",
+      "me-o"
+    ],
+    "createdAt": "2026-03-31T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1022",
+    "name": "Cát vệ sinh mèo Me-O",
+    "slug": "cat-ve-sinh-meo-me-o-1022",
+    "price": 174000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1022/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1022/800/800",
+    "description": "Cát vệ sinh vón cục nhanh thấm hút cao. Khử mùi hiệu quả. Có loại gỗ hoặc đất sét. Thân thiện môi trường tùy loại.",
+    "brand": "Cature",
+    "sku": "CAT-1022-BAO",
+    "originalPrice": 197000,
+    "discountPercent": 12,
+    "unit": "bao",
+    "shortDescription": "Cát vệ sinh mèo vón cục thấm hút khử mùi tốt.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1022-a/800/800",
+      "https://picsum.photos/seed/prod-1022-b/800/800",
+      "https://picsum.photos/seed/prod-1022-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Vón cục / Gỗ / Đất sét",
+      "Dung tích": "5-10L",
+      "Khử mùi": "Tốt",
+      "Xả được": "Tùy loại"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 274
+    },
+    "stock": 94,
+    "soldCount": 394,
+    "weight": 3291,
+    "dimensions": {
+      "length": 40.8,
+      "width": 24.3,
+      "height": 13.6
+    },
+    "origin": "Đức / Thái Lan / Nhật Bản / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "cát mèo",
+      "vệ sinh",
+      "khử mùi",
+      "cature"
+    ],
+    "createdAt": "2026-05-31T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1023",
+    "name": "Vòng cổ / Dây dắt chó Flexi",
+    "slug": "vong-co-day-dat-cho-flexi-1023",
+    "price": 271000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1023/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1023/800/800",
+    "description": "Vòng cổ và dây dắt chất liệu nylon hoặc da. Điều chỉnh chu vi. Khóa an toàn. Nhiều màu size. Phù hợp đi dạo hàng ngày.",
+    "brand": "Paw",
+    "sku": "PAW-1023-BỘ",
+    "originalPrice": 334000,
+    "discountPercent": 19,
+    "unit": "bộ",
+    "shortDescription": "Vòng cổ dây dắt chắc chắn điều chỉnh được.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1023-a/800/800",
+      "https://picsum.photos/seed/prod-1023-b/800/800",
+      "https://picsum.photos/seed/prod-1023-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Vòng cổ + Dây dắt",
+      "Chất liệu": "Nylon / Da",
+      "Chiều dài dây": "1-5m",
+      "Size": "S-M-L"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 874
+    },
+    "stock": 273,
+    "soldCount": 2380,
+    "weight": 138,
+    "dimensions": {
+      "length": 32.8,
+      "width": 5.2,
+      "height": 4.7
+    },
+    "origin": "Trung Quốc / Việt Nam / Đức",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "vòng cổ",
+      "dây dắt",
+      "chó mèo",
+      "đi dạo",
+      "paw"
+    ],
+    "createdAt": "2026-05-12T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1024",
+    "name": "Đồ chơi chó Kong",
+    "slug": "do-choi-cho-kong-1024",
+    "price": 88000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1024/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1024/800/800",
+    "description": "Đồ chơi bóng cần câu lông vũ hoặc nhét treat. Kích thích bản năng. Giúp vận động và giảm stress. Chất liệu bền an toàn.",
+    "brand": "Petstages",
+    "sku": "PET-1024-CHI",
+    "originalPrice": 101000,
+    "discountPercent": 13,
+    "unit": "chiếc",
+    "shortDescription": "Đồ chơi cho chó mèo kích thích vận động giảm stress.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1024-a/800/800",
+      "https://picsum.photos/seed/prod-1024-b/800/800",
+      "https://picsum.photos/seed/prod-1024-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bóng / Cần câu / Nhét treat",
+      "Chất liệu": "Cao su / Cói / Vải",
+      "Đối tượng": "Chó / Mèo"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 430
+    },
+    "stock": 16,
+    "soldCount": 803,
+    "weight": 300,
+    "dimensions": {
+      "length": 15.7,
+      "width": 7.7,
+      "height": 8.2
+    },
+    "origin": "Mỹ / Trung Quốc / Thái Lan",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "đồ chơi",
+      "chó mèo",
+      "vận động",
+      "petstages"
+    ],
+    "createdAt": "2026-09-15T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1025",
+    "name": "Sữa tắm chó Bio-Derm",
+    "slug": "sua-tam-cho-bio-derm-1025",
+    "price": 85500,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1025/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1025/800/800",
+    "description": "Sữa tắm chuyên dụng cho chó mèo. Làm sạch khử mùi. Dưỡng lông mềm mượt. pH cân bằng không khô da. Hương dịu.",
+    "brand": "8in1",
+    "sku": "8IN-1025-CHA",
+    "originalPrice": 104000,
+    "discountPercent": 18,
+    "unit": "chai",
+    "shortDescription": "Sữa tắm chó mèo khử mùi dưỡng lông pH cân bằng.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1025-a/800/800",
+      "https://picsum.photos/seed/prod-1025-b/800/800",
+      "https://picsum.photos/seed/prod-1025-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "200-500ml",
+      "Đối tượng": "Chó / Mèo / Lông trắng",
+      "Công dụng": "Làm sạch khử mùi dưỡng lông",
+      "pH": "Cân bằng"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 269
+    },
+    "stock": 30,
+    "soldCount": 1582,
+    "weight": 492,
+    "dimensions": {
+      "length": 6.7,
+      "width": 6.7,
+      "height": 18.1
+    },
+    "origin": "Thái Lan / Mỹ / Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "sữa tắm",
+      "chó mèo",
+      "chăm sóc",
+      "8in1"
+    ],
+    "createdAt": "2026-06-10T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1026",
+    "name": "Lồng / Nhà vệ sinh chó Local",
+    "slug": "long-nha-ve-sinh-cho-local-1026",
+    "price": 725000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1026/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1026/800/800",
+    "description": "Lồng vận chuyển thông khí khóa an toàn hoặc nhà vệ sinh có nắp. Dễ vệ sinh. Size phù hợp nhiều giống.",
+    "brand": "Local",
+    "sku": "LOC-1026-CHI",
+    "originalPrice": 875000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Lồng vận chuyển hoặc nhà vệ sinh tiện dụng an toàn.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1026-a/800/800",
+      "https://picsum.photos/seed/prod-1026-b/800/800",
+      "https://picsum.photos/seed/prod-1026-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Lồng vận chuyển / Nhà vệ sinh",
+      "Size": "S-M-L",
+      "Chất liệu": "Nhựa",
+      "Tính năng": "Thông khí / Có nắp"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 205
+    },
+    "stock": 150,
+    "soldCount": 1166,
+    "weight": 4187,
+    "dimensions": {
+      "length": 46.9,
+      "width": 35.0,
+      "height": 31.8
+    },
+    "origin": "Trung Quốc / Nhật Bản / Việt Nam",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "lồng",
+      "nhà vệ sinh",
+      "chó mèo",
+      "local"
+    ],
+    "createdAt": "2026-01-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1027",
+    "name": "Thức ăn ướt / Pate chó Me-O Max",
+    "slug": "thuc-an-uot-pate-cho-me-o-max-1027",
+    "price": 51000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1027/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1027/800/800",
+    "description": "Thức ăn ướt hoặc pate mềm dễ ăn. Nhiều hương vị. Bổ sung dưỡng chất. Có thể trộn hạt hoặc cho ăn riêng. Vỉ tiện dụng.",
+    "brand": "Pedigree",
+    "sku": "PED-1027-VỈ/",
+    "originalPrice": 57395,
+    "discountPercent": 11,
+    "unit": "vỉ/hộp",
+    "shortDescription": "Pate thức ăn ướt thơm ngon bổ sung dưỡng chất.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1027-a/800/800",
+      "https://picsum.photos/seed/prod-1027-b/800/800",
+      "https://picsum.photos/seed/prod-1027-c/800/800"
+    ],
+    "specifications": {
+      "Đối tượng": "Chó / Mèo",
+      "Dạng": "Pate / Xốt",
+      "Trọng lượng": "70-100g/hộp",
+      "Quy cách": "Vỉ 6-12"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 746
+    },
+    "stock": 171,
+    "soldCount": 955,
+    "weight": 1013,
+    "dimensions": {
+      "length": 15.9,
+      "width": 10.3,
+      "height": 7.4
+    },
+    "origin": "Thái Lan / Pháp / Nhật Bản",
+    "warranty": "Theo HSD",
+    "tags": [
+      "pate",
+      "thức ăn ướt",
+      "chó mèo",
+      "pedigree"
+    ],
+    "createdAt": "2026-01-31T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1028",
+    "name": "Bàn cào móng / Trụ cào Local",
+    "slug": "ban-cao-mong-tru-cao-local-1028",
+    "price": 705000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1028/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1028/800/800",
+    "description": "Bàn cào móng hoặc trụ cào cói. Giúp mèo mài móng tự nhiên. Bảo vệ đồ đạc. Đế chắc. Nhiều kích thước hình dáng.",
+    "brand": "Catit",
+    "sku": "CAT-1028-CHI",
+    "originalPrice": 812000,
+    "discountPercent": 13,
+    "unit": "chiếc",
+    "shortDescription": "Bàn cào móng hoặc trụ cào bảo vệ nội thất.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1028-a/800/800",
+      "https://picsum.photos/seed/prod-1028-b/800/800",
+      "https://picsum.photos/seed/prod-1028-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bàn / Trụ / Cây",
+      "Chất liệu": "Cói / Gỗ",
+      "Đế": "Chắc",
+      "Kích thước": "Đa dạng"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 347
+    },
+    "stock": 182,
+    "soldCount": 3419,
+    "weight": 3193,
+    "dimensions": {
+      "length": 40.3,
+      "width": 19.9,
+      "height": 40.5
+    },
+    "origin": "Trung Quốc / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bàn cào móng",
+      "mèo",
+      "bảo vệ nội thất",
+      "catit"
+    ],
+    "createdAt": "2026-05-08T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1029",
+    "name": "Vòng chống ve rận / Thuốc Advocate",
+    "slug": "vong-chong-ve-ran-thuoc-advocate-1029",
+    "price": 310000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1029/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1029/800/800",
+    "description": "Vòng cổ chống ve rận hoặc thuốc nhỏ gáy. Bảo vệ dài ngày. Chống nước. An toàn khi dùng đúng hướng dẫn. Phù hợp chó mèo.",
+    "brand": "Local",
+    "sku": "LOC-1029-HỘP",
+    "originalPrice": 363000,
+    "discountPercent": 15,
+    "unit": "hộp/chiếc",
+    "shortDescription": "Vòng cổ hoặc thuốc nhỏ gáy chống ve rận hiệu quả dài.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1029-a/800/800",
+      "https://picsum.photos/seed/prod-1029-b/800/800",
+      "https://picsum.photos/seed/prod-1029-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Vòng cổ / Nhỏ gáy",
+      "Hiệu quả": "1-8 tháng",
+      "Đối tượng": "Chó / Mèo",
+      "Chống nước": "Có"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 100
+    },
+    "stock": 328,
+    "soldCount": 2042,
+    "weight": 41,
+    "dimensions": {
+      "length": 15.5,
+      "width": 4.8,
+      "height": 1.8
+    },
+    "origin": "Pháp / Mỹ / Đức",
+    "warranty": "Theo HSD",
+    "tags": [
+      "chống ve rận",
+      "thuốc",
+      "chó mèo",
+      "local"
+    ],
+    "createdAt": "2026-06-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1030",
+    "name": "Bát ăn / Phụ kiện chó Petkit",
+    "slug": "bat-an-phu-kien-cho-petkit-1030",
+    "price": 313000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1030/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1030/800/800",
+    "description": "Bát ăn uống đôi hoặc đơn. Inox 304 hoặc nhựa an toàn. Đế chống trượt. Dễ vệ sinh. Size phù hợp nhiều giống.",
+    "brand": "Local",
+    "sku": "LOC-1030-BỘ",
+    "originalPrice": 358000,
+    "discountPercent": 13,
+    "unit": "bộ",
+    "shortDescription": "Bát ăn uống inox hoặc nhựa đế chống trượt.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1030-a/800/800",
+      "https://picsum.photos/seed/prod-1030-b/800/800",
+      "https://picsum.photos/seed/prod-1030-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bát đôi / Đơn",
+      "Chất liệu": "Inox / Nhựa",
+      "Đế": "Chống trượt",
+      "Size": "S-M-L"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 618
+    },
+    "stock": 90,
+    "soldCount": 2606,
+    "weight": 249,
+    "dimensions": {
+      "length": 26.3,
+      "width": 14.9,
+      "height": 6.0
+    },
+    "origin": "Trung Quốc / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bát ăn",
+      "phụ kiện",
+      "chó mèo",
+      "local"
+    ],
+    "createdAt": "2026-04-15T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1031",
+    "name": "Thức ăn hạt mèo SmartHeart",
+    "slug": "thuc-an-hat-meo-smartheart-1031",
+    "price": 363000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1031/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1031/800/800",
+    "description": "Thức ăn hạt khô công thức cân bằng dinh dưỡng. Hỗ trợ tiêu hóa da lông và sức khỏe tổng thể. Nhiều size hạt phù hợp. Bao nhiều trọng lượng.",
+    "brand": "Royal Canin",
+    "sku": "ROY-1031-BAO",
+    "originalPrice": 426000,
+    "discountPercent": 15,
+    "unit": "bao",
+    "shortDescription": "Thức ăn hạt khô dinh dưỡng cho chó mèo mọi lứa tuổi.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1031-a/800/800",
+      "https://picsum.photos/seed/prod-1031-b/800/800",
+      "https://picsum.photos/seed/prod-1031-c/800/800"
+    ],
+    "specifications": {
+      "Đối tượng": "Chó / Mèo",
+      "Lứa tuổi": "Con / Trưởng thành / Già",
+      "Trọng lượng": "400g-5kg",
+      "Dạng": "Hạt khô"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 890
+    },
+    "stock": 68,
+    "soldCount": 447,
+    "weight": 4420,
+    "dimensions": {
+      "length": 27.4,
+      "width": 14.6,
+      "height": 10.1
+    },
+    "origin": "Pháp / Thái Lan / Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "thức ăn",
+      "chó mèo",
+      "hạt khô",
+      "dinh dưỡng",
+      "royal-canin"
+    ],
+    "createdAt": "2026-04-26T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1032",
+    "name": "Cát vệ sinh mèo Catsan cao cấp",
+    "slug": "cat-ve-sinh-meo-catsan-cao-cap-1032",
+    "price": 165000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1032/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1032/800/800",
+    "description": "Cát vệ sinh vón cục nhanh thấm hút cao. Khử mùi hiệu quả. Có loại gỗ hoặc đất sét. Thân thiện môi trường tùy loại.",
+    "brand": "Unicharm",
+    "sku": "UNI-1032-BAO",
+    "originalPrice": 183000,
+    "discountPercent": 10,
+    "unit": "bao",
+    "shortDescription": "Cát vệ sinh mèo vón cục thấm hút khử mùi tốt.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1032-a/800/800",
+      "https://picsum.photos/seed/prod-1032-b/800/800",
+      "https://picsum.photos/seed/prod-1032-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Vón cục / Gỗ / Đất sét",
+      "Dung tích": "5-10L",
+      "Khử mùi": "Tốt",
+      "Xả được": "Tùy loại"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 380
+    },
+    "stock": 116,
+    "soldCount": 1762,
+    "weight": 4303,
+    "dimensions": {
+      "length": 42.1,
+      "width": 27.4,
+      "height": 16.4
+    },
+    "origin": "Đức / Thái Lan / Nhật Bản / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "cát mèo",
+      "vệ sinh",
+      "khử mùi",
+      "unicharm"
+    ],
+    "createdAt": "2026-09-02T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1033",
+    "name": "Vòng cổ / Dây dắt mèo Chuchu Plus",
+    "slug": "vong-co-day-dat-meo-chuchu-plus-1033",
+    "price": 393000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1033/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1033/800/800",
+    "description": "Vòng cổ và dây dắt chất liệu nylon hoặc da. Điều chỉnh chu vi. Khóa an toàn. Nhiều màu size. Phù hợp đi dạo hàng ngày.",
+    "brand": "Flexi",
+    "sku": "FLE-1033-BỘ",
+    "originalPrice": 484000,
+    "discountPercent": 19,
+    "unit": "bộ",
+    "shortDescription": "Vòng cổ dây dắt chắc chắn điều chỉnh được.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1033-a/800/800",
+      "https://picsum.photos/seed/prod-1033-b/800/800",
+      "https://picsum.photos/seed/prod-1033-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Vòng cổ + Dây dắt",
+      "Chất liệu": "Nylon / Da",
+      "Chiều dài dây": "1-5m",
+      "Size": "S-M-L"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 250
+    },
+    "stock": 211,
+    "soldCount": 2076,
+    "weight": 295,
+    "dimensions": {
+      "length": 30.8,
+      "width": 5.1,
+      "height": 5.0
+    },
+    "origin": "Trung Quốc / Việt Nam / Đức",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "vòng cổ",
+      "dây dắt",
+      "chó mèo",
+      "đi dạo",
+      "flexi"
+    ],
+    "createdAt": "2026-07-27T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1034",
+    "name": "Đồ chơi mèo Local",
+    "slug": "do-choi-meo-local-1034",
+    "price": 117000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1034/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1034/800/800",
+    "description": "Đồ chơi bóng cần câu lông vũ hoặc nhét treat. Kích thích bản năng. Giúp vận động và giảm stress. Chất liệu bền an toàn.",
+    "brand": "Local",
+    "sku": "LOC-1034-CHI",
+    "originalPrice": 145000,
+    "discountPercent": 19,
+    "unit": "chiếc",
+    "shortDescription": "Đồ chơi cho chó mèo kích thích vận động giảm stress.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1034-a/800/800",
+      "https://picsum.photos/seed/prod-1034-b/800/800",
+      "https://picsum.photos/seed/prod-1034-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bóng / Cần câu / Nhét treat",
+      "Chất liệu": "Cao su / Cói / Vải",
+      "Đối tượng": "Chó / Mèo"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 691
+    },
+    "stock": 93,
+    "soldCount": 2849,
+    "weight": 95,
+    "dimensions": {
+      "length": 14.7,
+      "width": 7.2,
+      "height": 8.5
+    },
+    "origin": "Mỹ / Trung Quốc / Thái Lan",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "đồ chơi",
+      "chó mèo",
+      "vận động",
+      "local"
+    ],
+    "createdAt": "2026-09-04T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1035",
+    "name": "Sữa tắm mèo Jerhigh",
+    "slug": "sua-tam-meo-jerhigh-1035",
+    "price": 165000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1035/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1035/800/800",
+    "description": "Sữa tắm chuyên dụng cho chó mèo. Làm sạch khử mùi. Dưỡng lông mềm mượt. pH cân bằng không khô da. Hương dịu.",
+    "brand": "8in1",
+    "sku": "8IN-1035-CHA",
+    "originalPrice": 190000,
+    "discountPercent": 13,
+    "unit": "chai",
+    "shortDescription": "Sữa tắm chó mèo khử mùi dưỡng lông pH cân bằng.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1035-a/800/800",
+      "https://picsum.photos/seed/prod-1035-b/800/800",
+      "https://picsum.photos/seed/prod-1035-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "200-500ml",
+      "Đối tượng": "Chó / Mèo / Lông trắng",
+      "Công dụng": "Làm sạch khử mùi dưỡng lông",
+      "pH": "Cân bằng"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 102
+    },
+    "stock": 311,
+    "soldCount": 2387,
+    "weight": 525,
+    "dimensions": {
+      "length": 6.3,
+      "width": 6.6,
+      "height": 18.4
+    },
+    "origin": "Thái Lan / Mỹ / Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "sữa tắm",
+      "chó mèo",
+      "chăm sóc",
+      "8in1"
+    ],
+    "createdAt": "2026-07-21T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1036",
+    "name": "Lồng / Nhà vệ sinh chó Local limited",
+    "slug": "long-nha-ve-sinh-cho-local-limited-1036",
+    "price": 1340000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1036/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1036/800/800",
+    "description": "Lồng vận chuyển thông khí khóa an toàn hoặc nhà vệ sinh có nắp. Dễ vệ sinh. Size phù hợp nhiều giống.",
+    "brand": "Cat Litter Box",
+    "sku": "CAT-1036-CHI",
+    "originalPrice": 1590000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Lồng vận chuyển hoặc nhà vệ sinh tiện dụng an toàn.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1036-a/800/800",
+      "https://picsum.photos/seed/prod-1036-b/800/800",
+      "https://picsum.photos/seed/prod-1036-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Lồng vận chuyển / Nhà vệ sinh",
+      "Size": "S-M-L",
+      "Chất liệu": "Nhựa",
+      "Tính năng": "Thông khí / Có nắp"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 689
+    },
+    "stock": 204,
+    "soldCount": 2311,
+    "weight": 3803,
+    "dimensions": {
+      "length": 45.9,
+      "width": 34.1,
+      "height": 36.7
+    },
+    "origin": "Trung Quốc / Nhật Bản / Việt Nam",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "lồng",
+      "nhà vệ sinh",
+      "chó mèo",
+      "cat-litter-box"
+    ],
+    "createdAt": "2026-05-25T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1037",
+    "name": "Thức ăn ướt / Pate chó Pedigree",
+    "slug": "thuc-an-uot-pate-cho-pedigree-1037",
+    "price": 38000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1037/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1037/800/800",
+    "description": "Thức ăn ướt hoặc pate mềm dễ ăn. Nhiều hương vị. Bổ sung dưỡng chất. Có thể trộn hạt hoặc cho ăn riêng. Vỉ tiện dụng.",
+    "brand": "Pedigree",
+    "sku": "PED-1037-VỈ/",
+    "originalPrice": 44090,
+    "discountPercent": 14,
+    "unit": "vỉ/hộp",
+    "shortDescription": "Pate thức ăn ướt thơm ngon bổ sung dưỡng chất.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1037-a/800/800",
+      "https://picsum.photos/seed/prod-1037-b/800/800",
+      "https://picsum.photos/seed/prod-1037-c/800/800"
+    ],
+    "specifications": {
+      "Đối tượng": "Chó / Mèo",
+      "Dạng": "Pate / Xốt",
+      "Trọng lượng": "70-100g/hộp",
+      "Quy cách": "Vỉ 6-12"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 231
+    },
+    "stock": 300,
+    "soldCount": 1938,
+    "weight": 1129,
+    "dimensions": {
+      "length": 16.3,
+      "width": 9.6,
+      "height": 7.7
+    },
+    "origin": "Thái Lan / Pháp / Nhật Bản",
+    "warranty": "Theo HSD",
+    "tags": [
+      "pate",
+      "thức ăn ướt",
+      "chó mèo",
+      "pedigree"
+    ],
+    "createdAt": "2026-05-12T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1038",
+    "name": "Bàn cào móng / Trụ cào Petstages",
+    "slug": "ban-cao-mong-tru-cao-petstages-1038",
+    "price": 343000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1038/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1038/800/800",
+    "description": "Bàn cào móng hoặc trụ cào cói. Giúp mèo mài móng tự nhiên. Bảo vệ đồ đạc. Đế chắc. Nhiều kích thước hình dáng.",
+    "brand": "Catit",
+    "sku": "CAT-1038-CHI",
+    "originalPrice": 417000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Bàn cào móng hoặc trụ cào bảo vệ nội thất.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1038-a/800/800",
+      "https://picsum.photos/seed/prod-1038-b/800/800",
+      "https://picsum.photos/seed/prod-1038-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bàn / Trụ / Cây",
+      "Chất liệu": "Cói / Gỗ",
+      "Đế": "Chắc",
+      "Kích thước": "Đa dạng"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 183
+    },
+    "stock": 130,
+    "soldCount": 1943,
+    "weight": 4279,
+    "dimensions": {
+      "length": 40.0,
+      "width": 18.4,
+      "height": 40.8
+    },
+    "origin": "Trung Quốc / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bàn cào móng",
+      "mèo",
+      "bảo vệ nội thất",
+      "catit"
+    ],
+    "createdAt": "2026-07-18T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1039",
+    "name": "Vòng chống ve rận / Thuốc Frontline",
+    "slug": "vong-chong-ve-ran-thuoc-frontline-1039",
+    "price": 634000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1039/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1039/800/800",
+    "description": "Vòng cổ chống ve rận hoặc thuốc nhỏ gáy. Bảo vệ dài ngày. Chống nước. An toàn khi dùng đúng hướng dẫn. Phù hợp chó mèo.",
+    "brand": "Local",
+    "sku": "LOC-1039-HỘP",
+    "originalPrice": 792000,
+    "discountPercent": 20,
+    "unit": "hộp/chiếc",
+    "shortDescription": "Vòng cổ hoặc thuốc nhỏ gáy chống ve rận hiệu quả dài.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1039-a/800/800",
+      "https://picsum.photos/seed/prod-1039-b/800/800",
+      "https://picsum.photos/seed/prod-1039-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Vòng cổ / Nhỏ gáy",
+      "Hiệu quả": "1-8 tháng",
+      "Đối tượng": "Chó / Mèo",
+      "Chống nước": "Có"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 143
+    },
+    "stock": 315,
+    "soldCount": 2700,
+    "weight": 69,
+    "dimensions": {
+      "length": 13.7,
+      "width": 4.9,
+      "height": 1.9
+    },
+    "origin": "Pháp / Mỹ / Đức",
+    "warranty": "Theo HSD",
+    "tags": [
+      "chống ve rận",
+      "thuốc",
+      "chó mèo",
+      "local"
+    ],
+    "createdAt": "2026-05-31T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1040",
+    "name": "Bát ăn / Phụ kiện mèo Pet Bowl",
+    "slug": "bat-an-phu-kien-meo-pet-bowl-1040",
+    "price": 66300,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1040/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1040/800/800",
+    "description": "Bát ăn uống đôi hoặc đơn. Inox 304 hoặc nhựa an toàn. Đế chống trượt. Dễ vệ sinh. Size phù hợp nhiều giống.",
+    "brand": "Catit",
+    "sku": "CAT-1040-BỘ",
+    "originalPrice": 74905,
+    "discountPercent": 11,
+    "unit": "bộ",
+    "shortDescription": "Bát ăn uống inox hoặc nhựa đế chống trượt.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1040-a/800/800",
+      "https://picsum.photos/seed/prod-1040-b/800/800",
+      "https://picsum.photos/seed/prod-1040-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bát đôi / Đơn",
+      "Chất liệu": "Inox / Nhựa",
+      "Đế": "Chống trượt",
+      "Size": "S-M-L"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 543
+    },
+    "stock": 327,
+    "soldCount": 2710,
+    "weight": 303,
+    "dimensions": {
+      "length": 26.6,
+      "width": 15.7,
+      "height": 5.4
+    },
+    "origin": "Trung Quốc / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bát ăn",
+      "phụ kiện",
+      "chó mèo",
+      "catit"
+    ],
+    "createdAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1041",
+    "name": "Thức ăn hạt chó Me-O Pro",
+    "slug": "thuc-an-hat-cho-me-o-pro-1041",
+    "price": 182000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1041/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1041/800/800",
+    "description": "Thức ăn hạt khô công thức cân bằng dinh dưỡng. Hỗ trợ tiêu hóa da lông và sức khỏe tổng thể. Nhiều size hạt phù hợp. Bao nhiều trọng lượng.",
+    "brand": "SmartHeart",
+    "sku": "SMA-1041-BAO",
+    "originalPrice": 219000,
+    "discountPercent": 17,
+    "unit": "bao",
+    "shortDescription": "Thức ăn hạt khô dinh dưỡng cho chó mèo mọi lứa tuổi.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1041-a/800/800",
+      "https://picsum.photos/seed/prod-1041-b/800/800",
+      "https://picsum.photos/seed/prod-1041-c/800/800"
+    ],
+    "specifications": {
+      "Đối tượng": "Chó / Mèo",
+      "Lứa tuổi": "Con / Trưởng thành / Già",
+      "Trọng lượng": "400g-5kg",
+      "Dạng": "Hạt khô"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 235
+    },
+    "stock": 140,
+    "soldCount": 447,
+    "weight": 3402,
+    "dimensions": {
+      "length": 24.6,
+      "width": 14.5,
+      "height": 10.8
+    },
+    "origin": "Pháp / Thái Lan / Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "thức ăn",
+      "chó mèo",
+      "hạt khô",
+      "dinh dưỡng",
+      "smartheart"
+    ],
+    "createdAt": "2026-04-09T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1042",
+    "name": "Cát vệ sinh mèo Cat's Best",
+    "slug": "cat-ve-sinh-meo-cats-best-1042",
+    "price": 286000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1042/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1042/800/800",
+    "description": "Cát vệ sinh vón cục nhanh thấm hút cao. Khử mùi hiệu quả. Có loại gỗ hoặc đất sét. Thân thiện môi trường tùy loại.",
+    "brand": "Cature",
+    "sku": "CAT-1042-BAO",
+    "originalPrice": 321000,
+    "discountPercent": 11,
+    "unit": "bao",
+    "shortDescription": "Cát vệ sinh mèo vón cục thấm hút khử mùi tốt.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1042-a/800/800",
+      "https://picsum.photos/seed/prod-1042-b/800/800",
+      "https://picsum.photos/seed/prod-1042-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Vón cục / Gỗ / Đất sét",
+      "Dung tích": "5-10L",
+      "Khử mùi": "Tốt",
+      "Xả được": "Tùy loại"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 284
+    },
+    "stock": 295,
+    "soldCount": 1177,
+    "weight": 5129,
+    "dimensions": {
+      "length": 38.7,
+      "width": 25.9,
+      "height": 14.5
+    },
+    "origin": "Đức / Thái Lan / Nhật Bản / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "cát mèo",
+      "vệ sinh",
+      "khử mùi",
+      "cature"
+    ],
+    "createdAt": "2026-06-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1043",
+    "name": "Vòng cổ / Dây dắt chó Flexi Pro",
+    "slug": "vong-co-day-dat-cho-flexi-pro-1043",
+    "price": 161000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1043/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1043/800/800",
+    "description": "Vòng cổ và dây dắt chất liệu nylon hoặc da. Điều chỉnh chu vi. Khóa an toàn. Nhiều màu size. Phù hợp đi dạo hàng ngày.",
+    "brand": "Flexi",
+    "sku": "FLE-1043-BỘ",
+    "originalPrice": 198000,
+    "discountPercent": 19,
+    "unit": "bộ",
+    "shortDescription": "Vòng cổ dây dắt chắc chắn điều chỉnh được.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1043-a/800/800",
+      "https://picsum.photos/seed/prod-1043-b/800/800",
+      "https://picsum.photos/seed/prod-1043-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Vòng cổ + Dây dắt",
+      "Chất liệu": "Nylon / Da",
+      "Chiều dài dây": "1-5m",
+      "Size": "S-M-L"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 669
+    },
+    "stock": 161,
+    "soldCount": 1996,
+    "weight": 194,
+    "dimensions": {
+      "length": 29.2,
+      "width": 4.8,
+      "height": 5.4
+    },
+    "origin": "Trung Quốc / Việt Nam / Đức",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "vòng cổ",
+      "dây dắt",
+      "chó mèo",
+      "đi dạo",
+      "flexi"
+    ],
+    "createdAt": "2026-07-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1044",
+    "name": "Đồ chơi mèo Local phiên bản mới",
+    "slug": "do-choi-meo-local-phien-ban-moi-1044",
+    "price": 188000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1044/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1044/800/800",
+    "description": "Đồ chơi bóng cần câu lông vũ hoặc nhét treat. Kích thích bản năng. Giúp vận động và giảm stress. Chất liệu bền an toàn.",
+    "brand": "Petstages",
+    "sku": "PET-1044-CHI",
+    "originalPrice": 230000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Đồ chơi cho chó mèo kích thích vận động giảm stress.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1044-a/800/800",
+      "https://picsum.photos/seed/prod-1044-b/800/800",
+      "https://picsum.photos/seed/prod-1044-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bóng / Cần câu / Nhét treat",
+      "Chất liệu": "Cao su / Cói / Vải",
+      "Đối tượng": "Chó / Mèo"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 618
+    },
+    "stock": 11,
+    "soldCount": 1112,
+    "weight": 115,
+    "dimensions": {
+      "length": 15.4,
+      "width": 7.2,
+      "height": 7.5
+    },
+    "origin": "Mỹ / Trung Quốc / Thái Lan",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "đồ chơi",
+      "chó mèo",
+      "vận động",
+      "petstages"
+    ],
+    "createdAt": "2026-04-18T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1045",
+    "name": "Sữa tắm mèo Local",
+    "slug": "sua-tam-meo-local-1045",
+    "price": 145000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1045/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1045/800/800",
+    "description": "Sữa tắm chuyên dụng cho chó mèo. Làm sạch khử mùi. Dưỡng lông mềm mượt. pH cân bằng không khô da. Hương dịu.",
+    "brand": "Sunsilky",
+    "sku": "SUN-1045-CHA",
+    "originalPrice": 172000,
+    "discountPercent": 16,
+    "unit": "chai",
+    "shortDescription": "Sữa tắm chó mèo khử mùi dưỡng lông pH cân bằng.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1045-a/800/800",
+      "https://picsum.photos/seed/prod-1045-b/800/800",
+      "https://picsum.photos/seed/prod-1045-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "200-500ml",
+      "Đối tượng": "Chó / Mèo / Lông trắng",
+      "Công dụng": "Làm sạch khử mùi dưỡng lông",
+      "pH": "Cân bằng"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 516
+    },
+    "stock": 336,
+    "soldCount": 742,
+    "weight": 500,
+    "dimensions": {
+      "length": 7.5,
+      "width": 6.7,
+      "height": 17.5
+    },
+    "origin": "Thái Lan / Mỹ / Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "sữa tắm",
+      "chó mèo",
+      "chăm sóc",
+      "sunsilky"
+    ],
+    "createdAt": "2026-08-25T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1046",
+    "name": "Lồng / Nhà vệ sinh mèo Petkit Max",
+    "slug": "long-nha-ve-sinh-meo-petkit-max-1046",
+    "price": 285000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1046/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1046/800/800",
+    "description": "Lồng vận chuyển thông khí khóa an toàn hoặc nhà vệ sinh có nắp. Dễ vệ sinh. Size phù hợp nhiều giống.",
+    "brand": "Pet Cargo",
+    "sku": "PET-1046-CHI",
+    "originalPrice": 324000,
+    "discountPercent": 12,
+    "unit": "chiếc",
+    "shortDescription": "Lồng vận chuyển hoặc nhà vệ sinh tiện dụng an toàn.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1046-a/800/800",
+      "https://picsum.photos/seed/prod-1046-b/800/800",
+      "https://picsum.photos/seed/prod-1046-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Lồng vận chuyển / Nhà vệ sinh",
+      "Size": "S-M-L",
+      "Chất liệu": "Nhựa",
+      "Tính năng": "Thông khí / Có nắp"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 142
+    },
+    "stock": 337,
+    "soldCount": 856,
+    "weight": 2266,
+    "dimensions": {
+      "length": 47.1,
+      "width": 32.6,
+      "height": 35.8
+    },
+    "origin": "Trung Quốc / Nhật Bản / Việt Nam",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "lồng",
+      "nhà vệ sinh",
+      "chó mèo",
+      "pet-cargo"
+    ],
+    "createdAt": "2026-04-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1047",
+    "name": "Thức ăn ướt / Pate mèo Me-O",
+    "slug": "thuc-an-uot-pate-meo-me-o-1047",
+    "price": 113000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1047/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1047/800/800",
+    "description": "Thức ăn ướt hoặc pate mềm dễ ăn. Nhiều hương vị. Bổ sung dưỡng chất. Có thể trộn hạt hoặc cho ăn riêng. Vỉ tiện dụng.",
+    "brand": "Whiskas",
+    "sku": "WHI-1047-VỈ/",
+    "originalPrice": 138000,
+    "discountPercent": 18,
+    "unit": "vỉ/hộp",
+    "shortDescription": "Pate thức ăn ướt thơm ngon bổ sung dưỡng chất.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1047-a/800/800",
+      "https://picsum.photos/seed/prod-1047-b/800/800",
+      "https://picsum.photos/seed/prod-1047-c/800/800"
+    ],
+    "specifications": {
+      "Đối tượng": "Chó / Mèo",
+      "Dạng": "Pate / Xốt",
+      "Trọng lượng": "70-100g/hộp",
+      "Quy cách": "Vỉ 6-12"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 661
+    },
+    "stock": 55,
+    "soldCount": 3949,
+    "weight": 936,
+    "dimensions": {
+      "length": 16.2,
+      "width": 10.5,
+      "height": 7.8
+    },
+    "origin": "Thái Lan / Pháp / Nhật Bản",
+    "warranty": "Theo HSD",
+    "tags": [
+      "pate",
+      "thức ăn ướt",
+      "chó mèo",
+      "whiskas"
+    ],
+    "createdAt": "2026-04-09T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1048",
+    "name": "Bàn cào móng / Trụ cào Cat Tree 2025",
+    "slug": "ban-cao-mong-tru-cao-cat-tree-2025-1048",
+    "price": 148000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1048/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1048/800/800",
+    "description": "Bàn cào móng hoặc trụ cào cói. Giúp mèo mài móng tự nhiên. Bảo vệ đồ đạc. Đế chắc. Nhiều kích thước hình dáng.",
+    "brand": "Cat Tree",
+    "sku": "CAT-1048-CHI",
+    "originalPrice": 171000,
+    "discountPercent": 13,
+    "unit": "chiếc",
+    "shortDescription": "Bàn cào móng hoặc trụ cào bảo vệ nội thất.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1048-a/800/800",
+      "https://picsum.photos/seed/prod-1048-b/800/800",
+      "https://picsum.photos/seed/prod-1048-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bàn / Trụ / Cây",
+      "Chất liệu": "Cói / Gỗ",
+      "Đế": "Chắc",
+      "Kích thước": "Đa dạng"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 686
+    },
+    "stock": 130,
+    "soldCount": 985,
+    "weight": 4783,
+    "dimensions": {
+      "length": 38.0,
+      "width": 19.0,
+      "height": 41.9
+    },
+    "origin": "Trung Quốc / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bàn cào móng",
+      "mèo",
+      "bảo vệ nội thất",
+      "cat-tree"
+    ],
+    "createdAt": "2026-07-10T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1049",
+    "name": "Vòng chống ve rận / Thuốc Local 2026",
+    "slug": "vong-chong-ve-ran-thuoc-local-2026-1049",
+    "price": 380000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1049/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1049/800/800",
+    "description": "Vòng cổ chống ve rận hoặc thuốc nhỏ gáy. Bảo vệ dài ngày. Chống nước. An toàn khi dùng đúng hướng dẫn. Phù hợp chó mèo.",
+    "brand": "Bravecto",
+    "sku": "BRA-1049-HỘP",
+    "originalPrice": 416000,
+    "discountPercent": 9,
+    "unit": "hộp/chiếc",
+    "shortDescription": "Vòng cổ hoặc thuốc nhỏ gáy chống ve rận hiệu quả dài.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1049-a/800/800",
+      "https://picsum.photos/seed/prod-1049-b/800/800",
+      "https://picsum.photos/seed/prod-1049-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Vòng cổ / Nhỏ gáy",
+      "Hiệu quả": "1-8 tháng",
+      "Đối tượng": "Chó / Mèo",
+      "Chống nước": "Có"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 330
+    },
+    "stock": 36,
+    "soldCount": 900,
+    "weight": 44,
+    "dimensions": {
+      "length": 15.7,
+      "width": 5.4,
+      "height": 2.2
+    },
+    "origin": "Pháp / Mỹ / Đức",
+    "warranty": "Theo HSD",
+    "tags": [
+      "chống ve rận",
+      "thuốc",
+      "chó mèo",
+      "bravecto"
+    ],
+    "createdAt": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1050",
+    "name": "Bát ăn / Phụ kiện mèo Local",
+    "slug": "bat-an-phu-kien-meo-local-1050",
+    "price": 86500,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1050/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1050/800/800",
+    "description": "Bát ăn uống đôi hoặc đơn. Inox 304 hoặc nhựa an toàn. Đế chống trượt. Dễ vệ sinh. Size phù hợp nhiều giống.",
+    "brand": "Catit",
+    "sku": "CAT-1050-BỘ",
+    "originalPrice": 101000,
+    "discountPercent": 14,
+    "unit": "bộ",
+    "shortDescription": "Bát ăn uống inox hoặc nhựa đế chống trượt.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1050-a/800/800",
+      "https://picsum.photos/seed/prod-1050-b/800/800",
+      "https://picsum.photos/seed/prod-1050-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bát đôi / Đơn",
+      "Chất liệu": "Inox / Nhựa",
+      "Đế": "Chống trượt",
+      "Size": "S-M-L"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 472
+    },
+    "stock": 47,
+    "soldCount": 1999,
+    "weight": 500,
+    "dimensions": {
+      "length": 22.8,
+      "width": 15.9,
+      "height": 5.5
+    },
+    "origin": "Trung Quốc / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bát ăn",
+      "phụ kiện",
+      "chó mèo",
+      "catit"
+    ],
+    "createdAt": "2026-03-06T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1051",
+    "name": "Thức ăn hạt chó Royal Canin",
+    "slug": "thuc-an-hat-cho-royal-canin-1051",
+    "price": 662000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1051/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1051/800/800",
+    "description": "Thức ăn hạt khô công thức cân bằng dinh dưỡng. Hỗ trợ tiêu hóa da lông và sức khỏe tổng thể. Nhiều size hạt phù hợp. Bao nhiều trọng lượng.",
+    "brand": "Pedigree",
+    "sku": "PED-1051-BAO",
+    "originalPrice": 716000,
+    "discountPercent": 8,
+    "unit": "bao",
+    "shortDescription": "Thức ăn hạt khô dinh dưỡng cho chó mèo mọi lứa tuổi.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1051-a/800/800",
+      "https://picsum.photos/seed/prod-1051-b/800/800",
+      "https://picsum.photos/seed/prod-1051-c/800/800"
+    ],
+    "specifications": {
+      "Đối tượng": "Chó / Mèo",
+      "Lứa tuổi": "Con / Trưởng thành / Già",
+      "Trọng lượng": "400g-5kg",
+      "Dạng": "Hạt khô"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 219
+    },
+    "stock": 306,
+    "soldCount": 3350,
+    "weight": 3920,
+    "dimensions": {
+      "length": 26.8,
+      "width": 13.8,
+      "height": 10.8
+    },
+    "origin": "Pháp / Thái Lan / Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "thức ăn",
+      "chó mèo",
+      "hạt khô",
+      "dinh dưỡng",
+      "pedigree"
+    ],
+    "createdAt": "2026-06-26T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1052",
+    "name": "Cát vệ sinh mèo Unicharm",
+    "slug": "cat-ve-sinh-meo-unicharm-1052",
+    "price": 155000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1052/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1052/800/800",
+    "description": "Cát vệ sinh vón cục nhanh thấm hút cao. Khử mùi hiệu quả. Có loại gỗ hoặc đất sét. Thân thiện môi trường tùy loại.",
+    "brand": "Cat's Best",
+    "sku": "CAT-1052-BAO",
+    "originalPrice": 187000,
+    "discountPercent": 17,
+    "unit": "bao",
+    "shortDescription": "Cát vệ sinh mèo vón cục thấm hút khử mùi tốt.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1052-a/800/800",
+      "https://picsum.photos/seed/prod-1052-b/800/800",
+      "https://picsum.photos/seed/prod-1052-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Vón cục / Gỗ / Đất sét",
+      "Dung tích": "5-10L",
+      "Khử mùi": "Tốt",
+      "Xả được": "Tùy loại"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 310
+    },
+    "stock": 335,
+    "soldCount": 1277,
+    "weight": 7926,
+    "dimensions": {
+      "length": 38.2,
+      "width": 25.7,
+      "height": 14.5
+    },
+    "origin": "Đức / Thái Lan / Nhật Bản / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "cát mèo",
+      "vệ sinh",
+      "khử mùi",
+      "cats-best"
+    ],
+    "createdAt": "2026-03-23T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1053",
+    "name": "Vòng cổ / Dây dắt chó Chuchu 2025",
+    "slug": "vong-co-day-dat-cho-chuchu-2025-1053",
+    "price": 207000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1053/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1053/800/800",
+    "description": "Vòng cổ và dây dắt chất liệu nylon hoặc da. Điều chỉnh chu vi. Khóa an toàn. Nhiều màu size. Phù hợp đi dạo hàng ngày.",
+    "brand": "Chuchu",
+    "sku": "CHU-1053-BỘ",
+    "originalPrice": 246000,
+    "discountPercent": 16,
+    "unit": "bộ",
+    "shortDescription": "Vòng cổ dây dắt chắc chắn điều chỉnh được.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1053-a/800/800",
+      "https://picsum.photos/seed/prod-1053-b/800/800",
+      "https://picsum.photos/seed/prod-1053-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Vòng cổ + Dây dắt",
+      "Chất liệu": "Nylon / Da",
+      "Chiều dài dây": "1-5m",
+      "Size": "S-M-L"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 541
+    },
+    "stock": 245,
+    "soldCount": 2080,
+    "weight": 78,
+    "dimensions": {
+      "length": 32.9,
+      "width": 5.4,
+      "height": 5.0
+    },
+    "origin": "Trung Quốc / Việt Nam / Đức",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "vòng cổ",
+      "dây dắt",
+      "chó mèo",
+      "đi dạo",
+      "chuchu"
+    ],
+    "createdAt": "2026-02-25T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1054",
+    "name": "Đồ chơi chó Petstages",
+    "slug": "do-choi-cho-petstages-1054",
+    "price": 84600,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1054/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1054/800/800",
+    "description": "Đồ chơi bóng cần câu lông vũ hoặc nhét treat. Kích thích bản năng. Giúp vận động và giảm stress. Chất liệu bền an toàn.",
+    "brand": "Catit",
+    "sku": "CAT-1054-CHI",
+    "originalPrice": 105000,
+    "discountPercent": 19,
+    "unit": "chiếc",
+    "shortDescription": "Đồ chơi cho chó mèo kích thích vận động giảm stress.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1054-a/800/800",
+      "https://picsum.photos/seed/prod-1054-b/800/800",
+      "https://picsum.photos/seed/prod-1054-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bóng / Cần câu / Nhét treat",
+      "Chất liệu": "Cao su / Cói / Vải",
+      "Đối tượng": "Chó / Mèo"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 131
+    },
+    "stock": 123,
+    "soldCount": 923,
+    "weight": 163,
+    "dimensions": {
+      "length": 14.5,
+      "width": 8.3,
+      "height": 8.5
+    },
+    "origin": "Mỹ / Trung Quốc / Thái Lan",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "đồ chơi",
+      "chó mèo",
+      "vận động",
+      "catit"
+    ],
+    "createdAt": "2026-04-03T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1055",
+    "name": "Sữa tắm mèo Local 2025",
+    "slug": "sua-tam-meo-local-2025-1055",
+    "price": 82000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1055/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1055/800/800",
+    "description": "Sữa tắm chuyên dụng cho chó mèo. Làm sạch khử mùi. Dưỡng lông mềm mượt. pH cân bằng không khô da. Hương dịu.",
+    "brand": "8in1",
+    "sku": "8IN-1055-CHA",
+    "originalPrice": 98105,
+    "discountPercent": 16,
+    "unit": "chai",
+    "shortDescription": "Sữa tắm chó mèo khử mùi dưỡng lông pH cân bằng.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1055-a/800/800",
+      "https://picsum.photos/seed/prod-1055-b/800/800",
+      "https://picsum.photos/seed/prod-1055-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "200-500ml",
+      "Đối tượng": "Chó / Mèo / Lông trắng",
+      "Công dụng": "Làm sạch khử mùi dưỡng lông",
+      "pH": "Cân bằng"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 425
+    },
+    "stock": 92,
+    "soldCount": 3541,
+    "weight": 512,
+    "dimensions": {
+      "length": 6.6,
+      "width": 7.2,
+      "height": 17.4
+    },
+    "origin": "Thái Lan / Mỹ / Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "sữa tắm",
+      "chó mèo",
+      "chăm sóc",
+      "8in1"
+    ],
+    "createdAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1056",
+    "name": "Lồng / Nhà vệ sinh chó Petkit 2025",
+    "slug": "long-nha-ve-sinh-cho-petkit-2025-1056",
+    "price": 1400000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1056/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1056/800/800",
+    "description": "Lồng vận chuyển thông khí khóa an toàn hoặc nhà vệ sinh có nắp. Dễ vệ sinh. Size phù hợp nhiều giống.",
+    "brand": "Local",
+    "sku": "LOC-1056-CHI",
+    "originalPrice": 1700000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Lồng vận chuyển hoặc nhà vệ sinh tiện dụng an toàn.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1056-a/800/800",
+      "https://picsum.photos/seed/prod-1056-b/800/800",
+      "https://picsum.photos/seed/prod-1056-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Lồng vận chuyển / Nhà vệ sinh",
+      "Size": "S-M-L",
+      "Chất liệu": "Nhựa",
+      "Tính năng": "Thông khí / Có nắp"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 874
+    },
+    "stock": 160,
+    "soldCount": 1568,
+    "weight": 4193,
+    "dimensions": {
+      "length": 52.3,
+      "width": 33.1,
+      "height": 33.3
+    },
+    "origin": "Trung Quốc / Nhật Bản / Việt Nam",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "lồng",
+      "nhà vệ sinh",
+      "chó mèo",
+      "local"
+    ],
+    "createdAt": "2026-02-21T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1057",
+    "name": "Thức ăn ướt / Pate mèo Royal Canin",
+    "slug": "thuc-an-uot-pate-meo-royal-canin-1057",
+    "price": 73900,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1057/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1057/800/800",
+    "description": "Thức ăn ướt hoặc pate mềm dễ ăn. Nhiều hương vị. Bổ sung dưỡng chất. Có thể trộn hạt hoặc cho ăn riêng. Vỉ tiện dụng.",
+    "brand": "Royal Canin",
+    "sku": "ROY-1057-VỈ/",
+    "originalPrice": 83681,
+    "discountPercent": 12,
+    "unit": "vỉ/hộp",
+    "shortDescription": "Pate thức ăn ướt thơm ngon bổ sung dưỡng chất.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1057-a/800/800",
+      "https://picsum.photos/seed/prod-1057-b/800/800",
+      "https://picsum.photos/seed/prod-1057-c/800/800"
+    ],
+    "specifications": {
+      "Đối tượng": "Chó / Mèo",
+      "Dạng": "Pate / Xốt",
+      "Trọng lượng": "70-100g/hộp",
+      "Quy cách": "Vỉ 6-12"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 438
+    },
+    "stock": 186,
+    "soldCount": 2695,
+    "weight": 976,
+    "dimensions": {
+      "length": 14.7,
+      "width": 9.8,
+      "height": 8.4
+    },
+    "origin": "Thái Lan / Pháp / Nhật Bản",
+    "warranty": "Theo HSD",
+    "tags": [
+      "pate",
+      "thức ăn ướt",
+      "chó mèo",
+      "royal-canin"
+    ],
+    "createdAt": "2026-08-09T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1058",
+    "name": "Bàn cào móng / Trụ cào Petstages",
+    "slug": "ban-cao-mong-tru-cao-petstages-1058",
+    "price": 109000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1058/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1058/800/800",
+    "description": "Bàn cào móng hoặc trụ cào cói. Giúp mèo mài móng tự nhiên. Bảo vệ đồ đạc. Đế chắc. Nhiều kích thước hình dáng.",
+    "brand": "Local",
+    "sku": "LOC-1058-CHI",
+    "originalPrice": 133000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Bàn cào móng hoặc trụ cào bảo vệ nội thất.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1058-a/800/800",
+      "https://picsum.photos/seed/prod-1058-b/800/800",
+      "https://picsum.photos/seed/prod-1058-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bàn / Trụ / Cây",
+      "Chất liệu": "Cói / Gỗ",
+      "Đế": "Chắc",
+      "Kích thước": "Đa dạng"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 349
+    },
+    "stock": 223,
+    "soldCount": 3289,
+    "weight": 2156,
+    "dimensions": {
+      "length": 37.7,
+      "width": 20.9,
+      "height": 38.4
+    },
+    "origin": "Trung Quốc / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bàn cào móng",
+      "mèo",
+      "bảo vệ nội thất",
+      "local"
+    ],
+    "createdAt": "2026-04-22T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1059",
+    "name": "Vòng chống ve rận / Thuốc Bravecto",
+    "slug": "vong-chong-ve-ran-thuoc-bravecto-1059",
+    "price": 314000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1059/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1059/800/800",
+    "description": "Vòng cổ chống ve rận hoặc thuốc nhỏ gáy. Bảo vệ dài ngày. Chống nước. An toàn khi dùng đúng hướng dẫn. Phù hợp chó mèo.",
+    "brand": "Advocate",
+    "sku": "ADV-1059-HỘP",
+    "originalPrice": 372000,
+    "discountPercent": 16,
+    "unit": "hộp/chiếc",
+    "shortDescription": "Vòng cổ hoặc thuốc nhỏ gáy chống ve rận hiệu quả dài.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1059-a/800/800",
+      "https://picsum.photos/seed/prod-1059-b/800/800",
+      "https://picsum.photos/seed/prod-1059-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Vòng cổ / Nhỏ gáy",
+      "Hiệu quả": "1-8 tháng",
+      "Đối tượng": "Chó / Mèo",
+      "Chống nước": "Có"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 511
+    },
+    "stock": 308,
+    "soldCount": 1974,
+    "weight": 76,
+    "dimensions": {
+      "length": 16.1,
+      "width": 4.6,
+      "height": 1.9
+    },
+    "origin": "Pháp / Mỹ / Đức",
+    "warranty": "Theo HSD",
+    "tags": [
+      "chống ve rận",
+      "thuốc",
+      "chó mèo",
+      "advocate"
+    ],
+    "createdAt": "2026-09-15T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1060",
+    "name": "Bát ăn / Phụ kiện mèo Pet Bowl",
+    "slug": "bat-an-phu-kien-meo-pet-bowl-1060",
+    "price": 166000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1060/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1060/800/800",
+    "description": "Bát ăn uống đôi hoặc đơn. Inox 304 hoặc nhựa an toàn. Đế chống trượt. Dễ vệ sinh. Size phù hợp nhiều giống.",
+    "brand": "Catit",
+    "sku": "CAT-1060-BỘ",
+    "originalPrice": 187000,
+    "discountPercent": 11,
+    "unit": "bộ",
+    "shortDescription": "Bát ăn uống inox hoặc nhựa đế chống trượt.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1060-a/800/800",
+      "https://picsum.photos/seed/prod-1060-b/800/800",
+      "https://picsum.photos/seed/prod-1060-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bát đôi / Đơn",
+      "Chất liệu": "Inox / Nhựa",
+      "Đế": "Chống trượt",
+      "Size": "S-M-L"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 570
+    },
+    "stock": 194,
+    "soldCount": 1844,
+    "weight": 410,
+    "dimensions": {
+      "length": 25.4,
+      "width": 13.7,
+      "height": 5.5
+    },
+    "origin": "Trung Quốc / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bát ăn",
+      "phụ kiện",
+      "chó mèo",
+      "catit"
+    ],
+    "createdAt": "2026-09-08T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1061",
+    "name": "Thức ăn hạt chó Pedigree",
+    "slug": "thuc-an-hat-cho-pedigree-1061",
+    "price": 405000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1061/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1061/800/800",
+    "description": "Thức ăn hạt khô công thức cân bằng dinh dưỡng. Hỗ trợ tiêu hóa da lông và sức khỏe tổng thể. Nhiều size hạt phù hợp. Bao nhiều trọng lượng.",
+    "brand": "Royal Canin",
+    "sku": "ROY-1061-BAO",
+    "originalPrice": 505000,
+    "discountPercent": 20,
+    "unit": "bao",
+    "shortDescription": "Thức ăn hạt khô dinh dưỡng cho chó mèo mọi lứa tuổi.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1061-a/800/800",
+      "https://picsum.photos/seed/prod-1061-b/800/800",
+      "https://picsum.photos/seed/prod-1061-c/800/800"
+    ],
+    "specifications": {
+      "Đối tượng": "Chó / Mèo",
+      "Lứa tuổi": "Con / Trưởng thành / Già",
+      "Trọng lượng": "400g-5kg",
+      "Dạng": "Hạt khô"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 595
+    },
+    "stock": 50,
+    "soldCount": 1845,
+    "weight": 3789,
+    "dimensions": {
+      "length": 26.6,
+      "width": 16.1,
+      "height": 10.2
+    },
+    "origin": "Pháp / Thái Lan / Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "thức ăn",
+      "chó mèo",
+      "hạt khô",
+      "dinh dưỡng",
+      "royal-canin"
+    ],
+    "createdAt": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1062",
+    "name": "Cát vệ sinh mèo Me-O",
+    "slug": "cat-ve-sinh-meo-me-o-1062",
+    "price": 235000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1062/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1062/800/800",
+    "description": "Cát vệ sinh vón cục nhanh thấm hút cao. Khử mùi hiệu quả. Có loại gỗ hoặc đất sét. Thân thiện môi trường tùy loại.",
+    "brand": "Me-O",
+    "sku": "ME--1062-BAO",
+    "originalPrice": 275000,
+    "discountPercent": 15,
+    "unit": "bao",
+    "shortDescription": "Cát vệ sinh mèo vón cục thấm hút khử mùi tốt.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1062-a/800/800",
+      "https://picsum.photos/seed/prod-1062-b/800/800",
+      "https://picsum.photos/seed/prod-1062-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Vón cục / Gỗ / Đất sét",
+      "Dung tích": "5-10L",
+      "Khử mùi": "Tốt",
+      "Xả được": "Tùy loại"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 736
+    },
+    "stock": 165,
+    "soldCount": 3970,
+    "weight": 5387,
+    "dimensions": {
+      "length": 41.5,
+      "width": 23.2,
+      "height": 15.8
+    },
+    "origin": "Đức / Thái Lan / Nhật Bản / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "cát mèo",
+      "vệ sinh",
+      "khử mùi",
+      "me-o"
+    ],
+    "createdAt": "2026-08-21T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1063",
+    "name": "Vòng cổ / Dây dắt mèo Local",
+    "slug": "vong-co-day-dat-meo-local-1063",
+    "price": 142000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1063/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1063/800/800",
+    "description": "Vòng cổ và dây dắt chất liệu nylon hoặc da. Điều chỉnh chu vi. Khóa an toàn. Nhiều màu size. Phù hợp đi dạo hàng ngày.",
+    "brand": "Petkit",
+    "sku": "PET-1063-BỘ",
+    "originalPrice": 161000,
+    "discountPercent": 12,
+    "unit": "bộ",
+    "shortDescription": "Vòng cổ dây dắt chắc chắn điều chỉnh được.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1063-a/800/800",
+      "https://picsum.photos/seed/prod-1063-b/800/800",
+      "https://picsum.photos/seed/prod-1063-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Vòng cổ + Dây dắt",
+      "Chất liệu": "Nylon / Da",
+      "Chiều dài dây": "1-5m",
+      "Size": "S-M-L"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 281
+    },
+    "stock": 314,
+    "soldCount": 3112,
+    "weight": 108,
+    "dimensions": {
+      "length": 29.8,
+      "width": 4.8,
+      "height": 5.2
+    },
+    "origin": "Trung Quốc / Việt Nam / Đức",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "vòng cổ",
+      "dây dắt",
+      "chó mèo",
+      "đi dạo",
+      "petkit"
+    ],
+    "createdAt": "2026-09-10T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1064",
+    "name": "Đồ chơi chó Kong Max",
+    "slug": "do-choi-cho-kong-max-1064",
+    "price": 243000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1064/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1064/800/800",
+    "description": "Đồ chơi bóng cần câu lông vũ hoặc nhét treat. Kích thích bản năng. Giúp vận động và giảm stress. Chất liệu bền an toàn.",
+    "brand": "Local",
+    "sku": "LOC-1064-CHI",
+    "originalPrice": 296000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Đồ chơi cho chó mèo kích thích vận động giảm stress.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1064-a/800/800",
+      "https://picsum.photos/seed/prod-1064-b/800/800",
+      "https://picsum.photos/seed/prod-1064-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bóng / Cần câu / Nhét treat",
+      "Chất liệu": "Cao su / Cói / Vải",
+      "Đối tượng": "Chó / Mèo"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 36
+    },
+    "stock": 294,
+    "soldCount": 1840,
+    "weight": 254,
+    "dimensions": {
+      "length": 13.6,
+      "width": 8.0,
+      "height": 8.7
+    },
+    "origin": "Mỹ / Trung Quốc / Thái Lan",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "đồ chơi",
+      "chó mèo",
+      "vận động",
+      "local"
+    ],
+    "createdAt": "2026-01-23T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1065",
+    "name": "Sữa tắm mèo Local",
+    "slug": "sua-tam-meo-local-1065",
+    "price": 129000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1065/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1065/800/800",
+    "description": "Sữa tắm chuyên dụng cho chó mèo. Làm sạch khử mùi. Dưỡng lông mềm mượt. pH cân bằng không khô da. Hương dịu.",
+    "brand": "8in1",
+    "sku": "8IN-1065-CHA",
+    "originalPrice": 152000,
+    "discountPercent": 15,
+    "unit": "chai",
+    "shortDescription": "Sữa tắm chó mèo khử mùi dưỡng lông pH cân bằng.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1065-a/800/800",
+      "https://picsum.photos/seed/prod-1065-b/800/800",
+      "https://picsum.photos/seed/prod-1065-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "200-500ml",
+      "Đối tượng": "Chó / Mèo / Lông trắng",
+      "Công dụng": "Làm sạch khử mùi dưỡng lông",
+      "pH": "Cân bằng"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 135
+    },
+    "stock": 277,
+    "soldCount": 698,
+    "weight": 524,
+    "dimensions": {
+      "length": 6.4,
+      "width": 6.4,
+      "height": 16.5
+    },
+    "origin": "Thái Lan / Mỹ / Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "sữa tắm",
+      "chó mèo",
+      "chăm sóc",
+      "8in1"
+    ],
+    "createdAt": "2026-08-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1066",
+    "name": "Lồng / Nhà vệ sinh chó Petkit",
+    "slug": "long-nha-ve-sinh-cho-petkit-1066",
+    "price": 1430000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1066/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1066/800/800",
+    "description": "Lồng vận chuyển thông khí khóa an toàn hoặc nhà vệ sinh có nắp. Dễ vệ sinh. Size phù hợp nhiều giống.",
+    "brand": "Local",
+    "sku": "LOC-1066-CHI",
+    "originalPrice": 1700000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Lồng vận chuyển hoặc nhà vệ sinh tiện dụng an toàn.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1066-a/800/800",
+      "https://picsum.photos/seed/prod-1066-b/800/800",
+      "https://picsum.photos/seed/prod-1066-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Lồng vận chuyển / Nhà vệ sinh",
+      "Size": "S-M-L",
+      "Chất liệu": "Nhựa",
+      "Tính năng": "Thông khí / Có nắp"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 482
+    },
+    "stock": 82,
+    "soldCount": 2714,
+    "weight": 1781,
+    "dimensions": {
+      "length": 52.5,
+      "width": 36.9,
+      "height": 34.5
+    },
+    "origin": "Trung Quốc / Nhật Bản / Việt Nam",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "lồng",
+      "nhà vệ sinh",
+      "chó mèo",
+      "local"
+    ],
+    "createdAt": "2026-04-09T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1067",
+    "name": "Thức ăn ướt / Pate chó Whiskas",
+    "slug": "thuc-an-uot-pate-cho-whiskas-1067",
+    "price": 74500,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1067/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1067/800/800",
+    "description": "Thức ăn ướt hoặc pate mềm dễ ăn. Nhiều hương vị. Bổ sung dưỡng chất. Có thể trộn hạt hoặc cho ăn riêng. Vỉ tiện dụng.",
+    "brand": "Royal Canin",
+    "sku": "ROY-1067-VỈ/",
+    "originalPrice": 87143,
+    "discountPercent": 15,
+    "unit": "vỉ/hộp",
+    "shortDescription": "Pate thức ăn ướt thơm ngon bổ sung dưỡng chất.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1067-a/800/800",
+      "https://picsum.photos/seed/prod-1067-b/800/800",
+      "https://picsum.photos/seed/prod-1067-c/800/800"
+    ],
+    "specifications": {
+      "Đối tượng": "Chó / Mèo",
+      "Dạng": "Pate / Xốt",
+      "Trọng lượng": "70-100g/hộp",
+      "Quy cách": "Vỉ 6-12"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 320
+    },
+    "stock": 8,
+    "soldCount": 2604,
+    "weight": 1109,
+    "dimensions": {
+      "length": 15.7,
+      "width": 10.9,
+      "height": 8.6
+    },
+    "origin": "Thái Lan / Pháp / Nhật Bản",
+    "warranty": "Theo HSD",
+    "tags": [
+      "pate",
+      "thức ăn ướt",
+      "chó mèo",
+      "royal-canin"
+    ],
+    "createdAt": "2026-08-15T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1068",
+    "name": "Bàn cào móng / Trụ cào Catit limited",
+    "slug": "ban-cao-mong-tru-cao-catit-limited-1068",
+    "price": 537000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1068/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1068/800/800",
+    "description": "Bàn cào móng hoặc trụ cào cói. Giúp mèo mài móng tự nhiên. Bảo vệ đồ đạc. Đế chắc. Nhiều kích thước hình dáng.",
+    "brand": "Local",
+    "sku": "LOC-1068-CHI",
+    "originalPrice": 594000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Bàn cào móng hoặc trụ cào bảo vệ nội thất.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1068-a/800/800",
+      "https://picsum.photos/seed/prod-1068-b/800/800",
+      "https://picsum.photos/seed/prod-1068-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bàn / Trụ / Cây",
+      "Chất liệu": "Cói / Gỗ",
+      "Đế": "Chắc",
+      "Kích thước": "Đa dạng"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 225
+    },
+    "stock": 299,
+    "soldCount": 3840,
+    "weight": 2325,
+    "dimensions": {
+      "length": 40.7,
+      "width": 21.1,
+      "height": 40.3
+    },
+    "origin": "Trung Quốc / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bàn cào móng",
+      "mèo",
+      "bảo vệ nội thất",
+      "local"
+    ],
+    "createdAt": "2026-04-15T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1069",
+    "name": "Vòng chống ve rận / Thuốc Hartz phiên bản mới",
+    "slug": "vong-chong-ve-ran-thuoc-hartz-phien-ban-moi-1069",
+    "price": 412000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1069/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1069/800/800",
+    "description": "Vòng cổ chống ve rận hoặc thuốc nhỏ gáy. Bảo vệ dài ngày. Chống nước. An toàn khi dùng đúng hướng dẫn. Phù hợp chó mèo.",
+    "brand": "Advocate",
+    "sku": "ADV-1069-HỘP",
+    "originalPrice": 458000,
+    "discountPercent": 10,
+    "unit": "hộp/chiếc",
+    "shortDescription": "Vòng cổ hoặc thuốc nhỏ gáy chống ve rận hiệu quả dài.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1069-a/800/800",
+      "https://picsum.photos/seed/prod-1069-b/800/800",
+      "https://picsum.photos/seed/prod-1069-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Vòng cổ / Nhỏ gáy",
+      "Hiệu quả": "1-8 tháng",
+      "Đối tượng": "Chó / Mèo",
+      "Chống nước": "Có"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 376
+    },
+    "stock": 40,
+    "soldCount": 1391,
+    "weight": 23,
+    "dimensions": {
+      "length": 15.1,
+      "width": 5.4,
+      "height": 1.8
+    },
+    "origin": "Pháp / Mỹ / Đức",
+    "warranty": "Theo HSD",
+    "tags": [
+      "chống ve rận",
+      "thuốc",
+      "chó mèo",
+      "advocate"
+    ],
+    "createdAt": "2026-08-25T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1070",
+    "name": "Bát ăn / Phụ kiện chó Petkit",
+    "slug": "bat-an-phu-kien-cho-petkit-1070",
+    "price": 141000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1070/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1070/800/800",
+    "description": "Bát ăn uống đôi hoặc đơn. Inox 304 hoặc nhựa an toàn. Đế chống trượt. Dễ vệ sinh. Size phù hợp nhiều giống.",
+    "brand": "Local",
+    "sku": "LOC-1070-BỘ",
+    "originalPrice": 160000,
+    "discountPercent": 12,
+    "unit": "bộ",
+    "shortDescription": "Bát ăn uống inox hoặc nhựa đế chống trượt.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1070-a/800/800",
+      "https://picsum.photos/seed/prod-1070-b/800/800",
+      "https://picsum.photos/seed/prod-1070-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bát đôi / Đơn",
+      "Chất liệu": "Inox / Nhựa",
+      "Đế": "Chống trượt",
+      "Size": "S-M-L"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 47
+    },
+    "stock": 75,
+    "soldCount": 3644,
+    "weight": 317,
+    "dimensions": {
+      "length": 27.5,
+      "width": 14.2,
+      "height": 6.5
+    },
+    "origin": "Trung Quốc / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bát ăn",
+      "phụ kiện",
+      "chó mèo",
+      "local"
+    ],
+    "createdAt": "2026-09-02T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1071",
+    "name": "Thức ăn hạt chó Me-O",
+    "slug": "thuc-an-hat-cho-me-o-1071",
+    "price": 91700,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1071/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1071/800/800",
+    "description": "Thức ăn hạt khô công thức cân bằng dinh dưỡng. Hỗ trợ tiêu hóa da lông và sức khỏe tổng thể. Nhiều size hạt phù hợp. Bao nhiều trọng lượng.",
+    "brand": "Me-O",
+    "sku": "ME--1071-BAO",
+    "originalPrice": 106000,
+    "discountPercent": 13,
+    "unit": "bao",
+    "shortDescription": "Thức ăn hạt khô dinh dưỡng cho chó mèo mọi lứa tuổi.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1071-a/800/800",
+      "https://picsum.photos/seed/prod-1071-b/800/800",
+      "https://picsum.photos/seed/prod-1071-c/800/800"
+    ],
+    "specifications": {
+      "Đối tượng": "Chó / Mèo",
+      "Lứa tuổi": "Con / Trưởng thành / Già",
+      "Trọng lượng": "400g-5kg",
+      "Dạng": "Hạt khô"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 409
+    },
+    "stock": 307,
+    "soldCount": 3386,
+    "weight": 2108,
+    "dimensions": {
+      "length": 24.4,
+      "width": 14.8,
+      "height": 9.8
+    },
+    "origin": "Pháp / Thái Lan / Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "thức ăn",
+      "chó mèo",
+      "hạt khô",
+      "dinh dưỡng",
+      "me-o"
+    ],
+    "createdAt": "2026-02-15T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1072",
+    "name": "Cát vệ sinh mèo Cat's Best",
+    "slug": "cat-ve-sinh-meo-cats-best-1072",
+    "price": 241000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1072/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1072/800/800",
+    "description": "Cát vệ sinh vón cục nhanh thấm hút cao. Khử mùi hiệu quả. Có loại gỗ hoặc đất sét. Thân thiện môi trường tùy loại.",
+    "brand": "Unicharm",
+    "sku": "UNI-1072-BAO",
+    "originalPrice": 290000,
+    "discountPercent": 17,
+    "unit": "bao",
+    "shortDescription": "Cát vệ sinh mèo vón cục thấm hút khử mùi tốt.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1072-a/800/800",
+      "https://picsum.photos/seed/prod-1072-b/800/800",
+      "https://picsum.photos/seed/prod-1072-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Vón cục / Gỗ / Đất sét",
+      "Dung tích": "5-10L",
+      "Khử mùi": "Tốt",
+      "Xả được": "Tùy loại"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 386
+    },
+    "stock": 167,
+    "soldCount": 1750,
+    "weight": 3996,
+    "dimensions": {
+      "length": 37.3,
+      "width": 23.5,
+      "height": 16.3
+    },
+    "origin": "Đức / Thái Lan / Nhật Bản / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "cát mèo",
+      "vệ sinh",
+      "khử mùi",
+      "unicharm"
+    ],
+    "createdAt": "2026-03-04T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1073",
+    "name": "Vòng cổ / Dây dắt chó Petkit",
+    "slug": "vong-co-day-dat-cho-petkit-1073",
+    "price": 296000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1073/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1073/800/800",
+    "description": "Vòng cổ và dây dắt chất liệu nylon hoặc da. Điều chỉnh chu vi. Khóa an toàn. Nhiều màu size. Phù hợp đi dạo hàng ngày.",
+    "brand": "Local",
+    "sku": "LOC-1073-BỘ",
+    "originalPrice": 333000,
+    "discountPercent": 11,
+    "unit": "bộ",
+    "shortDescription": "Vòng cổ dây dắt chắc chắn điều chỉnh được.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1073-a/800/800",
+      "https://picsum.photos/seed/prod-1073-b/800/800",
+      "https://picsum.photos/seed/prod-1073-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Vòng cổ + Dây dắt",
+      "Chất liệu": "Nylon / Da",
+      "Chiều dài dây": "1-5m",
+      "Size": "S-M-L"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 898
+    },
+    "stock": 56,
+    "soldCount": 1502,
+    "weight": 78,
+    "dimensions": {
+      "length": 32.7,
+      "width": 4.5,
+      "height": 4.9
+    },
+    "origin": "Trung Quốc / Việt Nam / Đức",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "vòng cổ",
+      "dây dắt",
+      "chó mèo",
+      "đi dạo",
+      "local"
+    ],
+    "createdAt": "2026-04-17T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1074",
+    "name": "Đồ chơi chó Catit",
+    "slug": "do-choi-cho-catit-1074",
+    "price": 155000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1074/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1074/800/800",
+    "description": "Đồ chơi bóng cần câu lông vũ hoặc nhét treat. Kích thích bản năng. Giúp vận động và giảm stress. Chất liệu bền an toàn.",
+    "brand": "Catit",
+    "sku": "CAT-1074-CHI",
+    "originalPrice": 194000,
+    "discountPercent": 20,
+    "unit": "chiếc",
+    "shortDescription": "Đồ chơi cho chó mèo kích thích vận động giảm stress.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1074-a/800/800",
+      "https://picsum.photos/seed/prod-1074-b/800/800",
+      "https://picsum.photos/seed/prod-1074-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bóng / Cần câu / Nhét treat",
+      "Chất liệu": "Cao su / Cói / Vải",
+      "Đối tượng": "Chó / Mèo"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 301
+    },
+    "stock": 336,
+    "soldCount": 3725,
+    "weight": 71,
+    "dimensions": {
+      "length": 15.5,
+      "width": 8.5,
+      "height": 8.6
+    },
+    "origin": "Mỹ / Trung Quốc / Thái Lan",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "đồ chơi",
+      "chó mèo",
+      "vận động",
+      "catit"
+    ],
+    "createdAt": "2026-04-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1075",
+    "name": "Sữa tắm chó Jerhigh",
+    "slug": "sua-tam-cho-jerhigh-1075",
+    "price": 57400,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1075/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1075/800/800",
+    "description": "Sữa tắm chuyên dụng cho chó mèo. Làm sạch khử mùi. Dưỡng lông mềm mượt. pH cân bằng không khô da. Hương dịu.",
+    "brand": "Sunsilky",
+    "sku": "SUN-1075-CHA",
+    "originalPrice": 63240,
+    "discountPercent": 9,
+    "unit": "chai",
+    "shortDescription": "Sữa tắm chó mèo khử mùi dưỡng lông pH cân bằng.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1075-a/800/800",
+      "https://picsum.photos/seed/prod-1075-b/800/800",
+      "https://picsum.photos/seed/prod-1075-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "200-500ml",
+      "Đối tượng": "Chó / Mèo / Lông trắng",
+      "Công dụng": "Làm sạch khử mùi dưỡng lông",
+      "pH": "Cân bằng"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 234
+    },
+    "stock": 343,
+    "soldCount": 1250,
+    "weight": 279,
+    "dimensions": {
+      "length": 6.5,
+      "width": 7.0,
+      "height": 16.3
+    },
+    "origin": "Thái Lan / Mỹ / Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "sữa tắm",
+      "chó mèo",
+      "chăm sóc",
+      "sunsilky"
+    ],
+    "createdAt": "2026-04-20T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1076",
+    "name": "Lồng / Nhà vệ sinh mèo Petkit",
+    "slug": "long-nha-ve-sinh-meo-petkit-1076",
+    "price": 511000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1076/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1076/800/800",
+    "description": "Lồng vận chuyển thông khí khóa an toàn hoặc nhà vệ sinh có nắp. Dễ vệ sinh. Size phù hợp nhiều giống.",
+    "brand": "Local",
+    "sku": "LOC-1076-CHI",
+    "originalPrice": 567000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Lồng vận chuyển hoặc nhà vệ sinh tiện dụng an toàn.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1076-a/800/800",
+      "https://picsum.photos/seed/prod-1076-b/800/800",
+      "https://picsum.photos/seed/prod-1076-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Lồng vận chuyển / Nhà vệ sinh",
+      "Size": "S-M-L",
+      "Chất liệu": "Nhựa",
+      "Tính năng": "Thông khí / Có nắp"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 132
+    },
+    "stock": 88,
+    "soldCount": 172,
+    "weight": 3124,
+    "dimensions": {
+      "length": 54.7,
+      "width": 36.7,
+      "height": 37.2
+    },
+    "origin": "Trung Quốc / Nhật Bản / Việt Nam",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "lồng",
+      "nhà vệ sinh",
+      "chó mèo",
+      "local"
+    ],
+    "createdAt": "2026-05-22T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1077",
+    "name": "Thức ăn ướt / Pate mèo Pedigree",
+    "slug": "thuc-an-uot-pate-meo-pedigree-1077",
+    "price": 49800,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1077/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1077/800/800",
+    "description": "Thức ăn ướt hoặc pate mềm dễ ăn. Nhiều hương vị. Bổ sung dưỡng chất. Có thể trộn hạt hoặc cho ăn riêng. Vỉ tiện dụng.",
+    "brand": "Royal Canin",
+    "sku": "ROY-1077-VỈ/",
+    "originalPrice": 59049,
+    "discountPercent": 16,
+    "unit": "vỉ/hộp",
+    "shortDescription": "Pate thức ăn ướt thơm ngon bổ sung dưỡng chất.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1077-a/800/800",
+      "https://picsum.photos/seed/prod-1077-b/800/800",
+      "https://picsum.photos/seed/prod-1077-c/800/800"
+    ],
+    "specifications": {
+      "Đối tượng": "Chó / Mèo",
+      "Dạng": "Pate / Xốt",
+      "Trọng lượng": "70-100g/hộp",
+      "Quy cách": "Vỉ 6-12"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 167
+    },
+    "stock": 213,
+    "soldCount": 240,
+    "weight": 429,
+    "dimensions": {
+      "length": 15.8,
+      "width": 9.7,
+      "height": 8.6
+    },
+    "origin": "Thái Lan / Pháp / Nhật Bản",
+    "warranty": "Theo HSD",
+    "tags": [
+      "pate",
+      "thức ăn ướt",
+      "chó mèo",
+      "royal-canin"
+    ],
+    "createdAt": "2026-06-02T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1078",
+    "name": "Bàn cào móng / Trụ cào Catit",
+    "slug": "ban-cao-mong-tru-cao-catit-1078",
+    "price": 255000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1078/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1078/800/800",
+    "description": "Bàn cào móng hoặc trụ cào cói. Giúp mèo mài móng tự nhiên. Bảo vệ đồ đạc. Đế chắc. Nhiều kích thước hình dáng.",
+    "brand": "Petstages",
+    "sku": "PET-1078-CHI",
+    "originalPrice": 280000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Bàn cào móng hoặc trụ cào bảo vệ nội thất.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1078-a/800/800",
+      "https://picsum.photos/seed/prod-1078-b/800/800",
+      "https://picsum.photos/seed/prod-1078-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bàn / Trụ / Cây",
+      "Chất liệu": "Cói / Gỗ",
+      "Đế": "Chắc",
+      "Kích thước": "Đa dạng"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 507
+    },
+    "stock": 242,
+    "soldCount": 1750,
+    "weight": 3356,
+    "dimensions": {
+      "length": 43.2,
+      "width": 18.4,
+      "height": 43.9
+    },
+    "origin": "Trung Quốc / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bàn cào móng",
+      "mèo",
+      "bảo vệ nội thất",
+      "petstages"
+    ],
+    "createdAt": "2026-08-22T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1079",
+    "name": "Vòng chống ve rận / Thuốc Hartz",
+    "slug": "vong-chong-ve-ran-thuoc-hartz-1079",
+    "price": 89800,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1079/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1079/800/800",
+    "description": "Vòng cổ chống ve rận hoặc thuốc nhỏ gáy. Bảo vệ dài ngày. Chống nước. An toàn khi dùng đúng hướng dẫn. Phù hợp chó mèo.",
+    "brand": "Hartz",
+    "sku": "HAR-1079-HỘP",
+    "originalPrice": 102000,
+    "discountPercent": 12,
+    "unit": "hộp/chiếc",
+    "shortDescription": "Vòng cổ hoặc thuốc nhỏ gáy chống ve rận hiệu quả dài.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1079-a/800/800",
+      "https://picsum.photos/seed/prod-1079-b/800/800",
+      "https://picsum.photos/seed/prod-1079-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Vòng cổ / Nhỏ gáy",
+      "Hiệu quả": "1-8 tháng",
+      "Đối tượng": "Chó / Mèo",
+      "Chống nước": "Có"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 648
+    },
+    "stock": 347,
+    "soldCount": 2984,
+    "weight": 80,
+    "dimensions": {
+      "length": 16.2,
+      "width": 4.8,
+      "height": 1.9
+    },
+    "origin": "Pháp / Mỹ / Đức",
+    "warranty": "Theo HSD",
+    "tags": [
+      "chống ve rận",
+      "thuốc",
+      "chó mèo",
+      "hartz"
+    ],
+    "createdAt": "2026-02-08T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1080",
+    "name": "Bát ăn / Phụ kiện mèo Catit",
+    "slug": "bat-an-phu-kien-meo-catit-1080",
+    "price": 101000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1080/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1080/800/800",
+    "description": "Bát ăn uống đôi hoặc đơn. Inox 304 hoặc nhựa an toàn. Đế chống trượt. Dễ vệ sinh. Size phù hợp nhiều giống.",
+    "brand": "Local",
+    "sku": "LOC-1080-BỘ",
+    "originalPrice": 113000,
+    "discountPercent": 11,
+    "unit": "bộ",
+    "shortDescription": "Bát ăn uống inox hoặc nhựa đế chống trượt.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1080-a/800/800",
+      "https://picsum.photos/seed/prod-1080-b/800/800",
+      "https://picsum.photos/seed/prod-1080-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bát đôi / Đơn",
+      "Chất liệu": "Inox / Nhựa",
+      "Đế": "Chống trượt",
+      "Size": "S-M-L"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 754
+    },
+    "stock": 211,
+    "soldCount": 1206,
+    "weight": 166,
+    "dimensions": {
+      "length": 26.5,
+      "width": 13.9,
+      "height": 6.2
+    },
+    "origin": "Trung Quốc / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bát ăn",
+      "phụ kiện",
+      "chó mèo",
+      "local"
+    ],
+    "createdAt": "2026-08-30T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1081",
+    "name": "Thức ăn hạt chó SmartHeart Pro",
+    "slug": "thuc-an-hat-cho-smartheart-pro-1081",
+    "price": 381000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1081/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1081/800/800",
+    "description": "Thức ăn hạt khô công thức cân bằng dinh dưỡng. Hỗ trợ tiêu hóa da lông và sức khỏe tổng thể. Nhiều size hạt phù hợp. Bao nhiều trọng lượng.",
+    "brand": "Whiskas",
+    "sku": "WHI-1081-BAO",
+    "originalPrice": 433000,
+    "discountPercent": 12,
+    "unit": "bao",
+    "shortDescription": "Thức ăn hạt khô dinh dưỡng cho chó mèo mọi lứa tuổi.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1081-a/800/800",
+      "https://picsum.photos/seed/prod-1081-b/800/800",
+      "https://picsum.photos/seed/prod-1081-c/800/800"
+    ],
+    "specifications": {
+      "Đối tượng": "Chó / Mèo",
+      "Lứa tuổi": "Con / Trưởng thành / Già",
+      "Trọng lượng": "400g-5kg",
+      "Dạng": "Hạt khô"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 798
+    },
+    "stock": 72,
+    "soldCount": 1393,
+    "weight": 4185,
+    "dimensions": {
+      "length": 25.8,
+      "width": 15.1,
+      "height": 10.2
+    },
+    "origin": "Pháp / Thái Lan / Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "thức ăn",
+      "chó mèo",
+      "hạt khô",
+      "dinh dưỡng",
+      "whiskas"
+    ],
+    "createdAt": "2026-05-03T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1082",
+    "name": "Cát vệ sinh mèo Me-O",
+    "slug": "cat-ve-sinh-meo-me-o-1082",
+    "price": 282000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1082/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1082/800/800",
+    "description": "Cát vệ sinh vón cục nhanh thấm hút cao. Khử mùi hiệu quả. Có loại gỗ hoặc đất sét. Thân thiện môi trường tùy loại.",
+    "brand": "Unicharm",
+    "sku": "UNI-1082-BAO",
+    "originalPrice": 349000,
+    "discountPercent": 19,
+    "unit": "bao",
+    "shortDescription": "Cát vệ sinh mèo vón cục thấm hút khử mùi tốt.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1082-a/800/800",
+      "https://picsum.photos/seed/prod-1082-b/800/800",
+      "https://picsum.photos/seed/prod-1082-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Vón cục / Gỗ / Đất sét",
+      "Dung tích": "5-10L",
+      "Khử mùi": "Tốt",
+      "Xả được": "Tùy loại"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 206
+    },
+    "stock": 12,
+    "soldCount": 635,
+    "weight": 3280,
+    "dimensions": {
+      "length": 42.0,
+      "width": 26.5,
+      "height": 15.4
+    },
+    "origin": "Đức / Thái Lan / Nhật Bản / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "cát mèo",
+      "vệ sinh",
+      "khử mùi",
+      "unicharm"
+    ],
+    "createdAt": "2026-06-26T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1083",
+    "name": "Vòng cổ / Dây dắt chó Flexi Plus",
+    "slug": "vong-co-day-dat-cho-flexi-plus-1083",
+    "price": 345000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1083/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1083/800/800",
+    "description": "Vòng cổ và dây dắt chất liệu nylon hoặc da. Điều chỉnh chu vi. Khóa an toàn. Nhiều màu size. Phù hợp đi dạo hàng ngày.",
+    "brand": "Flexi",
+    "sku": "FLE-1083-BỘ",
+    "originalPrice": 401000,
+    "discountPercent": 14,
+    "unit": "bộ",
+    "shortDescription": "Vòng cổ dây dắt chắc chắn điều chỉnh được.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1083-a/800/800",
+      "https://picsum.photos/seed/prod-1083-b/800/800",
+      "https://picsum.photos/seed/prod-1083-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Vòng cổ + Dây dắt",
+      "Chất liệu": "Nylon / Da",
+      "Chiều dài dây": "1-5m",
+      "Size": "S-M-L"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 482
+    },
+    "stock": 114,
+    "soldCount": 1906,
+    "weight": 269,
+    "dimensions": {
+      "length": 29.1,
+      "width": 5.1,
+      "height": 5.3
+    },
+    "origin": "Trung Quốc / Việt Nam / Đức",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "vòng cổ",
+      "dây dắt",
+      "chó mèo",
+      "đi dạo",
+      "flexi"
+    ],
+    "createdAt": "2026-06-23T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1084",
+    "name": "Đồ chơi mèo Catit Pro",
+    "slug": "do-choi-meo-catit-pro-1084",
+    "price": 212000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1084/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1084/800/800",
+    "description": "Đồ chơi bóng cần câu lông vũ hoặc nhét treat. Kích thích bản năng. Giúp vận động và giảm stress. Chất liệu bền an toàn.",
+    "brand": "Chuckit",
+    "sku": "CHU-1084-CHI",
+    "originalPrice": 241000,
+    "discountPercent": 12,
+    "unit": "chiếc",
+    "shortDescription": "Đồ chơi cho chó mèo kích thích vận động giảm stress.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1084-a/800/800",
+      "https://picsum.photos/seed/prod-1084-b/800/800",
+      "https://picsum.photos/seed/prod-1084-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bóng / Cần câu / Nhét treat",
+      "Chất liệu": "Cao su / Cói / Vải",
+      "Đối tượng": "Chó / Mèo"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 487
+    },
+    "stock": 344,
+    "soldCount": 445,
+    "weight": 278,
+    "dimensions": {
+      "length": 14.1,
+      "width": 7.7,
+      "height": 8.6
+    },
+    "origin": "Mỹ / Trung Quốc / Thái Lan",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "đồ chơi",
+      "chó mèo",
+      "vận động",
+      "chuckit"
+    ],
+    "createdAt": "2026-07-05T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1085",
+    "name": "Sữa tắm mèo Bio-Derm Plus",
+    "slug": "sua-tam-meo-bio-derm-plus-1085",
+    "price": 61700,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1085/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1085/800/800",
+    "description": "Sữa tắm chuyên dụng cho chó mèo. Làm sạch khử mùi. Dưỡng lông mềm mượt. pH cân bằng không khô da. Hương dịu.",
+    "brand": "8in1",
+    "sku": "8IN-1085-CHA",
+    "originalPrice": 76755,
+    "discountPercent": 20,
+    "unit": "chai",
+    "shortDescription": "Sữa tắm chó mèo khử mùi dưỡng lông pH cân bằng.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1085-a/800/800",
+      "https://picsum.photos/seed/prod-1085-b/800/800",
+      "https://picsum.photos/seed/prod-1085-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "200-500ml",
+      "Đối tượng": "Chó / Mèo / Lông trắng",
+      "Công dụng": "Làm sạch khử mùi dưỡng lông",
+      "pH": "Cân bằng"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 749
+    },
+    "stock": 156,
+    "soldCount": 567,
+    "weight": 264,
+    "dimensions": {
+      "length": 6.4,
+      "width": 7.7,
+      "height": 19.2
+    },
+    "origin": "Thái Lan / Mỹ / Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "sữa tắm",
+      "chó mèo",
+      "chăm sóc",
+      "8in1"
+    ],
+    "createdAt": "2026-08-26T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1086",
+    "name": "Lồng / Nhà vệ sinh mèo Iris",
+    "slug": "long-nha-ve-sinh-meo-iris-1086",
+    "price": 323000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1086/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1086/800/800",
+    "description": "Lồng vận chuyển thông khí khóa an toàn hoặc nhà vệ sinh có nắp. Dễ vệ sinh. Size phù hợp nhiều giống.",
+    "brand": "Petkit",
+    "sku": "PET-1086-CHI",
+    "originalPrice": 402000,
+    "discountPercent": 20,
+    "unit": "chiếc",
+    "shortDescription": "Lồng vận chuyển hoặc nhà vệ sinh tiện dụng an toàn.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1086-a/800/800",
+      "https://picsum.photos/seed/prod-1086-b/800/800",
+      "https://picsum.photos/seed/prod-1086-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Lồng vận chuyển / Nhà vệ sinh",
+      "Size": "S-M-L",
+      "Chất liệu": "Nhựa",
+      "Tính năng": "Thông khí / Có nắp"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 219
+    },
+    "stock": 77,
+    "soldCount": 3490,
+    "weight": 4980,
+    "dimensions": {
+      "length": 50.0,
+      "width": 34.3,
+      "height": 38.1
+    },
+    "origin": "Trung Quốc / Nhật Bản / Việt Nam",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "lồng",
+      "nhà vệ sinh",
+      "chó mèo",
+      "petkit"
+    ],
+    "createdAt": "2026-07-08T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1087",
+    "name": "Thức ăn ướt / Pate chó Pedigree Plus",
+    "slug": "thuc-an-uot-pate-cho-pedigree-plus-1087",
+    "price": 93800,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1087/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1087/800/800",
+    "description": "Thức ăn ướt hoặc pate mềm dễ ăn. Nhiều hương vị. Bổ sung dưỡng chất. Có thể trộn hạt hoặc cho ăn riêng. Vỉ tiện dụng.",
+    "brand": "Ciao",
+    "sku": "CIA-1087-VỈ/",
+    "originalPrice": 114000,
+    "discountPercent": 18,
+    "unit": "vỉ/hộp",
+    "shortDescription": "Pate thức ăn ướt thơm ngon bổ sung dưỡng chất.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1087-a/800/800",
+      "https://picsum.photos/seed/prod-1087-b/800/800",
+      "https://picsum.photos/seed/prod-1087-c/800/800"
+    ],
+    "specifications": {
+      "Đối tượng": "Chó / Mèo",
+      "Dạng": "Pate / Xốt",
+      "Trọng lượng": "70-100g/hộp",
+      "Quy cách": "Vỉ 6-12"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 255
+    },
+    "stock": 276,
+    "soldCount": 733,
+    "weight": 976,
+    "dimensions": {
+      "length": 16.1,
+      "width": 10.1,
+      "height": 8.5
+    },
+    "origin": "Thái Lan / Pháp / Nhật Bản",
+    "warranty": "Theo HSD",
+    "tags": [
+      "pate",
+      "thức ăn ướt",
+      "chó mèo",
+      "ciao"
+    ],
+    "createdAt": "2026-04-20T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1088",
+    "name": "Bàn cào móng / Trụ cào Petstages phiên bản mới",
+    "slug": "ban-cao-mong-tru-cao-petstages-phien-ban-moi-1088",
+    "price": 877000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1088/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1088/800/800",
+    "description": "Bàn cào móng hoặc trụ cào cói. Giúp mèo mài móng tự nhiên. Bảo vệ đồ đạc. Đế chắc. Nhiều kích thước hình dáng.",
+    "brand": "Petstages",
+    "sku": "PET-1088-CHI",
+    "originalPrice": 1050000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Bàn cào móng hoặc trụ cào bảo vệ nội thất.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1088-a/800/800",
+      "https://picsum.photos/seed/prod-1088-b/800/800",
+      "https://picsum.photos/seed/prod-1088-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bàn / Trụ / Cây",
+      "Chất liệu": "Cói / Gỗ",
+      "Đế": "Chắc",
+      "Kích thước": "Đa dạng"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 430
+    },
+    "stock": 156,
+    "soldCount": 1646,
+    "weight": 4930,
+    "dimensions": {
+      "length": 43.5,
+      "width": 20.4,
+      "height": 42.9
+    },
+    "origin": "Trung Quốc / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bàn cào móng",
+      "mèo",
+      "bảo vệ nội thất",
+      "petstages"
+    ],
+    "createdAt": "2026-09-02T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1089",
+    "name": "Vòng chống ve rận / Thuốc Hartz",
+    "slug": "vong-chong-ve-ran-thuoc-hartz-1089",
+    "price": 580000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1089/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1089/800/800",
+    "description": "Vòng cổ chống ve rận hoặc thuốc nhỏ gáy. Bảo vệ dài ngày. Chống nước. An toàn khi dùng đúng hướng dẫn. Phù hợp chó mèo.",
+    "brand": "Local",
+    "sku": "LOC-1089-HỘP",
+    "originalPrice": 658000,
+    "discountPercent": 12,
+    "unit": "hộp/chiếc",
+    "shortDescription": "Vòng cổ hoặc thuốc nhỏ gáy chống ve rận hiệu quả dài.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1089-a/800/800",
+      "https://picsum.photos/seed/prod-1089-b/800/800",
+      "https://picsum.photos/seed/prod-1089-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Vòng cổ / Nhỏ gáy",
+      "Hiệu quả": "1-8 tháng",
+      "Đối tượng": "Chó / Mèo",
+      "Chống nước": "Có"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 771
+    },
+    "stock": 318,
+    "soldCount": 2482,
+    "weight": 58,
+    "dimensions": {
+      "length": 13.5,
+      "width": 4.8,
+      "height": 2.0
+    },
+    "origin": "Pháp / Mỹ / Đức",
+    "warranty": "Theo HSD",
+    "tags": [
+      "chống ve rận",
+      "thuốc",
+      "chó mèo",
+      "local"
+    ],
+    "createdAt": "2026-09-17T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1090",
+    "name": "Bát ăn / Phụ kiện chó Pet Bowl",
+    "slug": "bat-an-phu-kien-cho-pet-bowl-1090",
+    "price": 109000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1090/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1090/800/800",
+    "description": "Bát ăn uống đôi hoặc đơn. Inox 304 hoặc nhựa an toàn. Đế chống trượt. Dễ vệ sinh. Size phù hợp nhiều giống.",
+    "brand": "Catit",
+    "sku": "CAT-1090-BỘ",
+    "originalPrice": 120000,
+    "discountPercent": 9,
+    "unit": "bộ",
+    "shortDescription": "Bát ăn uống inox hoặc nhựa đế chống trượt.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1090-a/800/800",
+      "https://picsum.photos/seed/prod-1090-b/800/800",
+      "https://picsum.photos/seed/prod-1090-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bát đôi / Đơn",
+      "Chất liệu": "Inox / Nhựa",
+      "Đế": "Chống trượt",
+      "Size": "S-M-L"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 825
+    },
+    "stock": 86,
+    "soldCount": 2696,
+    "weight": 182,
+    "dimensions": {
+      "length": 26.3,
+      "width": 15.9,
+      "height": 6.5
+    },
+    "origin": "Trung Quốc / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bát ăn",
+      "phụ kiện",
+      "chó mèo",
+      "catit"
+    ],
+    "createdAt": "2026-05-02T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1091",
+    "name": "Thức ăn hạt chó Me-O Plus",
+    "slug": "thuc-an-hat-cho-me-o-plus-1091",
+    "price": 302000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1091/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1091/800/800",
+    "description": "Thức ăn hạt khô công thức cân bằng dinh dưỡng. Hỗ trợ tiêu hóa da lông và sức khỏe tổng thể. Nhiều size hạt phù hợp. Bao nhiều trọng lượng.",
+    "brand": "Royal Canin",
+    "sku": "ROY-1091-BAO",
+    "originalPrice": 376000,
+    "discountPercent": 20,
+    "unit": "bao",
+    "shortDescription": "Thức ăn hạt khô dinh dưỡng cho chó mèo mọi lứa tuổi.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1091-a/800/800",
+      "https://picsum.photos/seed/prod-1091-b/800/800",
+      "https://picsum.photos/seed/prod-1091-c/800/800"
+    ],
+    "specifications": {
+      "Đối tượng": "Chó / Mèo",
+      "Lứa tuổi": "Con / Trưởng thành / Già",
+      "Trọng lượng": "400g-5kg",
+      "Dạng": "Hạt khô"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 708
+    },
+    "stock": 82,
+    "soldCount": 893,
+    "weight": 2662,
+    "dimensions": {
+      "length": 23.2,
+      "width": 14.7,
+      "height": 10.5
+    },
+    "origin": "Pháp / Thái Lan / Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "thức ăn",
+      "chó mèo",
+      "hạt khô",
+      "dinh dưỡng",
+      "royal-canin"
+    ],
+    "createdAt": "2026-05-08T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1092",
+    "name": "Cát vệ sinh mèo Catsan",
+    "slug": "cat-ve-sinh-meo-catsan-1092",
+    "price": 91800,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1092/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1092/800/800",
+    "description": "Cát vệ sinh vón cục nhanh thấm hút cao. Khử mùi hiệu quả. Có loại gỗ hoặc đất sét. Thân thiện môi trường tùy loại.",
+    "brand": "Me-O",
+    "sku": "ME--1092-BAO",
+    "originalPrice": 109000,
+    "discountPercent": 16,
+    "unit": "bao",
+    "shortDescription": "Cát vệ sinh mèo vón cục thấm hút khử mùi tốt.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1092-a/800/800",
+      "https://picsum.photos/seed/prod-1092-b/800/800",
+      "https://picsum.photos/seed/prod-1092-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Vón cục / Gỗ / Đất sét",
+      "Dung tích": "5-10L",
+      "Khử mùi": "Tốt",
+      "Xả được": "Tùy loại"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 696
+    },
+    "stock": 229,
+    "soldCount": 1273,
+    "weight": 7264,
+    "dimensions": {
+      "length": 38.5,
+      "width": 23.0,
+      "height": 15.4
+    },
+    "origin": "Đức / Thái Lan / Nhật Bản / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "cát mèo",
+      "vệ sinh",
+      "khử mùi",
+      "me-o"
+    ],
+    "createdAt": "2026-08-13T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1093",
+    "name": "Vòng cổ / Dây dắt mèo Flexi Plus",
+    "slug": "vong-co-day-dat-meo-flexi-plus-1093",
+    "price": 66500,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1093/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1093/800/800",
+    "description": "Vòng cổ và dây dắt chất liệu nylon hoặc da. Điều chỉnh chu vi. Khóa an toàn. Nhiều màu size. Phù hợp đi dạo hàng ngày.",
+    "brand": "Local",
+    "sku": "LOC-1093-BỘ",
+    "originalPrice": 76132,
+    "discountPercent": 13,
+    "unit": "bộ",
+    "shortDescription": "Vòng cổ dây dắt chắc chắn điều chỉnh được.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1093-a/800/800",
+      "https://picsum.photos/seed/prod-1093-b/800/800",
+      "https://picsum.photos/seed/prod-1093-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Vòng cổ + Dây dắt",
+      "Chất liệu": "Nylon / Da",
+      "Chiều dài dây": "1-5m",
+      "Size": "S-M-L"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 746
+    },
+    "stock": 254,
+    "soldCount": 3156,
+    "weight": 278,
+    "dimensions": {
+      "length": 28.5,
+      "width": 5.1,
+      "height": 4.9
+    },
+    "origin": "Trung Quốc / Việt Nam / Đức",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "vòng cổ",
+      "dây dắt",
+      "chó mèo",
+      "đi dạo",
+      "local"
+    ],
+    "createdAt": "2026-03-30T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1094",
+    "name": "Đồ chơi chó Petstages 2026",
+    "slug": "do-choi-cho-petstages-2026-1094",
+    "price": 225000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1094/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1094/800/800",
+    "description": "Đồ chơi bóng cần câu lông vũ hoặc nhét treat. Kích thích bản năng. Giúp vận động và giảm stress. Chất liệu bền an toàn.",
+    "brand": "Chuckit",
+    "sku": "CHU-1094-CHI",
+    "originalPrice": 252000,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Đồ chơi cho chó mèo kích thích vận động giảm stress.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1094-a/800/800",
+      "https://picsum.photos/seed/prod-1094-b/800/800",
+      "https://picsum.photos/seed/prod-1094-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bóng / Cần câu / Nhét treat",
+      "Chất liệu": "Cao su / Cói / Vải",
+      "Đối tượng": "Chó / Mèo"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 673
+    },
+    "stock": 58,
+    "soldCount": 3593,
+    "weight": 267,
+    "dimensions": {
+      "length": 15.5,
+      "width": 8.5,
+      "height": 8.7
+    },
+    "origin": "Mỹ / Trung Quốc / Thái Lan",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "đồ chơi",
+      "chó mèo",
+      "vận động",
+      "chuckit"
+    ],
+    "createdAt": "2026-07-31T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1095",
+    "name": "Sữa tắm mèo Bio-Derm",
+    "slug": "sua-tam-meo-bio-derm-1095",
+    "price": 141000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1095/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1095/800/800",
+    "description": "Sữa tắm chuyên dụng cho chó mèo. Làm sạch khử mùi. Dưỡng lông mềm mượt. pH cân bằng không khô da. Hương dịu.",
+    "brand": "Local",
+    "sku": "LOC-1095-CHA",
+    "originalPrice": 162000,
+    "discountPercent": 13,
+    "unit": "chai",
+    "shortDescription": "Sữa tắm chó mèo khử mùi dưỡng lông pH cân bằng.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1095-a/800/800",
+      "https://picsum.photos/seed/prod-1095-b/800/800",
+      "https://picsum.photos/seed/prod-1095-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "200-500ml",
+      "Đối tượng": "Chó / Mèo / Lông trắng",
+      "Công dụng": "Làm sạch khử mùi dưỡng lông",
+      "pH": "Cân bằng"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 268
+    },
+    "stock": 304,
+    "soldCount": 2077,
+    "weight": 328,
+    "dimensions": {
+      "length": 7.7,
+      "width": 6.4,
+      "height": 16.6
+    },
+    "origin": "Thái Lan / Mỹ / Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "sữa tắm",
+      "chó mèo",
+      "chăm sóc",
+      "local"
+    ],
+    "createdAt": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1096",
+    "name": "Lồng / Nhà vệ sinh mèo Petkit",
+    "slug": "long-nha-ve-sinh-meo-petkit-1096",
+    "price": 1170000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1096/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1096/800/800",
+    "description": "Lồng vận chuyển thông khí khóa an toàn hoặc nhà vệ sinh có nắp. Dễ vệ sinh. Size phù hợp nhiều giống.",
+    "brand": "Pet Cargo",
+    "sku": "PET-1096-CHI",
+    "originalPrice": 1380000,
+    "discountPercent": 15,
+    "unit": "chiếc",
+    "shortDescription": "Lồng vận chuyển hoặc nhà vệ sinh tiện dụng an toàn.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1096-a/800/800",
+      "https://picsum.photos/seed/prod-1096-b/800/800",
+      "https://picsum.photos/seed/prod-1096-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Lồng vận chuyển / Nhà vệ sinh",
+      "Size": "S-M-L",
+      "Chất liệu": "Nhựa",
+      "Tính năng": "Thông khí / Có nắp"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 63
+    },
+    "stock": 313,
+    "soldCount": 491,
+    "weight": 4430,
+    "dimensions": {
+      "length": 50.7,
+      "width": 35.7,
+      "height": 37.6
+    },
+    "origin": "Trung Quốc / Nhật Bản / Việt Nam",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "lồng",
+      "nhà vệ sinh",
+      "chó mèo",
+      "pet-cargo"
+    ],
+    "createdAt": "2026-06-15T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1097",
+    "name": "Thức ăn ướt / Pate chó Whiskas limited",
+    "slug": "thuc-an-uot-pate-cho-whiskas-limited-1097",
+    "price": 91000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1097/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1097/800/800",
+    "description": "Thức ăn ướt hoặc pate mềm dễ ăn. Nhiều hương vị. Bổ sung dưỡng chất. Có thể trộn hạt hoặc cho ăn riêng. Vỉ tiện dụng.",
+    "brand": "Royal Canin",
+    "sku": "ROY-1097-VỈ/",
+    "originalPrice": 109000,
+    "discountPercent": 17,
+    "unit": "vỉ/hộp",
+    "shortDescription": "Pate thức ăn ướt thơm ngon bổ sung dưỡng chất.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1097-a/800/800",
+      "https://picsum.photos/seed/prod-1097-b/800/800",
+      "https://picsum.photos/seed/prod-1097-c/800/800"
+    ],
+    "specifications": {
+      "Đối tượng": "Chó / Mèo",
+      "Dạng": "Pate / Xốt",
+      "Trọng lượng": "70-100g/hộp",
+      "Quy cách": "Vỉ 6-12"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 827
+    },
+    "stock": 230,
+    "soldCount": 3540,
+    "weight": 1018,
+    "dimensions": {
+      "length": 14.8,
+      "width": 9.8,
+      "height": 8.4
+    },
+    "origin": "Thái Lan / Pháp / Nhật Bản",
+    "warranty": "Theo HSD",
+    "tags": [
+      "pate",
+      "thức ăn ướt",
+      "chó mèo",
+      "royal-canin"
+    ],
+    "createdAt": "2026-05-12T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1098",
+    "name": "Bàn cào móng / Trụ cào Cat Tree",
+    "slug": "ban-cao-mong-tru-cao-cat-tree-1098",
+    "price": 791000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1098/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1098/800/800",
+    "description": "Bàn cào móng hoặc trụ cào cói. Giúp mèo mài móng tự nhiên. Bảo vệ đồ đạc. Đế chắc. Nhiều kích thước hình dáng.",
+    "brand": "Catit",
+    "sku": "CAT-1098-CHI",
+    "originalPrice": 976000,
+    "discountPercent": 19,
+    "unit": "chiếc",
+    "shortDescription": "Bàn cào móng hoặc trụ cào bảo vệ nội thất.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1098-a/800/800",
+      "https://picsum.photos/seed/prod-1098-b/800/800",
+      "https://picsum.photos/seed/prod-1098-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bàn / Trụ / Cây",
+      "Chất liệu": "Cói / Gỗ",
+      "Đế": "Chắc",
+      "Kích thước": "Đa dạng"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 442
+    },
+    "stock": 19,
+    "soldCount": 3036,
+    "weight": 2269,
+    "dimensions": {
+      "length": 40.5,
+      "width": 18.1,
+      "height": 43.6
+    },
+    "origin": "Trung Quốc / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bàn cào móng",
+      "mèo",
+      "bảo vệ nội thất",
+      "catit"
+    ],
+    "createdAt": "2026-05-11T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1099",
+    "name": "Vòng chống ve rận / Thuốc Bravecto Plus",
+    "slug": "vong-chong-ve-ran-thuoc-bravecto-plus-1099",
+    "price": 350000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1099/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1099/800/800",
+    "description": "Vòng cổ chống ve rận hoặc thuốc nhỏ gáy. Bảo vệ dài ngày. Chống nước. An toàn khi dùng đúng hướng dẫn. Phù hợp chó mèo.",
+    "brand": "Bravecto",
+    "sku": "BRA-1099-HỘP",
+    "originalPrice": 394000,
+    "discountPercent": 11,
+    "unit": "hộp/chiếc",
+    "shortDescription": "Vòng cổ hoặc thuốc nhỏ gáy chống ve rận hiệu quả dài.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1099-a/800/800",
+      "https://picsum.photos/seed/prod-1099-b/800/800",
+      "https://picsum.photos/seed/prod-1099-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Vòng cổ / Nhỏ gáy",
+      "Hiệu quả": "1-8 tháng",
+      "Đối tượng": "Chó / Mèo",
+      "Chống nước": "Có"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 184
+    },
+    "stock": 112,
+    "soldCount": 2337,
+    "weight": 26,
+    "dimensions": {
+      "length": 14.5,
+      "width": 5.2,
+      "height": 2.1
+    },
+    "origin": "Pháp / Mỹ / Đức",
+    "warranty": "Theo HSD",
+    "tags": [
+      "chống ve rận",
+      "thuốc",
+      "chó mèo",
+      "bravecto"
+    ],
+    "createdAt": "2026-07-31T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1100",
+    "name": "Bát ăn / Phụ kiện mèo Petkit",
+    "slug": "bat-an-phu-kien-meo-petkit-1100",
+    "price": 125000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://picsum.photos/seed/prod-1100/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-1100/800/800",
+    "description": "Bát ăn uống đôi hoặc đơn. Inox 304 hoặc nhựa an toàn. Đế chống trượt. Dễ vệ sinh. Size phù hợp nhiều giống.",
+    "brand": "Petkit",
+    "sku": "PET-1100-BỘ",
+    "originalPrice": 153000,
+    "discountPercent": 18,
+    "unit": "bộ",
+    "shortDescription": "Bát ăn uống inox hoặc nhựa đế chống trượt.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-1100-a/800/800",
+      "https://picsum.photos/seed/prod-1100-b/800/800",
+      "https://picsum.photos/seed/prod-1100-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bát đôi / Đơn",
+      "Chất liệu": "Inox / Nhựa",
+      "Đế": "Chống trượt",
+      "Size": "S-M-L"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 253
+    },
+    "stock": 167,
+    "soldCount": 3444,
+    "weight": 145,
+    "dimensions": {
+      "length": 24.2,
+      "width": 15.3,
+      "height": 6.3
+    },
+    "origin": "Trung Quốc / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bát ăn",
+      "phụ kiện",
+      "chó mèo",
+      "petkit"
+    ],
+    "createdAt": "2026-04-03T00:00:00.000Z"
   }
 ]

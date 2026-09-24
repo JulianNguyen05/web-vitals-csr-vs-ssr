@@ -1,51 +1,4792 @@
 [
   {
-    "id": "prod-701",
-    "slug": "do-choi-xep-hinh-go-kidblocks-701",
-    "name": "Bộ Đồ Chơi Xếp Hình Gỗ An Toàn KidBlocks 50 Chi Tiết",
-    "categoryId": "cat-7",
-    "brand": "KidBlocks",
-    "sku": "KB-WOOD-50PC",
-    "price": 259000,
-    "originalPrice": 329000,
-    "discountPercent": 21,
-    "unit": "bộ",
-    "shortDescription": "Bộ xếp hình gỗ tự nhiên 50 chi tiết nhiều màu sắc, cạnh bo tròn an toàn, giúp bé phát triển tư duy không gian.",
-    "description": "Bộ đồ chơi xếp hình KidBlocks gồm 50 khối gỗ tự nhiên với nhiều hình dạng và màu sắc khác nhau, giúp bé rèn luyện khả năng nhận biết hình khối, màu sắc và phát triển tư duy không gian, sự khéo léo của đôi tay ngay từ nhỏ. Tất cả các khối gỗ đều được mài nhẵn, bo tròn cạnh, sơn bằng màu gốc nước an toàn không chứa chì, không mùi hắc, đảm bảo an toàn khi bé ngậm hoặc cầm nắm. Sản phẩm đi kèm hộp đựng gỗ tiện lợi, giúp bé rèn thói quen tự dọn dẹp đồ chơi sau khi chơi xong.",
-    "thumbUrl": "https://picsum.photos/seed/prod-701/400/400",
-    "detailUrl": "https://picsum.photos/seed/prod-701/800/800",
+    "id": "prod-301",
+    "name": "Tã quần Bobby size XL limited",
+    "slug": "ta-quan-bobby-size-xl-limited-301",
+    "price": 265000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-301/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-301/800/800",
+    "description": "Tã quần thấm hút vượt trội chống tràn hiệu quả. Lớp bề mặt mềm mại không kích ứng. Co giãn 4 chiều dễ mặc. Thoáng khí giữ da bé khô.",
+    "brand": "Molfix",
+    "sku": "MOL-0301-BỊC",
+    "originalPrice": 294000,
+    "discountPercent": 10,
+    "unit": "bịch",
+    "shortDescription": "Tã quần siêu thấm chống tràn thoáng khí cho bé.",
     "gallery": [
-      "https://picsum.photos/seed/prod-701-a/800/800",
-      "https://picsum.photos/seed/prod-701-b/800/800",
-      "https://picsum.photos/seed/prod-701-c/800/800"
+      "https://picsum.photos/seed/prod-301-a/800/800",
+      "https://picsum.photos/seed/prod-301-b/800/800",
+      "https://picsum.photos/seed/prod-301-c/800/800"
     ],
     "specifications": {
-      "Số lượng chi tiết": "50 khối",
-      "Chất liệu": "Gỗ tự nhiên, sơn màu gốc nước",
-      "Độ tuổi phù hợp": "Từ 3 tuổi trở lên",
-      "Kích thước hộp đựng": "25 x 20 x 8 cm",
-      "Chứng nhận an toàn": "Không chì, đạt tiêu chuẩn an toàn đồ chơi trẻ em",
-      "Xuất xứ": "Việt Nam"
+      "Size": "M-XXL",
+      "Công nghệ": "Siêu thấm chống tràn",
+      "Đặc điểm": "Thoáng khí mềm mại"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 606
+    },
+    "stock": 63,
+    "soldCount": 1147,
+    "weight": 1268,
+    "dimensions": {
+      "length": 35.5,
+      "width": 26.4,
+      "height": 18.0
+    },
+    "origin": "Việt Nam / Nhật Bản / Thái Lan",
+    "warranty": "Đổi trả nếu lỗi NSX",
+    "tags": [
+      "tã quần",
+      "mẹ và bé",
+      "siêu thấm",
+      "molfix"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-302",
+    "name": "Sữa bột Grow số 2",
+    "slug": "sua-bot-grow-so-2-302",
+    "price": 666000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-302/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-302/800/800",
+    "description": "Sữa bột công thức gần sữa mẹ. Bổ sung DHA và dưỡng chất hỗ trợ phát triển trí não và thể chất. Dễ tiêu hóa. Hương vị dễ uống.",
+    "brand": "Enfamil",
+    "sku": "ENF-0302-HỘP",
+    "originalPrice": 769000,
+    "discountPercent": 13,
+    "unit": "hộp",
+    "shortDescription": "Sữa bột dinh dưỡng cho trẻ nhỏ bổ sung DHA.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-302-a/800/800",
+      "https://picsum.photos/seed/prod-302-b/800/800",
+      "https://picsum.photos/seed/prod-302-c/800/800"
+    ],
+    "specifications": {
+      "Độ tuổi": "0-6 / 6-12 / 1-3 tuổi",
+      "Thành phần": "DHA Prebiotic",
+      "Dạng": "Bột"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 324
+    },
+    "stock": 21,
+    "soldCount": 1892,
+    "weight": 511,
+    "dimensions": {
+      "length": 15.4,
+      "width": 12.9,
+      "height": 19.2
+    },
+    "origin": "Hà Lan / Mỹ / Singapore",
+    "warranty": "Theo HSD",
+    "tags": [
+      "sữa bột",
+      "trẻ em",
+      "dha",
+      "dinh dưỡng",
+      "enfamil"
+    ],
+    "createdAt": "2026-03-23T00:00:00.000Z"
+  },
+  {
+    "id": "prod-303",
+    "name": "Bình sữa Chicco 120ml",
+    "slug": "binh-sua-chicco-120ml-303",
+    "price": 273000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-303/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-303/800/800",
+    "description": "Bình sữa chất liệu PPSU hoặc thủy tinh an toàn không BPA. Núm ti silicone mềm chống sặc. Thang đo rõ. Dễ vệ sinh.",
+    "brand": "Pigeon",
+    "sku": "PIG-0303-CHI",
+    "originalPrice": 305000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Bình sữa chống sặc chất liệu an toàn núm ti mềm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-303-a/800/800",
+      "https://picsum.photos/seed/prod-303-b/800/800",
+      "https://picsum.photos/seed/prod-303-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "120-300ml",
+      "Chất liệu": "PPSU / Thủy tinh",
+      "Núm ti": "Silicone chống sặc",
+      "Không BPA": "Có"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 189
+    },
+    "stock": 320,
+    "soldCount": 620,
+    "weight": 174,
+    "dimensions": {
+      "length": 7.1,
+      "width": 6.8,
+      "height": 16.7
+    },
+    "origin": "Nhật Bản / Hà Lan / Mỹ",
+    "warranty": "12 tháng",
+    "tags": [
+      "bình sữa",
+      "chống sặc",
+      "mẹ và bé",
+      "pigeon"
+    ],
+    "createdAt": "2026-08-03T00:00:00.000Z"
+  },
+  {
+    "id": "prod-304",
+    "name": "Xe đẩy em bé Combi",
+    "slug": "xe-day-em-be-combi-304",
+    "price": 12550000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-304/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-304/800/800",
+    "description": "Xe đẩy thiết kế 2 chiều hoặc gấp gọn một chạm. Mái che chống UV. Đệm êm bánh giảm xóc. Phanh an toàn. Từ sơ sinh đến 3-4 tuổi.",
+    "brand": "Aprica",
+    "sku": "APR-0304-CHI",
+    "originalPrice": 14300000,
+    "discountPercent": 12,
+    "unit": "chiếc",
+    "shortDescription": "Xe đẩy 2 chiều gấp gọn chống UV tải trọng cao.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-304-a/800/800",
+      "https://picsum.photos/seed/prod-304-b/800/800",
+      "https://picsum.photos/seed/prod-304-c/800/800"
+    ],
+    "specifications": {
+      "Hướng": "1-2 chiều",
+      "Gấp": "Một chạm / Gọn",
+      "Tải trọng": "15-22kg",
+      "Chống UV": "UPF50+"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 606
+    },
+    "stock": 141,
+    "soldCount": 3951,
+    "weight": 8302,
+    "dimensions": {
+      "length": 91.7,
+      "width": 51.4,
+      "height": 32.9
+    },
+    "origin": "Nhật Bản / Đức / Trung Quốc",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "xe đẩy",
+      "em bé",
+      "gấp gọn",
+      "aprica"
+    ],
+    "createdAt": "2026-08-22T00:00:00.000Z"
+  },
+  {
+    "id": "prod-305",
+    "name": "Đồ chơi xếp hình Chicco",
+    "slug": "do-choi-xep-hinh-chicco-305",
+    "price": 383000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-305/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-305/800/800",
+    "description": "Bộ xếp hình chất liệu an toàn. Nhiều chi tiết kích thích sáng tạo và tư duy logic. Phù hợp nhiều độ tuổi. Màu sắc tươi sáng.",
+    "brand": "Winwintoys",
+    "sku": "WIN-0305-HỘP",
+    "originalPrice": 476000,
+    "discountPercent": 20,
+    "unit": "hộp",
+    "shortDescription": "Đồ chơi xếp hình phát triển tư duy vận động tinh.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-305-a/800/800",
+      "https://picsum.photos/seed/prod-305-b/800/800",
+      "https://picsum.photos/seed/prod-305-c/800/800"
+    ],
+    "specifications": {
+      "Số chi tiết": "20-200",
+      "Chất liệu": "Gỗ / Nhựa ABS",
+      "Độ tuổi": "1-6 tuổi",
+      "Phát triển": "Tư duy vận động"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 155
+    },
+    "stock": 132,
+    "soldCount": 649,
+    "weight": 1142,
+    "dimensions": {
+      "length": 27.1,
+      "width": 22.0,
+      "height": 8.6
+    },
+    "origin": "Việt Nam / Đan Mạch / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "đồ chơi",
+      "xếp hình",
+      "phát triển tư duy",
+      "winwintoys"
+    ],
+    "createdAt": "2026-07-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-306",
+    "name": "Máy hút sữa Avent",
+    "slug": "may-hut-sua-avent-306",
+    "price": 5600000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-306/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-306/800/800",
+    "description": "Máy hút sữa điện mô phỏng nhịp bú tự nhiên. Hút êm hiệu quả. Có thể sạc pin. Dễ tháo lắp vệ sinh. Phù hợp mẹ bận rộn.",
+    "brand": "Cimilre",
+    "sku": "CIM-0306-CHI",
+    "originalPrice": 6180000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Máy hút sữa điện đôi êm ái hiệu quả cao.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-306-a/800/800",
+      "https://picsum.photos/seed/prod-306-b/800/800",
+      "https://picsum.photos/seed/prod-306-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Điện đơn / đôi",
+      "Công nghệ": "Mô phỏng nhịp bú",
+      "Pin": "Sạc được",
+      "Âm thanh": "Êm"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 807
+    },
+    "stock": 52,
+    "soldCount": 1700,
+    "weight": 1447,
+    "dimensions": {
+      "length": 21.0,
+      "width": 14.7,
+      "height": 11.9
+    },
+    "origin": "Thụy Sĩ / Hàn Quốc / Hà Lan",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "máy hút sữa",
+      "mẹ và bé",
+      "điện",
+      "cimilre"
+    ],
+    "createdAt": "2026-05-26T00:00:00.000Z"
+  },
+  {
+    "id": "prod-307",
+    "name": "Ghế ngồi ô tô Britax",
+    "slug": "ghe-ngoi-o-to-britax-307",
+    "price": 6300000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-307/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-307/800/800",
+    "description": "Ghế ô tô đạt chuẩn an toàn châu Âu. Hỗ trợ nhiều nhóm tuổi. Chống va chạm bên. Lắp Isofix hoặc dây an toàn. Đệm êm dễ vệ sinh.",
+    "brand": "Britax",
+    "sku": "BRI-0307-CHI",
+    "originalPrice": 7820000,
+    "discountPercent": 19,
+    "unit": "chiếc",
+    "shortDescription": "Ghế ô tô an toàn chuẩn châu Âu chống va chạm bên.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-307-a/800/800",
+      "https://picsum.photos/seed/prod-307-b/800/800",
+      "https://picsum.photos/seed/prod-307-c/800/800"
+    ],
+    "specifications": {
+      "Nhóm": "0+/1/2/3",
+      "Chuẩn": "ECE R44/04 hoặc i-Size",
+      "Lắp đặt": "Isofix / Dây",
+      "Chống va chạm bên": "Có"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 489
+    },
+    "stock": 330,
+    "soldCount": 2770,
+    "weight": 9681,
+    "dimensions": {
+      "length": 55.9,
+      "width": 53.7,
+      "height": 69.5
+    },
+    "origin": "Đức / Trung Quốc / Ý",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "ghế ô tô",
+      "an toàn",
+      "em bé",
+      "britax"
+    ],
+    "createdAt": "2026-07-12T00:00:00.000Z"
+  },
+  {
+    "id": "prod-308",
+    "name": "Khăn ướt em bé Merries",
+    "slug": "khan-uot-em-be-merries-308",
+    "price": 61100,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-308/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-308/800/800",
+    "description": "Khăn ướt công thức dịu nhẹ không cồn không hương liệu. Nắp đậy kín giữ ẩm. Thấm hút tốt. An toàn cho da nhạy cảm của bé.",
+    "brand": "Mamamy",
+    "sku": "MAM-0308-BỊC",
+    "originalPrice": 68250,
+    "discountPercent": 10,
+    "unit": "bịch",
+    "shortDescription": "Khăn ướt dịu nhẹ không mùi không cồn cho da nhạy cảm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-308-a/800/800",
+      "https://picsum.photos/seed/prod-308-b/800/800",
+      "https://picsum.photos/seed/prod-308-c/800/800"
+    ],
+    "specifications": {
+      "Số tờ": "80-100",
+      "Mùi": "Không / Dịu",
+      "Công thức": "Không cồn",
+      "Phù hợp": "Da nhạy cảm"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 580
+    },
+    "stock": 300,
+    "soldCount": 584,
+    "weight": 409,
+    "dimensions": {
+      "length": 19.2,
+      "width": 10.0,
+      "height": 4.8
+    },
+    "origin": "Việt Nam / Nhật Bản / Thái Lan",
+    "warranty": "Theo HSD",
+    "tags": [
+      "khăn ướt",
+      "em bé",
+      "dịu nhẹ",
+      "mamamy"
+    ],
+    "createdAt": "2026-06-08T00:00:00.000Z"
+  },
+  {
+    "id": "prod-309",
+    "name": "Nôi điện / Võng tự động Fisher-Price",
+    "slug": "noi-dien-vong-tu-dong-fisher-price-309",
+    "price": 1880000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-309/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-309/800/800",
+    "description": "Nôi điện hoặc võng tự động nhiều chế độ đưa. Tích hợp nhạc trắng đèn ngủ. Điều khiển từ xa. Lưới thoáng khí. Tải trọng phù hợp bé.",
+    "brand": "Mastela",
+    "sku": "MAS-0309-CHI",
+    "originalPrice": 2060000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Nôi điện nhiều chế độ đưa nhạc trắng điều khiển từ xa.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-309-a/800/800",
+      "https://picsum.photos/seed/prod-309-b/800/800",
+      "https://picsum.photos/seed/prod-309-c/800/800"
+    ],
+    "specifications": {
+      "Chế độ đưa": "3-5",
+      "Nhạc": "Nhạc trắng",
+      "Điều khiển": "Remote",
+      "Tải trọng": "12-15kg"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 458
+    },
+    "stock": 108,
+    "soldCount": 2870,
+    "weight": 8764,
+    "dimensions": {
+      "length": 76.8,
+      "width": 59.7,
+      "height": 60.6
+    },
+    "origin": "Trung Quốc / Ý / Mỹ",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "nôi điện",
+      "võng tự động",
+      "em bé",
+      "mastela"
+    ],
+    "createdAt": "2026-09-04T00:00:00.000Z"
+  },
+  {
+    "id": "prod-310",
+    "name": "Yếm ăn / Đồ dùng ăn dặm Avent",
+    "slug": "yem-an-do-dung-an-dam-avent-310",
+    "price": 172000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-310/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-310/800/800",
+    "description": "Yếm silicone có máng hứng hoặc bộ thìa bát ăn dặm. Chất liệu an toàn không BPA. Dễ vệ sinh máy rửa bát được. Thiết kế dễ thương.",
+    "brand": "Chicco",
+    "sku": "CHI-0310-BỘ",
+    "originalPrice": 211000,
+    "discountPercent": 18,
+    "unit": "bộ",
+    "shortDescription": "Yếm silicone / bộ đồ dùng ăn dặm an toàn dễ vệ sinh.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-310-a/800/800",
+      "https://picsum.photos/seed/prod-310-b/800/800",
+      "https://picsum.photos/seed/prod-310-c/800/800"
+    ],
+    "specifications": {
+      "Chất liệu": "Silicone / Nhựa an toàn",
+      "Không BPA": "Có",
+      "Vệ sinh": "Máy rửa bát",
+      "Độ tuổi": "6 tháng+"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 684
+    },
+    "stock": 89,
+    "soldCount": 262,
+    "weight": 274,
+    "dimensions": {
+      "length": 19.1,
+      "width": 15.5,
+      "height": 4.8
+    },
+    "origin": "Thái Lan / Hà Lan / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "yếm ăn",
+      "ăn dặm",
+      "mẹ và bé",
+      "chicco"
+    ],
+    "createdAt": "2026-04-26T00:00:00.000Z"
+  },
+  {
+    "id": "prod-311",
+    "name": "Tã quần Merries size L",
+    "slug": "ta-quan-merries-size-l-311",
+    "price": 373000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-311/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-311/800/800",
+    "description": "Tã quần thấm hút vượt trội chống tràn hiệu quả. Lớp bề mặt mềm mại không kích ứng. Co giãn 4 chiều dễ mặc. Thoáng khí giữ da bé khô.",
+    "brand": "Huggies",
+    "sku": "HUG-0311-BỊC",
+    "originalPrice": 409000,
+    "discountPercent": 9,
+    "unit": "bịch",
+    "shortDescription": "Tã quần siêu thấm chống tràn thoáng khí cho bé.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-311-a/800/800",
+      "https://picsum.photos/seed/prod-311-b/800/800",
+      "https://picsum.photos/seed/prod-311-c/800/800"
+    ],
+    "specifications": {
+      "Size": "M-XXL",
+      "Công nghệ": "Siêu thấm chống tràn",
+      "Đặc điểm": "Thoáng khí mềm mại"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 29
+    },
+    "stock": 9,
+    "soldCount": 2899,
+    "weight": 1018,
+    "dimensions": {
+      "length": 34.8,
+      "width": 23.2,
+      "height": 17.0
+    },
+    "origin": "Việt Nam / Nhật Bản / Thái Lan",
+    "warranty": "Đổi trả nếu lỗi NSX",
+    "tags": [
+      "tã quần",
+      "mẹ và bé",
+      "siêu thấm",
+      "huggies"
+    ],
+    "createdAt": "2026-04-12T00:00:00.000Z"
+  },
+  {
+    "id": "prod-312",
+    "name": "Sữa bột Enfamil số 2",
+    "slug": "sua-bot-enfamil-so-2-312",
+    "price": 326000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-312/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-312/800/800",
+    "description": "Sữa bột công thức gần sữa mẹ. Bổ sung DHA và dưỡng chất hỗ trợ phát triển trí não và thể chất. Dễ tiêu hóa. Hương vị dễ uống.",
+    "brand": "Nan",
+    "sku": "NAN-0312-HỘP",
+    "originalPrice": 365000,
+    "discountPercent": 11,
+    "unit": "hộp",
+    "shortDescription": "Sữa bột dinh dưỡng cho trẻ nhỏ bổ sung DHA.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-312-a/800/800",
+      "https://picsum.photos/seed/prod-312-b/800/800",
+      "https://picsum.photos/seed/prod-312-c/800/800"
+    ],
+    "specifications": {
+      "Độ tuổi": "0-6 / 6-12 / 1-3 tuổi",
+      "Thành phần": "DHA Prebiotic",
+      "Dạng": "Bột"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 160
+    },
+    "stock": 200,
+    "soldCount": 3218,
+    "weight": 445,
+    "dimensions": {
+      "length": 14.6,
+      "width": 12.9,
+      "height": 17.3
+    },
+    "origin": "Hà Lan / Mỹ / Singapore",
+    "warranty": "Theo HSD",
+    "tags": [
+      "sữa bột",
+      "trẻ em",
+      "dha",
+      "dinh dưỡng",
+      "nan"
+    ],
+    "createdAt": "2026-08-11T00:00:00.000Z"
+  },
+  {
+    "id": "prod-313",
+    "name": "Bình sữa Avent 150ml 2026",
+    "slug": "binh-sua-avent-150ml-2026-313",
+    "price": 469000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-313/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-313/800/800",
+    "description": "Bình sữa chất liệu PPSU hoặc thủy tinh an toàn không BPA. Núm ti silicone mềm chống sặc. Thang đo rõ. Dễ vệ sinh.",
+    "brand": "Pigeon",
+    "sku": "PIG-0313-CHI",
+    "originalPrice": 558000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Bình sữa chống sặc chất liệu an toàn núm ti mềm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-313-a/800/800",
+      "https://picsum.photos/seed/prod-313-b/800/800",
+      "https://picsum.photos/seed/prod-313-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "120-300ml",
+      "Chất liệu": "PPSU / Thủy tinh",
+      "Núm ti": "Silicone chống sặc",
+      "Không BPA": "Có"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 650
+    },
+    "stock": 231,
+    "soldCount": 3572,
+    "weight": 136,
+    "dimensions": {
+      "length": 6.8,
+      "width": 6.6,
+      "height": 16.8
+    },
+    "origin": "Nhật Bản / Hà Lan / Mỹ",
+    "warranty": "12 tháng",
+    "tags": [
+      "bình sữa",
+      "chống sặc",
+      "mẹ và bé",
+      "pigeon"
+    ],
+    "createdAt": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "prod-314",
+    "name": "Xe đẩy em bé Aprica",
+    "slug": "xe-day-em-be-aprica-314",
+    "price": 5060000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-314/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-314/800/800",
+    "description": "Xe đẩy thiết kế 2 chiều hoặc gấp gọn một chạm. Mái che chống UV. Đệm êm bánh giảm xóc. Phanh an toàn. Từ sơ sinh đến 3-4 tuổi.",
+    "brand": "Combi",
+    "sku": "COM-0314-CHI",
+    "originalPrice": 5970000,
+    "discountPercent": 15,
+    "unit": "chiếc",
+    "shortDescription": "Xe đẩy 2 chiều gấp gọn chống UV tải trọng cao.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-314-a/800/800",
+      "https://picsum.photos/seed/prod-314-b/800/800",
+      "https://picsum.photos/seed/prod-314-c/800/800"
+    ],
+    "specifications": {
+      "Hướng": "1-2 chiều",
+      "Gấp": "Một chạm / Gọn",
+      "Tải trọng": "15-22kg",
+      "Chống UV": "UPF50+"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 680
+    },
+    "stock": 48,
+    "soldCount": 1066,
+    "weight": 9145,
+    "dimensions": {
+      "length": 87.3,
+      "width": 54.2,
+      "height": 31.7
+    },
+    "origin": "Nhật Bản / Đức / Trung Quốc",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "xe đẩy",
+      "em bé",
+      "gấp gọn",
+      "combi"
+    ],
+    "createdAt": "2026-06-05T00:00:00.000Z"
+  },
+  {
+    "id": "prod-315",
+    "name": "Đồ chơi xếp hình Chicco",
+    "slug": "do-choi-xep-hinh-chicco-315",
+    "price": 697000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-315/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-315/800/800",
+    "description": "Bộ xếp hình chất liệu an toàn. Nhiều chi tiết kích thích sáng tạo và tư duy logic. Phù hợp nhiều độ tuổi. Màu sắc tươi sáng.",
+    "brand": "Chicco",
+    "sku": "CHI-0315-HỘP",
+    "originalPrice": 845000,
+    "discountPercent": 18,
+    "unit": "hộp",
+    "shortDescription": "Đồ chơi xếp hình phát triển tư duy vận động tinh.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-315-a/800/800",
+      "https://picsum.photos/seed/prod-315-b/800/800",
+      "https://picsum.photos/seed/prod-315-c/800/800"
+    ],
+    "specifications": {
+      "Số chi tiết": "20-200",
+      "Chất liệu": "Gỗ / Nhựa ABS",
+      "Độ tuổi": "1-6 tuổi",
+      "Phát triển": "Tư duy vận động"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 541
+    },
+    "stock": 101,
+    "soldCount": 3113,
+    "weight": 354,
+    "dimensions": {
+      "length": 26.7,
+      "width": 20.6,
+      "height": 7.7
+    },
+    "origin": "Việt Nam / Đan Mạch / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "đồ chơi",
+      "xếp hình",
+      "phát triển tư duy",
+      "chicco"
+    ],
+    "createdAt": "2026-04-25T00:00:00.000Z"
+  },
+  {
+    "id": "prod-316",
+    "name": "Máy hút sữa Avent",
+    "slug": "may-hut-sua-avent-316",
+    "price": 5640000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-316/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-316/800/800",
+    "description": "Máy hút sữa điện mô phỏng nhịp bú tự nhiên. Hút êm hiệu quả. Có thể sạc pin. Dễ tháo lắp vệ sinh. Phù hợp mẹ bận rộn.",
+    "brand": "Spectra",
+    "sku": "SPE-0316-CHI",
+    "originalPrice": 6460000,
+    "discountPercent": 13,
+    "unit": "chiếc",
+    "shortDescription": "Máy hút sữa điện đôi êm ái hiệu quả cao.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-316-a/800/800",
+      "https://picsum.photos/seed/prod-316-b/800/800",
+      "https://picsum.photos/seed/prod-316-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Điện đơn / đôi",
+      "Công nghệ": "Mô phỏng nhịp bú",
+      "Pin": "Sạc được",
+      "Âm thanh": "Êm"
     },
     "rating": {
       "average": 4.9,
-      "count": 402
+      "count": 389
     },
-    "stock": 188,
-    "soldCount": 1970,
-    "weight": 850,
+    "stock": 167,
+    "soldCount": 590,
+    "weight": 1046,
     "dimensions": {
-      "length": 25,
-      "width": 20,
-      "height": 8
+      "length": 22.0,
+      "width": 15.3,
+      "height": 12.1
     },
-    "origin": "Việt Nam",
-    "warranty": "Đổi trả trong 15 ngày nếu lỗi sản xuất",
+    "origin": "Thụy Sĩ / Hàn Quốc / Hà Lan",
+    "warranty": "12 tháng chính hãng",
     "tags": [
-      "đồ chơi gỗ",
-      "đồ chơi giáo dục",
-      "trẻ em"
+      "máy hút sữa",
+      "mẹ và bé",
+      "điện",
+      "spectra"
+    ],
+    "createdAt": "2026-04-24T00:00:00.000Z"
+  },
+  {
+    "id": "prod-317",
+    "name": "Ghế ngồi ô tô Aprica",
+    "slug": "ghe-ngoi-o-to-aprica-317",
+    "price": 8220000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-317/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-317/800/800",
+    "description": "Ghế ô tô đạt chuẩn an toàn châu Âu. Hỗ trợ nhiều nhóm tuổi. Chống va chạm bên. Lắp Isofix hoặc dây an toàn. Đệm êm dễ vệ sinh.",
+    "brand": "Aprica",
+    "sku": "APR-0317-CHI",
+    "originalPrice": 9120000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Ghế ô tô an toàn chuẩn châu Âu chống va chạm bên.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-317-a/800/800",
+      "https://picsum.photos/seed/prod-317-b/800/800",
+      "https://picsum.photos/seed/prod-317-c/800/800"
+    ],
+    "specifications": {
+      "Nhóm": "0+/1/2/3",
+      "Chuẩn": "ECE R44/04 hoặc i-Size",
+      "Lắp đặt": "Isofix / Dây",
+      "Chống va chạm bên": "Có"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 288
+    },
+    "stock": 115,
+    "soldCount": 213,
+    "weight": 10858,
+    "dimensions": {
+      "length": 60.0,
+      "width": 52.7,
+      "height": 58.7
+    },
+    "origin": "Đức / Trung Quốc / Ý",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "ghế ô tô",
+      "an toàn",
+      "em bé",
+      "aprica"
+    ],
+    "createdAt": "2026-09-08T00:00:00.000Z"
+  },
+  {
+    "id": "prod-318",
+    "name": "Khăn ướt em bé Huggies",
+    "slug": "khan-uot-em-be-huggies-318",
+    "price": 68200,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-318/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-318/800/800",
+    "description": "Khăn ướt công thức dịu nhẹ không cồn không hương liệu. Nắp đậy kín giữ ẩm. Thấm hút tốt. An toàn cho da nhạy cảm của bé.",
+    "brand": "Pampers",
+    "sku": "PAM-0318-BỊC",
+    "originalPrice": 76977,
+    "discountPercent": 11,
+    "unit": "bịch",
+    "shortDescription": "Khăn ướt dịu nhẹ không mùi không cồn cho da nhạy cảm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-318-a/800/800",
+      "https://picsum.photos/seed/prod-318-b/800/800",
+      "https://picsum.photos/seed/prod-318-c/800/800"
+    ],
+    "specifications": {
+      "Số tờ": "80-100",
+      "Mùi": "Không / Dịu",
+      "Công thức": "Không cồn",
+      "Phù hợp": "Da nhạy cảm"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 569
+    },
+    "stock": 280,
+    "soldCount": 2573,
+    "weight": 482,
+    "dimensions": {
+      "length": 18.0,
+      "width": 9.8,
+      "height": 5.2
+    },
+    "origin": "Việt Nam / Nhật Bản / Thái Lan",
+    "warranty": "Theo HSD",
+    "tags": [
+      "khăn ướt",
+      "em bé",
+      "dịu nhẹ",
+      "pampers"
+    ],
+    "createdAt": "2026-02-23T00:00:00.000Z"
+  },
+  {
+    "id": "prod-319",
+    "name": "Nôi điện / Võng tự động Tiny Love cao cấp",
+    "slug": "noi-dien-vong-tu-dong-tiny-love-cao-cap-319",
+    "price": 3190000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-319/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-319/800/800",
+    "description": "Nôi điện hoặc võng tự động nhiều chế độ đưa. Tích hợp nhạc trắng đèn ngủ. Điều khiển từ xa. Lưới thoáng khí. Tải trọng phù hợp bé.",
+    "brand": "Aprica",
+    "sku": "APR-0319-CHI",
+    "originalPrice": 3970000,
+    "discountPercent": 20,
+    "unit": "chiếc",
+    "shortDescription": "Nôi điện nhiều chế độ đưa nhạc trắng điều khiển từ xa.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-319-a/800/800",
+      "https://picsum.photos/seed/prod-319-b/800/800",
+      "https://picsum.photos/seed/prod-319-c/800/800"
+    ],
+    "specifications": {
+      "Chế độ đưa": "3-5",
+      "Nhạc": "Nhạc trắng",
+      "Điều khiển": "Remote",
+      "Tải trọng": "12-15kg"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 717
+    },
+    "stock": 334,
+    "soldCount": 320,
+    "weight": 6272,
+    "dimensions": {
+      "length": 85.6,
+      "width": 53.8,
+      "height": 66.7
+    },
+    "origin": "Trung Quốc / Ý / Mỹ",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "nôi điện",
+      "võng tự động",
+      "em bé",
+      "aprica"
+    ],
+    "createdAt": "2026-04-04T00:00:00.000Z"
+  },
+  {
+    "id": "prod-320",
+    "name": "Yếm ăn / Đồ dùng ăn dặm Pigeon",
+    "slug": "yem-an-do-dung-an-dam-pigeon-320",
+    "price": 119000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-320/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-320/800/800",
+    "description": "Yếm silicone có máng hứng hoặc bộ thìa bát ăn dặm. Chất liệu an toàn không BPA. Dễ vệ sinh máy rửa bát được. Thiết kế dễ thương.",
+    "brand": "Avent",
+    "sku": "AVE-0320-BỘ",
+    "originalPrice": 133000,
+    "discountPercent": 11,
+    "unit": "bộ",
+    "shortDescription": "Yếm silicone / bộ đồ dùng ăn dặm an toàn dễ vệ sinh.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-320-a/800/800",
+      "https://picsum.photos/seed/prod-320-b/800/800",
+      "https://picsum.photos/seed/prod-320-c/800/800"
+    ],
+    "specifications": {
+      "Chất liệu": "Silicone / Nhựa an toàn",
+      "Không BPA": "Có",
+      "Vệ sinh": "Máy rửa bát",
+      "Độ tuổi": "6 tháng+"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 779
+    },
+    "stock": 341,
+    "soldCount": 3083,
+    "weight": 286,
+    "dimensions": {
+      "length": 19.7,
+      "width": 14.9,
+      "height": 5.1
+    },
+    "origin": "Thái Lan / Hà Lan / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "yếm ăn",
+      "ăn dặm",
+      "mẹ và bé",
+      "avent"
+    ],
+    "createdAt": "2026-02-28T00:00:00.000Z"
+  },
+  {
+    "id": "prod-321",
+    "name": "Tã quần Huggies size M",
+    "slug": "ta-quan-huggies-size-m-321",
+    "price": 232000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-321/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-321/800/800",
+    "description": "Tã quần thấm hút vượt trội chống tràn hiệu quả. Lớp bề mặt mềm mại không kích ứng. Co giãn 4 chiều dễ mặc. Thoáng khí giữ da bé khô.",
+    "brand": "Huggies",
+    "sku": "HUG-0321-BỊC",
+    "originalPrice": 270000,
+    "discountPercent": 14,
+    "unit": "bịch",
+    "shortDescription": "Tã quần siêu thấm chống tràn thoáng khí cho bé.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-321-a/800/800",
+      "https://picsum.photos/seed/prod-321-b/800/800",
+      "https://picsum.photos/seed/prod-321-c/800/800"
+    ],
+    "specifications": {
+      "Size": "M-XXL",
+      "Công nghệ": "Siêu thấm chống tràn",
+      "Đặc điểm": "Thoáng khí mềm mại"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 149
+    },
+    "stock": 142,
+    "soldCount": 3052,
+    "weight": 1155,
+    "dimensions": {
+      "length": 35.2,
+      "width": 26.4,
+      "height": 18.8
+    },
+    "origin": "Việt Nam / Nhật Bản / Thái Lan",
+    "warranty": "Đổi trả nếu lỗi NSX",
+    "tags": [
+      "tã quần",
+      "mẹ và bé",
+      "siêu thấm",
+      "huggies"
+    ],
+    "createdAt": "2026-08-29T00:00:00.000Z"
+  },
+  {
+    "id": "prod-322",
+    "name": "Sữa bột Enfamil số 1 Max",
+    "slug": "sua-bot-enfamil-so-1-max-322",
+    "price": 564000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-322/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-322/800/800",
+    "description": "Sữa bột công thức gần sữa mẹ. Bổ sung DHA và dưỡng chất hỗ trợ phát triển trí não và thể chất. Dễ tiêu hóa. Hương vị dễ uống.",
+    "brand": "Friso",
+    "sku": "FRI-0322-HỘP",
+    "originalPrice": 615000,
+    "discountPercent": 8,
+    "unit": "hộp",
+    "shortDescription": "Sữa bột dinh dưỡng cho trẻ nhỏ bổ sung DHA.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-322-a/800/800",
+      "https://picsum.photos/seed/prod-322-b/800/800",
+      "https://picsum.photos/seed/prod-322-c/800/800"
+    ],
+    "specifications": {
+      "Độ tuổi": "0-6 / 6-12 / 1-3 tuổi",
+      "Thành phần": "DHA Prebiotic",
+      "Dạng": "Bột"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 76
+    },
+    "stock": 260,
+    "soldCount": 3569,
+    "weight": 764,
+    "dimensions": {
+      "length": 15.3,
+      "width": 14.4,
+      "height": 18.0
+    },
+    "origin": "Hà Lan / Mỹ / Singapore",
+    "warranty": "Theo HSD",
+    "tags": [
+      "sữa bột",
+      "trẻ em",
+      "dha",
+      "dinh dưỡng",
+      "friso"
+    ],
+    "createdAt": "2026-06-09T00:00:00.000Z"
+  },
+  {
+    "id": "prod-323",
+    "name": "Bình sữa Avent 240ml cao cấp",
+    "slug": "binh-sua-avent-240ml-cao-cap-323",
+    "price": 209000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-323/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-323/800/800",
+    "description": "Bình sữa chất liệu PPSU hoặc thủy tinh an toàn không BPA. Núm ti silicone mềm chống sặc. Thang đo rõ. Dễ vệ sinh.",
+    "brand": "Dr Brown",
+    "sku": "DR -0323-CHI",
+    "originalPrice": 234000,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Bình sữa chống sặc chất liệu an toàn núm ti mềm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-323-a/800/800",
+      "https://picsum.photos/seed/prod-323-b/800/800",
+      "https://picsum.photos/seed/prod-323-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "120-300ml",
+      "Chất liệu": "PPSU / Thủy tinh",
+      "Núm ti": "Silicone chống sặc",
+      "Không BPA": "Có"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 392
+    },
+    "stock": 201,
+    "soldCount": 3819,
+    "weight": 145,
+    "dimensions": {
+      "length": 6.3,
+      "width": 7.5,
+      "height": 14.4
+    },
+    "origin": "Nhật Bản / Hà Lan / Mỹ",
+    "warranty": "12 tháng",
+    "tags": [
+      "bình sữa",
+      "chống sặc",
+      "mẹ và bé",
+      "dr-brown"
+    ],
+    "createdAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "prod-324",
+    "name": "Xe đẩy em bé Combi",
+    "slug": "xe-day-em-be-combi-324",
+    "price": 12270000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-324/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-324/800/800",
+    "description": "Xe đẩy thiết kế 2 chiều hoặc gấp gọn một chạm. Mái che chống UV. Đệm êm bánh giảm xóc. Phanh an toàn. Từ sơ sinh đến 3-4 tuổi.",
+    "brand": "Aprica",
+    "sku": "APR-0324-CHI",
+    "originalPrice": 14930000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Xe đẩy 2 chiều gấp gọn chống UV tải trọng cao.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-324-a/800/800",
+      "https://picsum.photos/seed/prod-324-b/800/800",
+      "https://picsum.photos/seed/prod-324-c/800/800"
+    ],
+    "specifications": {
+      "Hướng": "1-2 chiều",
+      "Gấp": "Một chạm / Gọn",
+      "Tải trọng": "15-22kg",
+      "Chống UV": "UPF50+"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 757
+    },
+    "stock": 168,
+    "soldCount": 1161,
+    "weight": 11849,
+    "dimensions": {
+      "length": 94.3,
+      "width": 54.1,
+      "height": 28.9
+    },
+    "origin": "Nhật Bản / Đức / Trung Quốc",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "xe đẩy",
+      "em bé",
+      "gấp gọn",
+      "aprica"
+    ],
+    "createdAt": "2026-08-14T00:00:00.000Z"
+  },
+  {
+    "id": "prod-325",
+    "name": "Đồ chơi xếp hình Winwintoys",
+    "slug": "do-choi-xep-hinh-winwintoys-325",
+    "price": 1150000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-325/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-325/800/800",
+    "description": "Bộ xếp hình chất liệu an toàn. Nhiều chi tiết kích thích sáng tạo và tư duy logic. Phù hợp nhiều độ tuổi. Màu sắc tươi sáng.",
+    "brand": "Winwintoys",
+    "sku": "WIN-0325-HỘP",
+    "originalPrice": 1370000,
+    "discountPercent": 16,
+    "unit": "hộp",
+    "shortDescription": "Đồ chơi xếp hình phát triển tư duy vận động tinh.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-325-a/800/800",
+      "https://picsum.photos/seed/prod-325-b/800/800",
+      "https://picsum.photos/seed/prod-325-c/800/800"
+    ],
+    "specifications": {
+      "Số chi tiết": "20-200",
+      "Chất liệu": "Gỗ / Nhựa ABS",
+      "Độ tuổi": "1-6 tuổi",
+      "Phát triển": "Tư duy vận động"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 90
+    },
+    "stock": 243,
+    "soldCount": 3597,
+    "weight": 407,
+    "dimensions": {
+      "length": 23.4,
+      "width": 21.2,
+      "height": 8.8
+    },
+    "origin": "Việt Nam / Đan Mạch / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "đồ chơi",
+      "xếp hình",
+      "phát triển tư duy",
+      "winwintoys"
+    ],
+    "createdAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "prod-326",
+    "name": "Máy hút sữa Avent 2025",
+    "slug": "may-hut-sua-avent-2025-326",
+    "price": 1560000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-326/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-326/800/800",
+    "description": "Máy hút sữa điện mô phỏng nhịp bú tự nhiên. Hút êm hiệu quả. Có thể sạc pin. Dễ tháo lắp vệ sinh. Phù hợp mẹ bận rộn.",
+    "brand": "Cimilre",
+    "sku": "CIM-0326-CHI",
+    "originalPrice": 1780000,
+    "discountPercent": 12,
+    "unit": "chiếc",
+    "shortDescription": "Máy hút sữa điện đôi êm ái hiệu quả cao.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-326-a/800/800",
+      "https://picsum.photos/seed/prod-326-b/800/800",
+      "https://picsum.photos/seed/prod-326-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Điện đơn / đôi",
+      "Công nghệ": "Mô phỏng nhịp bú",
+      "Pin": "Sạc được",
+      "Âm thanh": "Êm"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 625
+    },
+    "stock": 257,
+    "soldCount": 3214,
+    "weight": 1098,
+    "dimensions": {
+      "length": 22.3,
+      "width": 14.4,
+      "height": 12.3
+    },
+    "origin": "Thụy Sĩ / Hàn Quốc / Hà Lan",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "máy hút sữa",
+      "mẹ và bé",
+      "điện",
+      "cimilre"
     ],
     "createdAt": "2026-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-327",
+    "name": "Ghế ngồi ô tô Cybex",
+    "slug": "ghe-ngoi-o-to-cybex-327",
+    "price": 8870000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-327/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-327/800/800",
+    "description": "Ghế ô tô đạt chuẩn an toàn châu Âu. Hỗ trợ nhiều nhóm tuổi. Chống va chạm bên. Lắp Isofix hoặc dây an toàn. Đệm êm dễ vệ sinh.",
+    "brand": "Aprica",
+    "sku": "APR-0327-CHI",
+    "originalPrice": 10780000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Ghế ô tô an toàn chuẩn châu Âu chống va chạm bên.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-327-a/800/800",
+      "https://picsum.photos/seed/prod-327-b/800/800",
+      "https://picsum.photos/seed/prod-327-c/800/800"
+    ],
+    "specifications": {
+      "Nhóm": "0+/1/2/3",
+      "Chuẩn": "ECE R44/04 hoặc i-Size",
+      "Lắp đặt": "Isofix / Dây",
+      "Chống va chạm bên": "Có"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 879
+    },
+    "stock": 9,
+    "soldCount": 3945,
+    "weight": 8233,
+    "dimensions": {
+      "length": 49.6,
+      "width": 49.1,
+      "height": 61.5
+    },
+    "origin": "Đức / Trung Quốc / Ý",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "ghế ô tô",
+      "an toàn",
+      "em bé",
+      "aprica"
+    ],
+    "createdAt": "2026-04-10T00:00:00.000Z"
+  },
+  {
+    "id": "prod-328",
+    "name": "Khăn ướt em bé Huggies",
+    "slug": "khan-uot-em-be-huggies-328",
+    "price": 83400,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-328/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-328/800/800",
+    "description": "Khăn ướt công thức dịu nhẹ không cồn không hương liệu. Nắp đậy kín giữ ẩm. Thấm hút tốt. An toàn cho da nhạy cảm của bé.",
+    "brand": "Pampers",
+    "sku": "PAM-0328-BỊC",
+    "originalPrice": 100000,
+    "discountPercent": 17,
+    "unit": "bịch",
+    "shortDescription": "Khăn ướt dịu nhẹ không mùi không cồn cho da nhạy cảm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-328-a/800/800",
+      "https://picsum.photos/seed/prod-328-b/800/800",
+      "https://picsum.photos/seed/prod-328-c/800/800"
+    ],
+    "specifications": {
+      "Số tờ": "80-100",
+      "Mùi": "Không / Dịu",
+      "Công thức": "Không cồn",
+      "Phù hợp": "Da nhạy cảm"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 165
+    },
+    "stock": 148,
+    "soldCount": 431,
+    "weight": 326,
+    "dimensions": {
+      "length": 16.9,
+      "width": 11.0,
+      "height": 4.9
+    },
+    "origin": "Việt Nam / Nhật Bản / Thái Lan",
+    "warranty": "Theo HSD",
+    "tags": [
+      "khăn ướt",
+      "em bé",
+      "dịu nhẹ",
+      "pampers"
+    ],
+    "createdAt": "2026-01-26T00:00:00.000Z"
+  },
+  {
+    "id": "prod-329",
+    "name": "Nôi điện / Võng tự động Chicco",
+    "slug": "noi-dien-vong-tu-dong-chicco-329",
+    "price": 4950000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-329/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-329/800/800",
+    "description": "Nôi điện hoặc võng tự động nhiều chế độ đưa. Tích hợp nhạc trắng đèn ngủ. Điều khiển từ xa. Lưới thoáng khí. Tải trọng phù hợp bé.",
+    "brand": "Aprica",
+    "sku": "APR-0329-CHI",
+    "originalPrice": 5940000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Nôi điện nhiều chế độ đưa nhạc trắng điều khiển từ xa.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-329-a/800/800",
+      "https://picsum.photos/seed/prod-329-b/800/800",
+      "https://picsum.photos/seed/prod-329-c/800/800"
+    ],
+    "specifications": {
+      "Chế độ đưa": "3-5",
+      "Nhạc": "Nhạc trắng",
+      "Điều khiển": "Remote",
+      "Tải trọng": "12-15kg"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 672
+    },
+    "stock": 206,
+    "soldCount": 356,
+    "weight": 8051,
+    "dimensions": {
+      "length": 84.3,
+      "width": 57.7,
+      "height": 66.1
+    },
+    "origin": "Trung Quốc / Ý / Mỹ",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "nôi điện",
+      "võng tự động",
+      "em bé",
+      "aprica"
+    ],
+    "createdAt": "2026-06-15T00:00:00.000Z"
+  },
+  {
+    "id": "prod-330",
+    "name": "Yếm ăn / Đồ dùng ăn dặm Superware",
+    "slug": "yem-an-do-dung-an-dam-superware-330",
+    "price": 317000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-330/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-330/800/800",
+    "description": "Yếm silicone có máng hứng hoặc bộ thìa bát ăn dặm. Chất liệu an toàn không BPA. Dễ vệ sinh máy rửa bát được. Thiết kế dễ thương.",
+    "brand": "Marcus & Marcus",
+    "sku": "MAR-0330-BỘ",
+    "originalPrice": 378000,
+    "discountPercent": 16,
+    "unit": "bộ",
+    "shortDescription": "Yếm silicone / bộ đồ dùng ăn dặm an toàn dễ vệ sinh.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-330-a/800/800",
+      "https://picsum.photos/seed/prod-330-b/800/800",
+      "https://picsum.photos/seed/prod-330-c/800/800"
+    ],
+    "specifications": {
+      "Chất liệu": "Silicone / Nhựa an toàn",
+      "Không BPA": "Có",
+      "Vệ sinh": "Máy rửa bát",
+      "Độ tuổi": "6 tháng+"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 737
+    },
+    "stock": 172,
+    "soldCount": 1352,
+    "weight": 83,
+    "dimensions": {
+      "length": 18.9,
+      "width": 14.3,
+      "height": 4.8
+    },
+    "origin": "Thái Lan / Hà Lan / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "yếm ăn",
+      "ăn dặm",
+      "mẹ và bé",
+      "marcus-marcus"
+    ],
+    "createdAt": "2026-05-10T00:00:00.000Z"
+  },
+  {
+    "id": "prod-331",
+    "name": "Tã quần Merries size L limited",
+    "slug": "ta-quan-merries-size-l-limited-331",
+    "price": 342000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-331/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-331/800/800",
+    "description": "Tã quần thấm hút vượt trội chống tràn hiệu quả. Lớp bề mặt mềm mại không kích ứng. Co giãn 4 chiều dễ mặc. Thoáng khí giữ da bé khô.",
+    "brand": "Bobby",
+    "sku": "BOB-0331-BỊC",
+    "originalPrice": 376000,
+    "discountPercent": 9,
+    "unit": "bịch",
+    "shortDescription": "Tã quần siêu thấm chống tràn thoáng khí cho bé.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-331-a/800/800",
+      "https://picsum.photos/seed/prod-331-b/800/800",
+      "https://picsum.photos/seed/prod-331-c/800/800"
+    ],
+    "specifications": {
+      "Size": "M-XXL",
+      "Công nghệ": "Siêu thấm chống tràn",
+      "Đặc điểm": "Thoáng khí mềm mại"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 808
+    },
+    "stock": 111,
+    "soldCount": 1901,
+    "weight": 908,
+    "dimensions": {
+      "length": 32.7,
+      "width": 24.8,
+      "height": 17.7
+    },
+    "origin": "Việt Nam / Nhật Bản / Thái Lan",
+    "warranty": "Đổi trả nếu lỗi NSX",
+    "tags": [
+      "tã quần",
+      "mẹ và bé",
+      "siêu thấm",
+      "bobby"
+    ],
+    "createdAt": "2026-04-03T00:00:00.000Z"
+  },
+  {
+    "id": "prod-332",
+    "name": "Sữa bột Nan số 2",
+    "slug": "sua-bot-nan-so-2-332",
+    "price": 372000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-332/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-332/800/800",
+    "description": "Sữa bột công thức gần sữa mẹ. Bổ sung DHA và dưỡng chất hỗ trợ phát triển trí não và thể chất. Dễ tiêu hóa. Hương vị dễ uống.",
+    "brand": "Enfamil",
+    "sku": "ENF-0332-HỘP",
+    "originalPrice": 453000,
+    "discountPercent": 18,
+    "unit": "hộp",
+    "shortDescription": "Sữa bột dinh dưỡng cho trẻ nhỏ bổ sung DHA.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-332-a/800/800",
+      "https://picsum.photos/seed/prod-332-b/800/800",
+      "https://picsum.photos/seed/prod-332-c/800/800"
+    ],
+    "specifications": {
+      "Độ tuổi": "0-6 / 6-12 / 1-3 tuổi",
+      "Thành phần": "DHA Prebiotic",
+      "Dạng": "Bột"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 355
+    },
+    "stock": 80,
+    "soldCount": 423,
+    "weight": 555,
+    "dimensions": {
+      "length": 14.9,
+      "width": 14.6,
+      "height": 16.3
+    },
+    "origin": "Hà Lan / Mỹ / Singapore",
+    "warranty": "Theo HSD",
+    "tags": [
+      "sữa bột",
+      "trẻ em",
+      "dha",
+      "dinh dưỡng",
+      "enfamil"
+    ],
+    "createdAt": "2026-07-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-333",
+    "name": "Bình sữa Avent 240ml",
+    "slug": "binh-sua-avent-240ml-333",
+    "price": 285000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-333/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-333/800/800",
+    "description": "Bình sữa chất liệu PPSU hoặc thủy tinh an toàn không BPA. Núm ti silicone mềm chống sặc. Thang đo rõ. Dễ vệ sinh.",
+    "brand": "Chicco",
+    "sku": "CHI-0333-CHI",
+    "originalPrice": 348000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Bình sữa chống sặc chất liệu an toàn núm ti mềm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-333-a/800/800",
+      "https://picsum.photos/seed/prod-333-b/800/800",
+      "https://picsum.photos/seed/prod-333-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "120-300ml",
+      "Chất liệu": "PPSU / Thủy tinh",
+      "Núm ti": "Silicone chống sặc",
+      "Không BPA": "Có"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 275
+    },
+    "stock": 53,
+    "soldCount": 1942,
+    "weight": 102,
+    "dimensions": {
+      "length": 6.3,
+      "width": 6.9,
+      "height": 15.8
+    },
+    "origin": "Nhật Bản / Hà Lan / Mỹ",
+    "warranty": "12 tháng",
+    "tags": [
+      "bình sữa",
+      "chống sặc",
+      "mẹ và bé",
+      "chicco"
+    ],
+    "createdAt": "2026-02-10T00:00:00.000Z"
+  },
+  {
+    "id": "prod-334",
+    "name": "Xe đẩy em bé Combi",
+    "slug": "xe-day-em-be-combi-334",
+    "price": 5180000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-334/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-334/800/800",
+    "description": "Xe đẩy thiết kế 2 chiều hoặc gấp gọn một chạm. Mái che chống UV. Đệm êm bánh giảm xóc. Phanh an toàn. Từ sơ sinh đến 3-4 tuổi.",
+    "brand": "Combi",
+    "sku": "COM-0334-CHI",
+    "originalPrice": 5770000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Xe đẩy 2 chiều gấp gọn chống UV tải trọng cao.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-334-a/800/800",
+      "https://picsum.photos/seed/prod-334-b/800/800",
+      "https://picsum.photos/seed/prod-334-c/800/800"
+    ],
+    "specifications": {
+      "Hướng": "1-2 chiều",
+      "Gấp": "Một chạm / Gọn",
+      "Tải trọng": "15-22kg",
+      "Chống UV": "UPF50+"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 285
+    },
+    "stock": 43,
+    "soldCount": 139,
+    "weight": 9281,
+    "dimensions": {
+      "length": 87.7,
+      "width": 56.4,
+      "height": 30.9
+    },
+    "origin": "Nhật Bản / Đức / Trung Quốc",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "xe đẩy",
+      "em bé",
+      "gấp gọn",
+      "combi"
+    ],
+    "createdAt": "2026-01-31T00:00:00.000Z"
+  },
+  {
+    "id": "prod-335",
+    "name": "Đồ chơi xếp hình Lego",
+    "slug": "do-choi-xep-hinh-lego-335",
+    "price": 369000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-335/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-335/800/800",
+    "description": "Bộ xếp hình chất liệu an toàn. Nhiều chi tiết kích thích sáng tạo và tư duy logic. Phù hợp nhiều độ tuổi. Màu sắc tươi sáng.",
+    "brand": "Toys House",
+    "sku": "TOY-0335-HỘP",
+    "originalPrice": 404000,
+    "discountPercent": 9,
+    "unit": "hộp",
+    "shortDescription": "Đồ chơi xếp hình phát triển tư duy vận động tinh.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-335-a/800/800",
+      "https://picsum.photos/seed/prod-335-b/800/800",
+      "https://picsum.photos/seed/prod-335-c/800/800"
+    ],
+    "specifications": {
+      "Số chi tiết": "20-200",
+      "Chất liệu": "Gỗ / Nhựa ABS",
+      "Độ tuổi": "1-6 tuổi",
+      "Phát triển": "Tư duy vận động"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 463
+    },
+    "stock": 207,
+    "soldCount": 2082,
+    "weight": 979,
+    "dimensions": {
+      "length": 23.1,
+      "width": 21.8,
+      "height": 7.3
+    },
+    "origin": "Việt Nam / Đan Mạch / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "đồ chơi",
+      "xếp hình",
+      "phát triển tư duy",
+      "toys-house"
+    ],
+    "createdAt": "2026-01-22T00:00:00.000Z"
+  },
+  {
+    "id": "prod-336",
+    "name": "Máy hút sữa Cimilre",
+    "slug": "may-hut-sua-cimilre-336",
+    "price": 4460000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-336/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-336/800/800",
+    "description": "Máy hút sữa điện mô phỏng nhịp bú tự nhiên. Hút êm hiệu quả. Có thể sạc pin. Dễ tháo lắp vệ sinh. Phù hợp mẹ bận rộn.",
+    "brand": "Spectra",
+    "sku": "SPE-0336-CHI",
+    "originalPrice": 4980000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Máy hút sữa điện đôi êm ái hiệu quả cao.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-336-a/800/800",
+      "https://picsum.photos/seed/prod-336-b/800/800",
+      "https://picsum.photos/seed/prod-336-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Điện đơn / đôi",
+      "Công nghệ": "Mô phỏng nhịp bú",
+      "Pin": "Sạc được",
+      "Âm thanh": "Êm"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 651
+    },
+    "stock": 130,
+    "soldCount": 2701,
+    "weight": 991,
+    "dimensions": {
+      "length": 21.0,
+      "width": 14.8,
+      "height": 11.2
+    },
+    "origin": "Thụy Sĩ / Hàn Quốc / Hà Lan",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "máy hút sữa",
+      "mẹ và bé",
+      "điện",
+      "spectra"
+    ],
+    "createdAt": "2026-03-31T00:00:00.000Z"
+  },
+  {
+    "id": "prod-337",
+    "name": "Ghế ngồi ô tô Chicco",
+    "slug": "ghe-ngoi-o-to-chicco-337",
+    "price": 6510000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-337/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-337/800/800",
+    "description": "Ghế ô tô đạt chuẩn an toàn châu Âu. Hỗ trợ nhiều nhóm tuổi. Chống va chạm bên. Lắp Isofix hoặc dây an toàn. Đệm êm dễ vệ sinh.",
+    "brand": "Aprica",
+    "sku": "APR-0337-CHI",
+    "originalPrice": 7100000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Ghế ô tô an toàn chuẩn châu Âu chống va chạm bên.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-337-a/800/800",
+      "https://picsum.photos/seed/prod-337-b/800/800",
+      "https://picsum.photos/seed/prod-337-c/800/800"
+    ],
+    "specifications": {
+      "Nhóm": "0+/1/2/3",
+      "Chuẩn": "ECE R44/04 hoặc i-Size",
+      "Lắp đặt": "Isofix / Dây",
+      "Chống va chạm bên": "Có"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 275
+    },
+    "stock": 327,
+    "soldCount": 3335,
+    "weight": 9291,
+    "dimensions": {
+      "length": 53.7,
+      "width": 49.2,
+      "height": 66.9
+    },
+    "origin": "Đức / Trung Quốc / Ý",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "ghế ô tô",
+      "an toàn",
+      "em bé",
+      "aprica"
+    ],
+    "createdAt": "2026-06-03T00:00:00.000Z"
+  },
+  {
+    "id": "prod-338",
+    "name": "Khăn ướt em bé Huggies",
+    "slug": "khan-uot-em-be-huggies-338",
+    "price": 66400,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-338/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-338/800/800",
+    "description": "Khăn ướt công thức dịu nhẹ không cồn không hương liệu. Nắp đậy kín giữ ẩm. Thấm hút tốt. An toàn cho da nhạy cảm của bé.",
+    "brand": "Merries",
+    "sku": "MER-0338-BỊC",
+    "originalPrice": 77858,
+    "discountPercent": 15,
+    "unit": "bịch",
+    "shortDescription": "Khăn ướt dịu nhẹ không mùi không cồn cho da nhạy cảm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-338-a/800/800",
+      "https://picsum.photos/seed/prod-338-b/800/800",
+      "https://picsum.photos/seed/prod-338-c/800/800"
+    ],
+    "specifications": {
+      "Số tờ": "80-100",
+      "Mùi": "Không / Dịu",
+      "Công thức": "Không cồn",
+      "Phù hợp": "Da nhạy cảm"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 46
+    },
+    "stock": 168,
+    "soldCount": 2495,
+    "weight": 424,
+    "dimensions": {
+      "length": 17.4,
+      "width": 10.1,
+      "height": 4.8
+    },
+    "origin": "Việt Nam / Nhật Bản / Thái Lan",
+    "warranty": "Theo HSD",
+    "tags": [
+      "khăn ướt",
+      "em bé",
+      "dịu nhẹ",
+      "merries"
+    ],
+    "createdAt": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "prod-339",
+    "name": "Nôi điện / Võng tự động Mastela",
+    "slug": "noi-dien-vong-tu-dong-mastela-339",
+    "price": 1980000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-339/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-339/800/800",
+    "description": "Nôi điện hoặc võng tự động nhiều chế độ đưa. Tích hợp nhạc trắng đèn ngủ. Điều khiển từ xa. Lưới thoáng khí. Tải trọng phù hợp bé.",
+    "brand": "Tiny Love",
+    "sku": "TIN-0339-CHI",
+    "originalPrice": 2410000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Nôi điện nhiều chế độ đưa nhạc trắng điều khiển từ xa.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-339-a/800/800",
+      "https://picsum.photos/seed/prod-339-b/800/800",
+      "https://picsum.photos/seed/prod-339-c/800/800"
+    ],
+    "specifications": {
+      "Chế độ đưa": "3-5",
+      "Nhạc": "Nhạc trắng",
+      "Điều khiển": "Remote",
+      "Tải trọng": "12-15kg"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 122
+    },
+    "stock": 131,
+    "soldCount": 2740,
+    "weight": 8864,
+    "dimensions": {
+      "length": 85.5,
+      "width": 57.9,
+      "height": 71.5
+    },
+    "origin": "Trung Quốc / Ý / Mỹ",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "nôi điện",
+      "võng tự động",
+      "em bé",
+      "tiny-love"
+    ],
+    "createdAt": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "prod-340",
+    "name": "Yếm ăn / Đồ dùng ăn dặm Chicco",
+    "slug": "yem-an-do-dung-an-dam-chicco-340",
+    "price": 118000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-340/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-340/800/800",
+    "description": "Yếm silicone có máng hứng hoặc bộ thìa bát ăn dặm. Chất liệu an toàn không BPA. Dễ vệ sinh máy rửa bát được. Thiết kế dễ thương.",
+    "brand": "Superware",
+    "sku": "SUP-0340-BỘ",
+    "originalPrice": 143000,
+    "discountPercent": 17,
+    "unit": "bộ",
+    "shortDescription": "Yếm silicone / bộ đồ dùng ăn dặm an toàn dễ vệ sinh.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-340-a/800/800",
+      "https://picsum.photos/seed/prod-340-b/800/800",
+      "https://picsum.photos/seed/prod-340-c/800/800"
+    ],
+    "specifications": {
+      "Chất liệu": "Silicone / Nhựa an toàn",
+      "Không BPA": "Có",
+      "Vệ sinh": "Máy rửa bát",
+      "Độ tuổi": "6 tháng+"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 879
+    },
+    "stock": 93,
+    "soldCount": 771,
+    "weight": 292,
+    "dimensions": {
+      "length": 18.9,
+      "width": 16.0,
+      "height": 5.3
+    },
+    "origin": "Thái Lan / Hà Lan / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "yếm ăn",
+      "ăn dặm",
+      "mẹ và bé",
+      "superware"
+    ],
+    "createdAt": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-341",
+    "name": "Tã quần Molfix size XL",
+    "slug": "ta-quan-molfix-size-xl-341",
+    "price": 344000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-341/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-341/800/800",
+    "description": "Tã quần thấm hút vượt trội chống tràn hiệu quả. Lớp bề mặt mềm mại không kích ứng. Co giãn 4 chiều dễ mặc. Thoáng khí giữ da bé khô.",
+    "brand": "Merries",
+    "sku": "MER-0341-BỊC",
+    "originalPrice": 373000,
+    "discountPercent": 8,
+    "unit": "bịch",
+    "shortDescription": "Tã quần siêu thấm chống tràn thoáng khí cho bé.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-341-a/800/800",
+      "https://picsum.photos/seed/prod-341-b/800/800",
+      "https://picsum.photos/seed/prod-341-c/800/800"
+    ],
+    "specifications": {
+      "Size": "M-XXL",
+      "Công nghệ": "Siêu thấm chống tràn",
+      "Đặc điểm": "Thoáng khí mềm mại"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 849
+    },
+    "stock": 257,
+    "soldCount": 2270,
+    "weight": 1160,
+    "dimensions": {
+      "length": 38.1,
+      "width": 25.3,
+      "height": 18.2
+    },
+    "origin": "Việt Nam / Nhật Bản / Thái Lan",
+    "warranty": "Đổi trả nếu lỗi NSX",
+    "tags": [
+      "tã quần",
+      "mẹ và bé",
+      "siêu thấm",
+      "merries"
+    ],
+    "createdAt": "2026-04-04T00:00:00.000Z"
+  },
+  {
+    "id": "prod-342",
+    "name": "Sữa bột Similac số 2",
+    "slug": "sua-bot-similac-so-2-342",
+    "price": 604000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-342/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-342/800/800",
+    "description": "Sữa bột công thức gần sữa mẹ. Bổ sung DHA và dưỡng chất hỗ trợ phát triển trí não và thể chất. Dễ tiêu hóa. Hương vị dễ uống.",
+    "brand": "Similac",
+    "sku": "SIM-0342-HỘP",
+    "originalPrice": 675000,
+    "discountPercent": 11,
+    "unit": "hộp",
+    "shortDescription": "Sữa bột dinh dưỡng cho trẻ nhỏ bổ sung DHA.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-342-a/800/800",
+      "https://picsum.photos/seed/prod-342-b/800/800",
+      "https://picsum.photos/seed/prod-342-c/800/800"
+    ],
+    "specifications": {
+      "Độ tuổi": "0-6 / 6-12 / 1-3 tuổi",
+      "Thành phần": "DHA Prebiotic",
+      "Dạng": "Bột"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 368
+    },
+    "stock": 95,
+    "soldCount": 3813,
+    "weight": 669,
+    "dimensions": {
+      "length": 13.9,
+      "width": 13.5,
+      "height": 18.4
+    },
+    "origin": "Hà Lan / Mỹ / Singapore",
+    "warranty": "Theo HSD",
+    "tags": [
+      "sữa bột",
+      "trẻ em",
+      "dha",
+      "dinh dưỡng",
+      "similac"
+    ],
+    "createdAt": "2026-08-08T00:00:00.000Z"
+  },
+  {
+    "id": "prod-343",
+    "name": "Bình sữa Chicco 120ml 2026",
+    "slug": "binh-sua-chicco-120ml-2026-343",
+    "price": 207000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-343/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-343/800/800",
+    "description": "Bình sữa chất liệu PPSU hoặc thủy tinh an toàn không BPA. Núm ti silicone mềm chống sặc. Thang đo rõ. Dễ vệ sinh.",
+    "brand": "Avent",
+    "sku": "AVE-0343-CHI",
+    "originalPrice": 253000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Bình sữa chống sặc chất liệu an toàn núm ti mềm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-343-a/800/800",
+      "https://picsum.photos/seed/prod-343-b/800/800",
+      "https://picsum.photos/seed/prod-343-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "120-300ml",
+      "Chất liệu": "PPSU / Thủy tinh",
+      "Núm ti": "Silicone chống sặc",
+      "Không BPA": "Có"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 123
+    },
+    "stock": 177,
+    "soldCount": 1286,
+    "weight": 126,
+    "dimensions": {
+      "length": 7.6,
+      "width": 6.8,
+      "height": 17.4
+    },
+    "origin": "Nhật Bản / Hà Lan / Mỹ",
+    "warranty": "12 tháng",
+    "tags": [
+      "bình sữa",
+      "chống sặc",
+      "mẹ và bé",
+      "avent"
+    ],
+    "createdAt": "2026-04-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-344",
+    "name": "Xe đẩy em bé Combi",
+    "slug": "xe-day-em-be-combi-344",
+    "price": 11160000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-344/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-344/800/800",
+    "description": "Xe đẩy thiết kế 2 chiều hoặc gấp gọn một chạm. Mái che chống UV. Đệm êm bánh giảm xóc. Phanh an toàn. Từ sơ sinh đến 3-4 tuổi.",
+    "brand": "Cybex",
+    "sku": "CYB-0344-CHI",
+    "originalPrice": 13280000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Xe đẩy 2 chiều gấp gọn chống UV tải trọng cao.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-344-a/800/800",
+      "https://picsum.photos/seed/prod-344-b/800/800",
+      "https://picsum.photos/seed/prod-344-c/800/800"
+    ],
+    "specifications": {
+      "Hướng": "1-2 chiều",
+      "Gấp": "Một chạm / Gọn",
+      "Tải trọng": "15-22kg",
+      "Chống UV": "UPF50+"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 385
+    },
+    "stock": 119,
+    "soldCount": 2776,
+    "weight": 7427,
+    "dimensions": {
+      "length": 93.7,
+      "width": 55.7,
+      "height": 32.3
+    },
+    "origin": "Nhật Bản / Đức / Trung Quốc",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "xe đẩy",
+      "em bé",
+      "gấp gọn",
+      "cybex"
+    ],
+    "createdAt": "2026-06-14T00:00:00.000Z"
+  },
+  {
+    "id": "prod-345",
+    "name": "Đồ chơi xếp hình Lego Pro",
+    "slug": "do-choi-xep-hinh-lego-pro-345",
+    "price": 472000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-345/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-345/800/800",
+    "description": "Bộ xếp hình chất liệu an toàn. Nhiều chi tiết kích thích sáng tạo và tư duy logic. Phù hợp nhiều độ tuổi. Màu sắc tươi sáng.",
+    "brand": "Lego",
+    "sku": "LEG-0345-HỘP",
+    "originalPrice": 568000,
+    "discountPercent": 17,
+    "unit": "hộp",
+    "shortDescription": "Đồ chơi xếp hình phát triển tư duy vận động tinh.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-345-a/800/800",
+      "https://picsum.photos/seed/prod-345-b/800/800",
+      "https://picsum.photos/seed/prod-345-c/800/800"
+    ],
+    "specifications": {
+      "Số chi tiết": "20-200",
+      "Chất liệu": "Gỗ / Nhựa ABS",
+      "Độ tuổi": "1-6 tuổi",
+      "Phát triển": "Tư duy vận động"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 636
+    },
+    "stock": 167,
+    "soldCount": 3822,
+    "weight": 1473,
+    "dimensions": {
+      "length": 24.5,
+      "width": 22.0,
+      "height": 8.7
+    },
+    "origin": "Việt Nam / Đan Mạch / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "đồ chơi",
+      "xếp hình",
+      "phát triển tư duy",
+      "lego"
+    ],
+    "createdAt": "2026-08-10T00:00:00.000Z"
+  },
+  {
+    "id": "prod-346",
+    "name": "Máy hút sữa Rozzano 2026",
+    "slug": "may-hut-sua-rozzano-2026-346",
+    "price": 5650000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-346/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-346/800/800",
+    "description": "Máy hút sữa điện mô phỏng nhịp bú tự nhiên. Hút êm hiệu quả. Có thể sạc pin. Dễ tháo lắp vệ sinh. Phù hợp mẹ bận rộn.",
+    "brand": "Medela",
+    "sku": "MED-0346-CHI",
+    "originalPrice": 6240000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Máy hút sữa điện đôi êm ái hiệu quả cao.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-346-a/800/800",
+      "https://picsum.photos/seed/prod-346-b/800/800",
+      "https://picsum.photos/seed/prod-346-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Điện đơn / đôi",
+      "Công nghệ": "Mô phỏng nhịp bú",
+      "Pin": "Sạc được",
+      "Âm thanh": "Êm"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 110
+    },
+    "stock": 348,
+    "soldCount": 2667,
+    "weight": 1563,
+    "dimensions": {
+      "length": 20.1,
+      "width": 14.5,
+      "height": 11.6
+    },
+    "origin": "Thụy Sĩ / Hàn Quốc / Hà Lan",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "máy hút sữa",
+      "mẹ và bé",
+      "điện",
+      "medela"
+    ],
+    "createdAt": "2026-07-20T00:00:00.000Z"
+  },
+  {
+    "id": "prod-347",
+    "name": "Ghế ngồi ô tô Britax",
+    "slug": "ghe-ngoi-o-to-britax-347",
+    "price": 4250000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-347/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-347/800/800",
+    "description": "Ghế ô tô đạt chuẩn an toàn châu Âu. Hỗ trợ nhiều nhóm tuổi. Chống va chạm bên. Lắp Isofix hoặc dây an toàn. Đệm êm dễ vệ sinh.",
+    "brand": "Britax",
+    "sku": "BRI-0347-CHI",
+    "originalPrice": 4770000,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Ghế ô tô an toàn chuẩn châu Âu chống va chạm bên.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-347-a/800/800",
+      "https://picsum.photos/seed/prod-347-b/800/800",
+      "https://picsum.photos/seed/prod-347-c/800/800"
+    ],
+    "specifications": {
+      "Nhóm": "0+/1/2/3",
+      "Chuẩn": "ECE R44/04 hoặc i-Size",
+      "Lắp đặt": "Isofix / Dây",
+      "Chống va chạm bên": "Có"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 468
+    },
+    "stock": 219,
+    "soldCount": 731,
+    "weight": 7555,
+    "dimensions": {
+      "length": 53.4,
+      "width": 52.9,
+      "height": 67.9
+    },
+    "origin": "Đức / Trung Quốc / Ý",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "ghế ô tô",
+      "an toàn",
+      "em bé",
+      "britax"
+    ],
+    "createdAt": "2026-08-29T00:00:00.000Z"
+  },
+  {
+    "id": "prod-348",
+    "name": "Khăn ướt em bé Pampers",
+    "slug": "khan-uot-em-be-pampers-348",
+    "price": 58000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-348/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-348/800/800",
+    "description": "Khăn ướt công thức dịu nhẹ không cồn không hương liệu. Nắp đậy kín giữ ẩm. Thấm hút tốt. An toàn cho da nhạy cảm của bé.",
+    "brand": "Pampers",
+    "sku": "PAM-0348-BỊC",
+    "originalPrice": 68023,
+    "discountPercent": 15,
+    "unit": "bịch",
+    "shortDescription": "Khăn ướt dịu nhẹ không mùi không cồn cho da nhạy cảm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-348-a/800/800",
+      "https://picsum.photos/seed/prod-348-b/800/800",
+      "https://picsum.photos/seed/prod-348-c/800/800"
+    ],
+    "specifications": {
+      "Số tờ": "80-100",
+      "Mùi": "Không / Dịu",
+      "Công thức": "Không cồn",
+      "Phù hợp": "Da nhạy cảm"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 250
+    },
+    "stock": 88,
+    "soldCount": 1898,
+    "weight": 325,
+    "dimensions": {
+      "length": 19.2,
+      "width": 10.6,
+      "height": 5.1
+    },
+    "origin": "Việt Nam / Nhật Bản / Thái Lan",
+    "warranty": "Theo HSD",
+    "tags": [
+      "khăn ướt",
+      "em bé",
+      "dịu nhẹ",
+      "pampers"
+    ],
+    "createdAt": "2026-02-02T00:00:00.000Z"
+  },
+  {
+    "id": "prod-349",
+    "name": "Nôi điện / Võng tự động Mastela Plus",
+    "slug": "noi-dien-vong-tu-dong-mastela-plus-349",
+    "price": 2370000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-349/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-349/800/800",
+    "description": "Nôi điện hoặc võng tự động nhiều chế độ đưa. Tích hợp nhạc trắng đèn ngủ. Điều khiển từ xa. Lưới thoáng khí. Tải trọng phù hợp bé.",
+    "brand": "Tiny Love",
+    "sku": "TIN-0349-CHI",
+    "originalPrice": 2590000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Nôi điện nhiều chế độ đưa nhạc trắng điều khiển từ xa.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-349-a/800/800",
+      "https://picsum.photos/seed/prod-349-b/800/800",
+      "https://picsum.photos/seed/prod-349-c/800/800"
+    ],
+    "specifications": {
+      "Chế độ đưa": "3-5",
+      "Nhạc": "Nhạc trắng",
+      "Điều khiển": "Remote",
+      "Tải trọng": "12-15kg"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 115
+    },
+    "stock": 178,
+    "soldCount": 2483,
+    "weight": 6393,
+    "dimensions": {
+      "length": 91.6,
+      "width": 51.3,
+      "height": 59.5
+    },
+    "origin": "Trung Quốc / Ý / Mỹ",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "nôi điện",
+      "võng tự động",
+      "em bé",
+      "tiny-love"
+    ],
+    "createdAt": "2026-06-21T00:00:00.000Z"
+  },
+  {
+    "id": "prod-350",
+    "name": "Yếm ăn / Đồ dùng ăn dặm Pigeon",
+    "slug": "yem-an-do-dung-an-dam-pigeon-350",
+    "price": 315000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-350/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-350/800/800",
+    "description": "Yếm silicone có máng hứng hoặc bộ thìa bát ăn dặm. Chất liệu an toàn không BPA. Dễ vệ sinh máy rửa bát được. Thiết kế dễ thương.",
+    "brand": "Marcus & Marcus",
+    "sku": "MAR-0350-BỘ",
+    "originalPrice": 391000,
+    "discountPercent": 19,
+    "unit": "bộ",
+    "shortDescription": "Yếm silicone / bộ đồ dùng ăn dặm an toàn dễ vệ sinh.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-350-a/800/800",
+      "https://picsum.photos/seed/prod-350-b/800/800",
+      "https://picsum.photos/seed/prod-350-c/800/800"
+    ],
+    "specifications": {
+      "Chất liệu": "Silicone / Nhựa an toàn",
+      "Không BPA": "Có",
+      "Vệ sinh": "Máy rửa bát",
+      "Độ tuổi": "6 tháng+"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 214
+    },
+    "stock": 214,
+    "soldCount": 2905,
+    "weight": 92,
+    "dimensions": {
+      "length": 20.4,
+      "width": 14.8,
+      "height": 4.6
+    },
+    "origin": "Thái Lan / Hà Lan / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "yếm ăn",
+      "ăn dặm",
+      "mẹ và bé",
+      "marcus-marcus"
+    ],
+    "createdAt": "2026-06-05T00:00:00.000Z"
+  },
+  {
+    "id": "prod-351",
+    "name": "Tã quần Molfix size XL",
+    "slug": "ta-quan-molfix-size-xl-351",
+    "price": 251000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-351/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-351/800/800",
+    "description": "Tã quần thấm hút vượt trội chống tràn hiệu quả. Lớp bề mặt mềm mại không kích ứng. Co giãn 4 chiều dễ mặc. Thoáng khí giữ da bé khô.",
+    "brand": "Merries",
+    "sku": "MER-0351-BỊC",
+    "originalPrice": 275000,
+    "discountPercent": 9,
+    "unit": "bịch",
+    "shortDescription": "Tã quần siêu thấm chống tràn thoáng khí cho bé.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-351-a/800/800",
+      "https://picsum.photos/seed/prod-351-b/800/800",
+      "https://picsum.photos/seed/prod-351-c/800/800"
+    ],
+    "specifications": {
+      "Size": "M-XXL",
+      "Công nghệ": "Siêu thấm chống tràn",
+      "Đặc điểm": "Thoáng khí mềm mại"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 457
+    },
+    "stock": 49,
+    "soldCount": 1256,
+    "weight": 1202,
+    "dimensions": {
+      "length": 35.5,
+      "width": 26.7,
+      "height": 16.8
+    },
+    "origin": "Việt Nam / Nhật Bản / Thái Lan",
+    "warranty": "Đổi trả nếu lỗi NSX",
+    "tags": [
+      "tã quần",
+      "mẹ và bé",
+      "siêu thấm",
+      "merries"
+    ],
+    "createdAt": "2026-08-13T00:00:00.000Z"
+  },
+  {
+    "id": "prod-352",
+    "name": "Sữa bột Grow số 2",
+    "slug": "sua-bot-grow-so-2-352",
+    "price": 379000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-352/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-352/800/800",
+    "description": "Sữa bột công thức gần sữa mẹ. Bổ sung DHA và dưỡng chất hỗ trợ phát triển trí não và thể chất. Dễ tiêu hóa. Hương vị dễ uống.",
+    "brand": "Similac",
+    "sku": "SIM-0352-HỘP",
+    "originalPrice": 450000,
+    "discountPercent": 16,
+    "unit": "hộp",
+    "shortDescription": "Sữa bột dinh dưỡng cho trẻ nhỏ bổ sung DHA.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-352-a/800/800",
+      "https://picsum.photos/seed/prod-352-b/800/800",
+      "https://picsum.photos/seed/prod-352-c/800/800"
+    ],
+    "specifications": {
+      "Độ tuổi": "0-6 / 6-12 / 1-3 tuổi",
+      "Thành phần": "DHA Prebiotic",
+      "Dạng": "Bột"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 520
+    },
+    "stock": 343,
+    "soldCount": 1135,
+    "weight": 900,
+    "dimensions": {
+      "length": 12.8,
+      "width": 15.0,
+      "height": 17.3
+    },
+    "origin": "Hà Lan / Mỹ / Singapore",
+    "warranty": "Theo HSD",
+    "tags": [
+      "sữa bột",
+      "trẻ em",
+      "dha",
+      "dinh dưỡng",
+      "similac"
+    ],
+    "createdAt": "2026-02-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-353",
+    "name": "Bình sữa Dr Brown 300ml Max",
+    "slug": "binh-sua-dr-brown-300ml-max-353",
+    "price": 247000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-353/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-353/800/800",
+    "description": "Bình sữa chất liệu PPSU hoặc thủy tinh an toàn không BPA. Núm ti silicone mềm chống sặc. Thang đo rõ. Dễ vệ sinh.",
+    "brand": "Chicco",
+    "sku": "CHI-0353-CHI",
+    "originalPrice": 285000,
+    "discountPercent": 13,
+    "unit": "chiếc",
+    "shortDescription": "Bình sữa chống sặc chất liệu an toàn núm ti mềm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-353-a/800/800",
+      "https://picsum.photos/seed/prod-353-b/800/800",
+      "https://picsum.photos/seed/prod-353-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "120-300ml",
+      "Chất liệu": "PPSU / Thủy tinh",
+      "Núm ti": "Silicone chống sặc",
+      "Không BPA": "Có"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 174
+    },
+    "stock": 346,
+    "soldCount": 446,
+    "weight": 113,
+    "dimensions": {
+      "length": 6.9,
+      "width": 6.7,
+      "height": 17.1
+    },
+    "origin": "Nhật Bản / Hà Lan / Mỹ",
+    "warranty": "12 tháng",
+    "tags": [
+      "bình sữa",
+      "chống sặc",
+      "mẹ và bé",
+      "chicco"
+    ],
+    "createdAt": "2026-02-05T00:00:00.000Z"
+  },
+  {
+    "id": "prod-354",
+    "name": "Xe đẩy em bé Joie",
+    "slug": "xe-day-em-be-joie-354",
+    "price": 12880000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-354/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-354/800/800",
+    "description": "Xe đẩy thiết kế 2 chiều hoặc gấp gọn một chạm. Mái che chống UV. Đệm êm bánh giảm xóc. Phanh an toàn. Từ sơ sinh đến 3-4 tuổi.",
+    "brand": "Cybex",
+    "sku": "CYB-0354-CHI",
+    "originalPrice": 14410000,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Xe đẩy 2 chiều gấp gọn chống UV tải trọng cao.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-354-a/800/800",
+      "https://picsum.photos/seed/prod-354-b/800/800",
+      "https://picsum.photos/seed/prod-354-c/800/800"
+    ],
+    "specifications": {
+      "Hướng": "1-2 chiều",
+      "Gấp": "Một chạm / Gọn",
+      "Tải trọng": "15-22kg",
+      "Chống UV": "UPF50+"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 506
+    },
+    "stock": 298,
+    "soldCount": 3661,
+    "weight": 6499,
+    "dimensions": {
+      "length": 96.1,
+      "width": 58.5,
+      "height": 29.5
+    },
+    "origin": "Nhật Bản / Đức / Trung Quốc",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "xe đẩy",
+      "em bé",
+      "gấp gọn",
+      "cybex"
+    ],
+    "createdAt": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-355",
+    "name": "Đồ chơi xếp hình Toys House Max",
+    "slug": "do-choi-xep-hinh-toys-house-max-355",
+    "price": 1150000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-355/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-355/800/800",
+    "description": "Bộ xếp hình chất liệu an toàn. Nhiều chi tiết kích thích sáng tạo và tư duy logic. Phù hợp nhiều độ tuổi. Màu sắc tươi sáng.",
+    "brand": "Winwintoys",
+    "sku": "WIN-0355-HỘP",
+    "originalPrice": 1350000,
+    "discountPercent": 15,
+    "unit": "hộp",
+    "shortDescription": "Đồ chơi xếp hình phát triển tư duy vận động tinh.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-355-a/800/800",
+      "https://picsum.photos/seed/prod-355-b/800/800",
+      "https://picsum.photos/seed/prod-355-c/800/800"
+    ],
+    "specifications": {
+      "Số chi tiết": "20-200",
+      "Chất liệu": "Gỗ / Nhựa ABS",
+      "Độ tuổi": "1-6 tuổi",
+      "Phát triển": "Tư duy vận động"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 795
+    },
+    "stock": 234,
+    "soldCount": 758,
+    "weight": 1358,
+    "dimensions": {
+      "length": 26.5,
+      "width": 20.7,
+      "height": 8.2
+    },
+    "origin": "Việt Nam / Đan Mạch / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "đồ chơi",
+      "xếp hình",
+      "phát triển tư duy",
+      "winwintoys"
+    ],
+    "createdAt": "2026-09-14T00:00:00.000Z"
+  },
+  {
+    "id": "prod-356",
+    "name": "Máy hút sữa Spectra",
+    "slug": "may-hut-sua-spectra-356",
+    "price": 2550000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-356/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-356/800/800",
+    "description": "Máy hút sữa điện mô phỏng nhịp bú tự nhiên. Hút êm hiệu quả. Có thể sạc pin. Dễ tháo lắp vệ sinh. Phù hợp mẹ bận rộn.",
+    "brand": "Spectra",
+    "sku": "SPE-0356-CHI",
+    "originalPrice": 2770000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Máy hút sữa điện đôi êm ái hiệu quả cao.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-356-a/800/800",
+      "https://picsum.photos/seed/prod-356-b/800/800",
+      "https://picsum.photos/seed/prod-356-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Điện đơn / đôi",
+      "Công nghệ": "Mô phỏng nhịp bú",
+      "Pin": "Sạc được",
+      "Âm thanh": "Êm"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 874
+    },
+    "stock": 309,
+    "soldCount": 1106,
+    "weight": 880,
+    "dimensions": {
+      "length": 24.1,
+      "width": 14.8,
+      "height": 13.2
+    },
+    "origin": "Thụy Sĩ / Hàn Quốc / Hà Lan",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "máy hút sữa",
+      "mẹ và bé",
+      "điện",
+      "spectra"
+    ],
+    "createdAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "prod-357",
+    "name": "Ghế ngồi ô tô Joie 2025",
+    "slug": "ghe-ngoi-o-to-joie-2025-357",
+    "price": 7120000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-357/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-357/800/800",
+    "description": "Ghế ô tô đạt chuẩn an toàn châu Âu. Hỗ trợ nhiều nhóm tuổi. Chống va chạm bên. Lắp Isofix hoặc dây an toàn. Đệm êm dễ vệ sinh.",
+    "brand": "Chicco",
+    "sku": "CHI-0357-CHI",
+    "originalPrice": 8080000,
+    "discountPercent": 12,
+    "unit": "chiếc",
+    "shortDescription": "Ghế ô tô an toàn chuẩn châu Âu chống va chạm bên.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-357-a/800/800",
+      "https://picsum.photos/seed/prod-357-b/800/800",
+      "https://picsum.photos/seed/prod-357-c/800/800"
+    ],
+    "specifications": {
+      "Nhóm": "0+/1/2/3",
+      "Chuẩn": "ECE R44/04 hoặc i-Size",
+      "Lắp đặt": "Isofix / Dây",
+      "Chống va chạm bên": "Có"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 621
+    },
+    "stock": 272,
+    "soldCount": 3251,
+    "weight": 9262,
+    "dimensions": {
+      "length": 55.2,
+      "width": 54.2,
+      "height": 58.7
+    },
+    "origin": "Đức / Trung Quốc / Ý",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "ghế ô tô",
+      "an toàn",
+      "em bé",
+      "chicco"
+    ],
+    "createdAt": "2026-05-02T00:00:00.000Z"
+  },
+  {
+    "id": "prod-358",
+    "name": "Khăn ướt em bé Huggies",
+    "slug": "khan-uot-em-be-huggies-358",
+    "price": 72100,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-358/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-358/800/800",
+    "description": "Khăn ướt công thức dịu nhẹ không cồn không hương liệu. Nắp đậy kín giữ ẩm. Thấm hút tốt. An toàn cho da nhạy cảm của bé.",
+    "brand": "Bobby",
+    "sku": "BOB-0358-BỊC",
+    "originalPrice": 85074,
+    "discountPercent": 15,
+    "unit": "bịch",
+    "shortDescription": "Khăn ướt dịu nhẹ không mùi không cồn cho da nhạy cảm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-358-a/800/800",
+      "https://picsum.photos/seed/prod-358-b/800/800",
+      "https://picsum.photos/seed/prod-358-c/800/800"
+    ],
+    "specifications": {
+      "Số tờ": "80-100",
+      "Mùi": "Không / Dịu",
+      "Công thức": "Không cồn",
+      "Phù hợp": "Da nhạy cảm"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 824
+    },
+    "stock": 151,
+    "soldCount": 3603,
+    "weight": 494,
+    "dimensions": {
+      "length": 19.7,
+      "width": 9.2,
+      "height": 4.6
+    },
+    "origin": "Việt Nam / Nhật Bản / Thái Lan",
+    "warranty": "Theo HSD",
+    "tags": [
+      "khăn ướt",
+      "em bé",
+      "dịu nhẹ",
+      "bobby"
+    ],
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-359",
+    "name": "Nôi điện / Võng tự động Tiny Love",
+    "slug": "noi-dien-vong-tu-dong-tiny-love-359",
+    "price": 4700000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-359/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-359/800/800",
+    "description": "Nôi điện hoặc võng tự động nhiều chế độ đưa. Tích hợp nhạc trắng đèn ngủ. Điều khiển từ xa. Lưới thoáng khí. Tải trọng phù hợp bé.",
+    "brand": "Tiny Love",
+    "sku": "TIN-0359-CHI",
+    "originalPrice": 5600000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Nôi điện nhiều chế độ đưa nhạc trắng điều khiển từ xa.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-359-a/800/800",
+      "https://picsum.photos/seed/prod-359-b/800/800",
+      "https://picsum.photos/seed/prod-359-c/800/800"
+    ],
+    "specifications": {
+      "Chế độ đưa": "3-5",
+      "Nhạc": "Nhạc trắng",
+      "Điều khiển": "Remote",
+      "Tải trọng": "12-15kg"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 643
+    },
+    "stock": 210,
+    "soldCount": 208,
+    "weight": 9686,
+    "dimensions": {
+      "length": 86.9,
+      "width": 49.9,
+      "height": 62.1
+    },
+    "origin": "Trung Quốc / Ý / Mỹ",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "nôi điện",
+      "võng tự động",
+      "em bé",
+      "tiny-love"
+    ],
+    "createdAt": "2026-04-26T00:00:00.000Z"
+  },
+  {
+    "id": "prod-360",
+    "name": "Yếm ăn / Đồ dùng ăn dặm Chicco",
+    "slug": "yem-an-do-dung-an-dam-chicco-360",
+    "price": 115000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-360/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-360/800/800",
+    "description": "Yếm silicone có máng hứng hoặc bộ thìa bát ăn dặm. Chất liệu an toàn không BPA. Dễ vệ sinh máy rửa bát được. Thiết kế dễ thương.",
+    "brand": "Avent",
+    "sku": "AVE-0360-BỘ",
+    "originalPrice": 139000,
+    "discountPercent": 17,
+    "unit": "bộ",
+    "shortDescription": "Yếm silicone / bộ đồ dùng ăn dặm an toàn dễ vệ sinh.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-360-a/800/800",
+      "https://picsum.photos/seed/prod-360-b/800/800",
+      "https://picsum.photos/seed/prod-360-c/800/800"
+    ],
+    "specifications": {
+      "Chất liệu": "Silicone / Nhựa an toàn",
+      "Không BPA": "Có",
+      "Vệ sinh": "Máy rửa bát",
+      "Độ tuổi": "6 tháng+"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 338
+    },
+    "stock": 148,
+    "soldCount": 3502,
+    "weight": 285,
+    "dimensions": {
+      "length": 19.1,
+      "width": 14.6,
+      "height": 4.8
+    },
+    "origin": "Thái Lan / Hà Lan / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "yếm ăn",
+      "ăn dặm",
+      "mẹ và bé",
+      "avent"
+    ],
+    "createdAt": "2026-05-20T00:00:00.000Z"
+  },
+  {
+    "id": "prod-361",
+    "name": "Tã quần Huggies size L Mini",
+    "slug": "ta-quan-huggies-size-l-mini-361",
+    "price": 260000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-361/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-361/800/800",
+    "description": "Tã quần thấm hút vượt trội chống tràn hiệu quả. Lớp bề mặt mềm mại không kích ứng. Co giãn 4 chiều dễ mặc. Thoáng khí giữ da bé khô.",
+    "brand": "Merries",
+    "sku": "MER-0361-BỊC",
+    "originalPrice": 313000,
+    "discountPercent": 17,
+    "unit": "bịch",
+    "shortDescription": "Tã quần siêu thấm chống tràn thoáng khí cho bé.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-361-a/800/800",
+      "https://picsum.photos/seed/prod-361-b/800/800",
+      "https://picsum.photos/seed/prod-361-c/800/800"
+    ],
+    "specifications": {
+      "Size": "M-XXL",
+      "Công nghệ": "Siêu thấm chống tràn",
+      "Đặc điểm": "Thoáng khí mềm mại"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 778
+    },
+    "stock": 253,
+    "soldCount": 3160,
+    "weight": 1419,
+    "dimensions": {
+      "length": 36.0,
+      "width": 23.4,
+      "height": 17.0
+    },
+    "origin": "Việt Nam / Nhật Bản / Thái Lan",
+    "warranty": "Đổi trả nếu lỗi NSX",
+    "tags": [
+      "tã quần",
+      "mẹ và bé",
+      "siêu thấm",
+      "merries"
+    ],
+    "createdAt": "2026-05-27T00:00:00.000Z"
+  },
+  {
+    "id": "prod-362",
+    "name": "Sữa bột Friso số 1",
+    "slug": "sua-bot-friso-so-1-362",
+    "price": 323000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-362/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-362/800/800",
+    "description": "Sữa bột công thức gần sữa mẹ. Bổ sung DHA và dưỡng chất hỗ trợ phát triển trí não và thể chất. Dễ tiêu hóa. Hương vị dễ uống.",
+    "brand": "Similac",
+    "sku": "SIM-0362-HỘP",
+    "originalPrice": 366000,
+    "discountPercent": 12,
+    "unit": "hộp",
+    "shortDescription": "Sữa bột dinh dưỡng cho trẻ nhỏ bổ sung DHA.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-362-a/800/800",
+      "https://picsum.photos/seed/prod-362-b/800/800",
+      "https://picsum.photos/seed/prod-362-c/800/800"
+    ],
+    "specifications": {
+      "Độ tuổi": "0-6 / 6-12 / 1-3 tuổi",
+      "Thành phần": "DHA Prebiotic",
+      "Dạng": "Bột"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 197
+    },
+    "stock": 103,
+    "soldCount": 3634,
+    "weight": 659,
+    "dimensions": {
+      "length": 13.7,
+      "width": 14.8,
+      "height": 18.1
+    },
+    "origin": "Hà Lan / Mỹ / Singapore",
+    "warranty": "Theo HSD",
+    "tags": [
+      "sữa bột",
+      "trẻ em",
+      "dha",
+      "dinh dưỡng",
+      "similac"
+    ],
+    "createdAt": "2026-08-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-363",
+    "name": "Bình sữa Avent 120ml Mini",
+    "slug": "binh-sua-avent-120ml-mini-363",
+    "price": 338000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-363/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-363/800/800",
+    "description": "Bình sữa chất liệu PPSU hoặc thủy tinh an toàn không BPA. Núm ti silicone mềm chống sặc. Thang đo rõ. Dễ vệ sinh.",
+    "brand": "Pigeon",
+    "sku": "PIG-0363-CHI",
+    "originalPrice": 406000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Bình sữa chống sặc chất liệu an toàn núm ti mềm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-363-a/800/800",
+      "https://picsum.photos/seed/prod-363-b/800/800",
+      "https://picsum.photos/seed/prod-363-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "120-300ml",
+      "Chất liệu": "PPSU / Thủy tinh",
+      "Núm ti": "Silicone chống sặc",
+      "Không BPA": "Có"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 717
+    },
+    "stock": 20,
+    "soldCount": 1040,
+    "weight": 115,
+    "dimensions": {
+      "length": 6.8,
+      "width": 6.9,
+      "height": 15.7
+    },
+    "origin": "Nhật Bản / Hà Lan / Mỹ",
+    "warranty": "12 tháng",
+    "tags": [
+      "bình sữa",
+      "chống sặc",
+      "mẹ và bé",
+      "pigeon"
+    ],
+    "createdAt": "2026-04-20T00:00:00.000Z"
+  },
+  {
+    "id": "prod-364",
+    "name": "Xe đẩy em bé Cybex",
+    "slug": "xe-day-em-be-cybex-364",
+    "price": 10950000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-364/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-364/800/800",
+    "description": "Xe đẩy thiết kế 2 chiều hoặc gấp gọn một chạm. Mái che chống UV. Đệm êm bánh giảm xóc. Phanh an toàn. Từ sơ sinh đến 3-4 tuổi.",
+    "brand": "Combi",
+    "sku": "COM-0364-CHI",
+    "originalPrice": 12920000,
+    "discountPercent": 15,
+    "unit": "chiếc",
+    "shortDescription": "Xe đẩy 2 chiều gấp gọn chống UV tải trọng cao.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-364-a/800/800",
+      "https://picsum.photos/seed/prod-364-b/800/800",
+      "https://picsum.photos/seed/prod-364-c/800/800"
+    ],
+    "specifications": {
+      "Hướng": "1-2 chiều",
+      "Gấp": "Một chạm / Gọn",
+      "Tải trọng": "15-22kg",
+      "Chống UV": "UPF50+"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 112
+    },
+    "stock": 150,
+    "soldCount": 162,
+    "weight": 8865,
+    "dimensions": {
+      "length": 87.2,
+      "width": 58.7,
+      "height": 28.6
+    },
+    "origin": "Nhật Bản / Đức / Trung Quốc",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "xe đẩy",
+      "em bé",
+      "gấp gọn",
+      "combi"
+    ],
+    "createdAt": "2026-04-23T00:00:00.000Z"
+  },
+  {
+    "id": "prod-365",
+    "name": "Đồ chơi xếp hình Winwintoys 2026",
+    "slug": "do-choi-xep-hinh-winwintoys-2026-365",
+    "price": 563000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-365/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-365/800/800",
+    "description": "Bộ xếp hình chất liệu an toàn. Nhiều chi tiết kích thích sáng tạo và tư duy logic. Phù hợp nhiều độ tuổi. Màu sắc tươi sáng.",
+    "brand": "Lego",
+    "sku": "LEG-0365-HỘP",
+    "originalPrice": 670000,
+    "discountPercent": 16,
+    "unit": "hộp",
+    "shortDescription": "Đồ chơi xếp hình phát triển tư duy vận động tinh.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-365-a/800/800",
+      "https://picsum.photos/seed/prod-365-b/800/800",
+      "https://picsum.photos/seed/prod-365-c/800/800"
+    ],
+    "specifications": {
+      "Số chi tiết": "20-200",
+      "Chất liệu": "Gỗ / Nhựa ABS",
+      "Độ tuổi": "1-6 tuổi",
+      "Phát triển": "Tư duy vận động"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 805
+    },
+    "stock": 9,
+    "soldCount": 1991,
+    "weight": 723,
+    "dimensions": {
+      "length": 23.8,
+      "width": 19.6,
+      "height": 7.2
+    },
+    "origin": "Việt Nam / Đan Mạch / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "đồ chơi",
+      "xếp hình",
+      "phát triển tư duy",
+      "lego"
+    ],
+    "createdAt": "2026-09-05T00:00:00.000Z"
+  },
+  {
+    "id": "prod-366",
+    "name": "Máy hút sữa Spectra",
+    "slug": "may-hut-sua-spectra-366",
+    "price": 1560000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-366/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-366/800/800",
+    "description": "Máy hút sữa điện mô phỏng nhịp bú tự nhiên. Hút êm hiệu quả. Có thể sạc pin. Dễ tháo lắp vệ sinh. Phù hợp mẹ bận rộn.",
+    "brand": "Rozzano",
+    "sku": "ROZ-0366-CHI",
+    "originalPrice": 1740000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Máy hút sữa điện đôi êm ái hiệu quả cao.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-366-a/800/800",
+      "https://picsum.photos/seed/prod-366-b/800/800",
+      "https://picsum.photos/seed/prod-366-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Điện đơn / đôi",
+      "Công nghệ": "Mô phỏng nhịp bú",
+      "Pin": "Sạc được",
+      "Âm thanh": "Êm"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 453
+    },
+    "stock": 197,
+    "soldCount": 3538,
+    "weight": 1422,
+    "dimensions": {
+      "length": 23.3,
+      "width": 14.4,
+      "height": 13.1
+    },
+    "origin": "Thụy Sĩ / Hàn Quốc / Hà Lan",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "máy hút sữa",
+      "mẹ và bé",
+      "điện",
+      "rozzano"
+    ],
+    "createdAt": "2026-04-14T00:00:00.000Z"
+  },
+  {
+    "id": "prod-367",
+    "name": "Ghế ngồi ô tô Chicco Mini",
+    "slug": "ghe-ngoi-o-to-chicco-mini-367",
+    "price": 8170000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-367/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-367/800/800",
+    "description": "Ghế ô tô đạt chuẩn an toàn châu Âu. Hỗ trợ nhiều nhóm tuổi. Chống va chạm bên. Lắp Isofix hoặc dây an toàn. Đệm êm dễ vệ sinh.",
+    "brand": "Britax",
+    "sku": "BRI-0367-CHI",
+    "originalPrice": 9550000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Ghế ô tô an toàn chuẩn châu Âu chống va chạm bên.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-367-a/800/800",
+      "https://picsum.photos/seed/prod-367-b/800/800",
+      "https://picsum.photos/seed/prod-367-c/800/800"
+    ],
+    "specifications": {
+      "Nhóm": "0+/1/2/3",
+      "Chuẩn": "ECE R44/04 hoặc i-Size",
+      "Lắp đặt": "Isofix / Dây",
+      "Chống va chạm bên": "Có"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 879
+    },
+    "stock": 196,
+    "soldCount": 2349,
+    "weight": 10253,
+    "dimensions": {
+      "length": 55.9,
+      "width": 45.1,
+      "height": 71.5
+    },
+    "origin": "Đức / Trung Quốc / Ý",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "ghế ô tô",
+      "an toàn",
+      "em bé",
+      "britax"
+    ],
+    "createdAt": "2026-06-29T00:00:00.000Z"
+  },
+  {
+    "id": "prod-368",
+    "name": "Khăn ướt em bé Mamamy",
+    "slug": "khan-uot-em-be-mamamy-368",
+    "price": 79900,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-368/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-368/800/800",
+    "description": "Khăn ướt công thức dịu nhẹ không cồn không hương liệu. Nắp đậy kín giữ ẩm. Thấm hút tốt. An toàn cho da nhạy cảm của bé.",
+    "brand": "Merries",
+    "sku": "MER-0368-BỊC",
+    "originalPrice": 87760,
+    "discountPercent": 9,
+    "unit": "bịch",
+    "shortDescription": "Khăn ướt dịu nhẹ không mùi không cồn cho da nhạy cảm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-368-a/800/800",
+      "https://picsum.photos/seed/prod-368-b/800/800",
+      "https://picsum.photos/seed/prod-368-c/800/800"
+    ],
+    "specifications": {
+      "Số tờ": "80-100",
+      "Mùi": "Không / Dịu",
+      "Công thức": "Không cồn",
+      "Phù hợp": "Da nhạy cảm"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 691
+    },
+    "stock": 338,
+    "soldCount": 1273,
+    "weight": 316,
+    "dimensions": {
+      "length": 17.4,
+      "width": 9.6,
+      "height": 4.8
+    },
+    "origin": "Việt Nam / Nhật Bản / Thái Lan",
+    "warranty": "Theo HSD",
+    "tags": [
+      "khăn ướt",
+      "em bé",
+      "dịu nhẹ",
+      "merries"
+    ],
+    "createdAt": "2026-03-04T00:00:00.000Z"
+  },
+  {
+    "id": "prod-369",
+    "name": "Nôi điện / Võng tự động Chicco",
+    "slug": "noi-dien-vong-tu-dong-chicco-369",
+    "price": 1970000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-369/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-369/800/800",
+    "description": "Nôi điện hoặc võng tự động nhiều chế độ đưa. Tích hợp nhạc trắng đèn ngủ. Điều khiển từ xa. Lưới thoáng khí. Tải trọng phù hợp bé.",
+    "brand": "Chicco",
+    "sku": "CHI-0369-CHI",
+    "originalPrice": 2400000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Nôi điện nhiều chế độ đưa nhạc trắng điều khiển từ xa.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-369-a/800/800",
+      "https://picsum.photos/seed/prod-369-b/800/800",
+      "https://picsum.photos/seed/prod-369-c/800/800"
+    ],
+    "specifications": {
+      "Chế độ đưa": "3-5",
+      "Nhạc": "Nhạc trắng",
+      "Điều khiển": "Remote",
+      "Tải trọng": "12-15kg"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 529
+    },
+    "stock": 156,
+    "soldCount": 1112,
+    "weight": 9915,
+    "dimensions": {
+      "length": 83.4,
+      "width": 53.0,
+      "height": 60.3
+    },
+    "origin": "Trung Quốc / Ý / Mỹ",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "nôi điện",
+      "võng tự động",
+      "em bé",
+      "chicco"
+    ],
+    "createdAt": "2026-09-04T00:00:00.000Z"
+  },
+  {
+    "id": "prod-370",
+    "name": "Yếm ăn / Đồ dùng ăn dặm Pigeon",
+    "slug": "yem-an-do-dung-an-dam-pigeon-370",
+    "price": 293000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-370/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-370/800/800",
+    "description": "Yếm silicone có máng hứng hoặc bộ thìa bát ăn dặm. Chất liệu an toàn không BPA. Dễ vệ sinh máy rửa bát được. Thiết kế dễ thương.",
+    "brand": "Pigeon",
+    "sku": "PIG-0370-BỘ",
+    "originalPrice": 353000,
+    "discountPercent": 17,
+    "unit": "bộ",
+    "shortDescription": "Yếm silicone / bộ đồ dùng ăn dặm an toàn dễ vệ sinh.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-370-a/800/800",
+      "https://picsum.photos/seed/prod-370-b/800/800",
+      "https://picsum.photos/seed/prod-370-c/800/800"
+    ],
+    "specifications": {
+      "Chất liệu": "Silicone / Nhựa an toàn",
+      "Không BPA": "Có",
+      "Vệ sinh": "Máy rửa bát",
+      "Độ tuổi": "6 tháng+"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 247
+    },
+    "stock": 278,
+    "soldCount": 2664,
+    "weight": 199,
+    "dimensions": {
+      "length": 20.8,
+      "width": 15.2,
+      "height": 4.7
+    },
+    "origin": "Thái Lan / Hà Lan / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "yếm ăn",
+      "ăn dặm",
+      "mẹ và bé",
+      "pigeon"
+    ],
+    "createdAt": "2026-08-03T00:00:00.000Z"
+  },
+  {
+    "id": "prod-371",
+    "name": "Tã quần Pampers size XL",
+    "slug": "ta-quan-pampers-size-xl-371",
+    "price": 361000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-371/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-371/800/800",
+    "description": "Tã quần thấm hút vượt trội chống tràn hiệu quả. Lớp bề mặt mềm mại không kích ứng. Co giãn 4 chiều dễ mặc. Thoáng khí giữ da bé khô.",
+    "brand": "Bobby",
+    "sku": "BOB-0371-BỊC",
+    "originalPrice": 444000,
+    "discountPercent": 19,
+    "unit": "bịch",
+    "shortDescription": "Tã quần siêu thấm chống tràn thoáng khí cho bé.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-371-a/800/800",
+      "https://picsum.photos/seed/prod-371-b/800/800",
+      "https://picsum.photos/seed/prod-371-c/800/800"
+    ],
+    "specifications": {
+      "Size": "M-XXL",
+      "Công nghệ": "Siêu thấm chống tràn",
+      "Đặc điểm": "Thoáng khí mềm mại"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 592
+    },
+    "stock": 98,
+    "soldCount": 3928,
+    "weight": 985,
+    "dimensions": {
+      "length": 33.6,
+      "width": 24.9,
+      "height": 18.9
+    },
+    "origin": "Việt Nam / Nhật Bản / Thái Lan",
+    "warranty": "Đổi trả nếu lỗi NSX",
+    "tags": [
+      "tã quần",
+      "mẹ và bé",
+      "siêu thấm",
+      "bobby"
+    ],
+    "createdAt": "2026-07-08T00:00:00.000Z"
+  },
+  {
+    "id": "prod-372",
+    "name": "Sữa bột Friso số 3 Plus",
+    "slug": "sua-bot-friso-so-3-plus-372",
+    "price": 679000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-372/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-372/800/800",
+    "description": "Sữa bột công thức gần sữa mẹ. Bổ sung DHA và dưỡng chất hỗ trợ phát triển trí não và thể chất. Dễ tiêu hóa. Hương vị dễ uống.",
+    "brand": "Similac",
+    "sku": "SIM-0372-HỘP",
+    "originalPrice": 834000,
+    "discountPercent": 19,
+    "unit": "hộp",
+    "shortDescription": "Sữa bột dinh dưỡng cho trẻ nhỏ bổ sung DHA.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-372-a/800/800",
+      "https://picsum.photos/seed/prod-372-b/800/800",
+      "https://picsum.photos/seed/prod-372-c/800/800"
+    ],
+    "specifications": {
+      "Độ tuổi": "0-6 / 6-12 / 1-3 tuổi",
+      "Thành phần": "DHA Prebiotic",
+      "Dạng": "Bột"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 891
+    },
+    "stock": 65,
+    "soldCount": 1977,
+    "weight": 615,
+    "dimensions": {
+      "length": 14.8,
+      "width": 13.5,
+      "height": 17.1
+    },
+    "origin": "Hà Lan / Mỹ / Singapore",
+    "warranty": "Theo HSD",
+    "tags": [
+      "sữa bột",
+      "trẻ em",
+      "dha",
+      "dinh dưỡng",
+      "similac"
+    ],
+    "createdAt": "2026-01-28T00:00:00.000Z"
+  },
+  {
+    "id": "prod-373",
+    "name": "Bình sữa Dr Brown 120ml",
+    "slug": "binh-sua-dr-brown-120ml-373",
+    "price": 411000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-373/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-373/800/800",
+    "description": "Bình sữa chất liệu PPSU hoặc thủy tinh an toàn không BPA. Núm ti silicone mềm chống sặc. Thang đo rõ. Dễ vệ sinh.",
+    "brand": "Avent",
+    "sku": "AVE-0373-CHI",
+    "originalPrice": 452000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Bình sữa chống sặc chất liệu an toàn núm ti mềm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-373-a/800/800",
+      "https://picsum.photos/seed/prod-373-b/800/800",
+      "https://picsum.photos/seed/prod-373-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "120-300ml",
+      "Chất liệu": "PPSU / Thủy tinh",
+      "Núm ti": "Silicone chống sặc",
+      "Không BPA": "Có"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 160
+    },
+    "stock": 107,
+    "soldCount": 1453,
+    "weight": 167,
+    "dimensions": {
+      "length": 6.8,
+      "width": 6.7,
+      "height": 14.6
+    },
+    "origin": "Nhật Bản / Hà Lan / Mỹ",
+    "warranty": "12 tháng",
+    "tags": [
+      "bình sữa",
+      "chống sặc",
+      "mẹ và bé",
+      "avent"
+    ],
+    "createdAt": "2026-04-29T00:00:00.000Z"
+  },
+  {
+    "id": "prod-374",
+    "name": "Xe đẩy em bé Babyzen",
+    "slug": "xe-day-em-be-babyzen-374",
+    "price": 5390000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-374/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-374/800/800",
+    "description": "Xe đẩy thiết kế 2 chiều hoặc gấp gọn một chạm. Mái che chống UV. Đệm êm bánh giảm xóc. Phanh an toàn. Từ sơ sinh đến 3-4 tuổi.",
+    "brand": "Cybex",
+    "sku": "CYB-0374-CHI",
+    "originalPrice": 6110000,
+    "discountPercent": 12,
+    "unit": "chiếc",
+    "shortDescription": "Xe đẩy 2 chiều gấp gọn chống UV tải trọng cao.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-374-a/800/800",
+      "https://picsum.photos/seed/prod-374-b/800/800",
+      "https://picsum.photos/seed/prod-374-c/800/800"
+    ],
+    "specifications": {
+      "Hướng": "1-2 chiều",
+      "Gấp": "Một chạm / Gọn",
+      "Tải trọng": "15-22kg",
+      "Chống UV": "UPF50+"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 340
+    },
+    "stock": 329,
+    "soldCount": 287,
+    "weight": 11862,
+    "dimensions": {
+      "length": 84.2,
+      "width": 50.4,
+      "height": 29.0
+    },
+    "origin": "Nhật Bản / Đức / Trung Quốc",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "xe đẩy",
+      "em bé",
+      "gấp gọn",
+      "cybex"
+    ],
+    "createdAt": "2026-01-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-375",
+    "name": "Đồ chơi xếp hình Toys House phiên bản mới",
+    "slug": "do-choi-xep-hinh-toys-house-phien-ban-moi-375",
+    "price": 431000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-375/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-375/800/800",
+    "description": "Bộ xếp hình chất liệu an toàn. Nhiều chi tiết kích thích sáng tạo và tư duy logic. Phù hợp nhiều độ tuổi. Màu sắc tươi sáng.",
+    "brand": "Chicco",
+    "sku": "CHI-0375-HỘP",
+    "originalPrice": 501000,
+    "discountPercent": 14,
+    "unit": "hộp",
+    "shortDescription": "Đồ chơi xếp hình phát triển tư duy vận động tinh.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-375-a/800/800",
+      "https://picsum.photos/seed/prod-375-b/800/800",
+      "https://picsum.photos/seed/prod-375-c/800/800"
+    ],
+    "specifications": {
+      "Số chi tiết": "20-200",
+      "Chất liệu": "Gỗ / Nhựa ABS",
+      "Độ tuổi": "1-6 tuổi",
+      "Phát triển": "Tư duy vận động"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 508
+    },
+    "stock": 201,
+    "soldCount": 69,
+    "weight": 480,
+    "dimensions": {
+      "length": 23.1,
+      "width": 19.7,
+      "height": 7.9
+    },
+    "origin": "Việt Nam / Đan Mạch / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "đồ chơi",
+      "xếp hình",
+      "phát triển tư duy",
+      "chicco"
+    ],
+    "createdAt": "2026-01-24T00:00:00.000Z"
+  },
+  {
+    "id": "prod-376",
+    "name": "Máy hút sữa Rozzano Plus",
+    "slug": "may-hut-sua-rozzano-plus-376",
+    "price": 4190000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-376/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-376/800/800",
+    "description": "Máy hút sữa điện mô phỏng nhịp bú tự nhiên. Hút êm hiệu quả. Có thể sạc pin. Dễ tháo lắp vệ sinh. Phù hợp mẹ bận rộn.",
+    "brand": "Medela",
+    "sku": "MED-0376-CHI",
+    "originalPrice": 5060000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Máy hút sữa điện đôi êm ái hiệu quả cao.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-376-a/800/800",
+      "https://picsum.photos/seed/prod-376-b/800/800",
+      "https://picsum.photos/seed/prod-376-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Điện đơn / đôi",
+      "Công nghệ": "Mô phỏng nhịp bú",
+      "Pin": "Sạc được",
+      "Âm thanh": "Êm"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 730
+    },
+    "stock": 181,
+    "soldCount": 1328,
+    "weight": 1343,
+    "dimensions": {
+      "length": 20.6,
+      "width": 15.5,
+      "height": 12.3
+    },
+    "origin": "Thụy Sĩ / Hàn Quốc / Hà Lan",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "máy hút sữa",
+      "mẹ và bé",
+      "điện",
+      "medela"
+    ],
+    "createdAt": "2026-02-17T00:00:00.000Z"
+  },
+  {
+    "id": "prod-377",
+    "name": "Ghế ngồi ô tô Joie 2026",
+    "slug": "ghe-ngoi-o-to-joie-2026-377",
+    "price": 3890000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-377/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-377/800/800",
+    "description": "Ghế ô tô đạt chuẩn an toàn châu Âu. Hỗ trợ nhiều nhóm tuổi. Chống va chạm bên. Lắp Isofix hoặc dây an toàn. Đệm êm dễ vệ sinh.",
+    "brand": "Britax",
+    "sku": "BRI-0377-CHI",
+    "originalPrice": 4240000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Ghế ô tô an toàn chuẩn châu Âu chống va chạm bên.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-377-a/800/800",
+      "https://picsum.photos/seed/prod-377-b/800/800",
+      "https://picsum.photos/seed/prod-377-c/800/800"
+    ],
+    "specifications": {
+      "Nhóm": "0+/1/2/3",
+      "Chuẩn": "ECE R44/04 hoặc i-Size",
+      "Lắp đặt": "Isofix / Dây",
+      "Chống va chạm bên": "Có"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 365
+    },
+    "stock": 227,
+    "soldCount": 3687,
+    "weight": 7374,
+    "dimensions": {
+      "length": 52.8,
+      "width": 47.9,
+      "height": 68.0
+    },
+    "origin": "Đức / Trung Quốc / Ý",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "ghế ô tô",
+      "an toàn",
+      "em bé",
+      "britax"
+    ],
+    "createdAt": "2026-07-09T00:00:00.000Z"
+  },
+  {
+    "id": "prod-378",
+    "name": "Khăn ướt em bé Bobby Mini",
+    "slug": "khan-uot-em-be-bobby-mini-378",
+    "price": 84200,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-378/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-378/800/800",
+    "description": "Khăn ướt công thức dịu nhẹ không cồn không hương liệu. Nắp đậy kín giữ ẩm. Thấm hút tốt. An toàn cho da nhạy cảm của bé.",
+    "brand": "Merries",
+    "sku": "MER-0378-BỊC",
+    "originalPrice": 93633,
+    "discountPercent": 10,
+    "unit": "bịch",
+    "shortDescription": "Khăn ướt dịu nhẹ không mùi không cồn cho da nhạy cảm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-378-a/800/800",
+      "https://picsum.photos/seed/prod-378-b/800/800",
+      "https://picsum.photos/seed/prod-378-c/800/800"
+    ],
+    "specifications": {
+      "Số tờ": "80-100",
+      "Mùi": "Không / Dịu",
+      "Công thức": "Không cồn",
+      "Phù hợp": "Da nhạy cảm"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 42
+    },
+    "stock": 306,
+    "soldCount": 2116,
+    "weight": 403,
+    "dimensions": {
+      "length": 16.3,
+      "width": 9.4,
+      "height": 5.5
+    },
+    "origin": "Việt Nam / Nhật Bản / Thái Lan",
+    "warranty": "Theo HSD",
+    "tags": [
+      "khăn ướt",
+      "em bé",
+      "dịu nhẹ",
+      "merries"
+    ],
+    "createdAt": "2026-02-27T00:00:00.000Z"
+  },
+  {
+    "id": "prod-379",
+    "name": "Nôi điện / Võng tự động Mastela",
+    "slug": "noi-dien-vong-tu-dong-mastela-379",
+    "price": 3640000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-379/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-379/800/800",
+    "description": "Nôi điện hoặc võng tự động nhiều chế độ đưa. Tích hợp nhạc trắng đèn ngủ. Điều khiển từ xa. Lưới thoáng khí. Tải trọng phù hợp bé.",
+    "brand": "Fisher-Price",
+    "sku": "FIS-0379-CHI",
+    "originalPrice": 4410000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Nôi điện nhiều chế độ đưa nhạc trắng điều khiển từ xa.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-379-a/800/800",
+      "https://picsum.photos/seed/prod-379-b/800/800",
+      "https://picsum.photos/seed/prod-379-c/800/800"
+    ],
+    "specifications": {
+      "Chế độ đưa": "3-5",
+      "Nhạc": "Nhạc trắng",
+      "Điều khiển": "Remote",
+      "Tải trọng": "12-15kg"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 69
+    },
+    "stock": 64,
+    "soldCount": 1757,
+    "weight": 5398,
+    "dimensions": {
+      "length": 86.6,
+      "width": 50.0,
+      "height": 59.9
+    },
+    "origin": "Trung Quốc / Ý / Mỹ",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "nôi điện",
+      "võng tự động",
+      "em bé",
+      "fisher-price"
+    ],
+    "createdAt": "2026-05-08T00:00:00.000Z"
+  },
+  {
+    "id": "prod-380",
+    "name": "Yếm ăn / Đồ dùng ăn dặm Pigeon",
+    "slug": "yem-an-do-dung-an-dam-pigeon-380",
+    "price": 376000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-380/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-380/800/800",
+    "description": "Yếm silicone có máng hứng hoặc bộ thìa bát ăn dặm. Chất liệu an toàn không BPA. Dễ vệ sinh máy rửa bát được. Thiết kế dễ thương.",
+    "brand": "Marcus & Marcus",
+    "sku": "MAR-0380-BỘ",
+    "originalPrice": 422000,
+    "discountPercent": 11,
+    "unit": "bộ",
+    "shortDescription": "Yếm silicone / bộ đồ dùng ăn dặm an toàn dễ vệ sinh.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-380-a/800/800",
+      "https://picsum.photos/seed/prod-380-b/800/800",
+      "https://picsum.photos/seed/prod-380-c/800/800"
+    ],
+    "specifications": {
+      "Chất liệu": "Silicone / Nhựa an toàn",
+      "Không BPA": "Có",
+      "Vệ sinh": "Máy rửa bát",
+      "Độ tuổi": "6 tháng+"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 697
+    },
+    "stock": 56,
+    "soldCount": 2763,
+    "weight": 229,
+    "dimensions": {
+      "length": 18.6,
+      "width": 15.6,
+      "height": 5.1
+    },
+    "origin": "Thái Lan / Hà Lan / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "yếm ăn",
+      "ăn dặm",
+      "mẹ và bé",
+      "marcus-marcus"
+    ],
+    "createdAt": "2026-05-28T00:00:00.000Z"
+  },
+  {
+    "id": "prod-381",
+    "name": "Tã quần Merries size L",
+    "slug": "ta-quan-merries-size-l-381",
+    "price": 323000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-381/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-381/800/800",
+    "description": "Tã quần thấm hút vượt trội chống tràn hiệu quả. Lớp bề mặt mềm mại không kích ứng. Co giãn 4 chiều dễ mặc. Thoáng khí giữ da bé khô.",
+    "brand": "Huggies",
+    "sku": "HUG-0381-BỊC",
+    "originalPrice": 388000,
+    "discountPercent": 17,
+    "unit": "bịch",
+    "shortDescription": "Tã quần siêu thấm chống tràn thoáng khí cho bé.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-381-a/800/800",
+      "https://picsum.photos/seed/prod-381-b/800/800",
+      "https://picsum.photos/seed/prod-381-c/800/800"
+    ],
+    "specifications": {
+      "Size": "M-XXL",
+      "Công nghệ": "Siêu thấm chống tràn",
+      "Đặc điểm": "Thoáng khí mềm mại"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 816
+    },
+    "stock": 139,
+    "soldCount": 3455,
+    "weight": 920,
+    "dimensions": {
+      "length": 33.5,
+      "width": 26.4,
+      "height": 18.0
+    },
+    "origin": "Việt Nam / Nhật Bản / Thái Lan",
+    "warranty": "Đổi trả nếu lỗi NSX",
+    "tags": [
+      "tã quần",
+      "mẹ và bé",
+      "siêu thấm",
+      "huggies"
+    ],
+    "createdAt": "2026-05-28T00:00:00.000Z"
+  },
+  {
+    "id": "prod-382",
+    "name": "Sữa bột Similac số 2",
+    "slug": "sua-bot-similac-so-2-382",
+    "price": 373000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-382/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-382/800/800",
+    "description": "Sữa bột công thức gần sữa mẹ. Bổ sung DHA và dưỡng chất hỗ trợ phát triển trí não và thể chất. Dễ tiêu hóa. Hương vị dễ uống.",
+    "brand": "Friso",
+    "sku": "FRI-0382-HỘP",
+    "originalPrice": 405000,
+    "discountPercent": 8,
+    "unit": "hộp",
+    "shortDescription": "Sữa bột dinh dưỡng cho trẻ nhỏ bổ sung DHA.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-382-a/800/800",
+      "https://picsum.photos/seed/prod-382-b/800/800",
+      "https://picsum.photos/seed/prod-382-c/800/800"
+    ],
+    "specifications": {
+      "Độ tuổi": "0-6 / 6-12 / 1-3 tuổi",
+      "Thành phần": "DHA Prebiotic",
+      "Dạng": "Bột"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 33
+    },
+    "stock": 348,
+    "soldCount": 414,
+    "weight": 654,
+    "dimensions": {
+      "length": 15.1,
+      "width": 14.5,
+      "height": 17.9
+    },
+    "origin": "Hà Lan / Mỹ / Singapore",
+    "warranty": "Theo HSD",
+    "tags": [
+      "sữa bột",
+      "trẻ em",
+      "dha",
+      "dinh dưỡng",
+      "friso"
+    ],
+    "createdAt": "2026-09-04T00:00:00.000Z"
+  },
+  {
+    "id": "prod-383",
+    "name": "Bình sữa Pigeon 300ml cao cấp",
+    "slug": "binh-sua-pigeon-300ml-cao-cap-383",
+    "price": 188000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-383/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-383/800/800",
+    "description": "Bình sữa chất liệu PPSU hoặc thủy tinh an toàn không BPA. Núm ti silicone mềm chống sặc. Thang đo rõ. Dễ vệ sinh.",
+    "brand": "Dr Brown",
+    "sku": "DR -0383-CHI",
+    "originalPrice": 226000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Bình sữa chống sặc chất liệu an toàn núm ti mềm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-383-a/800/800",
+      "https://picsum.photos/seed/prod-383-b/800/800",
+      "https://picsum.photos/seed/prod-383-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "120-300ml",
+      "Chất liệu": "PPSU / Thủy tinh",
+      "Núm ti": "Silicone chống sặc",
+      "Không BPA": "Có"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 290
+    },
+    "stock": 242,
+    "soldCount": 255,
+    "weight": 92,
+    "dimensions": {
+      "length": 7.6,
+      "width": 7.2,
+      "height": 15.9
+    },
+    "origin": "Nhật Bản / Hà Lan / Mỹ",
+    "warranty": "12 tháng",
+    "tags": [
+      "bình sữa",
+      "chống sặc",
+      "mẹ và bé",
+      "dr-brown"
+    ],
+    "createdAt": "2026-02-09T00:00:00.000Z"
+  },
+  {
+    "id": "prod-384",
+    "name": "Xe đẩy em bé Combi",
+    "slug": "xe-day-em-be-combi-384",
+    "price": 9030000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-384/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-384/800/800",
+    "description": "Xe đẩy thiết kế 2 chiều hoặc gấp gọn một chạm. Mái che chống UV. Đệm êm bánh giảm xóc. Phanh an toàn. Từ sơ sinh đến 3-4 tuổi.",
+    "brand": "Joie",
+    "sku": "JOI-0384-CHI",
+    "originalPrice": 10980000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Xe đẩy 2 chiều gấp gọn chống UV tải trọng cao.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-384-a/800/800",
+      "https://picsum.photos/seed/prod-384-b/800/800",
+      "https://picsum.photos/seed/prod-384-c/800/800"
+    ],
+    "specifications": {
+      "Hướng": "1-2 chiều",
+      "Gấp": "Một chạm / Gọn",
+      "Tải trọng": "15-22kg",
+      "Chống UV": "UPF50+"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 29
+    },
+    "stock": 75,
+    "soldCount": 2767,
+    "weight": 8561,
+    "dimensions": {
+      "length": 88.7,
+      "width": 50.8,
+      "height": 32.1
+    },
+    "origin": "Nhật Bản / Đức / Trung Quốc",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "xe đẩy",
+      "em bé",
+      "gấp gọn",
+      "joie"
+    ],
+    "createdAt": "2026-06-29T00:00:00.000Z"
+  },
+  {
+    "id": "prod-385",
+    "name": "Đồ chơi xếp hình Lego Mini",
+    "slug": "do-choi-xep-hinh-lego-mini-385",
+    "price": 662000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-385/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-385/800/800",
+    "description": "Bộ xếp hình chất liệu an toàn. Nhiều chi tiết kích thích sáng tạo và tư duy logic. Phù hợp nhiều độ tuổi. Màu sắc tươi sáng.",
+    "brand": "Chicco",
+    "sku": "CHI-0385-HỘP",
+    "originalPrice": 814000,
+    "discountPercent": 19,
+    "unit": "hộp",
+    "shortDescription": "Đồ chơi xếp hình phát triển tư duy vận động tinh.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-385-a/800/800",
+      "https://picsum.photos/seed/prod-385-b/800/800",
+      "https://picsum.photos/seed/prod-385-c/800/800"
+    ],
+    "specifications": {
+      "Số chi tiết": "20-200",
+      "Chất liệu": "Gỗ / Nhựa ABS",
+      "Độ tuổi": "1-6 tuổi",
+      "Phát triển": "Tư duy vận động"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 487
+    },
+    "stock": 144,
+    "soldCount": 3473,
+    "weight": 490,
+    "dimensions": {
+      "length": 24.4,
+      "width": 19.4,
+      "height": 7.4
+    },
+    "origin": "Việt Nam / Đan Mạch / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "đồ chơi",
+      "xếp hình",
+      "phát triển tư duy",
+      "chicco"
+    ],
+    "createdAt": "2026-04-23T00:00:00.000Z"
+  },
+  {
+    "id": "prod-386",
+    "name": "Máy hút sữa Cimilre",
+    "slug": "may-hut-sua-cimilre-386",
+    "price": 2440000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-386/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-386/800/800",
+    "description": "Máy hút sữa điện mô phỏng nhịp bú tự nhiên. Hút êm hiệu quả. Có thể sạc pin. Dễ tháo lắp vệ sinh. Phù hợp mẹ bận rộn.",
+    "brand": "Spectra",
+    "sku": "SPE-0386-CHI",
+    "originalPrice": 2690000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Máy hút sữa điện đôi êm ái hiệu quả cao.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-386-a/800/800",
+      "https://picsum.photos/seed/prod-386-b/800/800",
+      "https://picsum.photos/seed/prod-386-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Điện đơn / đôi",
+      "Công nghệ": "Mô phỏng nhịp bú",
+      "Pin": "Sạc được",
+      "Âm thanh": "Êm"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 624
+    },
+    "stock": 252,
+    "soldCount": 3336,
+    "weight": 1543,
+    "dimensions": {
+      "length": 20.1,
+      "width": 16.3,
+      "height": 11.2
+    },
+    "origin": "Thụy Sĩ / Hàn Quốc / Hà Lan",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "máy hút sữa",
+      "mẹ và bé",
+      "điện",
+      "spectra"
+    ],
+    "createdAt": "2026-06-09T00:00:00.000Z"
+  },
+  {
+    "id": "prod-387",
+    "name": "Ghế ngồi ô tô Chicco Max",
+    "slug": "ghe-ngoi-o-to-chicco-max-387",
+    "price": 7620000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-387/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-387/800/800",
+    "description": "Ghế ô tô đạt chuẩn an toàn châu Âu. Hỗ trợ nhiều nhóm tuổi. Chống va chạm bên. Lắp Isofix hoặc dây an toàn. Đệm êm dễ vệ sinh.",
+    "brand": "Britax",
+    "sku": "BRI-0387-CHI",
+    "originalPrice": 8270000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Ghế ô tô an toàn chuẩn châu Âu chống va chạm bên.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-387-a/800/800",
+      "https://picsum.photos/seed/prod-387-b/800/800",
+      "https://picsum.photos/seed/prod-387-c/800/800"
+    ],
+    "specifications": {
+      "Nhóm": "0+/1/2/3",
+      "Chuẩn": "ECE R44/04 hoặc i-Size",
+      "Lắp đặt": "Isofix / Dây",
+      "Chống va chạm bên": "Có"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 84
+    },
+    "stock": 138,
+    "soldCount": 2732,
+    "weight": 8070,
+    "dimensions": {
+      "length": 54.8,
+      "width": 49.9,
+      "height": 70.0
+    },
+    "origin": "Đức / Trung Quốc / Ý",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "ghế ô tô",
+      "an toàn",
+      "em bé",
+      "britax"
+    ],
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "prod-388",
+    "name": "Khăn ướt em bé Huggies",
+    "slug": "khan-uot-em-be-huggies-388",
+    "price": 85300,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-388/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-388/800/800",
+    "description": "Khăn ướt công thức dịu nhẹ không cồn không hương liệu. Nắp đậy kín giữ ẩm. Thấm hút tốt. An toàn cho da nhạy cảm của bé.",
+    "brand": "Mamamy",
+    "sku": "MAM-0388-BỊC",
+    "originalPrice": 103000,
+    "discountPercent": 17,
+    "unit": "bịch",
+    "shortDescription": "Khăn ướt dịu nhẹ không mùi không cồn cho da nhạy cảm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-388-a/800/800",
+      "https://picsum.photos/seed/prod-388-b/800/800",
+      "https://picsum.photos/seed/prod-388-c/800/800"
+    ],
+    "specifications": {
+      "Số tờ": "80-100",
+      "Mùi": "Không / Dịu",
+      "Công thức": "Không cồn",
+      "Phù hợp": "Da nhạy cảm"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 555
+    },
+    "stock": 321,
+    "soldCount": 440,
+    "weight": 485,
+    "dimensions": {
+      "length": 18.2,
+      "width": 11.0,
+      "height": 5.2
+    },
+    "origin": "Việt Nam / Nhật Bản / Thái Lan",
+    "warranty": "Theo HSD",
+    "tags": [
+      "khăn ướt",
+      "em bé",
+      "dịu nhẹ",
+      "mamamy"
+    ],
+    "createdAt": "2026-05-05T00:00:00.000Z"
+  },
+  {
+    "id": "prod-389",
+    "name": "Nôi điện / Võng tự động Chicco",
+    "slug": "noi-dien-vong-tu-dong-chicco-389",
+    "price": 2740000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-389/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-389/800/800",
+    "description": "Nôi điện hoặc võng tự động nhiều chế độ đưa. Tích hợp nhạc trắng đèn ngủ. Điều khiển từ xa. Lưới thoáng khí. Tải trọng phù hợp bé.",
+    "brand": "Fisher-Price",
+    "sku": "FIS-0389-CHI",
+    "originalPrice": 3350000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Nôi điện nhiều chế độ đưa nhạc trắng điều khiển từ xa.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-389-a/800/800",
+      "https://picsum.photos/seed/prod-389-b/800/800",
+      "https://picsum.photos/seed/prod-389-c/800/800"
+    ],
+    "specifications": {
+      "Chế độ đưa": "3-5",
+      "Nhạc": "Nhạc trắng",
+      "Điều khiển": "Remote",
+      "Tải trọng": "12-15kg"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 537
+    },
+    "stock": 245,
+    "soldCount": 3539,
+    "weight": 9573,
+    "dimensions": {
+      "length": 91.7,
+      "width": 56.2,
+      "height": 58.7
+    },
+    "origin": "Trung Quốc / Ý / Mỹ",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "nôi điện",
+      "võng tự động",
+      "em bé",
+      "fisher-price"
+    ],
+    "createdAt": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "id": "prod-390",
+    "name": "Yếm ăn / Đồ dùng ăn dặm Avent",
+    "slug": "yem-an-do-dung-an-dam-avent-390",
+    "price": 347000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-390/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-390/800/800",
+    "description": "Yếm silicone có máng hứng hoặc bộ thìa bát ăn dặm. Chất liệu an toàn không BPA. Dễ vệ sinh máy rửa bát được. Thiết kế dễ thương.",
+    "brand": "Marcus & Marcus",
+    "sku": "MAR-0390-BỘ",
+    "originalPrice": 394000,
+    "discountPercent": 12,
+    "unit": "bộ",
+    "shortDescription": "Yếm silicone / bộ đồ dùng ăn dặm an toàn dễ vệ sinh.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-390-a/800/800",
+      "https://picsum.photos/seed/prod-390-b/800/800",
+      "https://picsum.photos/seed/prod-390-c/800/800"
+    ],
+    "specifications": {
+      "Chất liệu": "Silicone / Nhựa an toàn",
+      "Không BPA": "Có",
+      "Vệ sinh": "Máy rửa bát",
+      "Độ tuổi": "6 tháng+"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 432
+    },
+    "stock": 125,
+    "soldCount": 372,
+    "weight": 134,
+    "dimensions": {
+      "length": 21.9,
+      "width": 13.7,
+      "height": 4.7
+    },
+    "origin": "Thái Lan / Hà Lan / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "yếm ăn",
+      "ăn dặm",
+      "mẹ và bé",
+      "marcus-marcus"
+    ],
+    "createdAt": "2026-05-12T00:00:00.000Z"
+  },
+  {
+    "id": "prod-391",
+    "name": "Tã quần Pampers size XXL Mini",
+    "slug": "ta-quan-pampers-size-xxl-mini-391",
+    "price": 272000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-391/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-391/800/800",
+    "description": "Tã quần thấm hút vượt trội chống tràn hiệu quả. Lớp bề mặt mềm mại không kích ứng. Co giãn 4 chiều dễ mặc. Thoáng khí giữ da bé khô.",
+    "brand": "Pampers",
+    "sku": "PAM-0391-BỊC",
+    "originalPrice": 299000,
+    "discountPercent": 9,
+    "unit": "bịch",
+    "shortDescription": "Tã quần siêu thấm chống tràn thoáng khí cho bé.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-391-a/800/800",
+      "https://picsum.photos/seed/prod-391-b/800/800",
+      "https://picsum.photos/seed/prod-391-c/800/800"
+    ],
+    "specifications": {
+      "Size": "M-XXL",
+      "Công nghệ": "Siêu thấm chống tràn",
+      "Đặc điểm": "Thoáng khí mềm mại"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 582
+    },
+    "stock": 5,
+    "soldCount": 3432,
+    "weight": 1309,
+    "dimensions": {
+      "length": 36.7,
+      "width": 22.6,
+      "height": 17.7
+    },
+    "origin": "Việt Nam / Nhật Bản / Thái Lan",
+    "warranty": "Đổi trả nếu lỗi NSX",
+    "tags": [
+      "tã quần",
+      "mẹ và bé",
+      "siêu thấm",
+      "pampers"
+    ],
+    "createdAt": "2026-02-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-392",
+    "name": "Sữa bột Grow số 3",
+    "slug": "sua-bot-grow-so-3-392",
+    "price": 584000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-392/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-392/800/800",
+    "description": "Sữa bột công thức gần sữa mẹ. Bổ sung DHA và dưỡng chất hỗ trợ phát triển trí não và thể chất. Dễ tiêu hóa. Hương vị dễ uống.",
+    "brand": "Grow",
+    "sku": "GRO-0392-HỘP",
+    "originalPrice": 651000,
+    "discountPercent": 10,
+    "unit": "hộp",
+    "shortDescription": "Sữa bột dinh dưỡng cho trẻ nhỏ bổ sung DHA.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-392-a/800/800",
+      "https://picsum.photos/seed/prod-392-b/800/800",
+      "https://picsum.photos/seed/prod-392-c/800/800"
+    ],
+    "specifications": {
+      "Độ tuổi": "0-6 / 6-12 / 1-3 tuổi",
+      "Thành phần": "DHA Prebiotic",
+      "Dạng": "Bột"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 884
+    },
+    "stock": 237,
+    "soldCount": 1409,
+    "weight": 743,
+    "dimensions": {
+      "length": 13.9,
+      "width": 13.6,
+      "height": 19.2
+    },
+    "origin": "Hà Lan / Mỹ / Singapore",
+    "warranty": "Theo HSD",
+    "tags": [
+      "sữa bột",
+      "trẻ em",
+      "dha",
+      "dinh dưỡng",
+      "grow"
+    ],
+    "createdAt": "2026-06-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-393",
+    "name": "Bình sữa Dr Brown 300ml",
+    "slug": "binh-sua-dr-brown-300ml-393",
+    "price": 386000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-393/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-393/800/800",
+    "description": "Bình sữa chất liệu PPSU hoặc thủy tinh an toàn không BPA. Núm ti silicone mềm chống sặc. Thang đo rõ. Dễ vệ sinh.",
+    "brand": "Chicco",
+    "sku": "CHI-0393-CHI",
+    "originalPrice": 424000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Bình sữa chống sặc chất liệu an toàn núm ti mềm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-393-a/800/800",
+      "https://picsum.photos/seed/prod-393-b/800/800",
+      "https://picsum.photos/seed/prod-393-c/800/800"
+    ],
+    "specifications": {
+      "Dung tích": "120-300ml",
+      "Chất liệu": "PPSU / Thủy tinh",
+      "Núm ti": "Silicone chống sặc",
+      "Không BPA": "Có"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 839
+    },
+    "stock": 154,
+    "soldCount": 2293,
+    "weight": 177,
+    "dimensions": {
+      "length": 7.2,
+      "width": 6.3,
+      "height": 15.5
+    },
+    "origin": "Nhật Bản / Hà Lan / Mỹ",
+    "warranty": "12 tháng",
+    "tags": [
+      "bình sữa",
+      "chống sặc",
+      "mẹ và bé",
+      "chicco"
+    ],
+    "createdAt": "2026-05-28T00:00:00.000Z"
+  },
+  {
+    "id": "prod-394",
+    "name": "Xe đẩy em bé Joie",
+    "slug": "xe-day-em-be-joie-394",
+    "price": 5740000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-394/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-394/800/800",
+    "description": "Xe đẩy thiết kế 2 chiều hoặc gấp gọn một chạm. Mái che chống UV. Đệm êm bánh giảm xóc. Phanh an toàn. Từ sơ sinh đến 3-4 tuổi.",
+    "brand": "Aprica",
+    "sku": "APR-0394-CHI",
+    "originalPrice": 6680000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Xe đẩy 2 chiều gấp gọn chống UV tải trọng cao.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-394-a/800/800",
+      "https://picsum.photos/seed/prod-394-b/800/800",
+      "https://picsum.photos/seed/prod-394-c/800/800"
+    ],
+    "specifications": {
+      "Hướng": "1-2 chiều",
+      "Gấp": "Một chạm / Gọn",
+      "Tải trọng": "15-22kg",
+      "Chống UV": "UPF50+"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 143
+    },
+    "stock": 206,
+    "soldCount": 933,
+    "weight": 11872,
+    "dimensions": {
+      "length": 94.4,
+      "width": 54.0,
+      "height": 28.5
+    },
+    "origin": "Nhật Bản / Đức / Trung Quốc",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "xe đẩy",
+      "em bé",
+      "gấp gọn",
+      "aprica"
+    ],
+    "createdAt": "2026-05-12T00:00:00.000Z"
+  },
+  {
+    "id": "prod-395",
+    "name": "Đồ chơi xếp hình Lego",
+    "slug": "do-choi-xep-hinh-lego-395",
+    "price": 968000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-395/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-395/800/800",
+    "description": "Bộ xếp hình chất liệu an toàn. Nhiều chi tiết kích thích sáng tạo và tư duy logic. Phù hợp nhiều độ tuổi. Màu sắc tươi sáng.",
+    "brand": "Winwintoys",
+    "sku": "WIN-0395-HỘP",
+    "originalPrice": 1050000,
+    "discountPercent": 8,
+    "unit": "hộp",
+    "shortDescription": "Đồ chơi xếp hình phát triển tư duy vận động tinh.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-395-a/800/800",
+      "https://picsum.photos/seed/prod-395-b/800/800",
+      "https://picsum.photos/seed/prod-395-c/800/800"
+    ],
+    "specifications": {
+      "Số chi tiết": "20-200",
+      "Chất liệu": "Gỗ / Nhựa ABS",
+      "Độ tuổi": "1-6 tuổi",
+      "Phát triển": "Tư duy vận động"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 157
+    },
+    "stock": 260,
+    "soldCount": 67,
+    "weight": 552,
+    "dimensions": {
+      "length": 26.4,
+      "width": 19.8,
+      "height": 8.3
+    },
+    "origin": "Việt Nam / Đan Mạch / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "đồ chơi",
+      "xếp hình",
+      "phát triển tư duy",
+      "winwintoys"
+    ],
+    "createdAt": "2026-05-30T00:00:00.000Z"
+  },
+  {
+    "id": "prod-396",
+    "name": "Máy hút sữa Medela",
+    "slug": "may-hut-sua-medela-396",
+    "price": 6400000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-396/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-396/800/800",
+    "description": "Máy hút sữa điện mô phỏng nhịp bú tự nhiên. Hút êm hiệu quả. Có thể sạc pin. Dễ tháo lắp vệ sinh. Phù hợp mẹ bận rộn.",
+    "brand": "Cimilre",
+    "sku": "CIM-0396-CHI",
+    "originalPrice": 7440000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Máy hút sữa điện đôi êm ái hiệu quả cao.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-396-a/800/800",
+      "https://picsum.photos/seed/prod-396-b/800/800",
+      "https://picsum.photos/seed/prod-396-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Điện đơn / đôi",
+      "Công nghệ": "Mô phỏng nhịp bú",
+      "Pin": "Sạc được",
+      "Âm thanh": "Êm"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 854
+    },
+    "stock": 70,
+    "soldCount": 474,
+    "weight": 1320,
+    "dimensions": {
+      "length": 23.2,
+      "width": 16.2,
+      "height": 12.5
+    },
+    "origin": "Thụy Sĩ / Hàn Quốc / Hà Lan",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "máy hút sữa",
+      "mẹ và bé",
+      "điện",
+      "cimilre"
+    ],
+    "createdAt": "2026-04-24T00:00:00.000Z"
+  },
+  {
+    "id": "prod-397",
+    "name": "Ghế ngồi ô tô Aprica",
+    "slug": "ghe-ngoi-o-to-aprica-397",
+    "price": 6720000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-397/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-397/800/800",
+    "description": "Ghế ô tô đạt chuẩn an toàn châu Âu. Hỗ trợ nhiều nhóm tuổi. Chống va chạm bên. Lắp Isofix hoặc dây an toàn. Đệm êm dễ vệ sinh.",
+    "brand": "Britax",
+    "sku": "BRI-0397-CHI",
+    "originalPrice": 8260000,
+    "discountPercent": 19,
+    "unit": "chiếc",
+    "shortDescription": "Ghế ô tô an toàn chuẩn châu Âu chống va chạm bên.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-397-a/800/800",
+      "https://picsum.photos/seed/prod-397-b/800/800",
+      "https://picsum.photos/seed/prod-397-c/800/800"
+    ],
+    "specifications": {
+      "Nhóm": "0+/1/2/3",
+      "Chuẩn": "ECE R44/04 hoặc i-Size",
+      "Lắp đặt": "Isofix / Dây",
+      "Chống va chạm bên": "Có"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 371
+    },
+    "stock": 155,
+    "soldCount": 1904,
+    "weight": 10429,
+    "dimensions": {
+      "length": 60.3,
+      "width": 54.2,
+      "height": 68.4
+    },
+    "origin": "Đức / Trung Quốc / Ý",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "ghế ô tô",
+      "an toàn",
+      "em bé",
+      "britax"
+    ],
+    "createdAt": "2026-08-09T00:00:00.000Z"
+  },
+  {
+    "id": "prod-398",
+    "name": "Khăn ướt em bé Bobby 2026",
+    "slug": "khan-uot-em-be-bobby-2026-398",
+    "price": 54600,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-398/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-398/800/800",
+    "description": "Khăn ướt công thức dịu nhẹ không cồn không hương liệu. Nắp đậy kín giữ ẩm. Thấm hút tốt. An toàn cho da nhạy cảm của bé.",
+    "brand": "Mamamy",
+    "sku": "MAM-0398-BỊC",
+    "originalPrice": 66793,
+    "discountPercent": 18,
+    "unit": "bịch",
+    "shortDescription": "Khăn ướt dịu nhẹ không mùi không cồn cho da nhạy cảm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-398-a/800/800",
+      "https://picsum.photos/seed/prod-398-b/800/800",
+      "https://picsum.photos/seed/prod-398-c/800/800"
+    ],
+    "specifications": {
+      "Số tờ": "80-100",
+      "Mùi": "Không / Dịu",
+      "Công thức": "Không cồn",
+      "Phù hợp": "Da nhạy cảm"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 225
+    },
+    "stock": 112,
+    "soldCount": 2606,
+    "weight": 440,
+    "dimensions": {
+      "length": 19.3,
+      "width": 10.4,
+      "height": 5.4
+    },
+    "origin": "Việt Nam / Nhật Bản / Thái Lan",
+    "warranty": "Theo HSD",
+    "tags": [
+      "khăn ướt",
+      "em bé",
+      "dịu nhẹ",
+      "mamamy"
+    ],
+    "createdAt": "2026-07-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-399",
+    "name": "Nôi điện / Võng tự động Tiny Love",
+    "slug": "noi-dien-vong-tu-dong-tiny-love-399",
+    "price": 2980000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-399/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-399/800/800",
+    "description": "Nôi điện hoặc võng tự động nhiều chế độ đưa. Tích hợp nhạc trắng đèn ngủ. Điều khiển từ xa. Lưới thoáng khí. Tải trọng phù hợp bé.",
+    "brand": "Chicco",
+    "sku": "CHI-0399-CHI",
+    "originalPrice": 3470000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Nôi điện nhiều chế độ đưa nhạc trắng điều khiển từ xa.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-399-a/800/800",
+      "https://picsum.photos/seed/prod-399-b/800/800",
+      "https://picsum.photos/seed/prod-399-c/800/800"
+    ],
+    "specifications": {
+      "Chế độ đưa": "3-5",
+      "Nhạc": "Nhạc trắng",
+      "Điều khiển": "Remote",
+      "Tải trọng": "12-15kg"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 703
+    },
+    "stock": 218,
+    "soldCount": 2811,
+    "weight": 7640,
+    "dimensions": {
+      "length": 88.6,
+      "width": 57.9,
+      "height": 65.8
+    },
+    "origin": "Trung Quốc / Ý / Mỹ",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "nôi điện",
+      "võng tự động",
+      "em bé",
+      "chicco"
+    ],
+    "createdAt": "2026-07-25T00:00:00.000Z"
+  },
+  {
+    "id": "prod-400",
+    "name": "Yếm ăn / Đồ dùng ăn dặm Superware",
+    "slug": "yem-an-do-dung-an-dam-superware-400",
+    "price": 310000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://picsum.photos/seed/prod-400/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-400/800/800",
+    "description": "Yếm silicone có máng hứng hoặc bộ thìa bát ăn dặm. Chất liệu an toàn không BPA. Dễ vệ sinh máy rửa bát được. Thiết kế dễ thương.",
+    "brand": "Chicco",
+    "sku": "CHI-0400-BỘ",
+    "originalPrice": 377000,
+    "discountPercent": 18,
+    "unit": "bộ",
+    "shortDescription": "Yếm silicone / bộ đồ dùng ăn dặm an toàn dễ vệ sinh.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-400-a/800/800",
+      "https://picsum.photos/seed/prod-400-b/800/800",
+      "https://picsum.photos/seed/prod-400-c/800/800"
+    ],
+    "specifications": {
+      "Chất liệu": "Silicone / Nhựa an toàn",
+      "Không BPA": "Có",
+      "Vệ sinh": "Máy rửa bát",
+      "Độ tuổi": "6 tháng+"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 293
+    },
+    "stock": 87,
+    "soldCount": 1223,
+    "weight": 183,
+    "dimensions": {
+      "length": 18.4,
+      "width": 14.6,
+      "height": 4.6
+    },
+    "origin": "Thái Lan / Hà Lan / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "yếm ăn",
+      "ăn dặm",
+      "mẹ và bé",
+      "chicco"
+    ],
+    "createdAt": "2026-07-08T00:00:00.000Z"
   }
 ]

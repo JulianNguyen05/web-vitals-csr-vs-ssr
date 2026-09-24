@@ -1,51 +1,4782 @@
 [
   {
-    "id": "prod-401",
-    "slug": "so-tay-bia-da-notaro-a5-401",
-    "name": "Sổ Tay Bìa Da PU Notaro A5 - 200 Trang",
-    "categoryId": "cat-4",
-    "brand": "Notaro",
-    "sku": "NTR-NB-A5-200-BRN",
-    "price": 129000,
-    "originalPrice": 159000,
+    "id": "prod-601",
+    "name": "Sách Người Bán Hàng Vĩ Đại",
+    "slug": "sach-nguoi-ban-hang-vi-dai-601",
+    "price": 80600,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-601/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-601/800/800",
+    "description": "Sách best-seller được nhiều độc giả yêu thích. Bản dịch chất lượng hoặc nguyên tác. Giấy in đẹp. Phù hợp đọc và làm quà tặng.",
+    "brand": "Generic",
+    "sku": "GEN-0601-CUỐ",
+    "originalPrice": 99496,
     "discountPercent": 19,
     "unit": "cuốn",
-    "shortDescription": "Sổ tay bìa da PU khổ A5, 200 trang giấy kem định lượng 80gsm, kèm dây đánh dấu trang và dây thun cài.",
-    "description": "Sổ tay Notaro khổ A5 được bọc bìa da PU mềm mại, bo góc tinh tế, tạo cảm giác sang trọng khi cầm và ghi chép. Bên trong gồm 200 trang giấy kem định lượng 80gsm hạn chế lem mực khi dùng bút máy hoặc bút lông kim, kẻ dòng ngang rõ ràng dễ viết. Sổ được trang bị dây đánh dấu trang tiện lợi, dây thun cài giữ sổ luôn đóng gọn gàng, cùng túi đựng nhỏ ở bìa sau để kẹp danh thiếp hoặc giấy tờ rời. Thiết kế gáy sổ khâu chỉ chắc chắn, có thể mở phẳng 180 độ thuận tiện khi ghi chép.",
-    "thumbUrl": "https://picsum.photos/seed/prod-401/400/400",
-    "detailUrl": "https://picsum.photos/seed/prod-401/800/800",
+    "shortDescription": "Sách kỹ năng sống văn học best-seller bản đẹp.",
     "gallery": [
-      "https://picsum.photos/seed/prod-401-a/800/800",
-      "https://picsum.photos/seed/prod-401-b/800/800"
+      "https://picsum.photos/seed/prod-601-a/800/800",
+      "https://picsum.photos/seed/prod-601-b/800/800",
+      "https://picsum.photos/seed/prod-601-c/800/800"
     ],
     "specifications": {
-      "Khổ giấy": "A5 (14.8 x 21cm)",
-      "Số trang": "200 trang",
-      "Định lượng giấy": "80 gsm, giấy kem",
-      "Kiểu dòng kẻ": "Kẻ ngang",
-      "Chất liệu bìa": "Da PU cao cấp",
-      "Phụ kiện kèm theo": "Dây đánh dấu trang, dây thun cài, túi đựng bìa sau",
-      "Màu sắc": "Nâu Cognac, Đen, Xanh Rêu"
+      "Thể loại": "Kỹ năng / Văn học",
+      "Bìa": "Mềm / Cứng",
+      "Ngôn ngữ": "Tiếng Việt"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 636
+    },
+    "stock": 110,
+    "soldCount": 2456,
+    "weight": 211,
+    "dimensions": {
+      "length": 12.8,
+      "width": 20.7,
+      "height": 2.1
+    },
+    "origin": "Việt Nam",
+    "warranty": "Đổi trả nếu lỗi in",
+    "tags": [
+      "sách",
+      "best-seller",
+      "kỹ năng",
+      "văn học",
+      "generic"
+    ],
+    "createdAt": "2026-09-02T00:00:00.000Z"
+  },
+  {
+    "id": "prod-602",
+    "name": "Sổ tay Deli A5",
+    "slug": "so-tay-deli-a5-602",
+    "price": 48800,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-602/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-602/800/800",
+    "description": "Sổ tay bìa da hoặc giấy cứng. Giấy kẻ dòng hoặc caro chống lem. Nhiều số trang. Phù hợp ghi chép học tập công việc.",
+    "brand": "Klong",
+    "sku": "KLO-0602-CUỐ",
+    "originalPrice": 53911,
+    "discountPercent": 9,
+    "unit": "cuốn",
+    "shortDescription": "Sổ tay bìa đẹp giấy tốt nhiều trang.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-602-a/800/800",
+      "https://picsum.photos/seed/prod-602-b/800/800",
+      "https://picsum.photos/seed/prod-602-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "A5/A6/B5",
+      "Số trang": "80-200",
+      "Bìa": "Da / Giấy cứng",
+      "Giấy": "Kẻ dòng / Caro"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 532
+    },
+    "stock": 318,
+    "soldCount": 1040,
+    "weight": 341,
+    "dimensions": {
+      "length": 16.3,
+      "width": 22.9,
+      "height": 1.5
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "sổ tay",
+      "văn phòng",
+      "ghi chép",
+      "klong"
+    ],
+    "createdAt": "2026-05-24T00:00:00.000Z"
+  },
+  {
+    "id": "prod-603",
+    "name": "Bút bi / Bút gel Uni hộp 2026",
+    "slug": "but-bi-but-gel-uni-hop-2026-603",
+    "price": 94300,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-603/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-603/800/800",
+    "description": "Bút bi hoặc bút gel mực ra đều không lem. Viết êm tay. Đầu bi nhiều kích thước. Hộp tiện dụng cho văn phòng trường học.",
+    "brand": "Thiên Long",
+    "sku": "THI-0603-HỘP",
+    "originalPrice": 105000,
+    "discountPercent": 10,
+    "unit": "hộp",
+    "shortDescription": "Bút bi hoặc gel mực đều viết êm hộp nhiều cây.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-603-a/800/800",
+      "https://picsum.photos/seed/prod-603-b/800/800",
+      "https://picsum.photos/seed/prod-603-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bi / Gel",
+      "Số lượng": "10-20 cây",
+      "Đầu bi": "0.5-0.7mm",
+      "Màu mực": "Xanh / Đen / Đỏ"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 762
+    },
+    "stock": 55,
+    "soldCount": 3835,
+    "weight": 199,
+    "dimensions": {
+      "length": 16.4,
+      "width": 7.5,
+      "height": 3.2
+    },
+    "origin": "Việt Nam / Nhật Bản / Trung Quốc",
+    "warranty": "Theo HSD mực",
+    "tags": [
+      "bút bi",
+      "bút gel",
+      "văn phòng",
+      "thien-long"
+    ],
+    "createdAt": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "prod-604",
+    "name": "Giấy in A4 Sai Gon 80gsm 2026",
+    "slug": "giay-in-a4-sai-gon-80gsm-2026-604",
+    "price": 93800,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-604/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-604/800/800",
+    "description": "Giấy in A4 định lượng chuẩn. Độ trắng cao bề mặt mịn in sắc nét. Ít bụi giấy. Phù hợp in ấn photocopy.",
+    "brand": "IK Plus",
+    "sku": "IK -0604-REA",
+    "originalPrice": 112000,
+    "discountPercent": 16,
+    "unit": "ream",
+    "shortDescription": "Giấy in A4 trắng mịn không kẹt máy 500 tờ.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-604-a/800/800",
+      "https://picsum.photos/seed/prod-604-b/800/800",
+      "https://picsum.photos/seed/prod-604-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "A4",
+      "Định lượng": "70-80gsm",
+      "Số tờ": "500",
+      "Độ trắng": "Cao"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 253
+    },
+    "stock": 213,
+    "soldCount": 512,
+    "weight": 2309,
+    "dimensions": {
+      "length": 28.1,
+      "width": 20.4,
+      "height": 5.9
+    },
+    "origin": "Thái Lan / Việt Nam / Indonesia",
+    "warranty": "Đổi trả nếu ẩm mốc",
+    "tags": [
+      "giấy in",
+      "a4",
+      "văn phòng",
+      "ik-plus"
+    ],
+    "createdAt": "2026-07-28T00:00:00.000Z"
+  },
+  {
+    "id": "prod-605",
+    "name": "Balo / Cặp laptop Samsonite cao cấp",
+    "slug": "balo-cap-laptop-samsonite-cao-cap-605",
+    "price": 860000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-605/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-605/800/800",
+    "description": "Balo hoặc cặp đựng laptop có ngăn chống sốc. Nhiều ngăn chứa đồ. Chất liệu chống nước nhẹ. Quai đeo êm. Phù hợp học sinh nhân viên.",
+    "brand": "The North Face",
+    "sku": "THE-0605-CHI",
+    "originalPrice": 1000000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Balo laptop nhiều ngăn chống sốc chống nước nhẹ.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-605-a/800/800",
+      "https://picsum.photos/seed/prod-605-b/800/800",
+      "https://picsum.photos/seed/prod-605-c/800/800"
+    ],
+    "specifications": {
+      "Laptop": "13-15.6 inch",
+      "Chống nước": "Nhẹ",
+      "Ngăn": "Nhiều",
+      "Chất liệu": "Polyester / Vải"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 138
+    },
+    "stock": 202,
+    "soldCount": 1211,
+    "weight": 869,
+    "dimensions": {
+      "length": 46.8,
+      "width": 30.3,
+      "height": 13.6
+    },
+    "origin": "Việt Nam / Trung Quốc / Ý",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "balo",
+      "laptop",
+      "văn phòng",
+      "học tập",
+      "the-north-face"
+    ],
+    "createdAt": "2026-05-11T00:00:00.000Z"
+  },
+  {
+    "id": "prod-606",
+    "name": "Bút chì kim / Bút chì Deli",
+    "slug": "but-chi-kim-but-chi-deli-606",
+    "price": 44600,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-606/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-606/800/800",
+    "description": "Bút chì kim bấm ngòi bền hoặc bút chì gỗ dễ gọt. Viết vẽ êm. Nhiều độ cứng. Phù hợp học sinh kỹ thuật.",
+    "brand": "Thiên Long",
+    "sku": "THI-0606-CHI",
+    "originalPrice": 52367,
+    "discountPercent": 15,
+    "unit": "chiếc/hộp",
+    "shortDescription": "Bút chì kim hoặc bút chì gỗ viết vẽ êm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-606-a/800/800",
+      "https://picsum.photos/seed/prod-606-b/800/800",
+      "https://picsum.photos/seed/prod-606-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Kim / Gỗ",
+      "Ngòi": "0.5-2.0mm hoặc 2B HB",
+      "Xuất xứ": "Nhật / Đức / Việt Nam"
     },
     "rating": {
       "average": 4.8,
-      "count": 264
+      "count": 841
     },
-    "stock": 310,
-    "soldCount": 1580,
-    "weight": 340,
+    "stock": 248,
+    "soldCount": 3896,
+    "weight": 47,
     "dimensions": {
-      "length": 21,
-      "width": 14.8,
-      "height": 1.5
+      "length": 19.7,
+      "width": 1.0,
+      "height": 1.1
+    },
+    "origin": "Nhật Bản / Đức / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bút chì",
+      "văn phòng",
+      "học tập",
+      "thien-long"
+    ],
+    "createdAt": "2026-07-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-607",
+    "name": "Bảng trắng / Bảng ghim Thiên Long Mini",
+    "slug": "bang-trang-bang-ghim-thien-long-mini-607",
+    "price": 565000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-607/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-607/800/800",
+    "description": "Bảng trắng viết êm dễ lau hoặc bảng ghim. Khung chắc chắn. Có thể treo tường. Kèm phụ kiện. Phù hợp văn phòng lớp học.",
+    "brand": "Flexoffice",
+    "sku": "FLE-0607-CHI",
+    "originalPrice": 652000,
+    "discountPercent": 13,
+    "unit": "chiếc",
+    "shortDescription": "Bảng trắng từ tính hoặc bảng ghim treo tường.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-607-a/800/800",
+      "https://picsum.photos/seed/prod-607-b/800/800",
+      "https://picsum.photos/seed/prod-607-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Trắng từ tính / Ghim",
+      "Kích thước": "40x60 đến 90x120cm",
+      "Khung": "Nhôm / Gỗ",
+      "Phụ kiện": "Có"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 124
+    },
+    "stock": 91,
+    "soldCount": 315,
+    "weight": 4197,
+    "dimensions": {
+      "length": 93.2,
+      "width": 55.4,
+      "height": 2.0
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "12 tháng",
+    "tags": [
+      "bảng trắng",
+      "văn phòng",
+      "học tập",
+      "flexoffice"
+    ],
+    "createdAt": "2026-04-18T00:00:00.000Z"
+  },
+  {
+    "id": "prod-608",
+    "name": "Kéo / Bấm ghim / Dụng cụ VP Thiên Long 2026",
+    "slug": "keo-bam-ghim-dung-cu-vp-thien-long-2026-608",
+    "price": 31100,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-608/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-608/800/800",
+    "description": "Dụng cụ văn phòng cơ bản: kéo cắt giấy bấm ghim thủng lỗ. Chất liệu bền. Thiết kế êm tay. Cần thiết cho mọi bàn làm việc.",
+    "brand": "Scout",
+    "sku": "SCO-0608-CHI",
+    "originalPrice": 34819,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Kéo bấm ghim thủng lỗ dụng cụ văn phòng cần thiết.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-608-a/800/800",
+      "https://picsum.photos/seed/prod-608-b/800/800",
+      "https://picsum.photos/seed/prod-608-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Kéo / Bấm ghim / Thủng lỗ",
+      "Chất liệu": "Thép / Nhựa",
+      "Đặc điểm": "Êm tay bền"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 299
+    },
+    "stock": 334,
+    "soldCount": 3913,
+    "weight": 158,
+    "dimensions": {
+      "length": 20.9,
+      "width": 7.6,
+      "height": 3.1
+    },
+    "origin": "Việt Nam / Trung Quốc / Nhật Bản",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "dụng cụ văn phòng",
+      "kéo",
+      "bấm ghim",
+      "scout"
+    ],
+    "createdAt": "2026-04-27T00:00:00.000Z"
+  },
+  {
+    "id": "prod-609",
+    "name": "Bút dạ quang / Bút lông Thiên Long",
+    "slug": "but-da-quang-but-long-thien-long-609",
+    "price": 150000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-609/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-609/800/800",
+    "description": "Bút dạ quang mực sáng không lem. Bút lông dầu hoặc nước viết đa bề mặt. Nhiều màu. Phù hợp học tập văn phòng.",
+    "brand": "Pilotlet",
+    "sku": "PIL-0609-VỈ/",
+    "originalPrice": 172000,
+    "discountPercent": 13,
+    "unit": "vỉ/hộp",
+    "shortDescription": "Bút dạ quang hoặc bút lông nhiều màu sắc nổi bật.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-609-a/800/800",
+      "https://picsum.photos/seed/prod-609-b/800/800",
+      "https://picsum.photos/seed/prod-609-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Dạ quang / Lông dầu / Lông màu",
+      "Số màu": "4-12",
+      "Đặc điểm": "Không lem / Bền màu"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 521
+    },
+    "stock": 259,
+    "soldCount": 995,
+    "weight": 174,
+    "dimensions": {
+      "length": 15.0,
+      "width": 7.4,
+      "height": 2.0
+    },
+    "origin": "Đức / Nhật Bản / Việt Nam / Trung Quốc",
+    "warranty": "Theo HSD mực",
+    "tags": [
+      "dạ quang",
+      "bút lông",
+      "học tập",
+      "pilotlet"
+    ],
+    "createdAt": "2026-06-24T00:00:00.000Z"
+  },
+  {
+    "id": "prod-610",
+    "name": "Cặp tài liệu / Túi đựng hồ sơ Deli",
+    "slug": "cap-tai-lieu-tui-dung-ho-so-deli-610",
+    "price": 38100,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-610/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-610/800/800",
+    "description": "Cặp hoặc túi đựng tài liệu A4. Nhiều ngăn phân loại. Chất liệu nhựa hoặc vải bền. Có nhãn ghi chú. Bảo vệ hồ sơ tốt.",
+    "brand": "Flexoffice",
+    "sku": "FLE-0610-CHI",
+    "originalPrice": 45926,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Cặp tài liệu nhiều ngăn hoặc túi hồ sơ A4.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-610-a/800/800",
+      "https://picsum.photos/seed/prod-610-b/800/800",
+      "https://picsum.photos/seed/prod-610-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "A4",
+      "Số ngăn": "1-12",
+      "Chất liệu": "Nhựa / Vải",
+      "Nhãn": "Có"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 354
+    },
+    "stock": 83,
+    "soldCount": 1290,
+    "weight": 134,
+    "dimensions": {
+      "length": 32.0,
+      "width": 21.7,
+      "height": 2.8
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "cặp tài liệu",
+      "hồ sơ",
+      "văn phòng",
+      "flexoffice"
+    ],
+    "createdAt": "2026-06-23T00:00:00.000Z"
+  },
+  {
+    "id": "prod-611",
+    "name": "Sách Nghĩ Giàu Làm Giàu cao cấp",
+    "slug": "sach-nghi-giau-lam-giau-cao-cap-611",
+    "price": 169000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-611/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-611/800/800",
+    "description": "Sách best-seller được nhiều độc giả yêu thích. Bản dịch chất lượng hoặc nguyên tác. Giấy in đẹp. Phù hợp đọc và làm quà tặng.",
+    "brand": "Generic",
+    "sku": "GEN-0611-CUỐ",
+    "originalPrice": 196000,
+    "discountPercent": 14,
+    "unit": "cuốn",
+    "shortDescription": "Sách kỹ năng sống văn học best-seller bản đẹp.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-611-a/800/800",
+      "https://picsum.photos/seed/prod-611-b/800/800",
+      "https://picsum.photos/seed/prod-611-c/800/800"
+    ],
+    "specifications": {
+      "Thể loại": "Kỹ năng / Văn học",
+      "Bìa": "Mềm / Cứng",
+      "Ngôn ngữ": "Tiếng Việt"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 900
+    },
+    "stock": 281,
+    "soldCount": 2288,
+    "weight": 275,
+    "dimensions": {
+      "length": 14.5,
+      "width": 20.0,
+      "height": 1.9
     },
     "origin": "Việt Nam",
-    "warranty": "Đổi trả trong 7 ngày nếu lỗi sản xuất",
+    "warranty": "Đổi trả nếu lỗi in",
+    "tags": [
+      "sách",
+      "best-seller",
+      "kỹ năng",
+      "văn học",
+      "generic"
+    ],
+    "createdAt": "2026-01-19T00:00:00.000Z"
+  },
+  {
+    "id": "prod-612",
+    "name": "Sổ tay Klong A6",
+    "slug": "so-tay-klong-a6-612",
+    "price": 126000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-612/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-612/800/800",
+    "description": "Sổ tay bìa da hoặc giấy cứng. Giấy kẻ dòng hoặc caro chống lem. Nhiều số trang. Phù hợp ghi chép học tập công việc.",
+    "brand": "Klong",
+    "sku": "KLO-0612-CUỐ",
+    "originalPrice": 146000,
+    "discountPercent": 14,
+    "unit": "cuốn",
+    "shortDescription": "Sổ tay bìa đẹp giấy tốt nhiều trang.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-612-a/800/800",
+      "https://picsum.photos/seed/prod-612-b/800/800",
+      "https://picsum.photos/seed/prod-612-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "A5/A6/B5",
+      "Số trang": "80-200",
+      "Bìa": "Da / Giấy cứng",
+      "Giấy": "Kẻ dòng / Caro"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 818
+    },
+    "stock": 160,
+    "soldCount": 3673,
+    "weight": 368,
+    "dimensions": {
+      "length": 14.6,
+      "width": 20.8,
+      "height": 1.4
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
     "tags": [
       "sổ tay",
-      "văn phòng phẩm",
-      "bìa da"
+      "văn phòng",
+      "ghi chép",
+      "klong"
     ],
-    "createdAt": "2026-08-01T00:00:00.000Z"
+    "createdAt": "2026-07-14T00:00:00.000Z"
+  },
+  {
+    "id": "prod-613",
+    "name": "Bút bi / Bút gel Deli hộp",
+    "slug": "but-bi-but-gel-deli-hop-613",
+    "price": 66000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-613/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-613/800/800",
+    "description": "Bút bi hoặc bút gel mực ra đều không lem. Viết êm tay. Đầu bi nhiều kích thước. Hộp tiện dụng cho văn phòng trường học.",
+    "brand": "Deli",
+    "sku": "DEL-0613-HỘP",
+    "originalPrice": 79310,
+    "discountPercent": 17,
+    "unit": "hộp",
+    "shortDescription": "Bút bi hoặc gel mực đều viết êm hộp nhiều cây.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-613-a/800/800",
+      "https://picsum.photos/seed/prod-613-b/800/800",
+      "https://picsum.photos/seed/prod-613-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bi / Gel",
+      "Số lượng": "10-20 cây",
+      "Đầu bi": "0.5-0.7mm",
+      "Màu mực": "Xanh / Đen / Đỏ"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 572
+    },
+    "stock": 297,
+    "soldCount": 1974,
+    "weight": 274,
+    "dimensions": {
+      "length": 15.8,
+      "width": 8.1,
+      "height": 3.0
+    },
+    "origin": "Việt Nam / Nhật Bản / Trung Quốc",
+    "warranty": "Theo HSD mực",
+    "tags": [
+      "bút bi",
+      "bút gel",
+      "văn phòng",
+      "deli"
+    ],
+    "createdAt": "2026-05-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-614",
+    "name": "Giấy in A4 Sai Gon 70gsm",
+    "slug": "giay-in-a4-sai-gon-70gsm-614",
+    "price": 82300,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-614/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-614/800/800",
+    "description": "Giấy in A4 định lượng chuẩn. Độ trắng cao bề mặt mịn in sắc nét. Ít bụi giấy. Phù hợp in ấn photocopy.",
+    "brand": "Việt Thắng",
+    "sku": "VIE-0614-REA",
+    "originalPrice": 95805,
+    "discountPercent": 14,
+    "unit": "ream",
+    "shortDescription": "Giấy in A4 trắng mịn không kẹt máy 500 tờ.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-614-a/800/800",
+      "https://picsum.photos/seed/prod-614-b/800/800",
+      "https://picsum.photos/seed/prod-614-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "A4",
+      "Định lượng": "70-80gsm",
+      "Số tờ": "500",
+      "Độ trắng": "Cao"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 48
+    },
+    "stock": 307,
+    "soldCount": 234,
+    "weight": 2586,
+    "dimensions": {
+      "length": 30.7,
+      "width": 20.4,
+      "height": 6.6
+    },
+    "origin": "Thái Lan / Việt Nam / Indonesia",
+    "warranty": "Đổi trả nếu ẩm mốc",
+    "tags": [
+      "giấy in",
+      "a4",
+      "văn phòng",
+      "viet-thang"
+    ],
+    "createdAt": "2026-02-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-615",
+    "name": "Balo / Cặp laptop Samsonite 2026",
+    "slug": "balo-cap-laptop-samsonite-2026-615",
+    "price": 1720000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-615/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-615/800/800",
+    "description": "Balo hoặc cặp đựng laptop có ngăn chống sốc. Nhiều ngăn chứa đồ. Chất liệu chống nước nhẹ. Quai đeo êm. Phù hợp học sinh nhân viên.",
+    "brand": "Simplecarry",
+    "sku": "SIM-0615-CHI",
+    "originalPrice": 1970000,
+    "discountPercent": 13,
+    "unit": "chiếc",
+    "shortDescription": "Balo laptop nhiều ngăn chống sốc chống nước nhẹ.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-615-a/800/800",
+      "https://picsum.photos/seed/prod-615-b/800/800",
+      "https://picsum.photos/seed/prod-615-c/800/800"
+    ],
+    "specifications": {
+      "Laptop": "13-15.6 inch",
+      "Chống nước": "Nhẹ",
+      "Ngăn": "Nhiều",
+      "Chất liệu": "Polyester / Vải"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 273
+    },
+    "stock": 125,
+    "soldCount": 2704,
+    "weight": 938,
+    "dimensions": {
+      "length": 43.6,
+      "width": 29.1,
+      "height": 14.6
+    },
+    "origin": "Việt Nam / Trung Quốc / Ý",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "balo",
+      "laptop",
+      "văn phòng",
+      "học tập",
+      "simplecarry"
+    ],
+    "createdAt": "2026-04-04T00:00:00.000Z"
+  },
+  {
+    "id": "prod-616",
+    "name": "Bút chì kim / Bút chì Deli cao cấp",
+    "slug": "but-chi-kim-but-chi-deli-cao-cap-616",
+    "price": 30000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-616/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-616/800/800",
+    "description": "Bút chì kim bấm ngòi bền hoặc bút chì gỗ dễ gọt. Viết vẽ êm. Nhiều độ cứng. Phù hợp học sinh kỹ thuật.",
+    "brand": "Staedtler",
+    "sku": "STA-0616-CHI",
+    "originalPrice": 34121,
+    "discountPercent": 12,
+    "unit": "chiếc/hộp",
+    "shortDescription": "Bút chì kim hoặc bút chì gỗ viết vẽ êm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-616-a/800/800",
+      "https://picsum.photos/seed/prod-616-b/800/800",
+      "https://picsum.photos/seed/prod-616-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Kim / Gỗ",
+      "Ngòi": "0.5-2.0mm hoặc 2B HB",
+      "Xuất xứ": "Nhật / Đức / Việt Nam"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 547
+    },
+    "stock": 220,
+    "soldCount": 1142,
+    "weight": 12,
+    "dimensions": {
+      "length": 18.1,
+      "width": 0.9,
+      "height": 1.0
+    },
+    "origin": "Nhật Bản / Đức / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bút chì",
+      "văn phòng",
+      "học tập",
+      "staedtler"
+    ],
+    "createdAt": "2026-01-20T00:00:00.000Z"
+  },
+  {
+    "id": "prod-617",
+    "name": "Bảng trắng / Bảng ghim Hòa Phát",
+    "slug": "bang-trang-bang-ghim-hoa-phat-617",
+    "price": 545000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-617/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-617/800/800",
+    "description": "Bảng trắng viết êm dễ lau hoặc bảng ghim. Khung chắc chắn. Có thể treo tường. Kèm phụ kiện. Phù hợp văn phòng lớp học.",
+    "brand": "Thiên Long",
+    "sku": "THI-0617-CHI",
+    "originalPrice": 641000,
+    "discountPercent": 15,
+    "unit": "chiếc",
+    "shortDescription": "Bảng trắng từ tính hoặc bảng ghim treo tường.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-617-a/800/800",
+      "https://picsum.photos/seed/prod-617-b/800/800",
+      "https://picsum.photos/seed/prod-617-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Trắng từ tính / Ghim",
+      "Kích thước": "40x60 đến 90x120cm",
+      "Khung": "Nhôm / Gỗ",
+      "Phụ kiện": "Có"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 364
+    },
+    "stock": 259,
+    "soldCount": 2109,
+    "weight": 2820,
+    "dimensions": {
+      "length": 91.3,
+      "width": 63.7,
+      "height": 1.8
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "12 tháng",
+    "tags": [
+      "bảng trắng",
+      "văn phòng",
+      "học tập",
+      "thien-long"
+    ],
+    "createdAt": "2026-08-10T00:00:00.000Z"
+  },
+  {
+    "id": "prod-618",
+    "name": "Kéo / Bấm ghim / Dụng cụ VP Flexoffice Pro",
+    "slug": "keo-bam-ghim-dung-cu-vp-flexoffice-pro-618",
+    "price": 72100,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-618/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-618/800/800",
+    "description": "Dụng cụ văn phòng cơ bản: kéo cắt giấy bấm ghim thủng lỗ. Chất liệu bền. Thiết kế êm tay. Cần thiết cho mọi bàn làm việc.",
+    "brand": "Flexoffice",
+    "sku": "FLE-0618-CHI",
+    "originalPrice": 80340,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Kéo bấm ghim thủng lỗ dụng cụ văn phòng cần thiết.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-618-a/800/800",
+      "https://picsum.photos/seed/prod-618-b/800/800",
+      "https://picsum.photos/seed/prod-618-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Kéo / Bấm ghim / Thủng lỗ",
+      "Chất liệu": "Thép / Nhựa",
+      "Đặc điểm": "Êm tay bền"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 314
+    },
+    "stock": 140,
+    "soldCount": 244,
+    "weight": 212,
+    "dimensions": {
+      "length": 21.4,
+      "width": 8.5,
+      "height": 3.2
+    },
+    "origin": "Việt Nam / Trung Quốc / Nhật Bản",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "dụng cụ văn phòng",
+      "kéo",
+      "bấm ghim",
+      "flexoffice"
+    ],
+    "createdAt": "2026-04-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-619",
+    "name": "Bút dạ quang / Bút lông Pilotlet",
+    "slug": "but-da-quang-but-long-pilotlet-619",
+    "price": 107000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-619/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-619/800/800",
+    "description": "Bút dạ quang mực sáng không lem. Bút lông dầu hoặc nước viết đa bề mặt. Nhiều màu. Phù hợp học tập văn phòng.",
+    "brand": "Deli",
+    "sku": "DEL-0619-VỈ/",
+    "originalPrice": 129000,
+    "discountPercent": 17,
+    "unit": "vỉ/hộp",
+    "shortDescription": "Bút dạ quang hoặc bút lông nhiều màu sắc nổi bật.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-619-a/800/800",
+      "https://picsum.photos/seed/prod-619-b/800/800",
+      "https://picsum.photos/seed/prod-619-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Dạ quang / Lông dầu / Lông màu",
+      "Số màu": "4-12",
+      "Đặc điểm": "Không lem / Bền màu"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 600
+    },
+    "stock": 276,
+    "soldCount": 1996,
+    "weight": 73,
+    "dimensions": {
+      "length": 15.7,
+      "width": 8.1,
+      "height": 2.0
+    },
+    "origin": "Đức / Nhật Bản / Việt Nam / Trung Quốc",
+    "warranty": "Theo HSD mực",
+    "tags": [
+      "dạ quang",
+      "bút lông",
+      "học tập",
+      "deli"
+    ],
+    "createdAt": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "prod-620",
+    "name": "Cặp tài liệu / Túi đựng hồ sơ Deli",
+    "slug": "cap-tai-lieu-tui-dung-ho-so-deli-620",
+    "price": 129000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-620/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-620/800/800",
+    "description": "Cặp hoặc túi đựng tài liệu A4. Nhiều ngăn phân loại. Chất liệu nhựa hoặc vải bền. Có nhãn ghi chú. Bảo vệ hồ sơ tốt.",
+    "brand": "Thiên Long",
+    "sku": "THI-0620-CHI",
+    "originalPrice": 141000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Cặp tài liệu nhiều ngăn hoặc túi hồ sơ A4.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-620-a/800/800",
+      "https://picsum.photos/seed/prod-620-b/800/800",
+      "https://picsum.photos/seed/prod-620-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "A4",
+      "Số ngăn": "1-12",
+      "Chất liệu": "Nhựa / Vải",
+      "Nhãn": "Có"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 444
+    },
+    "stock": 210,
+    "soldCount": 1079,
+    "weight": 254,
+    "dimensions": {
+      "length": 32.0,
+      "width": 23.0,
+      "height": 3.1
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "cặp tài liệu",
+      "hồ sơ",
+      "văn phòng",
+      "thien-long"
+    ],
+    "createdAt": "2026-06-23T00:00:00.000Z"
+  },
+  {
+    "id": "prod-621",
+    "name": "Sách Người Bán Hàng Vĩ Đại",
+    "slug": "sach-nguoi-ban-hang-vi-dai-621",
+    "price": 180000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-621/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-621/800/800",
+    "description": "Sách best-seller được nhiều độc giả yêu thích. Bản dịch chất lượng hoặc nguyên tác. Giấy in đẹp. Phù hợp đọc và làm quà tặng.",
+    "brand": "Generic",
+    "sku": "GEN-0621-CUỐ",
+    "originalPrice": 195000,
+    "discountPercent": 8,
+    "unit": "cuốn",
+    "shortDescription": "Sách kỹ năng sống văn học best-seller bản đẹp.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-621-a/800/800",
+      "https://picsum.photos/seed/prod-621-b/800/800",
+      "https://picsum.photos/seed/prod-621-c/800/800"
+    ],
+    "specifications": {
+      "Thể loại": "Kỹ năng / Văn học",
+      "Bìa": "Mềm / Cứng",
+      "Ngôn ngữ": "Tiếng Việt"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 863
+    },
+    "stock": 244,
+    "soldCount": 1147,
+    "weight": 380,
+    "dimensions": {
+      "length": 14.0,
+      "width": 18.7,
+      "height": 2.0
+    },
+    "origin": "Việt Nam",
+    "warranty": "Đổi trả nếu lỗi in",
+    "tags": [
+      "sách",
+      "best-seller",
+      "kỹ năng",
+      "văn học",
+      "generic"
+    ],
+    "createdAt": "2026-09-11T00:00:00.000Z"
+  },
+  {
+    "id": "prod-622",
+    "name": "Sổ tay Flexoffice B5",
+    "slug": "so-tay-flexoffice-b5-622",
+    "price": 173000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-622/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-622/800/800",
+    "description": "Sổ tay bìa da hoặc giấy cứng. Giấy kẻ dòng hoặc caro chống lem. Nhiều số trang. Phù hợp ghi chép học tập công việc.",
+    "brand": "Campus",
+    "sku": "CAM-0622-CUỐ",
+    "originalPrice": 208000,
+    "discountPercent": 17,
+    "unit": "cuốn",
+    "shortDescription": "Sổ tay bìa đẹp giấy tốt nhiều trang.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-622-a/800/800",
+      "https://picsum.photos/seed/prod-622-b/800/800",
+      "https://picsum.photos/seed/prod-622-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "A5/A6/B5",
+      "Số trang": "80-200",
+      "Bìa": "Da / Giấy cứng",
+      "Giấy": "Kẻ dòng / Caro"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 721
+    },
+    "stock": 158,
+    "soldCount": 3507,
+    "weight": 165,
+    "dimensions": {
+      "length": 15.1,
+      "width": 20.4,
+      "height": 1.4
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "sổ tay",
+      "văn phòng",
+      "ghi chép",
+      "campus"
+    ],
+    "createdAt": "2026-05-06T00:00:00.000Z"
+  },
+  {
+    "id": "prod-623",
+    "name": "Bút bi / Bút gel Pilotiso hộp cao cấp",
+    "slug": "but-bi-but-gel-pilotiso-hop-cao-cap-623",
+    "price": 79100,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-623/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-623/800/800",
+    "description": "Bút bi hoặc bút gel mực ra đều không lem. Viết êm tay. Đầu bi nhiều kích thước. Hộp tiện dụng cho văn phòng trường học.",
+    "brand": "Deli",
+    "sku": "DEL-0623-HỘP",
+    "originalPrice": 89017,
+    "discountPercent": 11,
+    "unit": "hộp",
+    "shortDescription": "Bút bi hoặc gel mực đều viết êm hộp nhiều cây.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-623-a/800/800",
+      "https://picsum.photos/seed/prod-623-b/800/800",
+      "https://picsum.photos/seed/prod-623-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bi / Gel",
+      "Số lượng": "10-20 cây",
+      "Đầu bi": "0.5-0.7mm",
+      "Màu mực": "Xanh / Đen / Đỏ"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 136
+    },
+    "stock": 81,
+    "soldCount": 836,
+    "weight": 223,
+    "dimensions": {
+      "length": 15.4,
+      "width": 7.6,
+      "height": 3.1
+    },
+    "origin": "Việt Nam / Nhật Bản / Trung Quốc",
+    "warranty": "Theo HSD mực",
+    "tags": [
+      "bút bi",
+      "bút gel",
+      "văn phòng",
+      "deli"
+    ],
+    "createdAt": "2026-01-22T00:00:00.000Z"
+  },
+  {
+    "id": "prod-624",
+    "name": "Giấy in A4 IK Plus 80gsm",
+    "slug": "giay-in-a4-ik-plus-80gsm-624",
+    "price": 93600,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-624/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-624/800/800",
+    "description": "Giấy in A4 định lượng chuẩn. Độ trắng cao bề mặt mịn in sắc nét. Ít bụi giấy. Phù hợp in ấn photocopy.",
+    "brand": "Sai Gon",
+    "sku": "SAI-0624-REA",
+    "originalPrice": 108000,
+    "discountPercent": 13,
+    "unit": "ream",
+    "shortDescription": "Giấy in A4 trắng mịn không kẹt máy 500 tờ.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-624-a/800/800",
+      "https://picsum.photos/seed/prod-624-b/800/800",
+      "https://picsum.photos/seed/prod-624-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "A4",
+      "Định lượng": "70-80gsm",
+      "Số tờ": "500",
+      "Độ trắng": "Cao"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 304
+    },
+    "stock": 342,
+    "soldCount": 2305,
+    "weight": 2237,
+    "dimensions": {
+      "length": 28.2,
+      "width": 20.0,
+      "height": 5.4
+    },
+    "origin": "Thái Lan / Việt Nam / Indonesia",
+    "warranty": "Đổi trả nếu ẩm mốc",
+    "tags": [
+      "giấy in",
+      "a4",
+      "văn phòng",
+      "sai-gon"
+    ],
+    "createdAt": "2026-03-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-625",
+    "name": "Balo / Cặp laptop Simplecarry",
+    "slug": "balo-cap-laptop-simplecarry-625",
+    "price": 374000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-625/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-625/800/800",
+    "description": "Balo hoặc cặp đựng laptop có ngăn chống sốc. Nhiều ngăn chứa đồ. Chất liệu chống nước nhẹ. Quai đeo êm. Phù hợp học sinh nhân viên.",
+    "brand": "Mikkor",
+    "sku": "MIK-0625-CHI",
+    "originalPrice": 407000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Balo laptop nhiều ngăn chống sốc chống nước nhẹ.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-625-a/800/800",
+      "https://picsum.photos/seed/prod-625-b/800/800",
+      "https://picsum.photos/seed/prod-625-c/800/800"
+    ],
+    "specifications": {
+      "Laptop": "13-15.6 inch",
+      "Chống nước": "Nhẹ",
+      "Ngăn": "Nhiều",
+      "Chất liệu": "Polyester / Vải"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 392
+    },
+    "stock": 348,
+    "soldCount": 2742,
+    "weight": 585,
+    "dimensions": {
+      "length": 43.3,
+      "width": 28.8,
+      "height": 13.7
+    },
+    "origin": "Việt Nam / Trung Quốc / Ý",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "balo",
+      "laptop",
+      "văn phòng",
+      "học tập",
+      "mikkor"
+    ],
+    "createdAt": "2026-08-29T00:00:00.000Z"
+  },
+  {
+    "id": "prod-626",
+    "name": "Bút chì kim / Bút chì Pentel phiên bản mới",
+    "slug": "but-chi-kim-but-chi-pentel-phien-ban-moi-626",
+    "price": 29700,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-626/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-626/800/800",
+    "description": "Bút chì kim bấm ngòi bền hoặc bút chì gỗ dễ gọt. Viết vẽ êm. Nhiều độ cứng. Phù hợp học sinh kỹ thuật.",
+    "brand": "Uni",
+    "sku": "UNI-0626-CHI",
+    "originalPrice": 34958,
+    "discountPercent": 15,
+    "unit": "chiếc/hộp",
+    "shortDescription": "Bút chì kim hoặc bút chì gỗ viết vẽ êm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-626-a/800/800",
+      "https://picsum.photos/seed/prod-626-b/800/800",
+      "https://picsum.photos/seed/prod-626-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Kim / Gỗ",
+      "Ngòi": "0.5-2.0mm hoặc 2B HB",
+      "Xuất xứ": "Nhật / Đức / Việt Nam"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 557
+    },
+    "stock": 133,
+    "soldCount": 2083,
+    "weight": 74,
+    "dimensions": {
+      "length": 19.6,
+      "width": 1.0,
+      "height": 1.1
+    },
+    "origin": "Nhật Bản / Đức / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bút chì",
+      "văn phòng",
+      "học tập",
+      "uni"
+    ],
+    "createdAt": "2026-08-29T00:00:00.000Z"
+  },
+  {
+    "id": "prod-627",
+    "name": "Bảng trắng / Bảng ghim Flexoffice cao cấp",
+    "slug": "bang-trang-bang-ghim-flexoffice-cao-cap-627",
+    "price": 494000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-627/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-627/800/800",
+    "description": "Bảng trắng viết êm dễ lau hoặc bảng ghim. Khung chắc chắn. Có thể treo tường. Kèm phụ kiện. Phù hợp văn phòng lớp học.",
+    "brand": "Thiên Long",
+    "sku": "THI-0627-CHI",
+    "originalPrice": 603000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Bảng trắng từ tính hoặc bảng ghim treo tường.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-627-a/800/800",
+      "https://picsum.photos/seed/prod-627-b/800/800",
+      "https://picsum.photos/seed/prod-627-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Trắng từ tính / Ghim",
+      "Kích thước": "40x60 đến 90x120cm",
+      "Khung": "Nhôm / Gỗ",
+      "Phụ kiện": "Có"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 167
+    },
+    "stock": 59,
+    "soldCount": 767,
+    "weight": 4519,
+    "dimensions": {
+      "length": 88.0,
+      "width": 63.0,
+      "height": 1.9
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "12 tháng",
+    "tags": [
+      "bảng trắng",
+      "văn phòng",
+      "học tập",
+      "thien-long"
+    ],
+    "createdAt": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "prod-628",
+    "name": "Kéo / Bấm ghim / Dụng cụ VP Flexoffice",
+    "slug": "keo-bam-ghim-dung-cu-vp-flexoffice-628",
+    "price": 92300,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-628/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-628/800/800",
+    "description": "Dụng cụ văn phòng cơ bản: kéo cắt giấy bấm ghim thủng lỗ. Chất liệu bền. Thiết kế êm tay. Cần thiết cho mọi bàn làm việc.",
+    "brand": "Flexoffice",
+    "sku": "FLE-0628-CHI",
+    "originalPrice": 101000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Kéo bấm ghim thủng lỗ dụng cụ văn phòng cần thiết.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-628-a/800/800",
+      "https://picsum.photos/seed/prod-628-b/800/800",
+      "https://picsum.photos/seed/prod-628-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Kéo / Bấm ghim / Thủng lỗ",
+      "Chất liệu": "Thép / Nhựa",
+      "Đặc điểm": "Êm tay bền"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 719
+    },
+    "stock": 131,
+    "soldCount": 3995,
+    "weight": 186,
+    "dimensions": {
+      "length": 19.5,
+      "width": 8.7,
+      "height": 2.9
+    },
+    "origin": "Việt Nam / Trung Quốc / Nhật Bản",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "dụng cụ văn phòng",
+      "kéo",
+      "bấm ghim",
+      "flexoffice"
+    ],
+    "createdAt": "2026-03-27T00:00:00.000Z"
+  },
+  {
+    "id": "prod-629",
+    "name": "Bút dạ quang / Bút lông Deli Plus",
+    "slug": "but-da-quang-but-long-deli-plus-629",
+    "price": 27800,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-629/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-629/800/800",
+    "description": "Bút dạ quang mực sáng không lem. Bút lông dầu hoặc nước viết đa bề mặt. Nhiều màu. Phù hợp học tập văn phòng.",
+    "brand": "Thiên Long",
+    "sku": "THI-0629-VỈ/",
+    "originalPrice": 33074,
+    "discountPercent": 16,
+    "unit": "vỉ/hộp",
+    "shortDescription": "Bút dạ quang hoặc bút lông nhiều màu sắc nổi bật.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-629-a/800/800",
+      "https://picsum.photos/seed/prod-629-b/800/800",
+      "https://picsum.photos/seed/prod-629-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Dạ quang / Lông dầu / Lông màu",
+      "Số màu": "4-12",
+      "Đặc điểm": "Không lem / Bền màu"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 827
+    },
+    "stock": 348,
+    "soldCount": 1031,
+    "weight": 58,
+    "dimensions": {
+      "length": 16.0,
+      "width": 8.3,
+      "height": 2.2
+    },
+    "origin": "Đức / Nhật Bản / Việt Nam / Trung Quốc",
+    "warranty": "Theo HSD mực",
+    "tags": [
+      "dạ quang",
+      "bút lông",
+      "học tập",
+      "thien-long"
+    ],
+    "createdAt": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "id": "prod-630",
+    "name": "Cặp tài liệu / Túi đựng hồ sơ Campus",
+    "slug": "cap-tai-lieu-tui-dung-ho-so-campus-630",
+    "price": 109000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-630/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-630/800/800",
+    "description": "Cặp hoặc túi đựng tài liệu A4. Nhiều ngăn phân loại. Chất liệu nhựa hoặc vải bền. Có nhãn ghi chú. Bảo vệ hồ sơ tốt.",
+    "brand": "Thiên Long",
+    "sku": "THI-0630-CHI",
+    "originalPrice": 135000,
+    "discountPercent": 19,
+    "unit": "chiếc",
+    "shortDescription": "Cặp tài liệu nhiều ngăn hoặc túi hồ sơ A4.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-630-a/800/800",
+      "https://picsum.photos/seed/prod-630-b/800/800",
+      "https://picsum.photos/seed/prod-630-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "A4",
+      "Số ngăn": "1-12",
+      "Chất liệu": "Nhựa / Vải",
+      "Nhãn": "Có"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 473
+    },
+    "stock": 203,
+    "soldCount": 82,
+    "weight": 285,
+    "dimensions": {
+      "length": 34.6,
+      "width": 24.9,
+      "height": 3.0
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "cặp tài liệu",
+      "hồ sơ",
+      "văn phòng",
+      "thien-long"
+    ],
+    "createdAt": "2026-09-04T00:00:00.000Z"
+  },
+  {
+    "id": "prod-631",
+    "name": "Sách Đọc Vị Bất Kỳ Ai",
+    "slug": "sach-doc-vi-bat-ky-ai-631",
+    "price": 104000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-631/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-631/800/800",
+    "description": "Sách best-seller được nhiều độc giả yêu thích. Bản dịch chất lượng hoặc nguyên tác. Giấy in đẹp. Phù hợp đọc và làm quà tặng.",
+    "brand": "Generic",
+    "sku": "GEN-0631-CUỐ",
+    "originalPrice": 114000,
+    "discountPercent": 9,
+    "unit": "cuốn",
+    "shortDescription": "Sách kỹ năng sống văn học best-seller bản đẹp.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-631-a/800/800",
+      "https://picsum.photos/seed/prod-631-b/800/800",
+      "https://picsum.photos/seed/prod-631-c/800/800"
+    ],
+    "specifications": {
+      "Thể loại": "Kỹ năng / Văn học",
+      "Bìa": "Mềm / Cứng",
+      "Ngôn ngữ": "Tiếng Việt"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 666
+    },
+    "stock": 167,
+    "soldCount": 3652,
+    "weight": 393,
+    "dimensions": {
+      "length": 13.3,
+      "width": 18.8,
+      "height": 2.2
+    },
+    "origin": "Việt Nam",
+    "warranty": "Đổi trả nếu lỗi in",
+    "tags": [
+      "sách",
+      "best-seller",
+      "kỹ năng",
+      "văn học",
+      "generic"
+    ],
+    "createdAt": "2026-08-10T00:00:00.000Z"
+  },
+  {
+    "id": "prod-632",
+    "name": "Sổ tay Campus A5 cao cấp",
+    "slug": "so-tay-campus-a5-cao-cap-632",
+    "price": 148000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-632/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-632/800/800",
+    "description": "Sổ tay bìa da hoặc giấy cứng. Giấy kẻ dòng hoặc caro chống lem. Nhiều số trang. Phù hợp ghi chép học tập công việc.",
+    "brand": "Campus",
+    "sku": "CAM-0632-CUỐ",
+    "originalPrice": 178000,
+    "discountPercent": 17,
+    "unit": "cuốn",
+    "shortDescription": "Sổ tay bìa đẹp giấy tốt nhiều trang.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-632-a/800/800",
+      "https://picsum.photos/seed/prod-632-b/800/800",
+      "https://picsum.photos/seed/prod-632-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "A5/A6/B5",
+      "Số trang": "80-200",
+      "Bìa": "Da / Giấy cứng",
+      "Giấy": "Kẻ dòng / Caro"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 864
+    },
+    "stock": 87,
+    "soldCount": 2910,
+    "weight": 387,
+    "dimensions": {
+      "length": 16.0,
+      "width": 21.9,
+      "height": 1.6
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "sổ tay",
+      "văn phòng",
+      "ghi chép",
+      "campus"
+    ],
+    "createdAt": "2026-03-22T00:00:00.000Z"
+  },
+  {
+    "id": "prod-633",
+    "name": "Bút bi / Bút gel Uni hộp Max",
+    "slug": "but-bi-but-gel-uni-hop-max-633",
+    "price": 96800,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-633/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-633/800/800",
+    "description": "Bút bi hoặc bút gel mực ra đều không lem. Viết êm tay. Đầu bi nhiều kích thước. Hộp tiện dụng cho văn phòng trường học.",
+    "brand": "Uni",
+    "sku": "UNI-0633-HỘP",
+    "originalPrice": 117000,
+    "discountPercent": 17,
+    "unit": "hộp",
+    "shortDescription": "Bút bi hoặc gel mực đều viết êm hộp nhiều cây.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-633-a/800/800",
+      "https://picsum.photos/seed/prod-633-b/800/800",
+      "https://picsum.photos/seed/prod-633-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bi / Gel",
+      "Số lượng": "10-20 cây",
+      "Đầu bi": "0.5-0.7mm",
+      "Màu mực": "Xanh / Đen / Đỏ"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 474
+    },
+    "stock": 333,
+    "soldCount": 607,
+    "weight": 266,
+    "dimensions": {
+      "length": 15.6,
+      "width": 8.4,
+      "height": 3.1
+    },
+    "origin": "Việt Nam / Nhật Bản / Trung Quốc",
+    "warranty": "Theo HSD mực",
+    "tags": [
+      "bút bi",
+      "bút gel",
+      "văn phòng",
+      "uni"
+    ],
+    "createdAt": "2026-01-15T00:00:00.000Z"
+  },
+  {
+    "id": "prod-634",
+    "name": "Giấy in A4 Việt Thắng 70gsm",
+    "slug": "giay-in-a4-viet-thang-70gsm-634",
+    "price": 103000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-634/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-634/800/800",
+    "description": "Giấy in A4 định lượng chuẩn. Độ trắng cao bề mặt mịn in sắc nét. Ít bụi giấy. Phù hợp in ấn photocopy.",
+    "brand": "Paper One",
+    "sku": "PAP-0634-REA",
+    "originalPrice": 113000,
+    "discountPercent": 9,
+    "unit": "ream",
+    "shortDescription": "Giấy in A4 trắng mịn không kẹt máy 500 tờ.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-634-a/800/800",
+      "https://picsum.photos/seed/prod-634-b/800/800",
+      "https://picsum.photos/seed/prod-634-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "A4",
+      "Định lượng": "70-80gsm",
+      "Số tờ": "500",
+      "Độ trắng": "Cao"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 153
+    },
+    "stock": 309,
+    "soldCount": 2858,
+    "weight": 2361,
+    "dimensions": {
+      "length": 28.5,
+      "width": 21.9,
+      "height": 6.3
+    },
+    "origin": "Thái Lan / Việt Nam / Indonesia",
+    "warranty": "Đổi trả nếu ẩm mốc",
+    "tags": [
+      "giấy in",
+      "a4",
+      "văn phòng",
+      "paper-one"
+    ],
+    "createdAt": "2026-04-30T00:00:00.000Z"
+  },
+  {
+    "id": "prod-635",
+    "name": "Balo / Cặp laptop Samsonite",
+    "slug": "balo-cap-laptop-samsonite-635",
+    "price": 1380000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-635/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-635/800/800",
+    "description": "Balo hoặc cặp đựng laptop có ngăn chống sốc. Nhiều ngăn chứa đồ. Chất liệu chống nước nhẹ. Quai đeo êm. Phù hợp học sinh nhân viên.",
+    "brand": "Tucano",
+    "sku": "TUC-0635-CHI",
+    "originalPrice": 1530000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Balo laptop nhiều ngăn chống sốc chống nước nhẹ.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-635-a/800/800",
+      "https://picsum.photos/seed/prod-635-b/800/800",
+      "https://picsum.photos/seed/prod-635-c/800/800"
+    ],
+    "specifications": {
+      "Laptop": "13-15.6 inch",
+      "Chống nước": "Nhẹ",
+      "Ngăn": "Nhiều",
+      "Chất liệu": "Polyester / Vải"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 206
+    },
+    "stock": 206,
+    "soldCount": 3639,
+    "weight": 1107,
+    "dimensions": {
+      "length": 47.9,
+      "width": 31.8,
+      "height": 14.1
+    },
+    "origin": "Việt Nam / Trung Quốc / Ý",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "balo",
+      "laptop",
+      "văn phòng",
+      "học tập",
+      "tucano"
+    ],
+    "createdAt": "2026-04-21T00:00:00.000Z"
+  },
+  {
+    "id": "prod-636",
+    "name": "Bút chì kim / Bút chì Deli",
+    "slug": "but-chi-kim-but-chi-deli-636",
+    "price": 45000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-636/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-636/800/800",
+    "description": "Bút chì kim bấm ngòi bền hoặc bút chì gỗ dễ gọt. Viết vẽ êm. Nhiều độ cứng. Phù hợp học sinh kỹ thuật.",
+    "brand": "Deli",
+    "sku": "DEL-0636-CHI",
+    "originalPrice": 55537,
+    "discountPercent": 19,
+    "unit": "chiếc/hộp",
+    "shortDescription": "Bút chì kim hoặc bút chì gỗ viết vẽ êm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-636-a/800/800",
+      "https://picsum.photos/seed/prod-636-b/800/800",
+      "https://picsum.photos/seed/prod-636-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Kim / Gỗ",
+      "Ngòi": "0.5-2.0mm hoặc 2B HB",
+      "Xuất xứ": "Nhật / Đức / Việt Nam"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 459
+    },
+    "stock": 312,
+    "soldCount": 1115,
+    "weight": 69,
+    "dimensions": {
+      "length": 16.9,
+      "width": 1.0,
+      "height": 0.9
+    },
+    "origin": "Nhật Bản / Đức / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bút chì",
+      "văn phòng",
+      "học tập",
+      "deli"
+    ],
+    "createdAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "prod-637",
+    "name": "Bảng trắng / Bảng ghim Flexoffice",
+    "slug": "bang-trang-bang-ghim-flexoffice-637",
+    "price": 744000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-637/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-637/800/800",
+    "description": "Bảng trắng viết êm dễ lau hoặc bảng ghim. Khung chắc chắn. Có thể treo tường. Kèm phụ kiện. Phù hợp văn phòng lớp học.",
+    "brand": "Deli",
+    "sku": "DEL-0637-CHI",
+    "originalPrice": 818000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Bảng trắng từ tính hoặc bảng ghim treo tường.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-637-a/800/800",
+      "https://picsum.photos/seed/prod-637-b/800/800",
+      "https://picsum.photos/seed/prod-637-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Trắng từ tính / Ghim",
+      "Kích thước": "40x60 đến 90x120cm",
+      "Khung": "Nhôm / Gỗ",
+      "Phụ kiện": "Có"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 526
+    },
+    "stock": 65,
+    "soldCount": 969,
+    "weight": 4443,
+    "dimensions": {
+      "length": 90.5,
+      "width": 63.3,
+      "height": 2.2
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "12 tháng",
+    "tags": [
+      "bảng trắng",
+      "văn phòng",
+      "học tập",
+      "deli"
+    ],
+    "createdAt": "2026-07-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-638",
+    "name": "Kéo / Bấm ghim / Dụng cụ VP Thiên Long Pro",
+    "slug": "keo-bam-ghim-dung-cu-vp-thien-long-pro-638",
+    "price": 113000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-638/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-638/800/800",
+    "description": "Dụng cụ văn phòng cơ bản: kéo cắt giấy bấm ghim thủng lỗ. Chất liệu bền. Thiết kế êm tay. Cần thiết cho mọi bàn làm việc.",
+    "brand": "Flexoffice",
+    "sku": "FLE-0638-CHI",
+    "originalPrice": 132000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Kéo bấm ghim thủng lỗ dụng cụ văn phòng cần thiết.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-638-a/800/800",
+      "https://picsum.photos/seed/prod-638-b/800/800",
+      "https://picsum.photos/seed/prod-638-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Kéo / Bấm ghim / Thủng lỗ",
+      "Chất liệu": "Thép / Nhựa",
+      "Đặc điểm": "Êm tay bền"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 764
+    },
+    "stock": 101,
+    "soldCount": 1763,
+    "weight": 83,
+    "dimensions": {
+      "length": 19.7,
+      "width": 7.5,
+      "height": 2.8
+    },
+    "origin": "Việt Nam / Trung Quốc / Nhật Bản",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "dụng cụ văn phòng",
+      "kéo",
+      "bấm ghim",
+      "flexoffice"
+    ],
+    "createdAt": "2026-03-02T00:00:00.000Z"
+  },
+  {
+    "id": "prod-639",
+    "name": "Bút dạ quang / Bút lông Muji",
+    "slug": "but-da-quang-but-long-muji-639",
+    "price": 63000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-639/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-639/800/800",
+    "description": "Bút dạ quang mực sáng không lem. Bút lông dầu hoặc nước viết đa bề mặt. Nhiều màu. Phù hợp học tập văn phòng.",
+    "brand": "Stabilo",
+    "sku": "STA-0639-VỈ/",
+    "originalPrice": 78494,
+    "discountPercent": 20,
+    "unit": "vỉ/hộp",
+    "shortDescription": "Bút dạ quang hoặc bút lông nhiều màu sắc nổi bật.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-639-a/800/800",
+      "https://picsum.photos/seed/prod-639-b/800/800",
+      "https://picsum.photos/seed/prod-639-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Dạ quang / Lông dầu / Lông màu",
+      "Số màu": "4-12",
+      "Đặc điểm": "Không lem / Bền màu"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 489
+    },
+    "stock": 48,
+    "soldCount": 92,
+    "weight": 110,
+    "dimensions": {
+      "length": 15.4,
+      "width": 8.7,
+      "height": 1.9
+    },
+    "origin": "Đức / Nhật Bản / Việt Nam / Trung Quốc",
+    "warranty": "Theo HSD mực",
+    "tags": [
+      "dạ quang",
+      "bút lông",
+      "học tập",
+      "stabilo"
+    ],
+    "createdAt": "2026-05-15T00:00:00.000Z"
+  },
+  {
+    "id": "prod-640",
+    "name": "Cặp tài liệu / Túi đựng hồ sơ Deli",
+    "slug": "cap-tai-lieu-tui-dung-ho-so-deli-640",
+    "price": 116000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-640/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-640/800/800",
+    "description": "Cặp hoặc túi đựng tài liệu A4. Nhiều ngăn phân loại. Chất liệu nhựa hoặc vải bền. Có nhãn ghi chú. Bảo vệ hồ sơ tốt.",
+    "brand": "Thiên Long",
+    "sku": "THI-0640-CHI",
+    "originalPrice": 133000,
+    "discountPercent": 13,
+    "unit": "chiếc",
+    "shortDescription": "Cặp tài liệu nhiều ngăn hoặc túi hồ sơ A4.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-640-a/800/800",
+      "https://picsum.photos/seed/prod-640-b/800/800",
+      "https://picsum.photos/seed/prod-640-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "A4",
+      "Số ngăn": "1-12",
+      "Chất liệu": "Nhựa / Vải",
+      "Nhãn": "Có"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 117
+    },
+    "stock": 290,
+    "soldCount": 290,
+    "weight": 208,
+    "dimensions": {
+      "length": 33.4,
+      "width": 25.0,
+      "height": 3.1
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "cặp tài liệu",
+      "hồ sơ",
+      "văn phòng",
+      "thien-long"
+    ],
+    "createdAt": "2026-01-28T00:00:00.000Z"
+  },
+  {
+    "id": "prod-641",
+    "name": "Sách Cafe Cùng Tony",
+    "slug": "sach-cafe-cung-tony-641",
+    "price": 184000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-641/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-641/800/800",
+    "description": "Sách best-seller được nhiều độc giả yêu thích. Bản dịch chất lượng hoặc nguyên tác. Giấy in đẹp. Phù hợp đọc và làm quà tặng.",
+    "brand": "Generic",
+    "sku": "GEN-0641-CUỐ",
+    "originalPrice": 210000,
+    "discountPercent": 12,
+    "unit": "cuốn",
+    "shortDescription": "Sách kỹ năng sống văn học best-seller bản đẹp.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-641-a/800/800",
+      "https://picsum.photos/seed/prod-641-b/800/800",
+      "https://picsum.photos/seed/prod-641-c/800/800"
+    ],
+    "specifications": {
+      "Thể loại": "Kỹ năng / Văn học",
+      "Bìa": "Mềm / Cứng",
+      "Ngôn ngữ": "Tiếng Việt"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 66
+    },
+    "stock": 7,
+    "soldCount": 1088,
+    "weight": 355,
+    "dimensions": {
+      "length": 15.2,
+      "width": 21.9,
+      "height": 2.0
+    },
+    "origin": "Việt Nam",
+    "warranty": "Đổi trả nếu lỗi in",
+    "tags": [
+      "sách",
+      "best-seller",
+      "kỹ năng",
+      "văn học",
+      "generic"
+    ],
+    "createdAt": "2026-05-24T00:00:00.000Z"
+  },
+  {
+    "id": "prod-642",
+    "name": "Sổ tay Flexoffice A6 Max",
+    "slug": "so-tay-flexoffice-a6-max-642",
+    "price": 59700,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-642/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-642/800/800",
+    "description": "Sổ tay bìa da hoặc giấy cứng. Giấy kẻ dòng hoặc caro chống lem. Nhiều số trang. Phù hợp ghi chép học tập công việc.",
+    "brand": "Thiên Long",
+    "sku": "THI-0642-CUỐ",
+    "originalPrice": 74300,
+    "discountPercent": 20,
+    "unit": "cuốn",
+    "shortDescription": "Sổ tay bìa đẹp giấy tốt nhiều trang.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-642-a/800/800",
+      "https://picsum.photos/seed/prod-642-b/800/800",
+      "https://picsum.photos/seed/prod-642-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "A5/A6/B5",
+      "Số trang": "80-200",
+      "Bìa": "Da / Giấy cứng",
+      "Giấy": "Kẻ dòng / Caro"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 367
+    },
+    "stock": 244,
+    "soldCount": 590,
+    "weight": 293,
+    "dimensions": {
+      "length": 13.6,
+      "width": 19.7,
+      "height": 1.4
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "sổ tay",
+      "văn phòng",
+      "ghi chép",
+      "thien-long"
+    ],
+    "createdAt": "2026-02-06T00:00:00.000Z"
+  },
+  {
+    "id": "prod-643",
+    "name": "Bút bi / Bút gel Pilotlet hộp",
+    "slug": "but-bi-but-gel-pilotlet-hop-643",
+    "price": 43600,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-643/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-643/800/800",
+    "description": "Bút bi hoặc bút gel mực ra đều không lem. Viết êm tay. Đầu bi nhiều kích thước. Hộp tiện dụng cho văn phòng trường học.",
+    "brand": "Pilotiso",
+    "sku": "PIL-0643-HỘP",
+    "originalPrice": 49018,
+    "discountPercent": 11,
+    "unit": "hộp",
+    "shortDescription": "Bút bi hoặc gel mực đều viết êm hộp nhiều cây.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-643-a/800/800",
+      "https://picsum.photos/seed/prod-643-b/800/800",
+      "https://picsum.photos/seed/prod-643-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bi / Gel",
+      "Số lượng": "10-20 cây",
+      "Đầu bi": "0.5-0.7mm",
+      "Màu mực": "Xanh / Đen / Đỏ"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 785
+    },
+    "stock": 189,
+    "soldCount": 3843,
+    "weight": 230,
+    "dimensions": {
+      "length": 13.6,
+      "width": 7.4,
+      "height": 3.2
+    },
+    "origin": "Việt Nam / Nhật Bản / Trung Quốc",
+    "warranty": "Theo HSD mực",
+    "tags": [
+      "bút bi",
+      "bút gel",
+      "văn phòng",
+      "pilotiso"
+    ],
+    "createdAt": "2026-05-05T00:00:00.000Z"
+  },
+  {
+    "id": "prod-644",
+    "name": "Giấy in A4 Paper One 80gsm",
+    "slug": "giay-in-a4-paper-one-80gsm-644",
+    "price": 98900,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-644/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-644/800/800",
+    "description": "Giấy in A4 định lượng chuẩn. Độ trắng cao bề mặt mịn in sắc nét. Ít bụi giấy. Phù hợp in ấn photocopy.",
+    "brand": "Paper One",
+    "sku": "PAP-0644-REA",
+    "originalPrice": 112000,
+    "discountPercent": 12,
+    "unit": "ream",
+    "shortDescription": "Giấy in A4 trắng mịn không kẹt máy 500 tờ.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-644-a/800/800",
+      "https://picsum.photos/seed/prod-644-b/800/800",
+      "https://picsum.photos/seed/prod-644-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "A4",
+      "Định lượng": "70-80gsm",
+      "Số tờ": "500",
+      "Độ trắng": "Cao"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 893
+    },
+    "stock": 341,
+    "soldCount": 2657,
+    "weight": 2368,
+    "dimensions": {
+      "length": 28.9,
+      "width": 23.1,
+      "height": 6.3
+    },
+    "origin": "Thái Lan / Việt Nam / Indonesia",
+    "warranty": "Đổi trả nếu ẩm mốc",
+    "tags": [
+      "giấy in",
+      "a4",
+      "văn phòng",
+      "paper-one"
+    ],
+    "createdAt": "2026-08-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-645",
+    "name": "Balo / Cặp laptop Mikkor phiên bản mới",
+    "slug": "balo-cap-laptop-mikkor-phien-ban-moi-645",
+    "price": 1250000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-645/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-645/800/800",
+    "description": "Balo hoặc cặp đựng laptop có ngăn chống sốc. Nhiều ngăn chứa đồ. Chất liệu chống nước nhẹ. Quai đeo êm. Phù hợp học sinh nhân viên.",
+    "brand": "Simplecarry",
+    "sku": "SIM-0645-CHI",
+    "originalPrice": 1390000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Balo laptop nhiều ngăn chống sốc chống nước nhẹ.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-645-a/800/800",
+      "https://picsum.photos/seed/prod-645-b/800/800",
+      "https://picsum.photos/seed/prod-645-c/800/800"
+    ],
+    "specifications": {
+      "Laptop": "13-15.6 inch",
+      "Chống nước": "Nhẹ",
+      "Ngăn": "Nhiều",
+      "Chất liệu": "Polyester / Vải"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 526
+    },
+    "stock": 25,
+    "soldCount": 1858,
+    "weight": 981,
+    "dimensions": {
+      "length": 42.8,
+      "width": 31.2,
+      "height": 14.8
+    },
+    "origin": "Việt Nam / Trung Quốc / Ý",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "balo",
+      "laptop",
+      "văn phòng",
+      "học tập",
+      "simplecarry"
+    ],
+    "createdAt": "2026-04-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-646",
+    "name": "Bút chì kim / Bút chì Deli",
+    "slug": "but-chi-kim-but-chi-deli-646",
+    "price": 29700,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-646/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-646/800/800",
+    "description": "Bút chì kim bấm ngòi bền hoặc bút chì gỗ dễ gọt. Viết vẽ êm. Nhiều độ cứng. Phù hợp học sinh kỹ thuật.",
+    "brand": "Thiên Long",
+    "sku": "THI-0646-CHI",
+    "originalPrice": 36346,
+    "discountPercent": 18,
+    "unit": "chiếc/hộp",
+    "shortDescription": "Bút chì kim hoặc bút chì gỗ viết vẽ êm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-646-a/800/800",
+      "https://picsum.photos/seed/prod-646-b/800/800",
+      "https://picsum.photos/seed/prod-646-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Kim / Gỗ",
+      "Ngòi": "0.5-2.0mm hoặc 2B HB",
+      "Xuất xứ": "Nhật / Đức / Việt Nam"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 192
+    },
+    "stock": 265,
+    "soldCount": 3419,
+    "weight": 28,
+    "dimensions": {
+      "length": 16.6,
+      "width": 0.9,
+      "height": 1.1
+    },
+    "origin": "Nhật Bản / Đức / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bút chì",
+      "văn phòng",
+      "học tập",
+      "thien-long"
+    ],
+    "createdAt": "2026-03-25T00:00:00.000Z"
+  },
+  {
+    "id": "prod-647",
+    "name": "Bảng trắng / Bảng ghim Deli",
+    "slug": "bang-trang-bang-ghim-deli-647",
+    "price": 701000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-647/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-647/800/800",
+    "description": "Bảng trắng viết êm dễ lau hoặc bảng ghim. Khung chắc chắn. Có thể treo tường. Kèm phụ kiện. Phù hợp văn phòng lớp học.",
+    "brand": "Flexoffice",
+    "sku": "FLE-0647-CHI",
+    "originalPrice": 848000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Bảng trắng từ tính hoặc bảng ghim treo tường.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-647-a/800/800",
+      "https://picsum.photos/seed/prod-647-b/800/800",
+      "https://picsum.photos/seed/prod-647-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Trắng từ tính / Ghim",
+      "Kích thước": "40x60 đến 90x120cm",
+      "Khung": "Nhôm / Gỗ",
+      "Phụ kiện": "Có"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 356
+    },
+    "stock": 18,
+    "soldCount": 1214,
+    "weight": 2239,
+    "dimensions": {
+      "length": 88.5,
+      "width": 54.9,
+      "height": 2.1
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "12 tháng",
+    "tags": [
+      "bảng trắng",
+      "văn phòng",
+      "học tập",
+      "flexoffice"
+    ],
+    "createdAt": "2026-07-08T00:00:00.000Z"
+  },
+  {
+    "id": "prod-648",
+    "name": "Kéo / Bấm ghim / Dụng cụ VP Deli 2026",
+    "slug": "keo-bam-ghim-dung-cu-vp-deli-2026-648",
+    "price": 57400,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-648/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-648/800/800",
+    "description": "Dụng cụ văn phòng cơ bản: kéo cắt giấy bấm ghim thủng lỗ. Chất liệu bền. Thiết kế êm tay. Cần thiết cho mọi bàn làm việc.",
+    "brand": "Deli",
+    "sku": "DEL-0648-CHI",
+    "originalPrice": 63492,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Kéo bấm ghim thủng lỗ dụng cụ văn phòng cần thiết.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-648-a/800/800",
+      "https://picsum.photos/seed/prod-648-b/800/800",
+      "https://picsum.photos/seed/prod-648-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Kéo / Bấm ghim / Thủng lỗ",
+      "Chất liệu": "Thép / Nhựa",
+      "Đặc điểm": "Êm tay bền"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 295
+    },
+    "stock": 309,
+    "soldCount": 2745,
+    "weight": 70,
+    "dimensions": {
+      "length": 19.8,
+      "width": 8.3,
+      "height": 3.0
+    },
+    "origin": "Việt Nam / Trung Quốc / Nhật Bản",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "dụng cụ văn phòng",
+      "kéo",
+      "bấm ghim",
+      "deli"
+    ],
+    "createdAt": "2026-01-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-649",
+    "name": "Bút dạ quang / Bút lông Thiên Long",
+    "slug": "but-da-quang-but-long-thien-long-649",
+    "price": 150000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-649/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-649/800/800",
+    "description": "Bút dạ quang mực sáng không lem. Bút lông dầu hoặc nước viết đa bề mặt. Nhiều màu. Phù hợp học tập văn phòng.",
+    "brand": "Pilotlet",
+    "sku": "PIL-0649-VỈ/",
+    "originalPrice": 174000,
+    "discountPercent": 14,
+    "unit": "vỉ/hộp",
+    "shortDescription": "Bút dạ quang hoặc bút lông nhiều màu sắc nổi bật.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-649-a/800/800",
+      "https://picsum.photos/seed/prod-649-b/800/800",
+      "https://picsum.photos/seed/prod-649-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Dạ quang / Lông dầu / Lông màu",
+      "Số màu": "4-12",
+      "Đặc điểm": "Không lem / Bền màu"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 837
+    },
+    "stock": 33,
+    "soldCount": 3096,
+    "weight": 195,
+    "dimensions": {
+      "length": 13.9,
+      "width": 8.6,
+      "height": 2.1
+    },
+    "origin": "Đức / Nhật Bản / Việt Nam / Trung Quốc",
+    "warranty": "Theo HSD mực",
+    "tags": [
+      "dạ quang",
+      "bút lông",
+      "học tập",
+      "pilotlet"
+    ],
+    "createdAt": "2026-02-02T00:00:00.000Z"
+  },
+  {
+    "id": "prod-650",
+    "name": "Cặp tài liệu / Túi đựng hồ sơ Campus",
+    "slug": "cap-tai-lieu-tui-dung-ho-so-campus-650",
+    "price": 77300,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-650/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-650/800/800",
+    "description": "Cặp hoặc túi đựng tài liệu A4. Nhiều ngăn phân loại. Chất liệu nhựa hoặc vải bền. Có nhãn ghi chú. Bảo vệ hồ sơ tốt.",
+    "brand": "Flexoffice",
+    "sku": "FLE-0650-CHI",
+    "originalPrice": 86837,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Cặp tài liệu nhiều ngăn hoặc túi hồ sơ A4.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-650-a/800/800",
+      "https://picsum.photos/seed/prod-650-b/800/800",
+      "https://picsum.photos/seed/prod-650-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "A4",
+      "Số ngăn": "1-12",
+      "Chất liệu": "Nhựa / Vải",
+      "Nhãn": "Có"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 186
+    },
+    "stock": 203,
+    "soldCount": 3242,
+    "weight": 222,
+    "dimensions": {
+      "length": 35.0,
+      "width": 25.8,
+      "height": 2.8
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "cặp tài liệu",
+      "hồ sơ",
+      "văn phòng",
+      "flexoffice"
+    ],
+    "createdAt": "2026-04-28T00:00:00.000Z"
+  },
+  {
+    "id": "prod-651",
+    "name": "Sách Tuổi Trẻ Đáng Giá Bao Nhiêu",
+    "slug": "sach-tuoi-tre-dang-gia-bao-nhieu-651",
+    "price": 80800,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-651/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-651/800/800",
+    "description": "Sách best-seller được nhiều độc giả yêu thích. Bản dịch chất lượng hoặc nguyên tác. Giấy in đẹp. Phù hợp đọc và làm quà tặng.",
+    "brand": "Generic",
+    "sku": "GEN-0651-CUỐ",
+    "originalPrice": 91364,
+    "discountPercent": 12,
+    "unit": "cuốn",
+    "shortDescription": "Sách kỹ năng sống văn học best-seller bản đẹp.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-651-a/800/800",
+      "https://picsum.photos/seed/prod-651-b/800/800",
+      "https://picsum.photos/seed/prod-651-c/800/800"
+    ],
+    "specifications": {
+      "Thể loại": "Kỹ năng / Văn học",
+      "Bìa": "Mềm / Cứng",
+      "Ngôn ngữ": "Tiếng Việt"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 387
+    },
+    "stock": 345,
+    "soldCount": 443,
+    "weight": 310,
+    "dimensions": {
+      "length": 14.7,
+      "width": 21.7,
+      "height": 2.2
+    },
+    "origin": "Việt Nam",
+    "warranty": "Đổi trả nếu lỗi in",
+    "tags": [
+      "sách",
+      "best-seller",
+      "kỹ năng",
+      "văn học",
+      "generic"
+    ],
+    "createdAt": "2026-08-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-652",
+    "name": "Sổ tay Thiên Long B5 Mini",
+    "slug": "so-tay-thien-long-b5-mini-652",
+    "price": 150000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-652/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-652/800/800",
+    "description": "Sổ tay bìa da hoặc giấy cứng. Giấy kẻ dòng hoặc caro chống lem. Nhiều số trang. Phù hợp ghi chép học tập công việc.",
+    "brand": "Campus",
+    "sku": "CAM-0652-CUỐ",
+    "originalPrice": 169000,
+    "discountPercent": 11,
+    "unit": "cuốn",
+    "shortDescription": "Sổ tay bìa đẹp giấy tốt nhiều trang.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-652-a/800/800",
+      "https://picsum.photos/seed/prod-652-b/800/800",
+      "https://picsum.photos/seed/prod-652-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "A5/A6/B5",
+      "Số trang": "80-200",
+      "Bìa": "Da / Giấy cứng",
+      "Giấy": "Kẻ dòng / Caro"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 464
+    },
+    "stock": 327,
+    "soldCount": 1794,
+    "weight": 303,
+    "dimensions": {
+      "length": 14.8,
+      "width": 22.1,
+      "height": 1.6
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "sổ tay",
+      "văn phòng",
+      "ghi chép",
+      "campus"
+    ],
+    "createdAt": "2026-02-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-653",
+    "name": "Bút bi / Bút gel Thiên Long hộp",
+    "slug": "but-bi-but-gel-thien-long-hop-653",
+    "price": 114000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-653/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-653/800/800",
+    "description": "Bút bi hoặc bút gel mực ra đều không lem. Viết êm tay. Đầu bi nhiều kích thước. Hộp tiện dụng cho văn phòng trường học.",
+    "brand": "Pilotiso",
+    "sku": "PIL-0653-HỘP",
+    "originalPrice": 127000,
+    "discountPercent": 10,
+    "unit": "hộp",
+    "shortDescription": "Bút bi hoặc gel mực đều viết êm hộp nhiều cây.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-653-a/800/800",
+      "https://picsum.photos/seed/prod-653-b/800/800",
+      "https://picsum.photos/seed/prod-653-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bi / Gel",
+      "Số lượng": "10-20 cây",
+      "Đầu bi": "0.5-0.7mm",
+      "Màu mực": "Xanh / Đen / Đỏ"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 499
+    },
+    "stock": 228,
+    "soldCount": 374,
+    "weight": 189,
+    "dimensions": {
+      "length": 16.3,
+      "width": 8.0,
+      "height": 3.1
+    },
+    "origin": "Việt Nam / Nhật Bản / Trung Quốc",
+    "warranty": "Theo HSD mực",
+    "tags": [
+      "bút bi",
+      "bút gel",
+      "văn phòng",
+      "pilotiso"
+    ],
+    "createdAt": "2026-09-04T00:00:00.000Z"
+  },
+  {
+    "id": "prod-654",
+    "name": "Giấy in A4 Việt Thắng 80gsm phiên bản mới",
+    "slug": "giay-in-a4-viet-thang-80gsm-phien-ban-moi-654",
+    "price": 81300,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-654/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-654/800/800",
+    "description": "Giấy in A4 định lượng chuẩn. Độ trắng cao bề mặt mịn in sắc nét. Ít bụi giấy. Phù hợp in ấn photocopy.",
+    "brand": "Paper One",
+    "sku": "PAP-0654-REA",
+    "originalPrice": 95033,
+    "discountPercent": 14,
+    "unit": "ream",
+    "shortDescription": "Giấy in A4 trắng mịn không kẹt máy 500 tờ.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-654-a/800/800",
+      "https://picsum.photos/seed/prod-654-b/800/800",
+      "https://picsum.photos/seed/prod-654-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "A4",
+      "Định lượng": "70-80gsm",
+      "Số tờ": "500",
+      "Độ trắng": "Cao"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 542
+    },
+    "stock": 222,
+    "soldCount": 1741,
+    "weight": 2502,
+    "dimensions": {
+      "length": 30.4,
+      "width": 21.2,
+      "height": 6.5
+    },
+    "origin": "Thái Lan / Việt Nam / Indonesia",
+    "warranty": "Đổi trả nếu ẩm mốc",
+    "tags": [
+      "giấy in",
+      "a4",
+      "văn phòng",
+      "paper-one"
+    ],
+    "createdAt": "2026-02-08T00:00:00.000Z"
+  },
+  {
+    "id": "prod-655",
+    "name": "Balo / Cặp laptop Mikkor",
+    "slug": "balo-cap-laptop-mikkor-655",
+    "price": 1350000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-655/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-655/800/800",
+    "description": "Balo hoặc cặp đựng laptop có ngăn chống sốc. Nhiều ngăn chứa đồ. Chất liệu chống nước nhẹ. Quai đeo êm. Phù hợp học sinh nhân viên.",
+    "brand": "The North Face",
+    "sku": "THE-0655-CHI",
+    "originalPrice": 1540000,
+    "discountPercent": 12,
+    "unit": "chiếc",
+    "shortDescription": "Balo laptop nhiều ngăn chống sốc chống nước nhẹ.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-655-a/800/800",
+      "https://picsum.photos/seed/prod-655-b/800/800",
+      "https://picsum.photos/seed/prod-655-c/800/800"
+    ],
+    "specifications": {
+      "Laptop": "13-15.6 inch",
+      "Chống nước": "Nhẹ",
+      "Ngăn": "Nhiều",
+      "Chất liệu": "Polyester / Vải"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 203
+    },
+    "stock": 98,
+    "soldCount": 3502,
+    "weight": 1099,
+    "dimensions": {
+      "length": 41.2,
+      "width": 30.0,
+      "height": 13.8
+    },
+    "origin": "Việt Nam / Trung Quốc / Ý",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "balo",
+      "laptop",
+      "văn phòng",
+      "học tập",
+      "the-north-face"
+    ],
+    "createdAt": "2026-04-25T00:00:00.000Z"
+  },
+  {
+    "id": "prod-656",
+    "name": "Bút chì kim / Bút chì Pentel Pro",
+    "slug": "but-chi-kim-but-chi-pentel-pro-656",
+    "price": 74600,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-656/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-656/800/800",
+    "description": "Bút chì kim bấm ngòi bền hoặc bút chì gỗ dễ gọt. Viết vẽ êm. Nhiều độ cứng. Phù hợp học sinh kỹ thuật.",
+    "brand": "Staedtler",
+    "sku": "STA-0656-CHI",
+    "originalPrice": 90172,
+    "discountPercent": 17,
+    "unit": "chiếc/hộp",
+    "shortDescription": "Bút chì kim hoặc bút chì gỗ viết vẽ êm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-656-a/800/800",
+      "https://picsum.photos/seed/prod-656-b/800/800",
+      "https://picsum.photos/seed/prod-656-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Kim / Gỗ",
+      "Ngòi": "0.5-2.0mm hoặc 2B HB",
+      "Xuất xứ": "Nhật / Đức / Việt Nam"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 211
+    },
+    "stock": 113,
+    "soldCount": 808,
+    "weight": 67,
+    "dimensions": {
+      "length": 18.4,
+      "width": 1.0,
+      "height": 1.1
+    },
+    "origin": "Nhật Bản / Đức / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bút chì",
+      "văn phòng",
+      "học tập",
+      "staedtler"
+    ],
+    "createdAt": "2026-02-04T00:00:00.000Z"
+  },
+  {
+    "id": "prod-657",
+    "name": "Bảng trắng / Bảng ghim Thiên Long",
+    "slug": "bang-trang-bang-ghim-thien-long-657",
+    "price": 604000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-657/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-657/800/800",
+    "description": "Bảng trắng viết êm dễ lau hoặc bảng ghim. Khung chắc chắn. Có thể treo tường. Kèm phụ kiện. Phù hợp văn phòng lớp học.",
+    "brand": "Flexoffice",
+    "sku": "FLE-0657-CHI",
+    "originalPrice": 707000,
+    "discountPercent": 15,
+    "unit": "chiếc",
+    "shortDescription": "Bảng trắng từ tính hoặc bảng ghim treo tường.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-657-a/800/800",
+      "https://picsum.photos/seed/prod-657-b/800/800",
+      "https://picsum.photos/seed/prod-657-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Trắng từ tính / Ghim",
+      "Kích thước": "40x60 đến 90x120cm",
+      "Khung": "Nhôm / Gỗ",
+      "Phụ kiện": "Có"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 434
+    },
+    "stock": 341,
+    "soldCount": 3098,
+    "weight": 1523,
+    "dimensions": {
+      "length": 88.1,
+      "width": 54.2,
+      "height": 2.1
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "12 tháng",
+    "tags": [
+      "bảng trắng",
+      "văn phòng",
+      "học tập",
+      "flexoffice"
+    ],
+    "createdAt": "2026-06-18T00:00:00.000Z"
+  },
+  {
+    "id": "prod-658",
+    "name": "Kéo / Bấm ghim / Dụng cụ VP Scout 2026",
+    "slug": "keo-bam-ghim-dung-cu-vp-scout-2026-658",
+    "price": 106000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-658/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-658/800/800",
+    "description": "Dụng cụ văn phòng cơ bản: kéo cắt giấy bấm ghim thủng lỗ. Chất liệu bền. Thiết kế êm tay. Cần thiết cho mọi bàn làm việc.",
+    "brand": "Flexoffice",
+    "sku": "FLE-0658-CHI",
+    "originalPrice": 127000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Kéo bấm ghim thủng lỗ dụng cụ văn phòng cần thiết.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-658-a/800/800",
+      "https://picsum.photos/seed/prod-658-b/800/800",
+      "https://picsum.photos/seed/prod-658-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Kéo / Bấm ghim / Thủng lỗ",
+      "Chất liệu": "Thép / Nhựa",
+      "Đặc điểm": "Êm tay bền"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 215
+    },
+    "stock": 62,
+    "soldCount": 3392,
+    "weight": 226,
+    "dimensions": {
+      "length": 20.7,
+      "width": 8.5,
+      "height": 2.8
+    },
+    "origin": "Việt Nam / Trung Quốc / Nhật Bản",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "dụng cụ văn phòng",
+      "kéo",
+      "bấm ghim",
+      "flexoffice"
+    ],
+    "createdAt": "2026-01-19T00:00:00.000Z"
+  },
+  {
+    "id": "prod-659",
+    "name": "Bút dạ quang / Bút lông Deli",
+    "slug": "but-da-quang-but-long-deli-659",
+    "price": 88100,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-659/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-659/800/800",
+    "description": "Bút dạ quang mực sáng không lem. Bút lông dầu hoặc nước viết đa bề mặt. Nhiều màu. Phù hợp học tập văn phòng.",
+    "brand": "Deli",
+    "sku": "DEL-0659-VỈ/",
+    "originalPrice": 105000,
+    "discountPercent": 16,
+    "unit": "vỉ/hộp",
+    "shortDescription": "Bút dạ quang hoặc bút lông nhiều màu sắc nổi bật.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-659-a/800/800",
+      "https://picsum.photos/seed/prod-659-b/800/800",
+      "https://picsum.photos/seed/prod-659-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Dạ quang / Lông dầu / Lông màu",
+      "Số màu": "4-12",
+      "Đặc điểm": "Không lem / Bền màu"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 328
+    },
+    "stock": 242,
+    "soldCount": 656,
+    "weight": 111,
+    "dimensions": {
+      "length": 14.8,
+      "width": 8.2,
+      "height": 2.1
+    },
+    "origin": "Đức / Nhật Bản / Việt Nam / Trung Quốc",
+    "warranty": "Theo HSD mực",
+    "tags": [
+      "dạ quang",
+      "bút lông",
+      "học tập",
+      "deli"
+    ],
+    "createdAt": "2026-05-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-660",
+    "name": "Cặp tài liệu / Túi đựng hồ sơ Campus",
+    "slug": "cap-tai-lieu-tui-dung-ho-so-campus-660",
+    "price": 40300,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-660/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-660/800/800",
+    "description": "Cặp hoặc túi đựng tài liệu A4. Nhiều ngăn phân loại. Chất liệu nhựa hoặc vải bền. Có nhãn ghi chú. Bảo vệ hồ sơ tốt.",
+    "brand": "Flexoffice",
+    "sku": "FLE-0660-CHI",
+    "originalPrice": 44661,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Cặp tài liệu nhiều ngăn hoặc túi hồ sơ A4.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-660-a/800/800",
+      "https://picsum.photos/seed/prod-660-b/800/800",
+      "https://picsum.photos/seed/prod-660-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "A4",
+      "Số ngăn": "1-12",
+      "Chất liệu": "Nhựa / Vải",
+      "Nhãn": "Có"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 480
+    },
+    "stock": 304,
+    "soldCount": 1043,
+    "weight": 178,
+    "dimensions": {
+      "length": 33.5,
+      "width": 23.7,
+      "height": 3.0
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "cặp tài liệu",
+      "hồ sơ",
+      "văn phòng",
+      "flexoffice"
+    ],
+    "createdAt": "2026-03-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-661",
+    "name": "Sách Tuổi Trẻ Đáng Giá Bao Nhiêu",
+    "slug": "sach-tuoi-tre-dang-gia-bao-nhieu-661",
+    "price": 71700,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-661/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-661/800/800",
+    "description": "Sách best-seller được nhiều độc giả yêu thích. Bản dịch chất lượng hoặc nguyên tác. Giấy in đẹp. Phù hợp đọc và làm quà tặng.",
+    "brand": "Generic",
+    "sku": "GEN-0661-CUỐ",
+    "originalPrice": 81505,
+    "discountPercent": 12,
+    "unit": "cuốn",
+    "shortDescription": "Sách kỹ năng sống văn học best-seller bản đẹp.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-661-a/800/800",
+      "https://picsum.photos/seed/prod-661-b/800/800",
+      "https://picsum.photos/seed/prod-661-c/800/800"
+    ],
+    "specifications": {
+      "Thể loại": "Kỹ năng / Văn học",
+      "Bìa": "Mềm / Cứng",
+      "Ngôn ngữ": "Tiếng Việt"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 774
+    },
+    "stock": 301,
+    "soldCount": 2490,
+    "weight": 226,
+    "dimensions": {
+      "length": 14.4,
+      "width": 20.9,
+      "height": 2.2
+    },
+    "origin": "Việt Nam",
+    "warranty": "Đổi trả nếu lỗi in",
+    "tags": [
+      "sách",
+      "best-seller",
+      "kỹ năng",
+      "văn học",
+      "generic"
+    ],
+    "createdAt": "2026-07-21T00:00:00.000Z"
+  },
+  {
+    "id": "prod-662",
+    "name": "Sổ tay Flexoffice A6 Max",
+    "slug": "so-tay-flexoffice-a6-max-662",
+    "price": 160000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-662/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-662/800/800",
+    "description": "Sổ tay bìa da hoặc giấy cứng. Giấy kẻ dòng hoặc caro chống lem. Nhiều số trang. Phù hợp ghi chép học tập công việc.",
+    "brand": "Campus",
+    "sku": "CAM-0662-CUỐ",
+    "originalPrice": 189000,
+    "discountPercent": 15,
+    "unit": "cuốn",
+    "shortDescription": "Sổ tay bìa đẹp giấy tốt nhiều trang.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-662-a/800/800",
+      "https://picsum.photos/seed/prod-662-b/800/800",
+      "https://picsum.photos/seed/prod-662-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "A5/A6/B5",
+      "Số trang": "80-200",
+      "Bìa": "Da / Giấy cứng",
+      "Giấy": "Kẻ dòng / Caro"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 82
+    },
+    "stock": 275,
+    "soldCount": 127,
+    "weight": 306,
+    "dimensions": {
+      "length": 16.3,
+      "width": 22.7,
+      "height": 1.6
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "sổ tay",
+      "văn phòng",
+      "ghi chép",
+      "campus"
+    ],
+    "createdAt": "2026-05-03T00:00:00.000Z"
+  },
+  {
+    "id": "prod-663",
+    "name": "Bút bi / Bút gel Uni hộp cao cấp",
+    "slug": "but-bi-but-gel-uni-hop-cao-cap-663",
+    "price": 110000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-663/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-663/800/800",
+    "description": "Bút bi hoặc bút gel mực ra đều không lem. Viết êm tay. Đầu bi nhiều kích thước. Hộp tiện dụng cho văn phòng trường học.",
+    "brand": "Pilotlet",
+    "sku": "PIL-0663-HỘP",
+    "originalPrice": 127000,
+    "discountPercent": 13,
+    "unit": "hộp",
+    "shortDescription": "Bút bi hoặc gel mực đều viết êm hộp nhiều cây.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-663-a/800/800",
+      "https://picsum.photos/seed/prod-663-b/800/800",
+      "https://picsum.photos/seed/prod-663-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bi / Gel",
+      "Số lượng": "10-20 cây",
+      "Đầu bi": "0.5-0.7mm",
+      "Màu mực": "Xanh / Đen / Đỏ"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 466
+    },
+    "stock": 15,
+    "soldCount": 710,
+    "weight": 271,
+    "dimensions": {
+      "length": 13.9,
+      "width": 8.2,
+      "height": 3.1
+    },
+    "origin": "Việt Nam / Nhật Bản / Trung Quốc",
+    "warranty": "Theo HSD mực",
+    "tags": [
+      "bút bi",
+      "bút gel",
+      "văn phòng",
+      "pilotlet"
+    ],
+    "createdAt": "2026-03-29T00:00:00.000Z"
+  },
+  {
+    "id": "prod-664",
+    "name": "Giấy in A4 IK Plus 80gsm limited",
+    "slug": "giay-in-a4-ik-plus-80gsm-limited-664",
+    "price": 79400,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-664/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-664/800/800",
+    "description": "Giấy in A4 định lượng chuẩn. Độ trắng cao bề mặt mịn in sắc nét. Ít bụi giấy. Phù hợp in ấn photocopy.",
+    "brand": "Sai Gon",
+    "sku": "SAI-0664-REA",
+    "originalPrice": 93684,
+    "discountPercent": 15,
+    "unit": "ream",
+    "shortDescription": "Giấy in A4 trắng mịn không kẹt máy 500 tờ.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-664-a/800/800",
+      "https://picsum.photos/seed/prod-664-b/800/800",
+      "https://picsum.photos/seed/prod-664-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "A4",
+      "Định lượng": "70-80gsm",
+      "Số tờ": "500",
+      "Độ trắng": "Cao"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 320
+    },
+    "stock": 204,
+    "soldCount": 3981,
+    "weight": 2547,
+    "dimensions": {
+      "length": 32.5,
+      "width": 22.5,
+      "height": 6.3
+    },
+    "origin": "Thái Lan / Việt Nam / Indonesia",
+    "warranty": "Đổi trả nếu ẩm mốc",
+    "tags": [
+      "giấy in",
+      "a4",
+      "văn phòng",
+      "sai-gon"
+    ],
+    "createdAt": "2026-05-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-665",
+    "name": "Balo / Cặp laptop Samsonite",
+    "slug": "balo-cap-laptop-samsonite-665",
+    "price": 1160000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-665/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-665/800/800",
+    "description": "Balo hoặc cặp đựng laptop có ngăn chống sốc. Nhiều ngăn chứa đồ. Chất liệu chống nước nhẹ. Quai đeo êm. Phù hợp học sinh nhân viên.",
+    "brand": "Tucano",
+    "sku": "TUC-0665-CHI",
+    "originalPrice": 1310000,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Balo laptop nhiều ngăn chống sốc chống nước nhẹ.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-665-a/800/800",
+      "https://picsum.photos/seed/prod-665-b/800/800",
+      "https://picsum.photos/seed/prod-665-c/800/800"
+    ],
+    "specifications": {
+      "Laptop": "13-15.6 inch",
+      "Chống nước": "Nhẹ",
+      "Ngăn": "Nhiều",
+      "Chất liệu": "Polyester / Vải"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 123
+    },
+    "stock": 217,
+    "soldCount": 3912,
+    "weight": 588,
+    "dimensions": {
+      "length": 46.5,
+      "width": 27.8,
+      "height": 14.1
+    },
+    "origin": "Việt Nam / Trung Quốc / Ý",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "balo",
+      "laptop",
+      "văn phòng",
+      "học tập",
+      "tucano"
+    ],
+    "createdAt": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "id": "prod-666",
+    "name": "Bút chì kim / Bút chì Staedtler 2025",
+    "slug": "but-chi-kim-but-chi-staedtler-2025-666",
+    "price": 17400,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-666/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-666/800/800",
+    "description": "Bút chì kim bấm ngòi bền hoặc bút chì gỗ dễ gọt. Viết vẽ êm. Nhiều độ cứng. Phù hợp học sinh kỹ thuật.",
+    "brand": "Pentel",
+    "sku": "PEN-0666-CHI",
+    "originalPrice": 19853,
+    "discountPercent": 12,
+    "unit": "chiếc/hộp",
+    "shortDescription": "Bút chì kim hoặc bút chì gỗ viết vẽ êm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-666-a/800/800",
+      "https://picsum.photos/seed/prod-666-b/800/800",
+      "https://picsum.photos/seed/prod-666-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Kim / Gỗ",
+      "Ngòi": "0.5-2.0mm hoặc 2B HB",
+      "Xuất xứ": "Nhật / Đức / Việt Nam"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 52
+    },
+    "stock": 37,
+    "soldCount": 1433,
+    "weight": 43,
+    "dimensions": {
+      "length": 17.5,
+      "width": 0.9,
+      "height": 1.1
+    },
+    "origin": "Nhật Bản / Đức / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bút chì",
+      "văn phòng",
+      "học tập",
+      "pentel"
+    ],
+    "createdAt": "2026-05-05T00:00:00.000Z"
+  },
+  {
+    "id": "prod-667",
+    "name": "Bảng trắng / Bảng ghim Flexoffice",
+    "slug": "bang-trang-bang-ghim-flexoffice-667",
+    "price": 738000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-667/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-667/800/800",
+    "description": "Bảng trắng viết êm dễ lau hoặc bảng ghim. Khung chắc chắn. Có thể treo tường. Kèm phụ kiện. Phù hợp văn phòng lớp học.",
+    "brand": "Flexoffice",
+    "sku": "FLE-0667-CHI",
+    "originalPrice": 825000,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Bảng trắng từ tính hoặc bảng ghim treo tường.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-667-a/800/800",
+      "https://picsum.photos/seed/prod-667-b/800/800",
+      "https://picsum.photos/seed/prod-667-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Trắng từ tính / Ghim",
+      "Kích thước": "40x60 đến 90x120cm",
+      "Khung": "Nhôm / Gỗ",
+      "Phụ kiện": "Có"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 590
+    },
+    "stock": 141,
+    "soldCount": 3721,
+    "weight": 2556,
+    "dimensions": {
+      "length": 98.9,
+      "width": 63.4,
+      "height": 2.1
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "12 tháng",
+    "tags": [
+      "bảng trắng",
+      "văn phòng",
+      "học tập",
+      "flexoffice"
+    ],
+    "createdAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "id": "prod-668",
+    "name": "Kéo / Bấm ghim / Dụng cụ VP Plus",
+    "slug": "keo-bam-ghim-dung-cu-vp-plus-668",
+    "price": 108000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-668/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-668/800/800",
+    "description": "Dụng cụ văn phòng cơ bản: kéo cắt giấy bấm ghim thủng lỗ. Chất liệu bền. Thiết kế êm tay. Cần thiết cho mọi bàn làm việc.",
+    "brand": "Deli",
+    "sku": "DEL-0668-CHI",
+    "originalPrice": 118000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Kéo bấm ghim thủng lỗ dụng cụ văn phòng cần thiết.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-668-a/800/800",
+      "https://picsum.photos/seed/prod-668-b/800/800",
+      "https://picsum.photos/seed/prod-668-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Kéo / Bấm ghim / Thủng lỗ",
+      "Chất liệu": "Thép / Nhựa",
+      "Đặc điểm": "Êm tay bền"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 128
+    },
+    "stock": 317,
+    "soldCount": 2547,
+    "weight": 292,
+    "dimensions": {
+      "length": 19.8,
+      "width": 7.9,
+      "height": 3.2
+    },
+    "origin": "Việt Nam / Trung Quốc / Nhật Bản",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "dụng cụ văn phòng",
+      "kéo",
+      "bấm ghim",
+      "deli"
+    ],
+    "createdAt": "2026-08-03T00:00:00.000Z"
+  },
+  {
+    "id": "prod-669",
+    "name": "Bút dạ quang / Bút lông Stabilo",
+    "slug": "but-da-quang-but-long-stabilo-669",
+    "price": 91500,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-669/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-669/800/800",
+    "description": "Bút dạ quang mực sáng không lem. Bút lông dầu hoặc nước viết đa bề mặt. Nhiều màu. Phù hợp học tập văn phòng.",
+    "brand": "Stabilo",
+    "sku": "STA-0669-VỈ/",
+    "originalPrice": 100000,
+    "discountPercent": 8,
+    "unit": "vỉ/hộp",
+    "shortDescription": "Bút dạ quang hoặc bút lông nhiều màu sắc nổi bật.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-669-a/800/800",
+      "https://picsum.photos/seed/prod-669-b/800/800",
+      "https://picsum.photos/seed/prod-669-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Dạ quang / Lông dầu / Lông màu",
+      "Số màu": "4-12",
+      "Đặc điểm": "Không lem / Bền màu"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 472
+    },
+    "stock": 264,
+    "soldCount": 2091,
+    "weight": 80,
+    "dimensions": {
+      "length": 16.1,
+      "width": 8.7,
+      "height": 1.9
+    },
+    "origin": "Đức / Nhật Bản / Việt Nam / Trung Quốc",
+    "warranty": "Theo HSD mực",
+    "tags": [
+      "dạ quang",
+      "bút lông",
+      "học tập",
+      "stabilo"
+    ],
+    "createdAt": "2026-07-21T00:00:00.000Z"
+  },
+  {
+    "id": "prod-670",
+    "name": "Cặp tài liệu / Túi đựng hồ sơ Flexoffice",
+    "slug": "cap-tai-lieu-tui-dung-ho-so-flexoffice-670",
+    "price": 110000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-670/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-670/800/800",
+    "description": "Cặp hoặc túi đựng tài liệu A4. Nhiều ngăn phân loại. Chất liệu nhựa hoặc vải bền. Có nhãn ghi chú. Bảo vệ hồ sơ tốt.",
+    "brand": "Deli",
+    "sku": "DEL-0670-CHI",
+    "originalPrice": 126000,
+    "discountPercent": 13,
+    "unit": "chiếc",
+    "shortDescription": "Cặp tài liệu nhiều ngăn hoặc túi hồ sơ A4.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-670-a/800/800",
+      "https://picsum.photos/seed/prod-670-b/800/800",
+      "https://picsum.photos/seed/prod-670-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "A4",
+      "Số ngăn": "1-12",
+      "Chất liệu": "Nhựa / Vải",
+      "Nhãn": "Có"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 26
+    },
+    "stock": 130,
+    "soldCount": 3469,
+    "weight": 170,
+    "dimensions": {
+      "length": 29.6,
+      "width": 22.6,
+      "height": 3.3
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "cặp tài liệu",
+      "hồ sơ",
+      "văn phòng",
+      "deli"
+    ],
+    "createdAt": "2026-08-10T00:00:00.000Z"
+  },
+  {
+    "id": "prod-671",
+    "name": "Sách 7 Thói Quen 2025",
+    "slug": "sach-7-thoi-quen-2025-671",
+    "price": 76200,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-671/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-671/800/800",
+    "description": "Sách best-seller được nhiều độc giả yêu thích. Bản dịch chất lượng hoặc nguyên tác. Giấy in đẹp. Phù hợp đọc và làm quà tặng.",
+    "brand": "Generic",
+    "sku": "GEN-0671-CUỐ",
+    "originalPrice": 85741,
+    "discountPercent": 11,
+    "unit": "cuốn",
+    "shortDescription": "Sách kỹ năng sống văn học best-seller bản đẹp.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-671-a/800/800",
+      "https://picsum.photos/seed/prod-671-b/800/800",
+      "https://picsum.photos/seed/prod-671-c/800/800"
+    ],
+    "specifications": {
+      "Thể loại": "Kỹ năng / Văn học",
+      "Bìa": "Mềm / Cứng",
+      "Ngôn ngữ": "Tiếng Việt"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 791
+    },
+    "stock": 276,
+    "soldCount": 1777,
+    "weight": 383,
+    "dimensions": {
+      "length": 14.7,
+      "width": 19.4,
+      "height": 2.1
+    },
+    "origin": "Việt Nam",
+    "warranty": "Đổi trả nếu lỗi in",
+    "tags": [
+      "sách",
+      "best-seller",
+      "kỹ năng",
+      "văn học",
+      "generic"
+    ],
+    "createdAt": "2026-08-04T00:00:00.000Z"
+  },
+  {
+    "id": "prod-672",
+    "name": "Sổ tay Deli A5",
+    "slug": "so-tay-deli-a5-672",
+    "price": 132000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-672/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-672/800/800",
+    "description": "Sổ tay bìa da hoặc giấy cứng. Giấy kẻ dòng hoặc caro chống lem. Nhiều số trang. Phù hợp ghi chép học tập công việc.",
+    "brand": "Campus",
+    "sku": "CAM-0672-CUỐ",
+    "originalPrice": 163000,
+    "discountPercent": 19,
+    "unit": "cuốn",
+    "shortDescription": "Sổ tay bìa đẹp giấy tốt nhiều trang.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-672-a/800/800",
+      "https://picsum.photos/seed/prod-672-b/800/800",
+      "https://picsum.photos/seed/prod-672-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "A5/A6/B5",
+      "Số trang": "80-200",
+      "Bìa": "Da / Giấy cứng",
+      "Giấy": "Kẻ dòng / Caro"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 169
+    },
+    "stock": 10,
+    "soldCount": 2989,
+    "weight": 393,
+    "dimensions": {
+      "length": 16.1,
+      "width": 22.2,
+      "height": 1.5
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "sổ tay",
+      "văn phòng",
+      "ghi chép",
+      "campus"
+    ],
+    "createdAt": "2026-08-09T00:00:00.000Z"
+  },
+  {
+    "id": "prod-673",
+    "name": "Bút bi / Bút gel Uni hộp",
+    "slug": "but-bi-but-gel-uni-hop-673",
+    "price": 69300,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-673/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-673/800/800",
+    "description": "Bút bi hoặc bút gel mực ra đều không lem. Viết êm tay. Đầu bi nhiều kích thước. Hộp tiện dụng cho văn phòng trường học.",
+    "brand": "Thiên Long",
+    "sku": "THI-0673-HỘP",
+    "originalPrice": 78552,
+    "discountPercent": 12,
+    "unit": "hộp",
+    "shortDescription": "Bút bi hoặc gel mực đều viết êm hộp nhiều cây.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-673-a/800/800",
+      "https://picsum.photos/seed/prod-673-b/800/800",
+      "https://picsum.photos/seed/prod-673-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bi / Gel",
+      "Số lượng": "10-20 cây",
+      "Đầu bi": "0.5-0.7mm",
+      "Màu mực": "Xanh / Đen / Đỏ"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 174
+    },
+    "stock": 299,
+    "soldCount": 286,
+    "weight": 192,
+    "dimensions": {
+      "length": 14.8,
+      "width": 7.8,
+      "height": 2.7
+    },
+    "origin": "Việt Nam / Nhật Bản / Trung Quốc",
+    "warranty": "Theo HSD mực",
+    "tags": [
+      "bút bi",
+      "bút gel",
+      "văn phòng",
+      "thien-long"
+    ],
+    "createdAt": "2026-09-22T00:00:00.000Z"
+  },
+  {
+    "id": "prod-674",
+    "name": "Giấy in A4 Sai Gon 80gsm",
+    "slug": "giay-in-a4-sai-gon-80gsm-674",
+    "price": 84900,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-674/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-674/800/800",
+    "description": "Giấy in A4 định lượng chuẩn. Độ trắng cao bề mặt mịn in sắc nét. Ít bụi giấy. Phù hợp in ấn photocopy.",
+    "brand": "Sai Gon",
+    "sku": "SAI-0674-REA",
+    "originalPrice": 102000,
+    "discountPercent": 17,
+    "unit": "ream",
+    "shortDescription": "Giấy in A4 trắng mịn không kẹt máy 500 tờ.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-674-a/800/800",
+      "https://picsum.photos/seed/prod-674-b/800/800",
+      "https://picsum.photos/seed/prod-674-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "A4",
+      "Định lượng": "70-80gsm",
+      "Số tờ": "500",
+      "Độ trắng": "Cao"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 170
+    },
+    "stock": 211,
+    "soldCount": 1877,
+    "weight": 2521,
+    "dimensions": {
+      "length": 32.5,
+      "width": 18.9,
+      "height": 5.7
+    },
+    "origin": "Thái Lan / Việt Nam / Indonesia",
+    "warranty": "Đổi trả nếu ẩm mốc",
+    "tags": [
+      "giấy in",
+      "a4",
+      "văn phòng",
+      "sai-gon"
+    ],
+    "createdAt": "2026-06-28T00:00:00.000Z"
+  },
+  {
+    "id": "prod-675",
+    "name": "Balo / Cặp laptop Tucano",
+    "slug": "balo-cap-laptop-tucano-675",
+    "price": 2140000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-675/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-675/800/800",
+    "description": "Balo hoặc cặp đựng laptop có ngăn chống sốc. Nhiều ngăn chứa đồ. Chất liệu chống nước nhẹ. Quai đeo êm. Phù hợp học sinh nhân viên.",
+    "brand": "The North Face",
+    "sku": "THE-0675-CHI",
+    "originalPrice": 2560000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Balo laptop nhiều ngăn chống sốc chống nước nhẹ.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-675-a/800/800",
+      "https://picsum.photos/seed/prod-675-b/800/800",
+      "https://picsum.photos/seed/prod-675-c/800/800"
+    ],
+    "specifications": {
+      "Laptop": "13-15.6 inch",
+      "Chống nước": "Nhẹ",
+      "Ngăn": "Nhiều",
+      "Chất liệu": "Polyester / Vải"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 362
+    },
+    "stock": 204,
+    "soldCount": 3020,
+    "weight": 1164,
+    "dimensions": {
+      "length": 44.1,
+      "width": 28.2,
+      "height": 14.4
+    },
+    "origin": "Việt Nam / Trung Quốc / Ý",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "balo",
+      "laptop",
+      "văn phòng",
+      "học tập",
+      "the-north-face"
+    ],
+    "createdAt": "2026-07-18T00:00:00.000Z"
+  },
+  {
+    "id": "prod-676",
+    "name": "Bút chì kim / Bút chì Uni",
+    "slug": "but-chi-kim-but-chi-uni-676",
+    "price": 52200,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-676/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-676/800/800",
+    "description": "Bút chì kim bấm ngòi bền hoặc bút chì gỗ dễ gọt. Viết vẽ êm. Nhiều độ cứng. Phù hợp học sinh kỹ thuật.",
+    "brand": "Deli",
+    "sku": "DEL-0676-CHI",
+    "originalPrice": 58272,
+    "discountPercent": 10,
+    "unit": "chiếc/hộp",
+    "shortDescription": "Bút chì kim hoặc bút chì gỗ viết vẽ êm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-676-a/800/800",
+      "https://picsum.photos/seed/prod-676-b/800/800",
+      "https://picsum.photos/seed/prod-676-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Kim / Gỗ",
+      "Ngòi": "0.5-2.0mm hoặc 2B HB",
+      "Xuất xứ": "Nhật / Đức / Việt Nam"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 48
+    },
+    "stock": 281,
+    "soldCount": 2476,
+    "weight": 75,
+    "dimensions": {
+      "length": 18.2,
+      "width": 1.0,
+      "height": 1.1
+    },
+    "origin": "Nhật Bản / Đức / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bút chì",
+      "văn phòng",
+      "học tập",
+      "deli"
+    ],
+    "createdAt": "2026-03-22T00:00:00.000Z"
+  },
+  {
+    "id": "prod-677",
+    "name": "Bảng trắng / Bảng ghim Deli",
+    "slug": "bang-trang-bang-ghim-deli-677",
+    "price": 592000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-677/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-677/800/800",
+    "description": "Bảng trắng viết êm dễ lau hoặc bảng ghim. Khung chắc chắn. Có thể treo tường. Kèm phụ kiện. Phù hợp văn phòng lớp học.",
+    "brand": "Thiên Long",
+    "sku": "THI-0677-CHI",
+    "originalPrice": 739000,
+    "discountPercent": 20,
+    "unit": "chiếc",
+    "shortDescription": "Bảng trắng từ tính hoặc bảng ghim treo tường.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-677-a/800/800",
+      "https://picsum.photos/seed/prod-677-b/800/800",
+      "https://picsum.photos/seed/prod-677-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Trắng từ tính / Ghim",
+      "Kích thước": "40x60 đến 90x120cm",
+      "Khung": "Nhôm / Gỗ",
+      "Phụ kiện": "Có"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 146
+    },
+    "stock": 29,
+    "soldCount": 3148,
+    "weight": 1952,
+    "dimensions": {
+      "length": 94.2,
+      "width": 64.1,
+      "height": 1.9
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "12 tháng",
+    "tags": [
+      "bảng trắng",
+      "văn phòng",
+      "học tập",
+      "thien-long"
+    ],
+    "createdAt": "2026-06-30T00:00:00.000Z"
+  },
+  {
+    "id": "prod-678",
+    "name": "Kéo / Bấm ghim / Dụng cụ VP Deli",
+    "slug": "keo-bam-ghim-dung-cu-vp-deli-678",
+    "price": 112000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-678/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-678/800/800",
+    "description": "Dụng cụ văn phòng cơ bản: kéo cắt giấy bấm ghim thủng lỗ. Chất liệu bền. Thiết kế êm tay. Cần thiết cho mọi bàn làm việc.",
+    "brand": "Plus",
+    "sku": "PLU-0678-CHI",
+    "originalPrice": 121000,
+    "discountPercent": 7,
+    "unit": "chiếc",
+    "shortDescription": "Kéo bấm ghim thủng lỗ dụng cụ văn phòng cần thiết.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-678-a/800/800",
+      "https://picsum.photos/seed/prod-678-b/800/800",
+      "https://picsum.photos/seed/prod-678-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Kéo / Bấm ghim / Thủng lỗ",
+      "Chất liệu": "Thép / Nhựa",
+      "Đặc điểm": "Êm tay bền"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 662
+    },
+    "stock": 345,
+    "soldCount": 2234,
+    "weight": 136,
+    "dimensions": {
+      "length": 21.9,
+      "width": 8.5,
+      "height": 3.3
+    },
+    "origin": "Việt Nam / Trung Quốc / Nhật Bản",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "dụng cụ văn phòng",
+      "kéo",
+      "bấm ghim",
+      "plus"
+    ],
+    "createdAt": "2026-08-19T00:00:00.000Z"
+  },
+  {
+    "id": "prod-679",
+    "name": "Bút dạ quang / Bút lông Pilotlet Pro",
+    "slug": "but-da-quang-but-long-pilotlet-pro-679",
+    "price": 112000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-679/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-679/800/800",
+    "description": "Bút dạ quang mực sáng không lem. Bút lông dầu hoặc nước viết đa bề mặt. Nhiều màu. Phù hợp học tập văn phòng.",
+    "brand": "Thiên Long",
+    "sku": "THI-0679-VỈ/",
+    "originalPrice": 136000,
+    "discountPercent": 18,
+    "unit": "vỉ/hộp",
+    "shortDescription": "Bút dạ quang hoặc bút lông nhiều màu sắc nổi bật.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-679-a/800/800",
+      "https://picsum.photos/seed/prod-679-b/800/800",
+      "https://picsum.photos/seed/prod-679-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Dạ quang / Lông dầu / Lông màu",
+      "Số màu": "4-12",
+      "Đặc điểm": "Không lem / Bền màu"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 355
+    },
+    "stock": 269,
+    "soldCount": 2435,
+    "weight": 196,
+    "dimensions": {
+      "length": 15.5,
+      "width": 8.3,
+      "height": 2.0
+    },
+    "origin": "Đức / Nhật Bản / Việt Nam / Trung Quốc",
+    "warranty": "Theo HSD mực",
+    "tags": [
+      "dạ quang",
+      "bút lông",
+      "học tập",
+      "thien-long"
+    ],
+    "createdAt": "2026-03-05T00:00:00.000Z"
+  },
+  {
+    "id": "prod-680",
+    "name": "Cặp tài liệu / Túi đựng hồ sơ Thiên Long",
+    "slug": "cap-tai-lieu-tui-dung-ho-so-thien-long-680",
+    "price": 37800,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-680/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-680/800/800",
+    "description": "Cặp hoặc túi đựng tài liệu A4. Nhiều ngăn phân loại. Chất liệu nhựa hoặc vải bền. Có nhãn ghi chú. Bảo vệ hồ sơ tốt.",
+    "brand": "Campus",
+    "sku": "CAM-0680-CHI",
+    "originalPrice": 41765,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Cặp tài liệu nhiều ngăn hoặc túi hồ sơ A4.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-680-a/800/800",
+      "https://picsum.photos/seed/prod-680-b/800/800",
+      "https://picsum.photos/seed/prod-680-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "A4",
+      "Số ngăn": "1-12",
+      "Chất liệu": "Nhựa / Vải",
+      "Nhãn": "Có"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 507
+    },
+    "stock": 114,
+    "soldCount": 1877,
+    "weight": 317,
+    "dimensions": {
+      "length": 34.1,
+      "width": 22.0,
+      "height": 2.7
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "cặp tài liệu",
+      "hồ sơ",
+      "văn phòng",
+      "campus"
+    ],
+    "createdAt": "2026-02-03T00:00:00.000Z"
+  },
+  {
+    "id": "prod-681",
+    "name": "Sách Cafe Cùng Tony",
+    "slug": "sach-cafe-cung-tony-681",
+    "price": 142000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-681/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-681/800/800",
+    "description": "Sách best-seller được nhiều độc giả yêu thích. Bản dịch chất lượng hoặc nguyên tác. Giấy in đẹp. Phù hợp đọc và làm quà tặng.",
+    "brand": "Generic",
+    "sku": "GEN-0681-CUỐ",
+    "originalPrice": 167000,
+    "discountPercent": 15,
+    "unit": "cuốn",
+    "shortDescription": "Sách kỹ năng sống văn học best-seller bản đẹp.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-681-a/800/800",
+      "https://picsum.photos/seed/prod-681-b/800/800",
+      "https://picsum.photos/seed/prod-681-c/800/800"
+    ],
+    "specifications": {
+      "Thể loại": "Kỹ năng / Văn học",
+      "Bìa": "Mềm / Cứng",
+      "Ngôn ngữ": "Tiếng Việt"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 470
+    },
+    "stock": 255,
+    "soldCount": 3047,
+    "weight": 399,
+    "dimensions": {
+      "length": 13.7,
+      "width": 19.1,
+      "height": 2.0
+    },
+    "origin": "Việt Nam",
+    "warranty": "Đổi trả nếu lỗi in",
+    "tags": [
+      "sách",
+      "best-seller",
+      "kỹ năng",
+      "văn học",
+      "generic"
+    ],
+    "createdAt": "2026-09-21T00:00:00.000Z"
+  },
+  {
+    "id": "prod-682",
+    "name": "Sổ tay Campus A5 phiên bản mới",
+    "slug": "so-tay-campus-a5-phien-ban-moi-682",
+    "price": 145000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-682/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-682/800/800",
+    "description": "Sổ tay bìa da hoặc giấy cứng. Giấy kẻ dòng hoặc caro chống lem. Nhiều số trang. Phù hợp ghi chép học tập công việc.",
+    "brand": "Campus",
+    "sku": "CAM-0682-CUỐ",
+    "originalPrice": 160000,
+    "discountPercent": 9,
+    "unit": "cuốn",
+    "shortDescription": "Sổ tay bìa đẹp giấy tốt nhiều trang.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-682-a/800/800",
+      "https://picsum.photos/seed/prod-682-b/800/800",
+      "https://picsum.photos/seed/prod-682-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "A5/A6/B5",
+      "Số trang": "80-200",
+      "Bìa": "Da / Giấy cứng",
+      "Giấy": "Kẻ dòng / Caro"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 53
+    },
+    "stock": 85,
+    "soldCount": 3916,
+    "weight": 330,
+    "dimensions": {
+      "length": 15.0,
+      "width": 21.1,
+      "height": 1.6
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "sổ tay",
+      "văn phòng",
+      "ghi chép",
+      "campus"
+    ],
+    "createdAt": "2026-06-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-683",
+    "name": "Bút bi / Bút gel Pilotlet hộp",
+    "slug": "but-bi-but-gel-pilotlet-hop-683",
+    "price": 104000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-683/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-683/800/800",
+    "description": "Bút bi hoặc bút gel mực ra đều không lem. Viết êm tay. Đầu bi nhiều kích thước. Hộp tiện dụng cho văn phòng trường học.",
+    "brand": "Thiên Long",
+    "sku": "THI-0683-HỘP",
+    "originalPrice": 127000,
+    "discountPercent": 18,
+    "unit": "hộp",
+    "shortDescription": "Bút bi hoặc gel mực đều viết êm hộp nhiều cây.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-683-a/800/800",
+      "https://picsum.photos/seed/prod-683-b/800/800",
+      "https://picsum.photos/seed/prod-683-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bi / Gel",
+      "Số lượng": "10-20 cây",
+      "Đầu bi": "0.5-0.7mm",
+      "Màu mực": "Xanh / Đen / Đỏ"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 400
+    },
+    "stock": 161,
+    "soldCount": 1583,
+    "weight": 178,
+    "dimensions": {
+      "length": 13.9,
+      "width": 8.1,
+      "height": 2.7
+    },
+    "origin": "Việt Nam / Nhật Bản / Trung Quốc",
+    "warranty": "Theo HSD mực",
+    "tags": [
+      "bút bi",
+      "bút gel",
+      "văn phòng",
+      "thien-long"
+    ],
+    "createdAt": "2026-04-02T00:00:00.000Z"
+  },
+  {
+    "id": "prod-684",
+    "name": "Giấy in A4 Paper One 80gsm phiên bản mới",
+    "slug": "giay-in-a4-paper-one-80gsm-phien-ban-moi-684",
+    "price": 116000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-684/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-684/800/800",
+    "description": "Giấy in A4 định lượng chuẩn. Độ trắng cao bề mặt mịn in sắc nét. Ít bụi giấy. Phù hợp in ấn photocopy.",
+    "brand": "IK Plus",
+    "sku": "IK -0684-REA",
+    "originalPrice": 137000,
+    "discountPercent": 15,
+    "unit": "ream",
+    "shortDescription": "Giấy in A4 trắng mịn không kẹt máy 500 tờ.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-684-a/800/800",
+      "https://picsum.photos/seed/prod-684-b/800/800",
+      "https://picsum.photos/seed/prod-684-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "A4",
+      "Định lượng": "70-80gsm",
+      "Số tờ": "500",
+      "Độ trắng": "Cao"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 777
+    },
+    "stock": 255,
+    "soldCount": 58,
+    "weight": 2249,
+    "dimensions": {
+      "length": 32.6,
+      "width": 20.2,
+      "height": 5.7
+    },
+    "origin": "Thái Lan / Việt Nam / Indonesia",
+    "warranty": "Đổi trả nếu ẩm mốc",
+    "tags": [
+      "giấy in",
+      "a4",
+      "văn phòng",
+      "ik-plus"
+    ],
+    "createdAt": "2026-02-15T00:00:00.000Z"
+  },
+  {
+    "id": "prod-685",
+    "name": "Balo / Cặp laptop The North Face",
+    "slug": "balo-cap-laptop-the-north-face-685",
+    "price": 2310000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-685/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-685/800/800",
+    "description": "Balo hoặc cặp đựng laptop có ngăn chống sốc. Nhiều ngăn chứa đồ. Chất liệu chống nước nhẹ. Quai đeo êm. Phù hợp học sinh nhân viên.",
+    "brand": "Mikkor",
+    "sku": "MIK-0685-CHI",
+    "originalPrice": 2720000,
+    "discountPercent": 15,
+    "unit": "chiếc",
+    "shortDescription": "Balo laptop nhiều ngăn chống sốc chống nước nhẹ.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-685-a/800/800",
+      "https://picsum.photos/seed/prod-685-b/800/800",
+      "https://picsum.photos/seed/prod-685-c/800/800"
+    ],
+    "specifications": {
+      "Laptop": "13-15.6 inch",
+      "Chống nước": "Nhẹ",
+      "Ngăn": "Nhiều",
+      "Chất liệu": "Polyester / Vải"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 873
+    },
+    "stock": 315,
+    "soldCount": 593,
+    "weight": 1079,
+    "dimensions": {
+      "length": 44.6,
+      "width": 29.0,
+      "height": 14.6
+    },
+    "origin": "Việt Nam / Trung Quốc / Ý",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "balo",
+      "laptop",
+      "văn phòng",
+      "học tập",
+      "mikkor"
+    ],
+    "createdAt": "2026-07-29T00:00:00.000Z"
+  },
+  {
+    "id": "prod-686",
+    "name": "Bút chì kim / Bút chì Uni",
+    "slug": "but-chi-kim-but-chi-uni-686",
+    "price": 74000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-686/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-686/800/800",
+    "description": "Bút chì kim bấm ngòi bền hoặc bút chì gỗ dễ gọt. Viết vẽ êm. Nhiều độ cứng. Phù hợp học sinh kỹ thuật.",
+    "brand": "Thiên Long",
+    "sku": "THI-0686-CHI",
+    "originalPrice": 88313,
+    "discountPercent": 16,
+    "unit": "chiếc/hộp",
+    "shortDescription": "Bút chì kim hoặc bút chì gỗ viết vẽ êm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-686-a/800/800",
+      "https://picsum.photos/seed/prod-686-b/800/800",
+      "https://picsum.photos/seed/prod-686-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Kim / Gỗ",
+      "Ngòi": "0.5-2.0mm hoặc 2B HB",
+      "Xuất xứ": "Nhật / Đức / Việt Nam"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 439
+    },
+    "stock": 203,
+    "soldCount": 1003,
+    "weight": 29,
+    "dimensions": {
+      "length": 19.3,
+      "width": 1.0,
+      "height": 1.1
+    },
+    "origin": "Nhật Bản / Đức / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bút chì",
+      "văn phòng",
+      "học tập",
+      "thien-long"
+    ],
+    "createdAt": "2026-09-02T00:00:00.000Z"
+  },
+  {
+    "id": "prod-687",
+    "name": "Bảng trắng / Bảng ghim Hòa Phát",
+    "slug": "bang-trang-bang-ghim-hoa-phat-687",
+    "price": 440000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-687/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-687/800/800",
+    "description": "Bảng trắng viết êm dễ lau hoặc bảng ghim. Khung chắc chắn. Có thể treo tường. Kèm phụ kiện. Phù hợp văn phòng lớp học.",
+    "brand": "Hòa Phát",
+    "sku": "HOA-0687-CHI",
+    "originalPrice": 524000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Bảng trắng từ tính hoặc bảng ghim treo tường.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-687-a/800/800",
+      "https://picsum.photos/seed/prod-687-b/800/800",
+      "https://picsum.photos/seed/prod-687-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Trắng từ tính / Ghim",
+      "Kích thước": "40x60 đến 90x120cm",
+      "Khung": "Nhôm / Gỗ",
+      "Phụ kiện": "Có"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 594
+    },
+    "stock": 335,
+    "soldCount": 557,
+    "weight": 2178,
+    "dimensions": {
+      "length": 93.7,
+      "width": 60.9,
+      "height": 2.1
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "12 tháng",
+    "tags": [
+      "bảng trắng",
+      "văn phòng",
+      "học tập",
+      "hoa-phat"
+    ],
+    "createdAt": "2026-06-28T00:00:00.000Z"
+  },
+  {
+    "id": "prod-688",
+    "name": "Kéo / Bấm ghim / Dụng cụ VP Plus 2026",
+    "slug": "keo-bam-ghim-dung-cu-vp-plus-2026-688",
+    "price": 90600,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-688/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-688/800/800",
+    "description": "Dụng cụ văn phòng cơ bản: kéo cắt giấy bấm ghim thủng lỗ. Chất liệu bền. Thiết kế êm tay. Cần thiết cho mọi bàn làm việc.",
+    "brand": "Plus",
+    "sku": "PLU-0688-CHI",
+    "originalPrice": 110000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Kéo bấm ghim thủng lỗ dụng cụ văn phòng cần thiết.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-688-a/800/800",
+      "https://picsum.photos/seed/prod-688-b/800/800",
+      "https://picsum.photos/seed/prod-688-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Kéo / Bấm ghim / Thủng lỗ",
+      "Chất liệu": "Thép / Nhựa",
+      "Đặc điểm": "Êm tay bền"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 143
+    },
+    "stock": 342,
+    "soldCount": 3884,
+    "weight": 295,
+    "dimensions": {
+      "length": 20.3,
+      "width": 7.5,
+      "height": 3.0
+    },
+    "origin": "Việt Nam / Trung Quốc / Nhật Bản",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "dụng cụ văn phòng",
+      "kéo",
+      "bấm ghim",
+      "plus"
+    ],
+    "createdAt": "2026-05-31T00:00:00.000Z"
+  },
+  {
+    "id": "prod-689",
+    "name": "Bút dạ quang / Bút lông Deli",
+    "slug": "but-da-quang-but-long-deli-689",
+    "price": 128000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-689/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-689/800/800",
+    "description": "Bút dạ quang mực sáng không lem. Bút lông dầu hoặc nước viết đa bề mặt. Nhiều màu. Phù hợp học tập văn phòng.",
+    "brand": "Thiên Long",
+    "sku": "THI-0689-VỈ/",
+    "originalPrice": 143000,
+    "discountPercent": 10,
+    "unit": "vỉ/hộp",
+    "shortDescription": "Bút dạ quang hoặc bút lông nhiều màu sắc nổi bật.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-689-a/800/800",
+      "https://picsum.photos/seed/prod-689-b/800/800",
+      "https://picsum.photos/seed/prod-689-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Dạ quang / Lông dầu / Lông màu",
+      "Số màu": "4-12",
+      "Đặc điểm": "Không lem / Bền màu"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 66
+    },
+    "stock": 256,
+    "soldCount": 3580,
+    "weight": 198,
+    "dimensions": {
+      "length": 14.8,
+      "width": 8.5,
+      "height": 2.0
+    },
+    "origin": "Đức / Nhật Bản / Việt Nam / Trung Quốc",
+    "warranty": "Theo HSD mực",
+    "tags": [
+      "dạ quang",
+      "bút lông",
+      "học tập",
+      "thien-long"
+    ],
+    "createdAt": "2026-09-11T00:00:00.000Z"
+  },
+  {
+    "id": "prod-690",
+    "name": "Cặp tài liệu / Túi đựng hồ sơ Flexoffice",
+    "slug": "cap-tai-lieu-tui-dung-ho-so-flexoffice-690",
+    "price": 82300,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-690/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-690/800/800",
+    "description": "Cặp hoặc túi đựng tài liệu A4. Nhiều ngăn phân loại. Chất liệu nhựa hoặc vải bền. Có nhãn ghi chú. Bảo vệ hồ sơ tốt.",
+    "brand": "Thiên Long",
+    "sku": "THI-0690-CHI",
+    "originalPrice": 91409,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Cặp tài liệu nhiều ngăn hoặc túi hồ sơ A4.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-690-a/800/800",
+      "https://picsum.photos/seed/prod-690-b/800/800",
+      "https://picsum.photos/seed/prod-690-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "A4",
+      "Số ngăn": "1-12",
+      "Chất liệu": "Nhựa / Vải",
+      "Nhãn": "Có"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 121
+    },
+    "stock": 282,
+    "soldCount": 738,
+    "weight": 112,
+    "dimensions": {
+      "length": 34.3,
+      "width": 23.1,
+      "height": 2.9
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "cặp tài liệu",
+      "hồ sơ",
+      "văn phòng",
+      "thien-long"
+    ],
+    "createdAt": "2026-03-29T00:00:00.000Z"
+  },
+  {
+    "id": "prod-691",
+    "name": "Sách Hoàng Tử Bé cao cấp",
+    "slug": "sach-hoang-tu-be-cao-cap-691",
+    "price": 105000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-691/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-691/800/800",
+    "description": "Sách best-seller được nhiều độc giả yêu thích. Bản dịch chất lượng hoặc nguyên tác. Giấy in đẹp. Phù hợp đọc và làm quà tặng.",
+    "brand": "Generic",
+    "sku": "GEN-0691-CUỐ",
+    "originalPrice": 130000,
+    "discountPercent": 19,
+    "unit": "cuốn",
+    "shortDescription": "Sách kỹ năng sống văn học best-seller bản đẹp.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-691-a/800/800",
+      "https://picsum.photos/seed/prod-691-b/800/800",
+      "https://picsum.photos/seed/prod-691-c/800/800"
+    ],
+    "specifications": {
+      "Thể loại": "Kỹ năng / Văn học",
+      "Bìa": "Mềm / Cứng",
+      "Ngôn ngữ": "Tiếng Việt"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 79
+    },
+    "stock": 157,
+    "soldCount": 1647,
+    "weight": 373,
+    "dimensions": {
+      "length": 13.1,
+      "width": 20.5,
+      "height": 1.9
+    },
+    "origin": "Việt Nam",
+    "warranty": "Đổi trả nếu lỗi in",
+    "tags": [
+      "sách",
+      "best-seller",
+      "kỹ năng",
+      "văn học",
+      "generic"
+    ],
+    "createdAt": "2026-02-09T00:00:00.000Z"
+  },
+  {
+    "id": "prod-692",
+    "name": "Sổ tay Thiên Long A5",
+    "slug": "so-tay-thien-long-a5-692",
+    "price": 92600,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-692/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-692/800/800",
+    "description": "Sổ tay bìa da hoặc giấy cứng. Giấy kẻ dòng hoặc caro chống lem. Nhiều số trang. Phù hợp ghi chép học tập công việc.",
+    "brand": "Thiên Long",
+    "sku": "THI-0692-CUỐ",
+    "originalPrice": 106000,
+    "discountPercent": 13,
+    "unit": "cuốn",
+    "shortDescription": "Sổ tay bìa đẹp giấy tốt nhiều trang.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-692-a/800/800",
+      "https://picsum.photos/seed/prod-692-b/800/800",
+      "https://picsum.photos/seed/prod-692-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "A5/A6/B5",
+      "Số trang": "80-200",
+      "Bìa": "Da / Giấy cứng",
+      "Giấy": "Kẻ dòng / Caro"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 262
+    },
+    "stock": 257,
+    "soldCount": 2133,
+    "weight": 361,
+    "dimensions": {
+      "length": 16.2,
+      "width": 19.1,
+      "height": 1.4
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "sổ tay",
+      "văn phòng",
+      "ghi chép",
+      "thien-long"
+    ],
+    "createdAt": "2026-07-26T00:00:00.000Z"
+  },
+  {
+    "id": "prod-693",
+    "name": "Bút bi / Bút gel Uni hộp cao cấp",
+    "slug": "but-bi-but-gel-uni-hop-cao-cap-693",
+    "price": 32900,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-693/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-693/800/800",
+    "description": "Bút bi hoặc bút gel mực ra đều không lem. Viết êm tay. Đầu bi nhiều kích thước. Hộp tiện dụng cho văn phòng trường học.",
+    "brand": "Pilotlet",
+    "sku": "PIL-0693-HỘP",
+    "originalPrice": 37312,
+    "discountPercent": 12,
+    "unit": "hộp",
+    "shortDescription": "Bút bi hoặc gel mực đều viết êm hộp nhiều cây.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-693-a/800/800",
+      "https://picsum.photos/seed/prod-693-b/800/800",
+      "https://picsum.photos/seed/prod-693-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Bi / Gel",
+      "Số lượng": "10-20 cây",
+      "Đầu bi": "0.5-0.7mm",
+      "Màu mực": "Xanh / Đen / Đỏ"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 39
+    },
+    "stock": 142,
+    "soldCount": 2319,
+    "weight": 291,
+    "dimensions": {
+      "length": 14.7,
+      "width": 8.0,
+      "height": 2.9
+    },
+    "origin": "Việt Nam / Nhật Bản / Trung Quốc",
+    "warranty": "Theo HSD mực",
+    "tags": [
+      "bút bi",
+      "bút gel",
+      "văn phòng",
+      "pilotlet"
+    ],
+    "createdAt": "2026-09-18T00:00:00.000Z"
+  },
+  {
+    "id": "prod-694",
+    "name": "Giấy in A4 Sai Gon 70gsm 2025",
+    "slug": "giay-in-a4-sai-gon-70gsm-2025-694",
+    "price": 85000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-694/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-694/800/800",
+    "description": "Giấy in A4 định lượng chuẩn. Độ trắng cao bề mặt mịn in sắc nét. Ít bụi giấy. Phù hợp in ấn photocopy.",
+    "brand": "IK Plus",
+    "sku": "IK -0694-REA",
+    "originalPrice": 100000,
+    "discountPercent": 15,
+    "unit": "ream",
+    "shortDescription": "Giấy in A4 trắng mịn không kẹt máy 500 tờ.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-694-a/800/800",
+      "https://picsum.photos/seed/prod-694-b/800/800",
+      "https://picsum.photos/seed/prod-694-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "A4",
+      "Định lượng": "70-80gsm",
+      "Số tờ": "500",
+      "Độ trắng": "Cao"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 402
+    },
+    "stock": 281,
+    "soldCount": 738,
+    "weight": 2656,
+    "dimensions": {
+      "length": 27.5,
+      "width": 21.6,
+      "height": 5.6
+    },
+    "origin": "Thái Lan / Việt Nam / Indonesia",
+    "warranty": "Đổi trả nếu ẩm mốc",
+    "tags": [
+      "giấy in",
+      "a4",
+      "văn phòng",
+      "ik-plus"
+    ],
+    "createdAt": "2026-08-03T00:00:00.000Z"
+  },
+  {
+    "id": "prod-695",
+    "name": "Balo / Cặp laptop Tucano",
+    "slug": "balo-cap-laptop-tucano-695",
+    "price": 2180000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-695/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-695/800/800",
+    "description": "Balo hoặc cặp đựng laptop có ngăn chống sốc. Nhiều ngăn chứa đồ. Chất liệu chống nước nhẹ. Quai đeo êm. Phù hợp học sinh nhân viên.",
+    "brand": "Mikkor",
+    "sku": "MIK-0695-CHI",
+    "originalPrice": 2370000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Balo laptop nhiều ngăn chống sốc chống nước nhẹ.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-695-a/800/800",
+      "https://picsum.photos/seed/prod-695-b/800/800",
+      "https://picsum.photos/seed/prod-695-c/800/800"
+    ],
+    "specifications": {
+      "Laptop": "13-15.6 inch",
+      "Chống nước": "Nhẹ",
+      "Ngăn": "Nhiều",
+      "Chất liệu": "Polyester / Vải"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 81
+    },
+    "stock": 251,
+    "soldCount": 1169,
+    "weight": 975,
+    "dimensions": {
+      "length": 49.2,
+      "width": 30.7,
+      "height": 15.5
+    },
+    "origin": "Việt Nam / Trung Quốc / Ý",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "balo",
+      "laptop",
+      "văn phòng",
+      "học tập",
+      "mikkor"
+    ],
+    "createdAt": "2026-06-17T00:00:00.000Z"
+  },
+  {
+    "id": "prod-696",
+    "name": "Bút chì kim / Bút chì Staedtler",
+    "slug": "but-chi-kim-but-chi-staedtler-696",
+    "price": 61100,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-696/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-696/800/800",
+    "description": "Bút chì kim bấm ngòi bền hoặc bút chì gỗ dễ gọt. Viết vẽ êm. Nhiều độ cứng. Phù hợp học sinh kỹ thuật.",
+    "brand": "Thiên Long",
+    "sku": "THI-0696-CHI",
+    "originalPrice": 74738,
+    "discountPercent": 18,
+    "unit": "chiếc/hộp",
+    "shortDescription": "Bút chì kim hoặc bút chì gỗ viết vẽ êm.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-696-a/800/800",
+      "https://picsum.photos/seed/prod-696-b/800/800",
+      "https://picsum.photos/seed/prod-696-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Kim / Gỗ",
+      "Ngòi": "0.5-2.0mm hoặc 2B HB",
+      "Xuất xứ": "Nhật / Đức / Việt Nam"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 596
+    },
+    "stock": 40,
+    "soldCount": 1281,
+    "weight": 37,
+    "dimensions": {
+      "length": 18.3,
+      "width": 1.0,
+      "height": 0.9
+    },
+    "origin": "Nhật Bản / Đức / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bút chì",
+      "văn phòng",
+      "học tập",
+      "thien-long"
+    ],
+    "createdAt": "2026-02-06T00:00:00.000Z"
+  },
+  {
+    "id": "prod-697",
+    "name": "Bảng trắng / Bảng ghim Hòa Phát",
+    "slug": "bang-trang-bang-ghim-hoa-phat-697",
+    "price": 733000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-697/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-697/800/800",
+    "description": "Bảng trắng viết êm dễ lau hoặc bảng ghim. Khung chắc chắn. Có thể treo tường. Kèm phụ kiện. Phù hợp văn phòng lớp học.",
+    "brand": "Deli",
+    "sku": "DEL-0697-CHI",
+    "originalPrice": 916000,
+    "discountPercent": 20,
+    "unit": "chiếc",
+    "shortDescription": "Bảng trắng từ tính hoặc bảng ghim treo tường.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-697-a/800/800",
+      "https://picsum.photos/seed/prod-697-b/800/800",
+      "https://picsum.photos/seed/prod-697-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Trắng từ tính / Ghim",
+      "Kích thước": "40x60 đến 90x120cm",
+      "Khung": "Nhôm / Gỗ",
+      "Phụ kiện": "Có"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 370
+    },
+    "stock": 330,
+    "soldCount": 1120,
+    "weight": 3269,
+    "dimensions": {
+      "length": 84.8,
+      "width": 60.1,
+      "height": 2.1
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "12 tháng",
+    "tags": [
+      "bảng trắng",
+      "văn phòng",
+      "học tập",
+      "deli"
+    ],
+    "createdAt": "2026-09-22T00:00:00.000Z"
+  },
+  {
+    "id": "prod-698",
+    "name": "Kéo / Bấm ghim / Dụng cụ VP Scout Plus",
+    "slug": "keo-bam-ghim-dung-cu-vp-scout-plus-698",
+    "price": 42600,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-698/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-698/800/800",
+    "description": "Dụng cụ văn phòng cơ bản: kéo cắt giấy bấm ghim thủng lỗ. Chất liệu bền. Thiết kế êm tay. Cần thiết cho mọi bàn làm việc.",
+    "brand": "Flexoffice",
+    "sku": "FLE-0698-CHI",
+    "originalPrice": 49337,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Kéo bấm ghim thủng lỗ dụng cụ văn phòng cần thiết.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-698-a/800/800",
+      "https://picsum.photos/seed/prod-698-b/800/800",
+      "https://picsum.photos/seed/prod-698-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Kéo / Bấm ghim / Thủng lỗ",
+      "Chất liệu": "Thép / Nhựa",
+      "Đặc điểm": "Êm tay bền"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 643
+    },
+    "stock": 248,
+    "soldCount": 67,
+    "weight": 203,
+    "dimensions": {
+      "length": 19.3,
+      "width": 8.7,
+      "height": 2.8
+    },
+    "origin": "Việt Nam / Trung Quốc / Nhật Bản",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "dụng cụ văn phòng",
+      "kéo",
+      "bấm ghim",
+      "flexoffice"
+    ],
+    "createdAt": "2026-09-02T00:00:00.000Z"
+  },
+  {
+    "id": "prod-699",
+    "name": "Bút dạ quang / Bút lông Stabilo",
+    "slug": "but-da-quang-but-long-stabilo-699",
+    "price": 97800,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-699/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-699/800/800",
+    "description": "Bút dạ quang mực sáng không lem. Bút lông dầu hoặc nước viết đa bề mặt. Nhiều màu. Phù hợp học tập văn phòng.",
+    "brand": "Muji",
+    "sku": "MUJ-0699-VỈ/",
+    "originalPrice": 121000,
+    "discountPercent": 19,
+    "unit": "vỉ/hộp",
+    "shortDescription": "Bút dạ quang hoặc bút lông nhiều màu sắc nổi bật.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-699-a/800/800",
+      "https://picsum.photos/seed/prod-699-b/800/800",
+      "https://picsum.photos/seed/prod-699-c/800/800"
+    ],
+    "specifications": {
+      "Loại": "Dạ quang / Lông dầu / Lông màu",
+      "Số màu": "4-12",
+      "Đặc điểm": "Không lem / Bền màu"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 99
+    },
+    "stock": 280,
+    "soldCount": 176,
+    "weight": 175,
+    "dimensions": {
+      "length": 15.8,
+      "width": 8.1,
+      "height": 2.1
+    },
+    "origin": "Đức / Nhật Bản / Việt Nam / Trung Quốc",
+    "warranty": "Theo HSD mực",
+    "tags": [
+      "dạ quang",
+      "bút lông",
+      "học tập",
+      "muji"
+    ],
+    "createdAt": "2026-08-31T00:00:00.000Z"
+  },
+  {
+    "id": "prod-700",
+    "name": "Cặp tài liệu / Túi đựng hồ sơ Campus",
+    "slug": "cap-tai-lieu-tui-dung-ho-so-campus-700",
+    "price": 71300,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://picsum.photos/seed/prod-700/400/400",
+    "detailUrl": "https://picsum.photos/seed/prod-700/800/800",
+    "description": "Cặp hoặc túi đựng tài liệu A4. Nhiều ngăn phân loại. Chất liệu nhựa hoặc vải bền. Có nhãn ghi chú. Bảo vệ hồ sơ tốt.",
+    "brand": "Flexoffice",
+    "sku": "FLE-0700-CHI",
+    "originalPrice": 88786,
+    "discountPercent": 20,
+    "unit": "chiếc",
+    "shortDescription": "Cặp tài liệu nhiều ngăn hoặc túi hồ sơ A4.",
+    "gallery": [
+      "https://picsum.photos/seed/prod-700-a/800/800",
+      "https://picsum.photos/seed/prod-700-b/800/800",
+      "https://picsum.photos/seed/prod-700-c/800/800"
+    ],
+    "specifications": {
+      "Kích thước": "A4",
+      "Số ngăn": "1-12",
+      "Chất liệu": "Nhựa / Vải",
+      "Nhãn": "Có"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 733
+    },
+    "stock": 9,
+    "soldCount": 561,
+    "weight": 292,
+    "dimensions": {
+      "length": 34.1,
+      "width": 23.3,
+      "height": 2.8
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "cặp tài liệu",
+      "hồ sơ",
+      "văn phòng",
+      "flexoffice"
+    ],
+    "createdAt": "2026-05-13T00:00:00.000Z"
   }
 ]
