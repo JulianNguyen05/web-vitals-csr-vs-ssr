@@ -1,1 +1,4502 @@
-[]
+[
+  {
+    "id": "prod-1301",
+    "name": "Tã quần Huggies size L mới",
+    "slug": "ta-quan-huggies-size-l-moi-1301",
+    "price": 246000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/ta-quan-huggies-size-l-moi-1301.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/ta-quan-huggies-size-l-moi-1301.webp",
+    "description": "Tã siêu thấm chống tràn thoáng khí Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Bobby",
+    "sku": "BOB-1301-BỊC",
+    "originalPrice": 272000,
+    "discountPercent": 10,
+    "unit": "bịch",
+    "shortDescription": "Tã siêu thấm chống tràn thoáng khí",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-huggies-size-l-moi-1301-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-huggies-size-l-moi-1301-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-huggies-size-l-moi-1301-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Bobby",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 487
+    },
+    "stock": 185,
+    "soldCount": 224,
+    "weight": 4071,
+    "dimensions": {
+      "length": 40.1,
+      "width": 13.8,
+      "height": 24.1
+    },
+    "origin": "Thái Lan",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "tã",
+      "bobby"
+    ],
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1302",
+    "name": "Sữa bột Enfamil cao cấp",
+    "slug": "sua-bot-enfamil-cao-cap-1302",
+    "price": 448000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/sua-bot-enfamil-cao-cap-1302.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/sua-bot-enfamil-cao-cap-1302.webp",
+    "description": "Sữa bột dinh dưỡng cho trẻ nhỏ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Enfamil",
+    "sku": "ENF-1302-HỘP",
+    "originalPrice": 528000,
+    "discountPercent": 15,
+    "unit": "hộp",
+    "shortDescription": "Sữa bột dinh dưỡng cho trẻ nhỏ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-enfamil-cao-cap-1302-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-enfamil-cao-cap-1302-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-enfamil-cao-cap-1302-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Enfamil",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 747
+    },
+    "stock": 48,
+    "soldCount": 194,
+    "weight": 1590,
+    "dimensions": {
+      "length": 59.7,
+      "width": 49.0,
+      "height": 2.4
+    },
+    "origin": "Thái Lan",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "sữa bột",
+      "enfamil"
+    ],
+    "createdAt": "2026-04-12T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1303",
+    "name": "Bình sữa Avent 300ml",
+    "slug": "binh-sua-avent-300ml-1303",
+    "price": 356000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/binh-sua-avent-300ml-1303.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/binh-sua-avent-300ml-1303.webp",
+    "description": "Bình sữa chống sặc an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Chicco",
+    "sku": "CHI-1303-CHI",
+    "originalPrice": 423000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Bình sữa chống sặc an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-avent-300ml-1303-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-avent-300ml-1303-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-avent-300ml-1303-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Chicco",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 92
+    },
+    "stock": 131,
+    "soldCount": 1601,
+    "weight": 1996,
+    "dimensions": {
+      "length": 26.5,
+      "width": 21.5,
+      "height": 17.8
+    },
+    "origin": "Trung Quốc",
+    "warranty": "6 tháng",
+    "tags": [
+      "bình sữa",
+      "chicco"
+    ],
+    "createdAt": "2026-07-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1304",
+    "name": "Xe đẩy Joie",
+    "slug": "xe-day-joie-1304",
+    "price": 3570000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/xe-day-joie-1304.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/xe-day-joie-1304.webp",
+    "description": "Xe đẩy gấp gọn chống UV Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Cybex",
+    "sku": "CYB-1304-CHI",
+    "originalPrice": 3920000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Xe đẩy gấp gọn chống UV",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/xe-day-joie-1304-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/xe-day-joie-1304-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/xe-day-joie-1304-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Cybex",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 138
+    },
+    "stock": 229,
+    "soldCount": 3292,
+    "weight": 976,
+    "dimensions": {
+      "length": 35.5,
+      "width": 22.0,
+      "height": 14.2
+    },
+    "origin": "Thái Lan",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "xe đẩy",
+      "cybex"
+    ],
+    "createdAt": "2026-06-13T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1305",
+    "name": "Đồ chơi Chicco",
+    "slug": "do-choi-chicco-1305",
+    "price": 205000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/do-choi-chicco-1305.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/do-choi-chicco-1305.webp",
+    "description": "Đồ chơi phát triển tư duy an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Fisher-Price",
+    "sku": "FIS-1305-HỘP",
+    "originalPrice": 229000,
+    "discountPercent": 10,
+    "unit": "hộp",
+    "shortDescription": "Đồ chơi phát triển tư duy an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-chicco-1305-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-chicco-1305-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-chicco-1305-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Fisher-Price",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 466
+    },
+    "stock": 210,
+    "soldCount": 1511,
+    "weight": 1634,
+    "dimensions": {
+      "length": 43.9,
+      "width": 19.0,
+      "height": 6.3
+    },
+    "origin": "Hàn Quốc",
+    "warranty": "6 tháng",
+    "tags": [
+      "đồ chơi",
+      "fisher-price"
+    ],
+    "createdAt": "2026-07-12T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1306",
+    "name": "Máy hút sữa Avent",
+    "slug": "may-hut-sua-avent-1306",
+    "price": 3690000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/may-hut-sua-avent-1306.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/may-hut-sua-avent-1306.webp",
+    "description": "Máy hút sữa điện êm ái Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Spectra",
+    "sku": "SPE-1306-CHI",
+    "originalPrice": 4520000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Máy hút sữa điện êm ái",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/may-hut-sua-avent-1306-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/may-hut-sua-avent-1306-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/may-hut-sua-avent-1306-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Spectra",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 374
+    },
+    "stock": 195,
+    "soldCount": 1650,
+    "weight": 394,
+    "dimensions": {
+      "length": 62.7,
+      "width": 14.3,
+      "height": 34.4
+    },
+    "origin": "Nhật Bản",
+    "warranty": "6 tháng",
+    "tags": [
+      "máy hút sữa",
+      "spectra"
+    ],
+    "createdAt": "2026-08-27T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1307",
+    "name": "Ghế ô tô trẻ em Joie",
+    "slug": "ghe-o-to-tre-em-joie-1307",
+    "price": 3780000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-joie-1307.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-joie-1307.webp",
+    "description": "Ghế ô tô an toàn chuẩn châu Âu Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Cybex",
+    "sku": "CYB-1307-CHI",
+    "originalPrice": 4400000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Ghế ô tô an toàn chuẩn châu Âu",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-joie-1307-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-joie-1307-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-joie-1307-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Cybex",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 746
+    },
+    "stock": 206,
+    "soldCount": 2832,
+    "weight": 666,
+    "dimensions": {
+      "length": 22.7,
+      "width": 26.7,
+      "height": 13.2
+    },
+    "origin": "Hàn Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "ghế ô tô",
+      "cybex"
+    ],
+    "createdAt": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1308",
+    "name": "Khăn ướt Merries Plus",
+    "slug": "khan-uot-merries-plus-1308",
+    "price": 65800,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/khan-uot-merries-plus-1308.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/khan-uot-merries-plus-1308.webp",
+    "description": "Khăn ướt dịu nhẹ không mùi Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Huggies",
+    "sku": "HUG-1308-BỊC",
+    "originalPrice": 76808,
+    "discountPercent": 14,
+    "unit": "bịch",
+    "shortDescription": "Khăn ướt dịu nhẹ không mùi",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/khan-uot-merries-plus-1308-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/khan-uot-merries-plus-1308-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/khan-uot-merries-plus-1308-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Huggies",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 410
+    },
+    "stock": 182,
+    "soldCount": 2692,
+    "weight": 1449,
+    "dimensions": {
+      "length": 65.3,
+      "width": 47.4,
+      "height": 30.2
+    },
+    "origin": "Đức",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "khăn ướt",
+      "huggies"
+    ],
+    "createdAt": "2026-07-14T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1309",
+    "name": "Nôi điện Tiny Love",
+    "slug": "noi-dien-tiny-love-1309",
+    "price": 3750000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/noi-dien-tiny-love-1309.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/noi-dien-tiny-love-1309.webp",
+    "description": "Nôi điện đưa tự động nhạc trắng Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Tiny Love",
+    "sku": "TIN-1309-CHI",
+    "originalPrice": 4670000,
+    "discountPercent": 20,
+    "unit": "chiếc",
+    "shortDescription": "Nôi điện đưa tự động nhạc trắng",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/noi-dien-tiny-love-1309-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/noi-dien-tiny-love-1309-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/noi-dien-tiny-love-1309-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Tiny Love",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 230
+    },
+    "stock": 102,
+    "soldCount": 625,
+    "weight": 3140,
+    "dimensions": {
+      "length": 51.8,
+      "width": 14.7,
+      "height": 3.0
+    },
+    "origin": "Thái Lan",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "nôi điện",
+      "tiny-love"
+    ],
+    "createdAt": "2026-08-17T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1310",
+    "name": "Đồ dùng ăn dặm Marcus & Marcus",
+    "slug": "do-dung-an-dam-marcus-marcus-1310",
+    "price": 258000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/do-dung-an-dam-marcus-marcus-1310.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/do-dung-an-dam-marcus-marcus-1310.webp",
+    "description": "Yếm bát thìa silicone an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Marcus & Marcus",
+    "sku": "MAR-1310-BỘ",
+    "originalPrice": 285000,
+    "discountPercent": 9,
+    "unit": "bộ",
+    "shortDescription": "Yếm bát thìa silicone an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-dung-an-dam-marcus-marcus-1310-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-dung-an-dam-marcus-marcus-1310-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-dung-an-dam-marcus-marcus-1310-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Marcus & Marcus",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 387
+    },
+    "stock": 82,
+    "soldCount": 390,
+    "weight": 3418,
+    "dimensions": {
+      "length": 79.7,
+      "width": 9.0,
+      "height": 35.5
+    },
+    "origin": "Đức",
+    "warranty": "6 tháng",
+    "tags": [
+      "ăn dặm",
+      "marcus-marcus"
+    ],
+    "createdAt": "2026-03-26T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1311",
+    "name": "Tã quần Bobby size XL",
+    "slug": "ta-quan-bobby-size-xl-1311",
+    "price": 343000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/ta-quan-bobby-size-xl-1311.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/ta-quan-bobby-size-xl-1311.webp",
+    "description": "Tã siêu thấm chống tràn thoáng khí Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Bobby",
+    "sku": "BOB-1311-BỊC",
+    "originalPrice": 417000,
+    "discountPercent": 18,
+    "unit": "bịch",
+    "shortDescription": "Tã siêu thấm chống tràn thoáng khí",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-bobby-size-xl-1311-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-bobby-size-xl-1311-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-bobby-size-xl-1311-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Bobby",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 659
+    },
+    "stock": 172,
+    "soldCount": 2944,
+    "weight": 4723,
+    "dimensions": {
+      "length": 33.7,
+      "width": 49.0,
+      "height": 31.1
+    },
+    "origin": "Hàn Quốc",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "tã",
+      "bobby"
+    ],
+    "createdAt": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1312",
+    "name": "Sữa bột Friso",
+    "slug": "sua-bot-friso-1312",
+    "price": 559000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/sua-bot-friso-1312.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/sua-bot-friso-1312.webp",
+    "description": "Sữa bột dinh dưỡng cho trẻ nhỏ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Friso",
+    "sku": "FRI-1312-HỘP",
+    "originalPrice": 660000,
+    "discountPercent": 15,
+    "unit": "hộp",
+    "shortDescription": "Sữa bột dinh dưỡng cho trẻ nhỏ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-friso-1312-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-friso-1312-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-friso-1312-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Friso",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 544
+    },
+    "stock": 223,
+    "soldCount": 1143,
+    "weight": 1229,
+    "dimensions": {
+      "length": 14.9,
+      "width": 33.5,
+      "height": 22.7
+    },
+    "origin": "Việt Nam",
+    "warranty": "6 tháng",
+    "tags": [
+      "sữa bột",
+      "friso"
+    ],
+    "createdAt": "2026-08-20T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1313",
+    "name": "Bình sữa Avent 240ml",
+    "slug": "binh-sua-avent-240ml-1313",
+    "price": 330000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/binh-sua-avent-240ml-1313.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/binh-sua-avent-240ml-1313.webp",
+    "description": "Bình sữa chống sặc an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Comotomo",
+    "sku": "COM-1313-CHI",
+    "originalPrice": 408000,
+    "discountPercent": 19,
+    "unit": "chiếc",
+    "shortDescription": "Bình sữa chống sặc an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-avent-240ml-1313-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-avent-240ml-1313-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-avent-240ml-1313-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Comotomo",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 764
+    },
+    "stock": 171,
+    "soldCount": 3195,
+    "weight": 141,
+    "dimensions": {
+      "length": 74.7,
+      "width": 46.0,
+      "height": 30.9
+    },
+    "origin": "Trung Quốc",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "bình sữa",
+      "comotomo"
+    ],
+    "createdAt": "2026-05-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1314",
+    "name": "Xe đẩy Joie",
+    "slug": "xe-day-joie-1314",
+    "price": 5760000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/xe-day-joie-1314.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/xe-day-joie-1314.webp",
+    "description": "Xe đẩy gấp gọn chống UV Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Combi",
+    "sku": "COM-1314-CHI",
+    "originalPrice": 7000000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Xe đẩy gấp gọn chống UV",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/xe-day-joie-1314-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/xe-day-joie-1314-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/xe-day-joie-1314-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Combi",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 440
+    },
+    "stock": 243,
+    "soldCount": 2946,
+    "weight": 4507,
+    "dimensions": {
+      "length": 69.6,
+      "width": 7.3,
+      "height": 13.1
+    },
+    "origin": "Hàn Quốc",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "xe đẩy",
+      "combi"
+    ],
+    "createdAt": "2026-08-12T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1315",
+    "name": "Đồ chơi Chicco",
+    "slug": "do-choi-chicco-1315",
+    "price": 1160000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/do-choi-chicco-1315.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/do-choi-chicco-1315.webp",
+    "description": "Đồ chơi phát triển tư duy an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Chicco",
+    "sku": "CHI-1315-HỘP",
+    "originalPrice": 1320000,
+    "discountPercent": 12,
+    "unit": "hộp",
+    "shortDescription": "Đồ chơi phát triển tư duy an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-chicco-1315-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-chicco-1315-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-chicco-1315-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Chicco",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 755
+    },
+    "stock": 280,
+    "soldCount": 548,
+    "weight": 4209,
+    "dimensions": {
+      "length": 46.3,
+      "width": 8.8,
+      "height": 2.2
+    },
+    "origin": "Hàn Quốc",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "đồ chơi",
+      "chicco"
+    ],
+    "createdAt": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1316",
+    "name": "Máy hút sữa Cimilre",
+    "slug": "may-hut-sua-cimilre-1316",
+    "price": 1410000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/may-hut-sua-cimilre-1316.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/may-hut-sua-cimilre-1316.webp",
+    "description": "Máy hút sữa điện êm ái Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Medela",
+    "sku": "MED-1316-CHI",
+    "originalPrice": 1600000,
+    "discountPercent": 12,
+    "unit": "chiếc",
+    "shortDescription": "Máy hút sữa điện êm ái",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/may-hut-sua-cimilre-1316-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/may-hut-sua-cimilre-1316-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/may-hut-sua-cimilre-1316-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Medela",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 307
+    },
+    "stock": 23,
+    "soldCount": 226,
+    "weight": 3887,
+    "dimensions": {
+      "length": 29.4,
+      "width": 10.5,
+      "height": 29.4
+    },
+    "origin": "Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "máy hút sữa",
+      "medela"
+    ],
+    "createdAt": "2026-05-02T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1317",
+    "name": "Ghế ô tô trẻ em Joie",
+    "slug": "ghe-o-to-tre-em-joie-1317",
+    "price": 4390000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-joie-1317.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-joie-1317.webp",
+    "description": "Ghế ô tô an toàn chuẩn châu Âu Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Cybex",
+    "sku": "CYB-1317-CHI",
+    "originalPrice": 4810000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Ghế ô tô an toàn chuẩn châu Âu",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-joie-1317-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-joie-1317-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-joie-1317-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Cybex",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 347
+    },
+    "stock": 34,
+    "soldCount": 1380,
+    "weight": 4054,
+    "dimensions": {
+      "length": 61.7,
+      "width": 18.3,
+      "height": 37.4
+    },
+    "origin": "Nhật Bản",
+    "warranty": "6 tháng",
+    "tags": [
+      "ghế ô tô",
+      "cybex"
+    ],
+    "createdAt": "2026-03-05T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1318",
+    "name": "Khăn ướt Mamamy",
+    "slug": "khan-uot-mamamy-1318",
+    "price": 68300,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/khan-uot-mamamy-1318.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/khan-uot-mamamy-1318.webp",
+    "description": "Khăn ướt dịu nhẹ không mùi Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Huggies",
+    "sku": "HUG-1318-BỊC",
+    "originalPrice": 78251,
+    "discountPercent": 13,
+    "unit": "bịch",
+    "shortDescription": "Khăn ướt dịu nhẹ không mùi",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/khan-uot-mamamy-1318-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/khan-uot-mamamy-1318-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/khan-uot-mamamy-1318-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Huggies",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 551
+    },
+    "stock": 125,
+    "soldCount": 493,
+    "weight": 4327,
+    "dimensions": {
+      "length": 70.9,
+      "width": 21.2,
+      "height": 29.7
+    },
+    "origin": "Đức",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "khăn ướt",
+      "huggies"
+    ],
+    "createdAt": "2026-05-09T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1319",
+    "name": "Nôi điện Tiny Love",
+    "slug": "noi-dien-tiny-love-1319",
+    "price": 2730000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/noi-dien-tiny-love-1319.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/noi-dien-tiny-love-1319.webp",
+    "description": "Nôi điện đưa tự động nhạc trắng Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Chicco",
+    "sku": "CHI-1319-CHI",
+    "originalPrice": 3090000,
+    "discountPercent": 12,
+    "unit": "chiếc",
+    "shortDescription": "Nôi điện đưa tự động nhạc trắng",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/noi-dien-tiny-love-1319-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/noi-dien-tiny-love-1319-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/noi-dien-tiny-love-1319-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Chicco",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 221
+    },
+    "stock": 53,
+    "soldCount": 3305,
+    "weight": 849,
+    "dimensions": {
+      "length": 40.2,
+      "width": 39.0,
+      "height": 1.5
+    },
+    "origin": "Thái Lan",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "nôi điện",
+      "chicco"
+    ],
+    "createdAt": "2026-05-25T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1320",
+    "name": "Đồ dùng ăn dặm Avent",
+    "slug": "do-dung-an-dam-avent-1320",
+    "price": 114000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/do-dung-an-dam-avent-1320.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/do-dung-an-dam-avent-1320.webp",
+    "description": "Yếm bát thìa silicone an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Chicco",
+    "sku": "CHI-1320-BỘ",
+    "originalPrice": 136000,
+    "discountPercent": 16,
+    "unit": "bộ",
+    "shortDescription": "Yếm bát thìa silicone an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-dung-an-dam-avent-1320-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-dung-an-dam-avent-1320-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-dung-an-dam-avent-1320-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Chicco",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 576
+    },
+    "stock": 259,
+    "soldCount": 2487,
+    "weight": 169,
+    "dimensions": {
+      "length": 10.6,
+      "width": 10.5,
+      "height": 13.3
+    },
+    "origin": "Đức",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "ăn dặm",
+      "chicco"
+    ],
+    "createdAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1321",
+    "name": "Tã quần Pampers size XL",
+    "slug": "ta-quan-pampers-size-xl-1321",
+    "price": 173000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/ta-quan-pampers-size-xl-1321.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/ta-quan-pampers-size-xl-1321.webp",
+    "description": "Tã siêu thấm chống tràn thoáng khí Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Merries",
+    "sku": "MER-1321-BỊC",
+    "originalPrice": 192000,
+    "discountPercent": 10,
+    "unit": "bịch",
+    "shortDescription": "Tã siêu thấm chống tràn thoáng khí",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-pampers-size-xl-1321-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-pampers-size-xl-1321-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-pampers-size-xl-1321-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Merries",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 145
+    },
+    "stock": 294,
+    "soldCount": 3122,
+    "weight": 3458,
+    "dimensions": {
+      "length": 79.3,
+      "width": 16.7,
+      "height": 4.5
+    },
+    "origin": "Hàn Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "tã",
+      "merries"
+    ],
+    "createdAt": "2026-06-04T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1322",
+    "name": "Sữa bột Nan",
+    "slug": "sua-bot-nan-1322",
+    "price": 389000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/sua-bot-nan-1322.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/sua-bot-nan-1322.webp",
+    "description": "Sữa bột dinh dưỡng cho trẻ nhỏ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Enfamil",
+    "sku": "ENF-1322-HỘP",
+    "originalPrice": 423000,
+    "discountPercent": 8,
+    "unit": "hộp",
+    "shortDescription": "Sữa bột dinh dưỡng cho trẻ nhỏ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-nan-1322-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-nan-1322-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-nan-1322-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Enfamil",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 556
+    },
+    "stock": 53,
+    "soldCount": 2507,
+    "weight": 4055,
+    "dimensions": {
+      "length": 48.9,
+      "width": 9.1,
+      "height": 1.8
+    },
+    "origin": "Thái Lan",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "sữa bột",
+      "enfamil"
+    ],
+    "createdAt": "2026-06-14T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1323",
+    "name": "Bình sữa Chicco 300ml",
+    "slug": "binh-sua-chicco-300ml-1323",
+    "price": 305000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/binh-sua-chicco-300ml-1323.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/binh-sua-chicco-300ml-1323.webp",
+    "description": "Bình sữa chống sặc an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Comotomo",
+    "sku": "COM-1323-CHI",
+    "originalPrice": 380000,
+    "discountPercent": 20,
+    "unit": "chiếc",
+    "shortDescription": "Bình sữa chống sặc an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-chicco-300ml-1323-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-chicco-300ml-1323-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-chicco-300ml-1323-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Comotomo",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 719
+    },
+    "stock": 210,
+    "soldCount": 386,
+    "weight": 4671,
+    "dimensions": {
+      "length": 30.9,
+      "width": 13.9,
+      "height": 10.8
+    },
+    "origin": "Việt Nam",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "bình sữa",
+      "comotomo"
+    ],
+    "createdAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1324",
+    "name": "Xe đẩy Cybex",
+    "slug": "xe-day-cybex-1324",
+    "price": 4170000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/xe-day-cybex-1324.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/xe-day-cybex-1324.webp",
+    "description": "Xe đẩy gấp gọn chống UV Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Joie",
+    "sku": "JOI-1324-CHI",
+    "originalPrice": 4890000,
+    "discountPercent": 15,
+    "unit": "chiếc",
+    "shortDescription": "Xe đẩy gấp gọn chống UV",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/xe-day-cybex-1324-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/xe-day-cybex-1324-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/xe-day-cybex-1324-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Joie",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 659
+    },
+    "stock": 217,
+    "soldCount": 1036,
+    "weight": 2263,
+    "dimensions": {
+      "length": 39.2,
+      "width": 34.3,
+      "height": 22.0
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "xe đẩy",
+      "joie"
+    ],
+    "createdAt": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1325",
+    "name": "Đồ chơi Lego",
+    "slug": "do-choi-lego-1325",
+    "price": 1160000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/do-choi-lego-1325.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/do-choi-lego-1325.webp",
+    "description": "Đồ chơi phát triển tư duy an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Chicco",
+    "sku": "CHI-1325-HỘP",
+    "originalPrice": 1330000,
+    "discountPercent": 13,
+    "unit": "hộp",
+    "shortDescription": "Đồ chơi phát triển tư duy an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-lego-1325-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-lego-1325-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-lego-1325-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Chicco",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 733
+    },
+    "stock": 102,
+    "soldCount": 1169,
+    "weight": 572,
+    "dimensions": {
+      "length": 32.3,
+      "width": 49.3,
+      "height": 11.5
+    },
+    "origin": "Mỹ",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "đồ chơi",
+      "chicco"
+    ],
+    "createdAt": "2026-08-20T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1326",
+    "name": "Máy hút sữa Medela Pro",
+    "slug": "may-hut-sua-medela-pro-1326",
+    "price": 4740000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/may-hut-sua-medela-pro-1326.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/may-hut-sua-medela-pro-1326.webp",
+    "description": "Máy hút sữa điện êm ái Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Medela",
+    "sku": "MED-1326-CHI",
+    "originalPrice": 5620000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Máy hút sữa điện êm ái",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/may-hut-sua-medela-pro-1326-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/may-hut-sua-medela-pro-1326-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/may-hut-sua-medela-pro-1326-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Medela",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 146
+    },
+    "stock": 28,
+    "soldCount": 1015,
+    "weight": 1472,
+    "dimensions": {
+      "length": 42.4,
+      "width": 8.7,
+      "height": 6.7
+    },
+    "origin": "Trung Quốc",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "máy hút sữa",
+      "medela"
+    ],
+    "createdAt": "2026-04-29T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1327",
+    "name": "Ghế ô tô trẻ em Cybex",
+    "slug": "ghe-o-to-tre-em-cybex-1327",
+    "price": 7360000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-cybex-1327.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-cybex-1327.webp",
+    "description": "Ghế ô tô an toàn chuẩn châu Âu Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Chicco",
+    "sku": "CHI-1327-CHI",
+    "originalPrice": 8730000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Ghế ô tô an toàn chuẩn châu Âu",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-cybex-1327-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-cybex-1327-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-cybex-1327-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Chicco",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 66
+    },
+    "stock": 130,
+    "soldCount": 2732,
+    "weight": 3224,
+    "dimensions": {
+      "length": 24.8,
+      "width": 37.6,
+      "height": 2.4
+    },
+    "origin": "Hàn Quốc",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "ghế ô tô",
+      "chicco"
+    ],
+    "createdAt": "2026-05-23T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1328",
+    "name": "Khăn ướt Merries",
+    "slug": "khan-uot-merries-1328",
+    "price": 30200,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/khan-uot-merries-1328.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/khan-uot-merries-1328.webp",
+    "description": "Khăn ướt dịu nhẹ không mùi Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Merries",
+    "sku": "MER-1328-BỊC",
+    "originalPrice": 35162,
+    "discountPercent": 14,
+    "unit": "bịch",
+    "shortDescription": "Khăn ướt dịu nhẹ không mùi",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/khan-uot-merries-1328-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/khan-uot-merries-1328-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/khan-uot-merries-1328-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Merries",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 208
+    },
+    "stock": 83,
+    "soldCount": 994,
+    "weight": 4779,
+    "dimensions": {
+      "length": 14.3,
+      "width": 14.1,
+      "height": 3.8
+    },
+    "origin": "Mỹ",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "khăn ướt",
+      "merries"
+    ],
+    "createdAt": "2026-08-02T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1329",
+    "name": "Nôi điện Mastela",
+    "slug": "noi-dien-mastela-1329",
+    "price": 3330000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/noi-dien-mastela-1329.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/noi-dien-mastela-1329.webp",
+    "description": "Nôi điện đưa tự động nhạc trắng Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Tiny Love",
+    "sku": "TIN-1329-CHI",
+    "originalPrice": 4080000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Nôi điện đưa tự động nhạc trắng",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/noi-dien-mastela-1329-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/noi-dien-mastela-1329-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/noi-dien-mastela-1329-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Tiny Love",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 688
+    },
+    "stock": 258,
+    "soldCount": 475,
+    "weight": 4762,
+    "dimensions": {
+      "length": 36.6,
+      "width": 23.8,
+      "height": 8.7
+    },
+    "origin": "Thái Lan",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "nôi điện",
+      "tiny-love"
+    ],
+    "createdAt": "2026-08-10T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1330",
+    "name": "Đồ dùng ăn dặm Chicco cao cấp",
+    "slug": "do-dung-an-dam-chicco-cao-cap-1330",
+    "price": 247000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/do-dung-an-dam-chicco-cao-cap-1330.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/do-dung-an-dam-chicco-cao-cap-1330.webp",
+    "description": "Yếm bát thìa silicone an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Chicco",
+    "sku": "CHI-1330-BỘ",
+    "originalPrice": 274000,
+    "discountPercent": 10,
+    "unit": "bộ",
+    "shortDescription": "Yếm bát thìa silicone an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-dung-an-dam-chicco-cao-cap-1330-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-dung-an-dam-chicco-cao-cap-1330-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-dung-an-dam-chicco-cao-cap-1330-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Chicco",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 321
+    },
+    "stock": 19,
+    "soldCount": 1370,
+    "weight": 2528,
+    "dimensions": {
+      "length": 9.9,
+      "width": 25.3,
+      "height": 28.5
+    },
+    "origin": "Thái Lan",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "ăn dặm",
+      "chicco"
+    ],
+    "createdAt": "2026-04-13T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1331",
+    "name": "Tã quần Merries size XXL cao cấp",
+    "slug": "ta-quan-merries-size-xxl-cao-cap-1331",
+    "price": 198000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/ta-quan-merries-size-xxl-cao-cap-1331.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/ta-quan-merries-size-xxl-cao-cap-1331.webp",
+    "description": "Tã siêu thấm chống tràn thoáng khí Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Huggies",
+    "sku": "HUG-1331-BỊC",
+    "originalPrice": 229000,
+    "discountPercent": 14,
+    "unit": "bịch",
+    "shortDescription": "Tã siêu thấm chống tràn thoáng khí",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-merries-size-xxl-cao-cap-1331-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-merries-size-xxl-cao-cap-1331-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-merries-size-xxl-cao-cap-1331-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Huggies",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 630
+    },
+    "stock": 100,
+    "soldCount": 1793,
+    "weight": 1485,
+    "dimensions": {
+      "length": 41.2,
+      "width": 9.2,
+      "height": 20.1
+    },
+    "origin": "Đức",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "tã",
+      "huggies"
+    ],
+    "createdAt": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1332",
+    "name": "Sữa bột Nan",
+    "slug": "sua-bot-nan-1332",
+    "price": 359000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/sua-bot-nan-1332.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/sua-bot-nan-1332.webp",
+    "description": "Sữa bột dinh dưỡng cho trẻ nhỏ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Enfamil",
+    "sku": "ENF-1332-HỘP",
+    "originalPrice": 431000,
+    "discountPercent": 17,
+    "unit": "hộp",
+    "shortDescription": "Sữa bột dinh dưỡng cho trẻ nhỏ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-nan-1332-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-nan-1332-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-nan-1332-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Enfamil",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 413
+    },
+    "stock": 260,
+    "soldCount": 2609,
+    "weight": 527,
+    "dimensions": {
+      "length": 44.4,
+      "width": 25.8,
+      "height": 33.7
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "sữa bột",
+      "enfamil"
+    ],
+    "createdAt": "2026-07-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1333",
+    "name": "Bình sữa Chicco 150ml",
+    "slug": "binh-sua-chicco-150ml-1333",
+    "price": 299000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/binh-sua-chicco-150ml-1333.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/binh-sua-chicco-150ml-1333.webp",
+    "description": "Bình sữa chống sặc an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Chicco",
+    "sku": "CHI-1333-CHI",
+    "originalPrice": 336000,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Bình sữa chống sặc an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-chicco-150ml-1333-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-chicco-150ml-1333-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-chicco-150ml-1333-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Chicco",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 469
+    },
+    "stock": 23,
+    "soldCount": 3057,
+    "weight": 4437,
+    "dimensions": {
+      "length": 7.2,
+      "width": 48.2,
+      "height": 33.7
+    },
+    "origin": "Trung Quốc",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "bình sữa",
+      "chicco"
+    ],
+    "createdAt": "2026-08-13T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1334",
+    "name": "Xe đẩy Combi 2026",
+    "slug": "xe-day-combi-2026-1334",
+    "price": 5140000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/xe-day-combi-2026-1334.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/xe-day-combi-2026-1334.webp",
+    "description": "Xe đẩy gấp gọn chống UV Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Joie",
+    "sku": "JOI-1334-CHI",
+    "originalPrice": 6320000,
+    "discountPercent": 19,
+    "unit": "chiếc",
+    "shortDescription": "Xe đẩy gấp gọn chống UV",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/xe-day-combi-2026-1334-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/xe-day-combi-2026-1334-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/xe-day-combi-2026-1334-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Joie",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 33
+    },
+    "stock": 171,
+    "soldCount": 1112,
+    "weight": 1855,
+    "dimensions": {
+      "length": 60.2,
+      "width": 18.8,
+      "height": 13.6
+    },
+    "origin": "Việt Nam",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "xe đẩy",
+      "joie"
+    ],
+    "createdAt": "2026-03-02T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1335",
+    "name": "Đồ chơi Lego",
+    "slug": "do-choi-lego-1335",
+    "price": 319000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/do-choi-lego-1335.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/do-choi-lego-1335.webp",
+    "description": "Đồ chơi phát triển tư duy an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Chicco",
+    "sku": "CHI-1335-HỘP",
+    "originalPrice": 352000,
+    "discountPercent": 9,
+    "unit": "hộp",
+    "shortDescription": "Đồ chơi phát triển tư duy an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-lego-1335-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-lego-1335-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-lego-1335-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Chicco",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 194
+    },
+    "stock": 57,
+    "soldCount": 3195,
+    "weight": 2481,
+    "dimensions": {
+      "length": 25.9,
+      "width": 40.3,
+      "height": 14.3
+    },
+    "origin": "Mỹ",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "đồ chơi",
+      "chicco"
+    ],
+    "createdAt": "2026-08-28T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1336",
+    "name": "Máy hút sữa Spectra 2026",
+    "slug": "may-hut-sua-spectra-2026-1336",
+    "price": 3140000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/may-hut-sua-spectra-2026-1336.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/may-hut-sua-spectra-2026-1336.webp",
+    "description": "Máy hút sữa điện êm ái Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Spectra",
+    "sku": "SPE-1336-CHI",
+    "originalPrice": 3650000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Máy hút sữa điện êm ái",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/may-hut-sua-spectra-2026-1336-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/may-hut-sua-spectra-2026-1336-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/may-hut-sua-spectra-2026-1336-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Spectra",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 543
+    },
+    "stock": 201,
+    "soldCount": 252,
+    "weight": 722,
+    "dimensions": {
+      "length": 18.1,
+      "width": 27.6,
+      "height": 6.5
+    },
+    "origin": "Mỹ",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "máy hút sữa",
+      "spectra"
+    ],
+    "createdAt": "2026-05-13T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1337",
+    "name": "Ghế ô tô trẻ em Joie",
+    "slug": "ghe-o-to-tre-em-joie-1337",
+    "price": 2150000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-joie-1337.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-joie-1337.webp",
+    "description": "Ghế ô tô an toàn chuẩn châu Âu Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Cybex",
+    "sku": "CYB-1337-CHI",
+    "originalPrice": 2420000,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Ghế ô tô an toàn chuẩn châu Âu",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-joie-1337-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-joie-1337-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-joie-1337-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Cybex",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 695
+    },
+    "stock": 175,
+    "soldCount": 708,
+    "weight": 1910,
+    "dimensions": {
+      "length": 48.6,
+      "width": 39.0,
+      "height": 14.4
+    },
+    "origin": "Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "ghế ô tô",
+      "cybex"
+    ],
+    "createdAt": "2026-05-27T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1338",
+    "name": "Khăn ướt Merries",
+    "slug": "khan-uot-merries-1338",
+    "price": 68500,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/khan-uot-merries-1338.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/khan-uot-merries-1338.webp",
+    "description": "Khăn ướt dịu nhẹ không mùi Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Mamamy",
+    "sku": "MAM-1338-BỊC",
+    "originalPrice": 74499,
+    "discountPercent": 8,
+    "unit": "bịch",
+    "shortDescription": "Khăn ướt dịu nhẹ không mùi",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/khan-uot-merries-1338-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/khan-uot-merries-1338-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/khan-uot-merries-1338-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Mamamy",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 395
+    },
+    "stock": 138,
+    "soldCount": 1053,
+    "weight": 1798,
+    "dimensions": {
+      "length": 45.4,
+      "width": 15.6,
+      "height": 23.7
+    },
+    "origin": "Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "khăn ướt",
+      "mamamy"
+    ],
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1339",
+    "name": "Nôi điện Mastela",
+    "slug": "noi-dien-mastela-1339",
+    "price": 2600000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/noi-dien-mastela-1339.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/noi-dien-mastela-1339.webp",
+    "description": "Nôi điện đưa tự động nhạc trắng Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Tiny Love",
+    "sku": "TIN-1339-CHI",
+    "originalPrice": 2840000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Nôi điện đưa tự động nhạc trắng",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/noi-dien-mastela-1339-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/noi-dien-mastela-1339-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/noi-dien-mastela-1339-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Tiny Love",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 213
+    },
+    "stock": 16,
+    "soldCount": 1870,
+    "weight": 3561,
+    "dimensions": {
+      "length": 33.0,
+      "width": 16.2,
+      "height": 11.0
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "nôi điện",
+      "tiny-love"
+    ],
+    "createdAt": "2026-07-14T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1340",
+    "name": "Đồ dùng ăn dặm Pigeon",
+    "slug": "do-dung-an-dam-pigeon-1340",
+    "price": 196000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/do-dung-an-dam-pigeon-1340.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/do-dung-an-dam-pigeon-1340.webp",
+    "description": "Yếm bát thìa silicone an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Marcus & Marcus",
+    "sku": "MAR-1340-BỘ",
+    "originalPrice": 240000,
+    "discountPercent": 18,
+    "unit": "bộ",
+    "shortDescription": "Yếm bát thìa silicone an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-dung-an-dam-pigeon-1340-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-dung-an-dam-pigeon-1340-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-dung-an-dam-pigeon-1340-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Marcus & Marcus",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 302
+    },
+    "stock": 50,
+    "soldCount": 2576,
+    "weight": 2371,
+    "dimensions": {
+      "length": 33.5,
+      "width": 46.5,
+      "height": 15.4
+    },
+    "origin": "Trung Quốc",
+    "warranty": "6 tháng",
+    "tags": [
+      "ăn dặm",
+      "marcus-marcus"
+    ],
+    "createdAt": "2026-07-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1341",
+    "name": "Tã quần Huggies size XXL cao cấp",
+    "slug": "ta-quan-huggies-size-xxl-cao-cap-1341",
+    "price": 261000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/ta-quan-huggies-size-xxl-cao-cap-1341.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/ta-quan-huggies-size-xxl-cao-cap-1341.webp",
+    "description": "Tã siêu thấm chống tràn thoáng khí Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Huggies",
+    "sku": "HUG-1341-BỊC",
+    "originalPrice": 315000,
+    "discountPercent": 17,
+    "unit": "bịch",
+    "shortDescription": "Tã siêu thấm chống tràn thoáng khí",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-huggies-size-xxl-cao-cap-1341-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-huggies-size-xxl-cao-cap-1341-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-huggies-size-xxl-cao-cap-1341-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Huggies",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 361
+    },
+    "stock": 71,
+    "soldCount": 542,
+    "weight": 2816,
+    "dimensions": {
+      "length": 8.9,
+      "width": 39.4,
+      "height": 2.2
+    },
+    "origin": "Việt Nam",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "tã",
+      "huggies"
+    ],
+    "createdAt": "2026-04-24T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1342",
+    "name": "Sữa bột Enfamil mới",
+    "slug": "sua-bot-enfamil-moi-1342",
+    "price": 405000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/sua-bot-enfamil-moi-1342.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/sua-bot-enfamil-moi-1342.webp",
+    "description": "Sữa bột dinh dưỡng cho trẻ nhỏ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Friso",
+    "sku": "FRI-1342-HỘP",
+    "originalPrice": 480000,
+    "discountPercent": 16,
+    "unit": "hộp",
+    "shortDescription": "Sữa bột dinh dưỡng cho trẻ nhỏ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-enfamil-moi-1342-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-enfamil-moi-1342-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-enfamil-moi-1342-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Friso",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 362
+    },
+    "stock": 258,
+    "soldCount": 456,
+    "weight": 4464,
+    "dimensions": {
+      "length": 10.2,
+      "width": 18.2,
+      "height": 39.0
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "sữa bột",
+      "friso"
+    ],
+    "createdAt": "2026-07-20T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1343",
+    "name": "Bình sữa Comotomo 300ml",
+    "slug": "binh-sua-comotomo-300ml-1343",
+    "price": 217000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/binh-sua-comotomo-300ml-1343.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/binh-sua-comotomo-300ml-1343.webp",
+    "description": "Bình sữa chống sặc an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Avent",
+    "sku": "AVE-1343-CHI",
+    "originalPrice": 256000,
+    "discountPercent": 15,
+    "unit": "chiếc",
+    "shortDescription": "Bình sữa chống sặc an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-comotomo-300ml-1343-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-comotomo-300ml-1343-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-comotomo-300ml-1343-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Avent",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 294
+    },
+    "stock": 139,
+    "soldCount": 1606,
+    "weight": 2788,
+    "dimensions": {
+      "length": 52.3,
+      "width": 15.6,
+      "height": 1.2
+    },
+    "origin": "Việt Nam",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "bình sữa",
+      "avent"
+    ],
+    "createdAt": "2026-06-06T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1344",
+    "name": "Xe đẩy Combi",
+    "slug": "xe-day-combi-1344",
+    "price": 3290000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/xe-day-combi-1344.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/xe-day-combi-1344.webp",
+    "description": "Xe đẩy gấp gọn chống UV Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Aprica",
+    "sku": "APR-1344-CHI",
+    "originalPrice": 3670000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Xe đẩy gấp gọn chống UV",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/xe-day-combi-1344-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/xe-day-combi-1344-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/xe-day-combi-1344-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Aprica",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 140
+    },
+    "stock": 168,
+    "soldCount": 463,
+    "weight": 1127,
+    "dimensions": {
+      "length": 67.3,
+      "width": 12.0,
+      "height": 14.4
+    },
+    "origin": "Việt Nam",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "xe đẩy",
+      "aprica"
+    ],
+    "createdAt": "2026-06-29T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1345",
+    "name": "Đồ chơi Winwintoys",
+    "slug": "do-choi-winwintoys-1345",
+    "price": 614000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/do-choi-winwintoys-1345.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/do-choi-winwintoys-1345.webp",
+    "description": "Đồ chơi phát triển tư duy an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Fisher-Price",
+    "sku": "FIS-1345-HỘP",
+    "originalPrice": 763000,
+    "discountPercent": 20,
+    "unit": "hộp",
+    "shortDescription": "Đồ chơi phát triển tư duy an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-winwintoys-1345-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-winwintoys-1345-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-winwintoys-1345-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Fisher-Price",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 769
+    },
+    "stock": 217,
+    "soldCount": 2332,
+    "weight": 3764,
+    "dimensions": {
+      "length": 74.3,
+      "width": 22.7,
+      "height": 13.1
+    },
+    "origin": "Nhật Bản",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "đồ chơi",
+      "fisher-price"
+    ],
+    "createdAt": "2026-06-29T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1346",
+    "name": "Máy hút sữa Cimilre",
+    "slug": "may-hut-sua-cimilre-1346",
+    "price": 3370000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/may-hut-sua-cimilre-1346.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/may-hut-sua-cimilre-1346.webp",
+    "description": "Máy hút sữa điện êm ái Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Medela",
+    "sku": "MED-1346-CHI",
+    "originalPrice": 4140000,
+    "discountPercent": 19,
+    "unit": "chiếc",
+    "shortDescription": "Máy hút sữa điện êm ái",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/may-hut-sua-cimilre-1346-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/may-hut-sua-cimilre-1346-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/may-hut-sua-cimilre-1346-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Medela",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 540
+    },
+    "stock": 234,
+    "soldCount": 2739,
+    "weight": 4784,
+    "dimensions": {
+      "length": 24.7,
+      "width": 35.0,
+      "height": 14.7
+    },
+    "origin": "Hàn Quốc",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "máy hút sữa",
+      "medela"
+    ],
+    "createdAt": "2026-07-08T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1347",
+    "name": "Ghế ô tô trẻ em Britax",
+    "slug": "ghe-o-to-tre-em-britax-1347",
+    "price": 5300000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-britax-1347.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-britax-1347.webp",
+    "description": "Ghế ô tô an toàn chuẩn châu Âu Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Chicco",
+    "sku": "CHI-1347-CHI",
+    "originalPrice": 6530000,
+    "discountPercent": 19,
+    "unit": "chiếc",
+    "shortDescription": "Ghế ô tô an toàn chuẩn châu Âu",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-britax-1347-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-britax-1347-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-britax-1347-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Chicco",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 538
+    },
+    "stock": 234,
+    "soldCount": 1606,
+    "weight": 1956,
+    "dimensions": {
+      "length": 25.9,
+      "width": 46.2,
+      "height": 20.7
+    },
+    "origin": "Việt Nam",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "ghế ô tô",
+      "chicco"
+    ],
+    "createdAt": "2026-04-13T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1348",
+    "name": "Khăn ướt Bobby",
+    "slug": "khan-uot-bobby-1348",
+    "price": 52900,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/khan-uot-bobby-1348.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/khan-uot-bobby-1348.webp",
+    "description": "Khăn ướt dịu nhẹ không mùi Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Bobby",
+    "sku": "BOB-1348-BỊC",
+    "originalPrice": 64040,
+    "discountPercent": 17,
+    "unit": "bịch",
+    "shortDescription": "Khăn ướt dịu nhẹ không mùi",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/khan-uot-bobby-1348-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/khan-uot-bobby-1348-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/khan-uot-bobby-1348-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Bobby",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 693
+    },
+    "stock": 286,
+    "soldCount": 2686,
+    "weight": 3501,
+    "dimensions": {
+      "length": 22.4,
+      "width": 21.9,
+      "height": 12.8
+    },
+    "origin": "Hàn Quốc",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "khăn ướt",
+      "bobby"
+    ],
+    "createdAt": "2026-05-11T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1349",
+    "name": "Nôi điện Chicco cao cấp",
+    "slug": "noi-dien-chicco-cao-cap-1349",
+    "price": 4320000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/noi-dien-chicco-cao-cap-1349.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/noi-dien-chicco-cao-cap-1349.webp",
+    "description": "Nôi điện đưa tự động nhạc trắng Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Tiny Love",
+    "sku": "TIN-1349-CHI",
+    "originalPrice": 4830000,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Nôi điện đưa tự động nhạc trắng",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/noi-dien-chicco-cao-cap-1349-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/noi-dien-chicco-cao-cap-1349-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/noi-dien-chicco-cao-cap-1349-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Tiny Love",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 82
+    },
+    "stock": 143,
+    "soldCount": 2457,
+    "weight": 2561,
+    "dimensions": {
+      "length": 69.1,
+      "width": 42.5,
+      "height": 20.3
+    },
+    "origin": "Mỹ",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "nôi điện",
+      "tiny-love"
+    ],
+    "createdAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1350",
+    "name": "Đồ dùng ăn dặm Avent Pro",
+    "slug": "do-dung-an-dam-avent-pro-1350",
+    "price": 77400,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/do-dung-an-dam-avent-pro-1350.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/do-dung-an-dam-avent-pro-1350.webp",
+    "description": "Yếm bát thìa silicone an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Marcus & Marcus",
+    "sku": "MAR-1350-BỘ",
+    "originalPrice": 84428,
+    "discountPercent": 8,
+    "unit": "bộ",
+    "shortDescription": "Yếm bát thìa silicone an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-dung-an-dam-avent-pro-1350-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-dung-an-dam-avent-pro-1350-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-dung-an-dam-avent-pro-1350-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Marcus & Marcus",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 427
+    },
+    "stock": 97,
+    "soldCount": 2051,
+    "weight": 65,
+    "dimensions": {
+      "length": 69.5,
+      "width": 39.9,
+      "height": 28.3
+    },
+    "origin": "Thái Lan",
+    "warranty": "6 tháng",
+    "tags": [
+      "ăn dặm",
+      "marcus-marcus"
+    ],
+    "createdAt": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1351",
+    "name": "Tã quần Pampers size XXL",
+    "slug": "ta-quan-pampers-size-xxl-1351",
+    "price": 242000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/ta-quan-pampers-size-xxl-1351.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/ta-quan-pampers-size-xxl-1351.webp",
+    "description": "Tã siêu thấm chống tràn thoáng khí Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Huggies",
+    "sku": "HUG-1351-BỊC",
+    "originalPrice": 276000,
+    "discountPercent": 12,
+    "unit": "bịch",
+    "shortDescription": "Tã siêu thấm chống tràn thoáng khí",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-pampers-size-xxl-1351-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-pampers-size-xxl-1351-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-pampers-size-xxl-1351-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Huggies",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 232
+    },
+    "stock": 221,
+    "soldCount": 3303,
+    "weight": 1688,
+    "dimensions": {
+      "length": 30.2,
+      "width": 31.5,
+      "height": 18.0
+    },
+    "origin": "Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "tã",
+      "huggies"
+    ],
+    "createdAt": "2026-07-15T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1352",
+    "name": "Sữa bột Nan",
+    "slug": "sua-bot-nan-1352",
+    "price": 428000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/sua-bot-nan-1352.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/sua-bot-nan-1352.webp",
+    "description": "Sữa bột dinh dưỡng cho trẻ nhỏ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Friso",
+    "sku": "FRI-1352-HỘP",
+    "originalPrice": 496000,
+    "discountPercent": 14,
+    "unit": "hộp",
+    "shortDescription": "Sữa bột dinh dưỡng cho trẻ nhỏ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-nan-1352-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-nan-1352-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-nan-1352-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Friso",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 130
+    },
+    "stock": 81,
+    "soldCount": 2668,
+    "weight": 4112,
+    "dimensions": {
+      "length": 55.6,
+      "width": 18.5,
+      "height": 38.8
+    },
+    "origin": "Trung Quốc",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "sữa bột",
+      "friso"
+    ],
+    "createdAt": "2026-03-30T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1353",
+    "name": "Bình sữa Pigeon 150ml",
+    "slug": "binh-sua-pigeon-150ml-1353",
+    "price": 314000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/binh-sua-pigeon-150ml-1353.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/binh-sua-pigeon-150ml-1353.webp",
+    "description": "Bình sữa chống sặc an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Chicco",
+    "sku": "CHI-1353-CHI",
+    "originalPrice": 344000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Bình sữa chống sặc an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-pigeon-150ml-1353-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-pigeon-150ml-1353-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-pigeon-150ml-1353-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Chicco",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 168
+    },
+    "stock": 290,
+    "soldCount": 1053,
+    "weight": 1276,
+    "dimensions": {
+      "length": 75.1,
+      "width": 40.4,
+      "height": 38.5
+    },
+    "origin": "Mỹ",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bình sữa",
+      "chicco"
+    ],
+    "createdAt": "2026-08-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1354",
+    "name": "Xe đẩy Combi",
+    "slug": "xe-day-combi-1354",
+    "price": 4960000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/xe-day-combi-1354.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/xe-day-combi-1354.webp",
+    "description": "Xe đẩy gấp gọn chống UV Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Joie",
+    "sku": "JOI-1354-CHI",
+    "originalPrice": 5840000,
+    "discountPercent": 15,
+    "unit": "chiếc",
+    "shortDescription": "Xe đẩy gấp gọn chống UV",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/xe-day-combi-1354-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/xe-day-combi-1354-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/xe-day-combi-1354-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Joie",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 711
+    },
+    "stock": 201,
+    "soldCount": 657,
+    "weight": 2767,
+    "dimensions": {
+      "length": 77.0,
+      "width": 14.1,
+      "height": 10.8
+    },
+    "origin": "Trung Quốc",
+    "warranty": "6 tháng",
+    "tags": [
+      "xe đẩy",
+      "joie"
+    ],
+    "createdAt": "2026-04-26T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1355",
+    "name": "Đồ chơi Lego",
+    "slug": "do-choi-lego-1355",
+    "price": 1080000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/do-choi-lego-1355.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/do-choi-lego-1355.webp",
+    "description": "Đồ chơi phát triển tư duy an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Chicco",
+    "sku": "CHI-1355-HỘP",
+    "originalPrice": 1310000,
+    "discountPercent": 18,
+    "unit": "hộp",
+    "shortDescription": "Đồ chơi phát triển tư duy an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-lego-1355-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-lego-1355-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-lego-1355-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Chicco",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 674
+    },
+    "stock": 285,
+    "soldCount": 1083,
+    "weight": 1401,
+    "dimensions": {
+      "length": 26.0,
+      "width": 8.0,
+      "height": 30.5
+    },
+    "origin": "Mỹ",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "đồ chơi",
+      "chicco"
+    ],
+    "createdAt": "2026-08-24T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1356",
+    "name": "Máy hút sữa Medela",
+    "slug": "may-hut-sua-medela-1356",
+    "price": 1350000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/may-hut-sua-medela-1356.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/may-hut-sua-medela-1356.webp",
+    "description": "Máy hút sữa điện êm ái Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Medela",
+    "sku": "MED-1356-CHI",
+    "originalPrice": 1680000,
+    "discountPercent": 20,
+    "unit": "chiếc",
+    "shortDescription": "Máy hút sữa điện êm ái",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/may-hut-sua-medela-1356-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/may-hut-sua-medela-1356-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/may-hut-sua-medela-1356-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Medela",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 725
+    },
+    "stock": 261,
+    "soldCount": 2792,
+    "weight": 4085,
+    "dimensions": {
+      "length": 13.7,
+      "width": 25.9,
+      "height": 25.3
+    },
+    "origin": "Đức",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "máy hút sữa",
+      "medela"
+    ],
+    "createdAt": "2026-04-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1357",
+    "name": "Ghế ô tô trẻ em Britax",
+    "slug": "ghe-o-to-tre-em-britax-1357",
+    "price": 6980000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-britax-1357.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-britax-1357.webp",
+    "description": "Ghế ô tô an toàn chuẩn châu Âu Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Britax",
+    "sku": "BRI-1357-CHI",
+    "originalPrice": 7810000,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Ghế ô tô an toàn chuẩn châu Âu",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-britax-1357-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-britax-1357-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-britax-1357-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Britax",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 294
+    },
+    "stock": 187,
+    "soldCount": 1567,
+    "weight": 3455,
+    "dimensions": {
+      "length": 18.8,
+      "width": 39.3,
+      "height": 37.7
+    },
+    "origin": "Trung Quốc",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "ghế ô tô",
+      "britax"
+    ],
+    "createdAt": "2026-06-22T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1358",
+    "name": "Khăn ướt Merries",
+    "slug": "khan-uot-merries-1358",
+    "price": 57800,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/khan-uot-merries-1358.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/khan-uot-merries-1358.webp",
+    "description": "Khăn ướt dịu nhẹ không mùi Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Bobby",
+    "sku": "BOB-1358-BỊC",
+    "originalPrice": 62967,
+    "discountPercent": 8,
+    "unit": "bịch",
+    "shortDescription": "Khăn ướt dịu nhẹ không mùi",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/khan-uot-merries-1358-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/khan-uot-merries-1358-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/khan-uot-merries-1358-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Bobby",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 259
+    },
+    "stock": 90,
+    "soldCount": 1438,
+    "weight": 4582,
+    "dimensions": {
+      "length": 19.9,
+      "width": 43.2,
+      "height": 5.5
+    },
+    "origin": "Mỹ",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "khăn ướt",
+      "bobby"
+    ],
+    "createdAt": "2026-04-25T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1359",
+    "name": "Nôi điện Tiny Love",
+    "slug": "noi-dien-tiny-love-1359",
+    "price": 3450000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/noi-dien-tiny-love-1359.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/noi-dien-tiny-love-1359.webp",
+    "description": "Nôi điện đưa tự động nhạc trắng Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Chicco",
+    "sku": "CHI-1359-CHI",
+    "originalPrice": 3980000,
+    "discountPercent": 13,
+    "unit": "chiếc",
+    "shortDescription": "Nôi điện đưa tự động nhạc trắng",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/noi-dien-tiny-love-1359-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/noi-dien-tiny-love-1359-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/noi-dien-tiny-love-1359-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Chicco",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 346
+    },
+    "stock": 94,
+    "soldCount": 3027,
+    "weight": 4576,
+    "dimensions": {
+      "length": 47.7,
+      "width": 19.0,
+      "height": 23.6
+    },
+    "origin": "Nhật Bản",
+    "warranty": "6 tháng",
+    "tags": [
+      "nôi điện",
+      "chicco"
+    ],
+    "createdAt": "2026-04-28T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1360",
+    "name": "Đồ dùng ăn dặm Avent",
+    "slug": "do-dung-an-dam-avent-1360",
+    "price": 181000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/do-dung-an-dam-avent-1360.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/do-dung-an-dam-avent-1360.webp",
+    "description": "Yếm bát thìa silicone an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Pigeon",
+    "sku": "PIG-1360-BỘ",
+    "originalPrice": 201000,
+    "discountPercent": 10,
+    "unit": "bộ",
+    "shortDescription": "Yếm bát thìa silicone an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-dung-an-dam-avent-1360-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-dung-an-dam-avent-1360-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-dung-an-dam-avent-1360-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Pigeon",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 42
+    },
+    "stock": 94,
+    "soldCount": 634,
+    "weight": 1432,
+    "dimensions": {
+      "length": 77.8,
+      "width": 6.5,
+      "height": 27.7
+    },
+    "origin": "Nhật Bản",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "ăn dặm",
+      "pigeon"
+    ],
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1361",
+    "name": "Tã quần Huggies size XL Plus",
+    "slug": "ta-quan-huggies-size-xl-plus-1361",
+    "price": 174000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/ta-quan-huggies-size-xl-plus-1361.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/ta-quan-huggies-size-xl-plus-1361.webp",
+    "description": "Tã siêu thấm chống tràn thoáng khí Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Merries",
+    "sku": "MER-1361-BỊC",
+    "originalPrice": 209000,
+    "discountPercent": 17,
+    "unit": "bịch",
+    "shortDescription": "Tã siêu thấm chống tràn thoáng khí",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-huggies-size-xl-plus-1361-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-huggies-size-xl-plus-1361-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-huggies-size-xl-plus-1361-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Merries",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 44
+    },
+    "stock": 107,
+    "soldCount": 1966,
+    "weight": 3855,
+    "dimensions": {
+      "length": 42.5,
+      "width": 31.4,
+      "height": 19.4
+    },
+    "origin": "Nhật Bản",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "tã",
+      "merries"
+    ],
+    "createdAt": "2026-06-27T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1362",
+    "name": "Sữa bột Enfamil",
+    "slug": "sua-bot-enfamil-1362",
+    "price": 328000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/sua-bot-enfamil-1362.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/sua-bot-enfamil-1362.webp",
+    "description": "Sữa bột dinh dưỡng cho trẻ nhỏ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Enfamil",
+    "sku": "ENF-1362-HỘP",
+    "originalPrice": 391000,
+    "discountPercent": 16,
+    "unit": "hộp",
+    "shortDescription": "Sữa bột dinh dưỡng cho trẻ nhỏ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-enfamil-1362-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-enfamil-1362-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-enfamil-1362-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Enfamil",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 372
+    },
+    "stock": 288,
+    "soldCount": 1245,
+    "weight": 3395,
+    "dimensions": {
+      "length": 43.8,
+      "width": 13.7,
+      "height": 14.9
+    },
+    "origin": "Mỹ",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "sữa bột",
+      "enfamil"
+    ],
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1363",
+    "name": "Bình sữa Pigeon 300ml",
+    "slug": "binh-sua-pigeon-300ml-1363",
+    "price": 206000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/binh-sua-pigeon-300ml-1363.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/binh-sua-pigeon-300ml-1363.webp",
+    "description": "Bình sữa chống sặc an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Comotomo",
+    "sku": "COM-1363-CHI",
+    "originalPrice": 235000,
+    "discountPercent": 12,
+    "unit": "chiếc",
+    "shortDescription": "Bình sữa chống sặc an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-pigeon-300ml-1363-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-pigeon-300ml-1363-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-pigeon-300ml-1363-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Comotomo",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 458
+    },
+    "stock": 286,
+    "soldCount": 1776,
+    "weight": 1991,
+    "dimensions": {
+      "length": 58.9,
+      "width": 15.4,
+      "height": 12.5
+    },
+    "origin": "Nhật Bản",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "bình sữa",
+      "comotomo"
+    ],
+    "createdAt": "2026-05-25T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1364",
+    "name": "Xe đẩy Combi",
+    "slug": "xe-day-combi-1364",
+    "price": 5560000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/xe-day-combi-1364.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/xe-day-combi-1364.webp",
+    "description": "Xe đẩy gấp gọn chống UV Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Aprica",
+    "sku": "APR-1364-CHI",
+    "originalPrice": 6550000,
+    "discountPercent": 15,
+    "unit": "chiếc",
+    "shortDescription": "Xe đẩy gấp gọn chống UV",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/xe-day-combi-1364-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/xe-day-combi-1364-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/xe-day-combi-1364-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Aprica",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 228
+    },
+    "stock": 156,
+    "soldCount": 367,
+    "weight": 4079,
+    "dimensions": {
+      "length": 8.4,
+      "width": 44.3,
+      "height": 9.5
+    },
+    "origin": "Mỹ",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "xe đẩy",
+      "aprica"
+    ],
+    "createdAt": "2026-05-15T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1365",
+    "name": "Đồ chơi Winwintoys Plus",
+    "slug": "do-choi-winwintoys-plus-1365",
+    "price": 147000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/do-choi-winwintoys-plus-1365.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/do-choi-winwintoys-plus-1365.webp",
+    "description": "Đồ chơi phát triển tư duy an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Fisher-Price",
+    "sku": "FIS-1365-HỘP",
+    "originalPrice": 163000,
+    "discountPercent": 10,
+    "unit": "hộp",
+    "shortDescription": "Đồ chơi phát triển tư duy an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-winwintoys-plus-1365-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-winwintoys-plus-1365-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-winwintoys-plus-1365-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Fisher-Price",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 781
+    },
+    "stock": 190,
+    "soldCount": 1856,
+    "weight": 3273,
+    "dimensions": {
+      "length": 66.0,
+      "width": 40.8,
+      "height": 9.6
+    },
+    "origin": "Hàn Quốc",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "đồ chơi",
+      "fisher-price"
+    ],
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1366",
+    "name": "Máy hút sữa Cimilre",
+    "slug": "may-hut-sua-cimilre-1366",
+    "price": 1300000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/may-hut-sua-cimilre-1366.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/may-hut-sua-cimilre-1366.webp",
+    "description": "Máy hút sữa điện êm ái Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Cimilre",
+    "sku": "CIM-1366-CHI",
+    "originalPrice": 1440000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Máy hút sữa điện êm ái",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/may-hut-sua-cimilre-1366-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/may-hut-sua-cimilre-1366-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/may-hut-sua-cimilre-1366-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Cimilre",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 678
+    },
+    "stock": 86,
+    "soldCount": 1170,
+    "weight": 756,
+    "dimensions": {
+      "length": 20.4,
+      "width": 39.1,
+      "height": 11.5
+    },
+    "origin": "Trung Quốc",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "máy hút sữa",
+      "cimilre"
+    ],
+    "createdAt": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1367",
+    "name": "Ghế ô tô trẻ em Chicco",
+    "slug": "ghe-o-to-tre-em-chicco-1367",
+    "price": 4480000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-chicco-1367.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-chicco-1367.webp",
+    "description": "Ghế ô tô an toàn chuẩn châu Âu Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Cybex",
+    "sku": "CYB-1367-CHI",
+    "originalPrice": 5550000,
+    "discountPercent": 19,
+    "unit": "chiếc",
+    "shortDescription": "Ghế ô tô an toàn chuẩn châu Âu",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-chicco-1367-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-chicco-1367-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-chicco-1367-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Cybex",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 127
+    },
+    "stock": 186,
+    "soldCount": 3221,
+    "weight": 2289,
+    "dimensions": {
+      "length": 37.2,
+      "width": 44.6,
+      "height": 18.2
+    },
+    "origin": "Đức",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "ghế ô tô",
+      "cybex"
+    ],
+    "createdAt": "2026-06-03T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1368",
+    "name": "Khăn ướt Merries mới",
+    "slug": "khan-uot-merries-moi-1368",
+    "price": 59000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/khan-uot-merries-moi-1368.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/khan-uot-merries-moi-1368.webp",
+    "description": "Khăn ướt dịu nhẹ không mùi Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Bobby",
+    "sku": "BOB-1368-BỊC",
+    "originalPrice": 65781,
+    "discountPercent": 10,
+    "unit": "bịch",
+    "shortDescription": "Khăn ướt dịu nhẹ không mùi",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/khan-uot-merries-moi-1368-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/khan-uot-merries-moi-1368-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/khan-uot-merries-moi-1368-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Bobby",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 298
+    },
+    "stock": 20,
+    "soldCount": 2800,
+    "weight": 77,
+    "dimensions": {
+      "length": 15.5,
+      "width": 6.5,
+      "height": 24.4
+    },
+    "origin": "Mỹ",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "khăn ướt",
+      "bobby"
+    ],
+    "createdAt": "2026-08-08T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1369",
+    "name": "Nôi điện Tiny Love",
+    "slug": "noi-dien-tiny-love-1369",
+    "price": 2470000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/noi-dien-tiny-love-1369.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/noi-dien-tiny-love-1369.webp",
+    "description": "Nôi điện đưa tự động nhạc trắng Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Fisher-Price",
+    "sku": "FIS-1369-CHI",
+    "originalPrice": 2710000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Nôi điện đưa tự động nhạc trắng",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/noi-dien-tiny-love-1369-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/noi-dien-tiny-love-1369-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/noi-dien-tiny-love-1369-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Fisher-Price",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 528
+    },
+    "stock": 156,
+    "soldCount": 337,
+    "weight": 2673,
+    "dimensions": {
+      "length": 63.6,
+      "width": 48.6,
+      "height": 13.3
+    },
+    "origin": "Việt Nam",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "nôi điện",
+      "fisher-price"
+    ],
+    "createdAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1370",
+    "name": "Đồ dùng ăn dặm Marcus & Marcus",
+    "slug": "do-dung-an-dam-marcus-marcus-1370",
+    "price": 177000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/do-dung-an-dam-marcus-marcus-1370.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/do-dung-an-dam-marcus-marcus-1370.webp",
+    "description": "Yếm bát thìa silicone an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Pigeon",
+    "sku": "PIG-1370-BỘ",
+    "originalPrice": 201000,
+    "discountPercent": 12,
+    "unit": "bộ",
+    "shortDescription": "Yếm bát thìa silicone an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-dung-an-dam-marcus-marcus-1370-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-dung-an-dam-marcus-marcus-1370-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-dung-an-dam-marcus-marcus-1370-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Pigeon",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 611
+    },
+    "stock": 28,
+    "soldCount": 3383,
+    "weight": 810,
+    "dimensions": {
+      "length": 24.6,
+      "width": 30.7,
+      "height": 7.4
+    },
+    "origin": "Thái Lan",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "ăn dặm",
+      "pigeon"
+    ],
+    "createdAt": "2026-08-17T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1371",
+    "name": "Tã quần Pampers size XL Plus",
+    "slug": "ta-quan-pampers-size-xl-plus-1371",
+    "price": 281000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/ta-quan-pampers-size-xl-plus-1371.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/ta-quan-pampers-size-xl-plus-1371.webp",
+    "description": "Tã siêu thấm chống tràn thoáng khí Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Bobby",
+    "sku": "BOB-1371-BỊC",
+    "originalPrice": 306000,
+    "discountPercent": 8,
+    "unit": "bịch",
+    "shortDescription": "Tã siêu thấm chống tràn thoáng khí",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-pampers-size-xl-plus-1371-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-pampers-size-xl-plus-1371-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-pampers-size-xl-plus-1371-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Bobby",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 279
+    },
+    "stock": 232,
+    "soldCount": 1280,
+    "weight": 4588,
+    "dimensions": {
+      "length": 52.2,
+      "width": 38.6,
+      "height": 37.0
+    },
+    "origin": "Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "tã",
+      "bobby"
+    ],
+    "createdAt": "2026-05-22T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1372",
+    "name": "Sữa bột Nan",
+    "slug": "sua-bot-nan-1372",
+    "price": 548000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/sua-bot-nan-1372.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/sua-bot-nan-1372.webp",
+    "description": "Sữa bột dinh dưỡng cho trẻ nhỏ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Friso",
+    "sku": "FRI-1372-HỘP",
+    "originalPrice": 619000,
+    "discountPercent": 11,
+    "unit": "hộp",
+    "shortDescription": "Sữa bột dinh dưỡng cho trẻ nhỏ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-nan-1372-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-nan-1372-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-nan-1372-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Friso",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 536
+    },
+    "stock": 38,
+    "soldCount": 3212,
+    "weight": 1337,
+    "dimensions": {
+      "length": 75.6,
+      "width": 24.6,
+      "height": 12.9
+    },
+    "origin": "Đức",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "sữa bột",
+      "friso"
+    ],
+    "createdAt": "2026-05-06T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1373",
+    "name": "Bình sữa Chicco 300ml mới",
+    "slug": "binh-sua-chicco-300ml-moi-1373",
+    "price": 332000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/binh-sua-chicco-300ml-moi-1373.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/binh-sua-chicco-300ml-moi-1373.webp",
+    "description": "Bình sữa chống sặc an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Comotomo",
+    "sku": "COM-1373-CHI",
+    "originalPrice": 362000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Bình sữa chống sặc an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-chicco-300ml-moi-1373-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-chicco-300ml-moi-1373-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-chicco-300ml-moi-1373-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Comotomo",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 646
+    },
+    "stock": 204,
+    "soldCount": 1087,
+    "weight": 1506,
+    "dimensions": {
+      "length": 62.1,
+      "width": 46.9,
+      "height": 39.4
+    },
+    "origin": "Mỹ",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "bình sữa",
+      "comotomo"
+    ],
+    "createdAt": "2026-03-31T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1374",
+    "name": "Xe đẩy Joie 2026",
+    "slug": "xe-day-joie-2026-1374",
+    "price": 8330000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/xe-day-joie-2026-1374.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/xe-day-joie-2026-1374.webp",
+    "description": "Xe đẩy gấp gọn chống UV Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Cybex",
+    "sku": "CYB-1374-CHI",
+    "originalPrice": 9380000,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Xe đẩy gấp gọn chống UV",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/xe-day-joie-2026-1374-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/xe-day-joie-2026-1374-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/xe-day-joie-2026-1374-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Cybex",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 513
+    },
+    "stock": 245,
+    "soldCount": 2208,
+    "weight": 2892,
+    "dimensions": {
+      "length": 56.2,
+      "width": 42.0,
+      "height": 37.5
+    },
+    "origin": "Trung Quốc",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "xe đẩy",
+      "cybex"
+    ],
+    "createdAt": "2026-04-08T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1375",
+    "name": "Đồ chơi Fisher-Price",
+    "slug": "do-choi-fisher-price-1375",
+    "price": 336000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/do-choi-fisher-price-1375.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/do-choi-fisher-price-1375.webp",
+    "description": "Đồ chơi phát triển tư duy an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Chicco",
+    "sku": "CHI-1375-HỘP",
+    "originalPrice": 401000,
+    "discountPercent": 16,
+    "unit": "hộp",
+    "shortDescription": "Đồ chơi phát triển tư duy an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-fisher-price-1375-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-fisher-price-1375-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-fisher-price-1375-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Chicco",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 266
+    },
+    "stock": 188,
+    "soldCount": 157,
+    "weight": 4346,
+    "dimensions": {
+      "length": 27.9,
+      "width": 40.3,
+      "height": 7.6
+    },
+    "origin": "Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "đồ chơi",
+      "chicco"
+    ],
+    "createdAt": "2026-06-26T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1376",
+    "name": "Máy hút sữa Spectra",
+    "slug": "may-hut-sua-spectra-1376",
+    "price": 4400000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/may-hut-sua-spectra-1376.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/may-hut-sua-spectra-1376.webp",
+    "description": "Máy hút sữa điện êm ái Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Spectra",
+    "sku": "SPE-1376-CHI",
+    "originalPrice": 5010000,
+    "discountPercent": 12,
+    "unit": "chiếc",
+    "shortDescription": "Máy hút sữa điện êm ái",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/may-hut-sua-spectra-1376-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/may-hut-sua-spectra-1376-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/may-hut-sua-spectra-1376-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Spectra",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 253
+    },
+    "stock": 73,
+    "soldCount": 572,
+    "weight": 2973,
+    "dimensions": {
+      "length": 29.9,
+      "width": 43.1,
+      "height": 36.8
+    },
+    "origin": "Trung Quốc",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "máy hút sữa",
+      "spectra"
+    ],
+    "createdAt": "2026-04-03T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1377",
+    "name": "Ghế ô tô trẻ em Chicco",
+    "slug": "ghe-o-to-tre-em-chicco-1377",
+    "price": 6870000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-chicco-1377.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-chicco-1377.webp",
+    "description": "Ghế ô tô an toàn chuẩn châu Âu Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Chicco",
+    "sku": "CHI-1377-CHI",
+    "originalPrice": 7950000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Ghế ô tô an toàn chuẩn châu Âu",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-chicco-1377-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-chicco-1377-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-chicco-1377-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Chicco",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 408
+    },
+    "stock": 198,
+    "soldCount": 1254,
+    "weight": 3801,
+    "dimensions": {
+      "length": 57.6,
+      "width": 12.3,
+      "height": 31.4
+    },
+    "origin": "Hàn Quốc",
+    "warranty": "6 tháng",
+    "tags": [
+      "ghế ô tô",
+      "chicco"
+    ],
+    "createdAt": "2026-04-04T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1378",
+    "name": "Khăn ướt Huggies",
+    "slug": "khan-uot-huggies-1378",
+    "price": 31500,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/khan-uot-huggies-1378.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/khan-uot-huggies-1378.webp",
+    "description": "Khăn ướt dịu nhẹ không mùi Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Mamamy",
+    "sku": "MAM-1378-BỊC",
+    "originalPrice": 34380,
+    "discountPercent": 8,
+    "unit": "bịch",
+    "shortDescription": "Khăn ướt dịu nhẹ không mùi",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/khan-uot-huggies-1378-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/khan-uot-huggies-1378-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/khan-uot-huggies-1378-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Mamamy",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 410
+    },
+    "stock": 40,
+    "soldCount": 683,
+    "weight": 4836,
+    "dimensions": {
+      "length": 49.2,
+      "width": 41.2,
+      "height": 29.1
+    },
+    "origin": "Thái Lan",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "khăn ướt",
+      "mamamy"
+    ],
+    "createdAt": "2026-06-22T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1379",
+    "name": "Nôi điện Fisher-Price",
+    "slug": "noi-dien-fisher-price-1379",
+    "price": 2500000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/noi-dien-fisher-price-1379.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/noi-dien-fisher-price-1379.webp",
+    "description": "Nôi điện đưa tự động nhạc trắng Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Fisher-Price",
+    "sku": "FIS-1379-CHI",
+    "originalPrice": 2850000,
+    "discountPercent": 12,
+    "unit": "chiếc",
+    "shortDescription": "Nôi điện đưa tự động nhạc trắng",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/noi-dien-fisher-price-1379-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/noi-dien-fisher-price-1379-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/noi-dien-fisher-price-1379-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Fisher-Price",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 367
+    },
+    "stock": 23,
+    "soldCount": 257,
+    "weight": 732,
+    "dimensions": {
+      "length": 44.7,
+      "width": 13.7,
+      "height": 19.7
+    },
+    "origin": "Nhật Bản",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "nôi điện",
+      "fisher-price"
+    ],
+    "createdAt": "2026-07-21T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1380",
+    "name": "Đồ dùng ăn dặm Marcus & Marcus",
+    "slug": "do-dung-an-dam-marcus-marcus-1380",
+    "price": 219000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/do-dung-an-dam-marcus-marcus-1380.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/do-dung-an-dam-marcus-marcus-1380.webp",
+    "description": "Yếm bát thìa silicone an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Marcus & Marcus",
+    "sku": "MAR-1380-BỘ",
+    "originalPrice": 240000,
+    "discountPercent": 9,
+    "unit": "bộ",
+    "shortDescription": "Yếm bát thìa silicone an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-dung-an-dam-marcus-marcus-1380-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-dung-an-dam-marcus-marcus-1380-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-dung-an-dam-marcus-marcus-1380-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Marcus & Marcus",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 749
+    },
+    "stock": 101,
+    "soldCount": 1957,
+    "weight": 4917,
+    "dimensions": {
+      "length": 49.2,
+      "width": 9.1,
+      "height": 14.3
+    },
+    "origin": "Việt Nam",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "ăn dặm",
+      "marcus-marcus"
+    ],
+    "createdAt": "2026-04-24T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1381",
+    "name": "Tã quần Huggies size XL",
+    "slug": "ta-quan-huggies-size-xl-1381",
+    "price": 284000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/ta-quan-huggies-size-xl-1381.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/ta-quan-huggies-size-xl-1381.webp",
+    "description": "Tã siêu thấm chống tràn thoáng khí Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Huggies",
+    "sku": "HUG-1381-BỊC",
+    "originalPrice": 332000,
+    "discountPercent": 14,
+    "unit": "bịch",
+    "shortDescription": "Tã siêu thấm chống tràn thoáng khí",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-huggies-size-xl-1381-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-huggies-size-xl-1381-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-huggies-size-xl-1381-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Huggies",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 775
+    },
+    "stock": 213,
+    "soldCount": 520,
+    "weight": 439,
+    "dimensions": {
+      "length": 8.9,
+      "width": 22.4,
+      "height": 8.2
+    },
+    "origin": "Đức",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "tã",
+      "huggies"
+    ],
+    "createdAt": "2026-05-03T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1382",
+    "name": "Sữa bột Friso",
+    "slug": "sua-bot-friso-1382",
+    "price": 368000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/sua-bot-friso-1382.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/sua-bot-friso-1382.webp",
+    "description": "Sữa bột dinh dưỡng cho trẻ nhỏ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Enfamil",
+    "sku": "ENF-1382-HỘP",
+    "originalPrice": 440000,
+    "discountPercent": 16,
+    "unit": "hộp",
+    "shortDescription": "Sữa bột dinh dưỡng cho trẻ nhỏ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-friso-1382-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-friso-1382-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-friso-1382-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Enfamil",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 76
+    },
+    "stock": 108,
+    "soldCount": 158,
+    "weight": 1127,
+    "dimensions": {
+      "length": 23.7,
+      "width": 19.9,
+      "height": 19.6
+    },
+    "origin": "Nhật Bản",
+    "warranty": "6 tháng",
+    "tags": [
+      "sữa bột",
+      "enfamil"
+    ],
+    "createdAt": "2026-05-13T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1383",
+    "name": "Bình sữa Pigeon 240ml Pro",
+    "slug": "binh-sua-pigeon-240ml-pro-1383",
+    "price": 225000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/binh-sua-pigeon-240ml-pro-1383.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/binh-sua-pigeon-240ml-pro-1383.webp",
+    "description": "Bình sữa chống sặc an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Comotomo",
+    "sku": "COM-1383-CHI",
+    "originalPrice": 263000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Bình sữa chống sặc an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-pigeon-240ml-pro-1383-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-pigeon-240ml-pro-1383-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-pigeon-240ml-pro-1383-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Comotomo",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 356
+    },
+    "stock": 241,
+    "soldCount": 634,
+    "weight": 1732,
+    "dimensions": {
+      "length": 49.0,
+      "width": 14.4,
+      "height": 4.2
+    },
+    "origin": "Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bình sữa",
+      "comotomo"
+    ],
+    "createdAt": "2026-06-10T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1384",
+    "name": "Xe đẩy Aprica mới",
+    "slug": "xe-day-aprica-moi-1384",
+    "price": 4870000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/xe-day-aprica-moi-1384.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/xe-day-aprica-moi-1384.webp",
+    "description": "Xe đẩy gấp gọn chống UV Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Aprica",
+    "sku": "APR-1384-CHI",
+    "originalPrice": 6000000,
+    "discountPercent": 19,
+    "unit": "chiếc",
+    "shortDescription": "Xe đẩy gấp gọn chống UV",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/xe-day-aprica-moi-1384-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/xe-day-aprica-moi-1384-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/xe-day-aprica-moi-1384-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Aprica",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 445
+    },
+    "stock": 197,
+    "soldCount": 1821,
+    "weight": 4282,
+    "dimensions": {
+      "length": 43.1,
+      "width": 21.4,
+      "height": 29.7
+    },
+    "origin": "Việt Nam",
+    "warranty": "6 tháng",
+    "tags": [
+      "xe đẩy",
+      "aprica"
+    ],
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1385",
+    "name": "Đồ chơi Fisher-Price",
+    "slug": "do-choi-fisher-price-1385",
+    "price": 1050000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/do-choi-fisher-price-1385.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/do-choi-fisher-price-1385.webp",
+    "description": "Đồ chơi phát triển tư duy an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Chicco",
+    "sku": "CHI-1385-HỘP",
+    "originalPrice": 1210000,
+    "discountPercent": 13,
+    "unit": "hộp",
+    "shortDescription": "Đồ chơi phát triển tư duy an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-fisher-price-1385-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-fisher-price-1385-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-fisher-price-1385-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Chicco",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 144
+    },
+    "stock": 282,
+    "soldCount": 235,
+    "weight": 435,
+    "dimensions": {
+      "length": 19.8,
+      "width": 32.0,
+      "height": 23.4
+    },
+    "origin": "Hàn Quốc",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "đồ chơi",
+      "chicco"
+    ],
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1386",
+    "name": "Máy hút sữa Cimilre",
+    "slug": "may-hut-sua-cimilre-1386",
+    "price": 4200000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/may-hut-sua-cimilre-1386.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/may-hut-sua-cimilre-1386.webp",
+    "description": "Máy hút sữa điện êm ái Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Medela",
+    "sku": "MED-1386-CHI",
+    "originalPrice": 4600000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Máy hút sữa điện êm ái",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/may-hut-sua-cimilre-1386-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/may-hut-sua-cimilre-1386-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/may-hut-sua-cimilre-1386-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Medela",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 57
+    },
+    "stock": 249,
+    "soldCount": 1381,
+    "weight": 3677,
+    "dimensions": {
+      "length": 18.0,
+      "width": 22.5,
+      "height": 6.8
+    },
+    "origin": "Thái Lan",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "máy hút sữa",
+      "medela"
+    ],
+    "createdAt": "2026-06-14T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1387",
+    "name": "Ghế ô tô trẻ em Chicco",
+    "slug": "ghe-o-to-tre-em-chicco-1387",
+    "price": 3710000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-chicco-1387.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-chicco-1387.webp",
+    "description": "Ghế ô tô an toàn chuẩn châu Âu Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Britax",
+    "sku": "BRI-1387-CHI",
+    "originalPrice": 4310000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Ghế ô tô an toàn chuẩn châu Âu",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-chicco-1387-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-chicco-1387-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-chicco-1387-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Britax",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 469
+    },
+    "stock": 256,
+    "soldCount": 761,
+    "weight": 4592,
+    "dimensions": {
+      "length": 14.9,
+      "width": 19.0,
+      "height": 7.7
+    },
+    "origin": "Việt Nam",
+    "warranty": "6 tháng",
+    "tags": [
+      "ghế ô tô",
+      "britax"
+    ],
+    "createdAt": "2026-07-05T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1388",
+    "name": "Khăn ướt Mamamy",
+    "slug": "khan-uot-mamamy-1388",
+    "price": 67900,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/khan-uot-mamamy-1388.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/khan-uot-mamamy-1388.webp",
+    "description": "Khăn ướt dịu nhẹ không mùi Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Bobby",
+    "sku": "BOB-1388-BỊC",
+    "originalPrice": 83395,
+    "discountPercent": 19,
+    "unit": "bịch",
+    "shortDescription": "Khăn ướt dịu nhẹ không mùi",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/khan-uot-mamamy-1388-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/khan-uot-mamamy-1388-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/khan-uot-mamamy-1388-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Bobby",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 533
+    },
+    "stock": 87,
+    "soldCount": 1085,
+    "weight": 3171,
+    "dimensions": {
+      "length": 19.7,
+      "width": 42.4,
+      "height": 38.2
+    },
+    "origin": "Trung Quốc",
+    "warranty": "6 tháng",
+    "tags": [
+      "khăn ướt",
+      "bobby"
+    ],
+    "createdAt": "2026-08-28T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1389",
+    "name": "Nôi điện Tiny Love mới",
+    "slug": "noi-dien-tiny-love-moi-1389",
+    "price": 3300000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/noi-dien-tiny-love-moi-1389.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/noi-dien-tiny-love-moi-1389.webp",
+    "description": "Nôi điện đưa tự động nhạc trắng Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Chicco",
+    "sku": "CHI-1389-CHI",
+    "originalPrice": 3830000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Nôi điện đưa tự động nhạc trắng",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/noi-dien-tiny-love-moi-1389-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/noi-dien-tiny-love-moi-1389-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/noi-dien-tiny-love-moi-1389-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Chicco",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 680
+    },
+    "stock": 103,
+    "soldCount": 608,
+    "weight": 3533,
+    "dimensions": {
+      "length": 59.9,
+      "width": 9.4,
+      "height": 1.3
+    },
+    "origin": "Đức",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "nôi điện",
+      "chicco"
+    ],
+    "createdAt": "2026-03-24T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1390",
+    "name": "Đồ dùng ăn dặm Pigeon",
+    "slug": "do-dung-an-dam-pigeon-1390",
+    "price": 123000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/do-dung-an-dam-pigeon-1390.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/do-dung-an-dam-pigeon-1390.webp",
+    "description": "Yếm bát thìa silicone an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Chicco",
+    "sku": "CHI-1390-BỘ",
+    "originalPrice": 140000,
+    "discountPercent": 12,
+    "unit": "bộ",
+    "shortDescription": "Yếm bát thìa silicone an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-dung-an-dam-pigeon-1390-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-dung-an-dam-pigeon-1390-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-dung-an-dam-pigeon-1390-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Chicco",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 271
+    },
+    "stock": 273,
+    "soldCount": 3151,
+    "weight": 1131,
+    "dimensions": {
+      "length": 6.2,
+      "width": 5.6,
+      "height": 25.6
+    },
+    "origin": "Việt Nam",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "ăn dặm",
+      "chicco"
+    ],
+    "createdAt": "2026-06-03T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1391",
+    "name": "Tã quần Huggies size M",
+    "slug": "ta-quan-huggies-size-m-1391",
+    "price": 225000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/ta-quan-huggies-size-m-1391.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/ta-quan-huggies-size-m-1391.webp",
+    "description": "Tã siêu thấm chống tràn thoáng khí Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Merries",
+    "sku": "MER-1391-BỊC",
+    "originalPrice": 269000,
+    "discountPercent": 16,
+    "unit": "bịch",
+    "shortDescription": "Tã siêu thấm chống tràn thoáng khí",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-huggies-size-m-1391-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-huggies-size-m-1391-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-huggies-size-m-1391-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Merries",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 161
+    },
+    "stock": 283,
+    "soldCount": 81,
+    "weight": 4257,
+    "dimensions": {
+      "length": 42.7,
+      "width": 18.3,
+      "height": 5.9
+    },
+    "origin": "Thái Lan",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "tã",
+      "merries"
+    ],
+    "createdAt": "2026-06-11T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1392",
+    "name": "Sữa bột Similac",
+    "slug": "sua-bot-similac-1392",
+    "price": 359000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/sua-bot-similac-1392.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/sua-bot-similac-1392.webp",
+    "description": "Sữa bột dinh dưỡng cho trẻ nhỏ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Friso",
+    "sku": "FRI-1392-HỘP",
+    "originalPrice": 433000,
+    "discountPercent": 17,
+    "unit": "hộp",
+    "shortDescription": "Sữa bột dinh dưỡng cho trẻ nhỏ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-similac-1392-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-similac-1392-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-similac-1392-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Friso",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 596
+    },
+    "stock": 40,
+    "soldCount": 1688,
+    "weight": 4843,
+    "dimensions": {
+      "length": 74.8,
+      "width": 17.3,
+      "height": 3.3
+    },
+    "origin": "Trung Quốc",
+    "warranty": "6 tháng",
+    "tags": [
+      "sữa bột",
+      "friso"
+    ],
+    "createdAt": "2026-05-10T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1393",
+    "name": "Bình sữa Avent 150ml",
+    "slug": "binh-sua-avent-150ml-1393",
+    "price": 350000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/binh-sua-avent-150ml-1393.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/binh-sua-avent-150ml-1393.webp",
+    "description": "Bình sữa chống sặc an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Comotomo",
+    "sku": "COM-1393-CHI",
+    "originalPrice": 403000,
+    "discountPercent": 13,
+    "unit": "chiếc",
+    "shortDescription": "Bình sữa chống sặc an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-avent-150ml-1393-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-avent-150ml-1393-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-avent-150ml-1393-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Comotomo",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 217
+    },
+    "stock": 198,
+    "soldCount": 2357,
+    "weight": 349,
+    "dimensions": {
+      "length": 36.8,
+      "width": 27.3,
+      "height": 16.6
+    },
+    "origin": "Đức",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "bình sữa",
+      "comotomo"
+    ],
+    "createdAt": "2026-03-23T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1394",
+    "name": "Xe đẩy Joie",
+    "slug": "xe-day-joie-1394",
+    "price": 4420000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/xe-day-joie-1394.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/xe-day-joie-1394.webp",
+    "description": "Xe đẩy gấp gọn chống UV Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Cybex",
+    "sku": "CYB-1394-CHI",
+    "originalPrice": 5290000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Xe đẩy gấp gọn chống UV",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/xe-day-joie-1394-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/xe-day-joie-1394-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/xe-day-joie-1394-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Cybex",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 145
+    },
+    "stock": 196,
+    "soldCount": 1492,
+    "weight": 855,
+    "dimensions": {
+      "length": 16.1,
+      "width": 37.1,
+      "height": 7.1
+    },
+    "origin": "Đức",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "xe đẩy",
+      "cybex"
+    ],
+    "createdAt": "2026-05-06T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1395",
+    "name": "Đồ chơi Fisher-Price",
+    "slug": "do-choi-fisher-price-1395",
+    "price": 561000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/do-choi-fisher-price-1395.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/do-choi-fisher-price-1395.webp",
+    "description": "Đồ chơi phát triển tư duy an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Winwintoys",
+    "sku": "WIN-1395-HỘP",
+    "originalPrice": 657000,
+    "discountPercent": 15,
+    "unit": "hộp",
+    "shortDescription": "Đồ chơi phát triển tư duy an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-fisher-price-1395-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-fisher-price-1395-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-fisher-price-1395-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Winwintoys",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 649
+    },
+    "stock": 186,
+    "soldCount": 587,
+    "weight": 1080,
+    "dimensions": {
+      "length": 47.9,
+      "width": 5.5,
+      "height": 37.8
+    },
+    "origin": "Hàn Quốc",
+    "warranty": "6 tháng",
+    "tags": [
+      "đồ chơi",
+      "winwintoys"
+    ],
+    "createdAt": "2026-06-29T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1396",
+    "name": "Máy hút sữa Spectra",
+    "slug": "may-hut-sua-spectra-1396",
+    "price": 2580000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/may-hut-sua-spectra-1396.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/may-hut-sua-spectra-1396.webp",
+    "description": "Máy hút sữa điện êm ái Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Avent",
+    "sku": "AVE-1396-CHI",
+    "originalPrice": 2810000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Máy hút sữa điện êm ái",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/may-hut-sua-spectra-1396-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/may-hut-sua-spectra-1396-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/may-hut-sua-spectra-1396-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Avent",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 374
+    },
+    "stock": 136,
+    "soldCount": 1081,
+    "weight": 2815,
+    "dimensions": {
+      "length": 69.3,
+      "width": 25.4,
+      "height": 27.6
+    },
+    "origin": "Việt Nam",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "máy hút sữa",
+      "avent"
+    ],
+    "createdAt": "2026-04-13T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1397",
+    "name": "Ghế ô tô trẻ em Britax",
+    "slug": "ghe-o-to-tre-em-britax-1397",
+    "price": 5150000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-britax-1397.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-britax-1397.webp",
+    "description": "Ghế ô tô an toàn chuẩn châu Âu Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Cybex",
+    "sku": "CYB-1397-CHI",
+    "originalPrice": 5570000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Ghế ô tô an toàn chuẩn châu Âu",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-britax-1397-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-britax-1397-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ghe-o-to-tre-em-britax-1397-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Cybex",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 387
+    },
+    "stock": 163,
+    "soldCount": 3478,
+    "weight": 1579,
+    "dimensions": {
+      "length": 11.7,
+      "width": 5.4,
+      "height": 2.8
+    },
+    "origin": "Mỹ",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "ghế ô tô",
+      "cybex"
+    ],
+    "createdAt": "2026-04-22T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1398",
+    "name": "Khăn ướt Bobby",
+    "slug": "khan-uot-bobby-1398",
+    "price": 45200,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/khan-uot-bobby-1398.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/khan-uot-bobby-1398.webp",
+    "description": "Khăn ướt dịu nhẹ không mùi Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Bobby",
+    "sku": "BOB-1398-BỊC",
+    "originalPrice": 49296,
+    "discountPercent": 8,
+    "unit": "bịch",
+    "shortDescription": "Khăn ướt dịu nhẹ không mùi",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/khan-uot-bobby-1398-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/khan-uot-bobby-1398-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/khan-uot-bobby-1398-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Bobby",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 518
+    },
+    "stock": 28,
+    "soldCount": 1973,
+    "weight": 2323,
+    "dimensions": {
+      "length": 79.5,
+      "width": 16.8,
+      "height": 2.7
+    },
+    "origin": "Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "khăn ướt",
+      "bobby"
+    ],
+    "createdAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1399",
+    "name": "Nôi điện Tiny Love",
+    "slug": "noi-dien-tiny-love-1399",
+    "price": 2000000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/noi-dien-tiny-love-1399.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/noi-dien-tiny-love-1399.webp",
+    "description": "Nôi điện đưa tự động nhạc trắng Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Mastela",
+    "sku": "MAS-1399-CHI",
+    "originalPrice": 2440000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Nôi điện đưa tự động nhạc trắng",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/noi-dien-tiny-love-1399-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/noi-dien-tiny-love-1399-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/noi-dien-tiny-love-1399-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Mastela",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 313
+    },
+    "stock": 35,
+    "soldCount": 138,
+    "weight": 2390,
+    "dimensions": {
+      "length": 75.3,
+      "width": 39.0,
+      "height": 8.0
+    },
+    "origin": "Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "nôi điện",
+      "mastela"
+    ],
+    "createdAt": "2026-08-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1400",
+    "name": "Đồ dùng ăn dặm Pigeon",
+    "slug": "do-dung-an-dam-pigeon-1400",
+    "price": 190000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/do-dung-an-dam-pigeon-1400.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/do-dung-an-dam-pigeon-1400.webp",
+    "description": "Yếm bát thìa silicone an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Pigeon",
+    "sku": "PIG-1400-BỘ",
+    "originalPrice": 219000,
+    "discountPercent": 13,
+    "unit": "bộ",
+    "shortDescription": "Yếm bát thìa silicone an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-dung-an-dam-pigeon-1400-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-dung-an-dam-pigeon-1400-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-dung-an-dam-pigeon-1400-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Pigeon",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 472
+    },
+    "stock": 24,
+    "soldCount": 3126,
+    "weight": 614,
+    "dimensions": {
+      "length": 34.4,
+      "width": 29.6,
+      "height": 19.1
+    },
+    "origin": "Mỹ",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "ăn dặm",
+      "pigeon"
+    ],
+    "createdAt": "2026-07-11T00:00:00.000Z"
+  }
+]

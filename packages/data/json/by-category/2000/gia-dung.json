@@ -1,1 +1,4502 @@
-[]
+[
+  {
+    "id": "prod-1201",
+    "name": "Nồi cơm điện Sharp 1.8L",
+    "slug": "noi-com-dien-sharp-18l-1201",
+    "price": 2580000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-com-dien-sharp-18l-1201.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-com-dien-sharp-18l-1201.webp",
+    "description": "Nồi cơm điện lòng dày nhiều chế độ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Toshiba",
+    "sku": "TOS-1201-CHI",
+    "originalPrice": 2990000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Nồi cơm điện lòng dày nhiều chế độ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-sharp-18l-1201-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-sharp-18l-1201-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-sharp-18l-1201-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Toshiba",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 540
+    },
+    "stock": 98,
+    "soldCount": 2444,
+    "weight": 1438,
+    "dimensions": {
+      "length": 20.3,
+      "width": 43.2,
+      "height": 3.6
+    },
+    "origin": "Trung Quốc",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "nồi cơm",
+      "toshiba"
+    ],
+    "createdAt": "2026-07-04T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1202",
+    "name": "Máy xay sinh tố Philips",
+    "slug": "may-xay-sinh-to-philips-1202",
+    "price": 691000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-xay-sinh-to-philips-1202.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-xay-sinh-to-philips-1202.webp",
+    "description": "Máy xay sinh tố công suất mạnh Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Bluestone",
+    "sku": "BLU-1202-CHI",
+    "originalPrice": 806000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Máy xay sinh tố công suất mạnh",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-philips-1202-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-philips-1202-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-philips-1202-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Bluestone",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 601
+    },
+    "stock": 71,
+    "soldCount": 604,
+    "weight": 4833,
+    "dimensions": {
+      "length": 69.5,
+      "width": 31.7,
+      "height": 5.1
+    },
+    "origin": "Thái Lan",
+    "warranty": "6 tháng",
+    "tags": [
+      "máy xay",
+      "bluestone"
+    ],
+    "createdAt": "2026-03-06T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1203",
+    "name": "Bếp từ Electrolux",
+    "slug": "bep-tu-electrolux-1203",
+    "price": 3330000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/bep-tu-electrolux-1203.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/bep-tu-electrolux-1203.webp",
+    "description": "Bếp từ cảm ứng an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Munchen",
+    "sku": "MUN-1203-CHI",
+    "originalPrice": 3740000,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Bếp từ cảm ứng an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-electrolux-1203-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-electrolux-1203-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-electrolux-1203-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Munchen",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 87
+    },
+    "stock": 226,
+    "soldCount": 1669,
+    "weight": 1932,
+    "dimensions": {
+      "length": 66.2,
+      "width": 9.3,
+      "height": 20.4
+    },
+    "origin": "Mỹ",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bếp từ",
+      "munchen"
+    ],
+    "createdAt": "2026-04-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1204",
+    "name": "Nồi chiên không dầu Sunhouse 6.5L Plus",
+    "slug": "noi-chien-khong-dau-sunhouse-65l-plus-1204",
+    "price": 1580000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-chien-khong-dau-sunhouse-65l-plus-1204.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-chien-khong-dau-sunhouse-65l-plus-1204.webp",
+    "description": "Nồi chiên không dầu nhiều chế độ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Philips",
+    "sku": "PHI-1204-CHI",
+    "originalPrice": 1780000,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Nồi chiên không dầu nhiều chế độ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-sunhouse-65l-plus-1204-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-sunhouse-65l-plus-1204-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-sunhouse-65l-plus-1204-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Philips",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 730
+    },
+    "stock": 92,
+    "soldCount": 1590,
+    "weight": 2225,
+    "dimensions": {
+      "length": 21.8,
+      "width": 49.4,
+      "height": 39.9
+    },
+    "origin": "Hàn Quốc",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "air fryer",
+      "philips"
+    ],
+    "createdAt": "2026-07-11T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1205",
+    "name": "Máy lọc không khí Sharp",
+    "slug": "may-loc-khong-khi-sharp-1205",
+    "price": 2120000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-loc-khong-khi-sharp-1205.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-loc-khong-khi-sharp-1205.webp",
+    "description": "Máy lọc không khí HEPA CADR cao Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Sharp",
+    "sku": "SHA-1205-CHI",
+    "originalPrice": 2480000,
+    "discountPercent": 15,
+    "unit": "chiếc",
+    "shortDescription": "Máy lọc không khí HEPA CADR cao",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-sharp-1205-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-sharp-1205-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-sharp-1205-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Sharp",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 167
+    },
+    "stock": 168,
+    "soldCount": 682,
+    "weight": 1317,
+    "dimensions": {
+      "length": 7.0,
+      "width": 18.2,
+      "height": 16.7
+    },
+    "origin": "Nhật Bản",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "máy lọc không khí",
+      "sharp"
+    ],
+    "createdAt": "2026-06-28T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1206",
+    "name": "Máy hút bụi Xiaomi",
+    "slug": "may-hut-bui-xiaomi-1206",
+    "price": 1370000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-hut-bui-xiaomi-1206.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-hut-bui-xiaomi-1206.webp",
+    "description": "Máy hút bụi cầm tay hoặc robot Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Philips",
+    "sku": "PHI-1206-CHI",
+    "originalPrice": 1570000,
+    "discountPercent": 13,
+    "unit": "chiếc",
+    "shortDescription": "Máy hút bụi cầm tay hoặc robot",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-xiaomi-1206-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-xiaomi-1206-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-xiaomi-1206-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Philips",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 692
+    },
+    "stock": 71,
+    "soldCount": 2271,
+    "weight": 4317,
+    "dimensions": {
+      "length": 49.1,
+      "width": 30.0,
+      "height": 1.4
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "máy hút bụi",
+      "philips"
+    ],
+    "createdAt": "2026-03-31T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1207",
+    "name": "Bình đun siêu tốc Bluestone 1.8L",
+    "slug": "binh-dun-sieu-toc-bluestone-18l-1207",
+    "price": 381000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/binh-dun-sieu-toc-bluestone-18l-1207.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/binh-dun-sieu-toc-bluestone-18l-1207.webp",
+    "description": "Bình đun inox tự ngắt Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Philips",
+    "sku": "PHI-1207-CHI",
+    "originalPrice": 460000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Bình đun inox tự ngắt",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-bluestone-18l-1207-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-bluestone-18l-1207-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-bluestone-18l-1207-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Philips",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 212
+    },
+    "stock": 206,
+    "soldCount": 2472,
+    "weight": 3035,
+    "dimensions": {
+      "length": 71.7,
+      "width": 24.7,
+      "height": 37.9
+    },
+    "origin": "Đức",
+    "warranty": "6 tháng",
+    "tags": [
+      "bình đun",
+      "philips"
+    ],
+    "createdAt": "2026-07-13T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1208",
+    "name": "Nồi áp suất điện Sunhouse 5L",
+    "slug": "noi-ap-suat-dien-sunhouse-5l-1208",
+    "price": 3440000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-ap-suat-dien-sunhouse-5l-1208.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-ap-suat-dien-sunhouse-5l-1208.webp",
+    "description": "Nồi áp suất điện đa năng Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Philips",
+    "sku": "PHI-1208-CHI",
+    "originalPrice": 3790000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Nồi áp suất điện đa năng",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-sunhouse-5l-1208-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-sunhouse-5l-1208-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-sunhouse-5l-1208-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Philips",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 632
+    },
+    "stock": 216,
+    "soldCount": 2625,
+    "weight": 944,
+    "dimensions": {
+      "length": 18.1,
+      "width": 13.6,
+      "height": 38.5
+    },
+    "origin": "Hàn Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "nồi áp suất",
+      "philips"
+    ],
+    "createdAt": "2026-06-25T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1209",
+    "name": "Máy lọc nước Kangaroo cao cấp",
+    "slug": "may-loc-nuoc-kangaroo-cao-cap-1209",
+    "price": 7560000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-loc-nuoc-kangaroo-cao-cap-1209.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-loc-nuoc-kangaroo-cao-cap-1209.webp",
+    "description": "Máy lọc nước RO uống trực tiếp Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Karofi",
+    "sku": "KAR-1209-CHI",
+    "originalPrice": 8680000,
+    "discountPercent": 13,
+    "unit": "chiếc",
+    "shortDescription": "Máy lọc nước RO uống trực tiếp",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-kangaroo-cao-cap-1209-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-kangaroo-cao-cap-1209-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-kangaroo-cao-cap-1209-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Karofi",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 623
+    },
+    "stock": 211,
+    "soldCount": 2513,
+    "weight": 2789,
+    "dimensions": {
+      "length": 20.3,
+      "width": 15.0,
+      "height": 20.1
+    },
+    "origin": "Mỹ",
+    "warranty": "6 tháng",
+    "tags": [
+      "máy lọc nước",
+      "karofi"
+    ],
+    "createdAt": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1210",
+    "name": "Quạt điện Panasonic cao cấp",
+    "slug": "quat-dien-panasonic-cao-cap-1210",
+    "price": 530000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/quat-dien-panasonic-cao-cap-1210.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/quat-dien-panasonic-cao-cap-1210.webp",
+    "description": "Quạt đứng bàn êm nhiều tốc độ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Panasonic",
+    "sku": "PAN-1210-CHI",
+    "originalPrice": 577000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Quạt đứng bàn êm nhiều tốc độ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/quat-dien-panasonic-cao-cap-1210-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/quat-dien-panasonic-cao-cap-1210-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/quat-dien-panasonic-cao-cap-1210-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Panasonic",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 84
+    },
+    "stock": 233,
+    "soldCount": 843,
+    "weight": 4019,
+    "dimensions": {
+      "length": 77.5,
+      "width": 37.6,
+      "height": 36.8
+    },
+    "origin": "Mỹ",
+    "warranty": "6 tháng",
+    "tags": [
+      "quạt",
+      "panasonic"
+    ],
+    "createdAt": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1211",
+    "name": "Nồi cơm điện Sharp 1.2L",
+    "slug": "noi-com-dien-sharp-12l-1211",
+    "price": 1650000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-com-dien-sharp-12l-1211.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-com-dien-sharp-12l-1211.webp",
+    "description": "Nồi cơm điện lòng dày nhiều chế độ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Cuckoo",
+    "sku": "CUC-1211-CHI",
+    "originalPrice": 1850000,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Nồi cơm điện lòng dày nhiều chế độ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-sharp-12l-1211-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-sharp-12l-1211-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-sharp-12l-1211-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Cuckoo",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 457
+    },
+    "stock": 183,
+    "soldCount": 2318,
+    "weight": 3057,
+    "dimensions": {
+      "length": 7.7,
+      "width": 43.9,
+      "height": 26.6
+    },
+    "origin": "Nhật Bản",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "nồi cơm",
+      "cuckoo"
+    ],
+    "createdAt": "2026-03-27T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1212",
+    "name": "Máy xay sinh tố Sunhouse",
+    "slug": "may-xay-sinh-to-sunhouse-1212",
+    "price": 640000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-xay-sinh-to-sunhouse-1212.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-xay-sinh-to-sunhouse-1212.webp",
+    "description": "Máy xay sinh tố công suất mạnh Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Bluestone",
+    "sku": "BLU-1212-CHI",
+    "originalPrice": 696000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Máy xay sinh tố công suất mạnh",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-sunhouse-1212-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-sunhouse-1212-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-sunhouse-1212-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Bluestone",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 55
+    },
+    "stock": 84,
+    "soldCount": 774,
+    "weight": 2923,
+    "dimensions": {
+      "length": 5.1,
+      "width": 9.9,
+      "height": 33.8
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "máy xay",
+      "bluestone"
+    ],
+    "createdAt": "2026-03-31T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1213",
+    "name": "Bếp từ Sunhouse cao cấp",
+    "slug": "bep-tu-sunhouse-cao-cap-1213",
+    "price": 1680000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/bep-tu-sunhouse-cao-cap-1213.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/bep-tu-sunhouse-cao-cap-1213.webp",
+    "description": "Bếp từ cảm ứng an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Munchen",
+    "sku": "MUN-1213-CHI",
+    "originalPrice": 2050000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Bếp từ cảm ứng an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-sunhouse-cao-cap-1213-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-sunhouse-cao-cap-1213-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-sunhouse-cao-cap-1213-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Munchen",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 325
+    },
+    "stock": 69,
+    "soldCount": 2374,
+    "weight": 194,
+    "dimensions": {
+      "length": 69.6,
+      "width": 11.0,
+      "height": 9.4
+    },
+    "origin": "Nhật Bản",
+    "warranty": "6 tháng",
+    "tags": [
+      "bếp từ",
+      "munchen"
+    ],
+    "createdAt": "2026-08-10T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1214",
+    "name": "Nồi chiên không dầu Philips 4.5L",
+    "slug": "noi-chien-khong-dau-philips-45l-1214",
+    "price": 1480000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-chien-khong-dau-philips-45l-1214.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-chien-khong-dau-philips-45l-1214.webp",
+    "description": "Nồi chiên không dầu nhiều chế độ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Lock&Lock",
+    "sku": "LOC-1214-CHI",
+    "originalPrice": 1830000,
+    "discountPercent": 19,
+    "unit": "chiếc",
+    "shortDescription": "Nồi chiên không dầu nhiều chế độ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-philips-45l-1214-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-philips-45l-1214-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-philips-45l-1214-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Lock&Lock",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 209
+    },
+    "stock": 120,
+    "soldCount": 2924,
+    "weight": 4327,
+    "dimensions": {
+      "length": 71.4,
+      "width": 36.1,
+      "height": 9.0
+    },
+    "origin": "Mỹ",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "air fryer",
+      "locklock"
+    ],
+    "createdAt": "2026-06-27T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1215",
+    "name": "Máy lọc không khí LG",
+    "slug": "may-loc-khong-khi-lg-1215",
+    "price": 7980000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-loc-khong-khi-lg-1215.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-loc-khong-khi-lg-1215.webp",
+    "description": "Máy lọc không khí HEPA CADR cao Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Daikin",
+    "sku": "DAI-1215-CHI",
+    "originalPrice": 8630000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Máy lọc không khí HEPA CADR cao",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-lg-1215-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-lg-1215-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-lg-1215-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Daikin",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 205
+    },
+    "stock": 156,
+    "soldCount": 1637,
+    "weight": 4306,
+    "dimensions": {
+      "length": 56.6,
+      "width": 17.9,
+      "height": 6.9
+    },
+    "origin": "Trung Quốc",
+    "warranty": "6 tháng",
+    "tags": [
+      "máy lọc không khí",
+      "daikin"
+    ],
+    "createdAt": "2026-06-19T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1216",
+    "name": "Máy hút bụi Philips",
+    "slug": "may-hut-bui-philips-1216",
+    "price": 6330000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-hut-bui-philips-1216.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-hut-bui-philips-1216.webp",
+    "description": "Máy hút bụi cầm tay hoặc robot Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Xiaomi",
+    "sku": "XIA-1216-CHI",
+    "originalPrice": 7600000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Máy hút bụi cầm tay hoặc robot",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-philips-1216-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-philips-1216-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-philips-1216-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Xiaomi",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 673
+    },
+    "stock": 260,
+    "soldCount": 1321,
+    "weight": 2139,
+    "dimensions": {
+      "length": 59.9,
+      "width": 25.0,
+      "height": 16.6
+    },
+    "origin": "Thái Lan",
+    "warranty": "6 tháng",
+    "tags": [
+      "máy hút bụi",
+      "xiaomi"
+    ],
+    "createdAt": "2026-03-23T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1217",
+    "name": "Bình đun siêu tốc Philips 1.8L 2026",
+    "slug": "binh-dun-sieu-toc-philips-18l-2026-1217",
+    "price": 607000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/binh-dun-sieu-toc-philips-18l-2026-1217.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/binh-dun-sieu-toc-philips-18l-2026-1217.webp",
+    "description": "Bình đun inox tự ngắt Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Lock&Lock",
+    "sku": "LOC-1217-CHI",
+    "originalPrice": 693000,
+    "discountPercent": 12,
+    "unit": "chiếc",
+    "shortDescription": "Bình đun inox tự ngắt",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-philips-18l-2026-1217-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-philips-18l-2026-1217-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-philips-18l-2026-1217-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Lock&Lock",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 618
+    },
+    "stock": 211,
+    "soldCount": 1543,
+    "weight": 3764,
+    "dimensions": {
+      "length": 5.8,
+      "width": 23.6,
+      "height": 14.2
+    },
+    "origin": "Thái Lan",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "bình đun",
+      "locklock"
+    ],
+    "createdAt": "2026-04-28T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1218",
+    "name": "Nồi áp suất điện Sunhouse 6L",
+    "slug": "noi-ap-suat-dien-sunhouse-6l-1218",
+    "price": 2930000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-ap-suat-dien-sunhouse-6l-1218.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-ap-suat-dien-sunhouse-6l-1218.webp",
+    "description": "Nồi áp suất điện đa năng Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Sunhouse",
+    "sku": "SUN-1218-CHI",
+    "originalPrice": 3440000,
+    "discountPercent": 15,
+    "unit": "chiếc",
+    "shortDescription": "Nồi áp suất điện đa năng",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-sunhouse-6l-1218-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-sunhouse-6l-1218-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-sunhouse-6l-1218-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Sunhouse",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 141
+    },
+    "stock": 15,
+    "soldCount": 2605,
+    "weight": 4967,
+    "dimensions": {
+      "length": 35.1,
+      "width": 16.5,
+      "height": 16.6
+    },
+    "origin": "Nhật Bản",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "nồi áp suất",
+      "sunhouse"
+    ],
+    "createdAt": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1219",
+    "name": "Máy lọc nước Karofi",
+    "slug": "may-loc-nuoc-karofi-1219",
+    "price": 5630000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-loc-nuoc-karofi-1219.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-loc-nuoc-karofi-1219.webp",
+    "description": "Máy lọc nước RO uống trực tiếp Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Kangaroo",
+    "sku": "KAN-1219-CHI",
+    "originalPrice": 6480000,
+    "discountPercent": 13,
+    "unit": "chiếc",
+    "shortDescription": "Máy lọc nước RO uống trực tiếp",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-karofi-1219-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-karofi-1219-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-karofi-1219-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Kangaroo",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 160
+    },
+    "stock": 225,
+    "soldCount": 1643,
+    "weight": 83,
+    "dimensions": {
+      "length": 40.8,
+      "width": 22.5,
+      "height": 24.1
+    },
+    "origin": "Hàn Quốc",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "máy lọc nước",
+      "kangaroo"
+    ],
+    "createdAt": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1220",
+    "name": "Quạt điện Xiaomi",
+    "slug": "quat-dien-xiaomi-1220",
+    "price": 1330000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/quat-dien-xiaomi-1220.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/quat-dien-xiaomi-1220.webp",
+    "description": "Quạt đứng bàn êm nhiều tốc độ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Asia",
+    "sku": "ASI-1220-CHI",
+    "originalPrice": 1560000,
+    "discountPercent": 15,
+    "unit": "chiếc",
+    "shortDescription": "Quạt đứng bàn êm nhiều tốc độ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/quat-dien-xiaomi-1220-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/quat-dien-xiaomi-1220-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/quat-dien-xiaomi-1220-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Asia",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 707
+    },
+    "stock": 137,
+    "soldCount": 2395,
+    "weight": 3578,
+    "dimensions": {
+      "length": 17.8,
+      "width": 13.1,
+      "height": 23.6
+    },
+    "origin": "Nhật Bản",
+    "warranty": "6 tháng",
+    "tags": [
+      "quạt",
+      "asia"
+    ],
+    "createdAt": "2026-06-13T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1221",
+    "name": "Nồi cơm điện Sunhouse 1.5L 2026",
+    "slug": "noi-com-dien-sunhouse-15l-2026-1221",
+    "price": 2790000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-com-dien-sunhouse-15l-2026-1221.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-com-dien-sunhouse-15l-2026-1221.webp",
+    "description": "Nồi cơm điện lòng dày nhiều chế độ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Sunhouse",
+    "sku": "SUN-1221-CHI",
+    "originalPrice": 3060000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Nồi cơm điện lòng dày nhiều chế độ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-sunhouse-15l-2026-1221-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-sunhouse-15l-2026-1221-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-sunhouse-15l-2026-1221-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Sunhouse",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 612
+    },
+    "stock": 275,
+    "soldCount": 2501,
+    "weight": 4144,
+    "dimensions": {
+      "length": 35.6,
+      "width": 6.0,
+      "height": 7.9
+    },
+    "origin": "Nhật Bản",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "nồi cơm",
+      "sunhouse"
+    ],
+    "createdAt": "2026-04-12T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1222",
+    "name": "Máy xay sinh tố Philips",
+    "slug": "may-xay-sinh-to-philips-1222",
+    "price": 663000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-xay-sinh-to-philips-1222.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-xay-sinh-to-philips-1222.webp",
+    "description": "Máy xay sinh tố công suất mạnh Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Philips",
+    "sku": "PHI-1222-CHI",
+    "originalPrice": 787000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Máy xay sinh tố công suất mạnh",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-philips-1222-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-philips-1222-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-philips-1222-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Philips",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 661
+    },
+    "stock": 84,
+    "soldCount": 2580,
+    "weight": 4320,
+    "dimensions": {
+      "length": 24.6,
+      "width": 13.4,
+      "height": 20.4
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "máy xay",
+      "philips"
+    ],
+    "createdAt": "2026-08-27T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1223",
+    "name": "Bếp từ Electrolux",
+    "slug": "bep-tu-electrolux-1223",
+    "price": 3020000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/bep-tu-electrolux-1223.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/bep-tu-electrolux-1223.webp",
+    "description": "Bếp từ cảm ứng an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Kocher",
+    "sku": "KOC-1223-CHI",
+    "originalPrice": 3700000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Bếp từ cảm ứng an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-electrolux-1223-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-electrolux-1223-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-electrolux-1223-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Kocher",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 508
+    },
+    "stock": 234,
+    "soldCount": 1168,
+    "weight": 3531,
+    "dimensions": {
+      "length": 75.1,
+      "width": 22.3,
+      "height": 9.2
+    },
+    "origin": "Đức",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "bếp từ",
+      "kocher"
+    ],
+    "createdAt": "2026-03-29T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1224",
+    "name": "Nồi chiên không dầu Nagakawa 6.5L",
+    "slug": "noi-chien-khong-dau-nagakawa-65l-1224",
+    "price": 3500000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-chien-khong-dau-nagakawa-65l-1224.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-chien-khong-dau-nagakawa-65l-1224.webp",
+    "description": "Nồi chiên không dầu nhiều chế độ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Nagakawa",
+    "sku": "NAG-1224-CHI",
+    "originalPrice": 3870000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Nồi chiên không dầu nhiều chế độ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-nagakawa-65l-1224-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-nagakawa-65l-1224-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-nagakawa-65l-1224-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Nagakawa",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 745
+    },
+    "stock": 200,
+    "soldCount": 3467,
+    "weight": 1818,
+    "dimensions": {
+      "length": 69.4,
+      "width": 39.2,
+      "height": 12.3
+    },
+    "origin": "Hàn Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "air fryer",
+      "nagakawa"
+    ],
+    "createdAt": "2026-08-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1225",
+    "name": "Máy lọc không khí LG",
+    "slug": "may-loc-khong-khi-lg-1225",
+    "price": 9230000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-loc-khong-khi-lg-1225.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-loc-khong-khi-lg-1225.webp",
+    "description": "Máy lọc không khí HEPA CADR cao Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Daikin",
+    "sku": "DAI-1225-CHI",
+    "originalPrice": 10240000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Máy lọc không khí HEPA CADR cao",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-lg-1225-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-lg-1225-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-lg-1225-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Daikin",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 635
+    },
+    "stock": 28,
+    "soldCount": 3317,
+    "weight": 1770,
+    "dimensions": {
+      "length": 21.2,
+      "width": 8.3,
+      "height": 29.4
+    },
+    "origin": "Đức",
+    "warranty": "6 tháng",
+    "tags": [
+      "máy lọc không khí",
+      "daikin"
+    ],
+    "createdAt": "2026-07-09T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1226",
+    "name": "Máy hút bụi Samsung",
+    "slug": "may-hut-bui-samsung-1226",
+    "price": 8370000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-hut-bui-samsung-1226.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-hut-bui-samsung-1226.webp",
+    "description": "Máy hút bụi cầm tay hoặc robot Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Electrolux",
+    "sku": "ELE-1226-CHI",
+    "originalPrice": 9280000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Máy hút bụi cầm tay hoặc robot",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-samsung-1226-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-samsung-1226-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-samsung-1226-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Electrolux",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 255
+    },
+    "stock": 279,
+    "soldCount": 822,
+    "weight": 1022,
+    "dimensions": {
+      "length": 17.9,
+      "width": 30.4,
+      "height": 30.0
+    },
+    "origin": "Hàn Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "máy hút bụi",
+      "electrolux"
+    ],
+    "createdAt": "2026-06-04T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1227",
+    "name": "Bình đun siêu tốc Lock&Lock 1.8L 2026",
+    "slug": "binh-dun-sieu-toc-locklock-18l-2026-1227",
+    "price": 338000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/binh-dun-sieu-toc-locklock-18l-2026-1227.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/binh-dun-sieu-toc-locklock-18l-2026-1227.webp",
+    "description": "Bình đun inox tự ngắt Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Sunhouse",
+    "sku": "SUN-1227-CHI",
+    "originalPrice": 400000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Bình đun inox tự ngắt",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-locklock-18l-2026-1227-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-locklock-18l-2026-1227-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-locklock-18l-2026-1227-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Sunhouse",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 331
+    },
+    "stock": 97,
+    "soldCount": 1427,
+    "weight": 3206,
+    "dimensions": {
+      "length": 76.8,
+      "width": 27.3,
+      "height": 20.5
+    },
+    "origin": "Hàn Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "bình đun",
+      "sunhouse"
+    ],
+    "createdAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1228",
+    "name": "Nồi áp suất điện Bluestone 4L cao cấp",
+    "slug": "noi-ap-suat-dien-bluestone-4l-cao-cap-1228",
+    "price": 1450000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-ap-suat-dien-bluestone-4l-cao-cap-1228.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-ap-suat-dien-bluestone-4l-cao-cap-1228.webp",
+    "description": "Nồi áp suất điện đa năng Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Bluestone",
+    "sku": "BLU-1228-CHI",
+    "originalPrice": 1740000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Nồi áp suất điện đa năng",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-bluestone-4l-cao-cap-1228-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-bluestone-4l-cao-cap-1228-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-bluestone-4l-cao-cap-1228-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Bluestone",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 294
+    },
+    "stock": 171,
+    "soldCount": 65,
+    "weight": 629,
+    "dimensions": {
+      "length": 10.8,
+      "width": 21.9,
+      "height": 38.1
+    },
+    "origin": "Thái Lan",
+    "warranty": "6 tháng",
+    "tags": [
+      "nồi áp suất",
+      "bluestone"
+    ],
+    "createdAt": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1229",
+    "name": "Máy lọc nước AO Smith",
+    "slug": "may-loc-nuoc-ao-smith-1229",
+    "price": 5760000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-loc-nuoc-ao-smith-1229.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-loc-nuoc-ao-smith-1229.webp",
+    "description": "Máy lọc nước RO uống trực tiếp Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Mutosi",
+    "sku": "MUT-1229-CHI",
+    "originalPrice": 6940000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Máy lọc nước RO uống trực tiếp",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-ao-smith-1229-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-ao-smith-1229-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-ao-smith-1229-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Mutosi",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 58
+    },
+    "stock": 244,
+    "soldCount": 2636,
+    "weight": 2248,
+    "dimensions": {
+      "length": 58.4,
+      "width": 19.6,
+      "height": 36.3
+    },
+    "origin": "Nhật Bản",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "máy lọc nước",
+      "mutosi"
+    ],
+    "createdAt": "2026-03-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1230",
+    "name": "Quạt điện Asia cao cấp",
+    "slug": "quat-dien-asia-cao-cap-1230",
+    "price": 1060000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/quat-dien-asia-cao-cap-1230.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/quat-dien-asia-cao-cap-1230.webp",
+    "description": "Quạt đứng bàn êm nhiều tốc độ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Asia",
+    "sku": "ASI-1230-CHI",
+    "originalPrice": 1220000,
+    "discountPercent": 13,
+    "unit": "chiếc",
+    "shortDescription": "Quạt đứng bàn êm nhiều tốc độ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/quat-dien-asia-cao-cap-1230-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/quat-dien-asia-cao-cap-1230-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/quat-dien-asia-cao-cap-1230-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Asia",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 728
+    },
+    "stock": 24,
+    "soldCount": 2320,
+    "weight": 1673,
+    "dimensions": {
+      "length": 72.2,
+      "width": 28.0,
+      "height": 36.2
+    },
+    "origin": "Nhật Bản",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "quạt",
+      "asia"
+    ],
+    "createdAt": "2026-08-12T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1231",
+    "name": "Nồi cơm điện Sunhouse 1.5L",
+    "slug": "noi-com-dien-sunhouse-15l-1231",
+    "price": 961000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-com-dien-sunhouse-15l-1231.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-com-dien-sunhouse-15l-1231.webp",
+    "description": "Nồi cơm điện lòng dày nhiều chế độ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Sharp",
+    "sku": "SHA-1231-CHI",
+    "originalPrice": 1060000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Nồi cơm điện lòng dày nhiều chế độ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-sunhouse-15l-1231-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-sunhouse-15l-1231-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-sunhouse-15l-1231-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Sharp",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 375
+    },
+    "stock": 156,
+    "soldCount": 1127,
+    "weight": 2578,
+    "dimensions": {
+      "length": 33.4,
+      "width": 21.5,
+      "height": 39.7
+    },
+    "origin": "Hàn Quốc",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "nồi cơm",
+      "sharp"
+    ],
+    "createdAt": "2026-08-19T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1232",
+    "name": "Máy xay sinh tố Panasonic",
+    "slug": "may-xay-sinh-to-panasonic-1232",
+    "price": 625000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-xay-sinh-to-panasonic-1232.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-xay-sinh-to-panasonic-1232.webp",
+    "description": "Máy xay sinh tố công suất mạnh Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Panasonic",
+    "sku": "PAN-1232-CHI",
+    "originalPrice": 680000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Máy xay sinh tố công suất mạnh",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-panasonic-1232-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-panasonic-1232-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-panasonic-1232-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Panasonic",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 327
+    },
+    "stock": 29,
+    "soldCount": 2620,
+    "weight": 1395,
+    "dimensions": {
+      "length": 76.1,
+      "width": 42.9,
+      "height": 22.5
+    },
+    "origin": "Nhật Bản",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "máy xay",
+      "panasonic"
+    ],
+    "createdAt": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1233",
+    "name": "Bếp từ Munchen",
+    "slug": "bep-tu-munchen-1233",
+    "price": 2790000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/bep-tu-munchen-1233.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/bep-tu-munchen-1233.webp",
+    "description": "Bếp từ cảm ứng an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Munchen",
+    "sku": "MUN-1233-CHI",
+    "originalPrice": 3430000,
+    "discountPercent": 19,
+    "unit": "chiếc",
+    "shortDescription": "Bếp từ cảm ứng an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-munchen-1233-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-munchen-1233-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-munchen-1233-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Munchen",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 213
+    },
+    "stock": 123,
+    "soldCount": 2039,
+    "weight": 1936,
+    "dimensions": {
+      "length": 21.2,
+      "width": 22.2,
+      "height": 23.1
+    },
+    "origin": "Hàn Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bếp từ",
+      "munchen"
+    ],
+    "createdAt": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1234",
+    "name": "Nồi chiên không dầu Philips 6.5L",
+    "slug": "noi-chien-khong-dau-philips-65l-1234",
+    "price": 1590000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-chien-khong-dau-philips-65l-1234.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-chien-khong-dau-philips-65l-1234.webp",
+    "description": "Nồi chiên không dầu nhiều chế độ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Sunhouse",
+    "sku": "SUN-1234-CHI",
+    "originalPrice": 1790000,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Nồi chiên không dầu nhiều chế độ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-philips-65l-1234-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-philips-65l-1234-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-philips-65l-1234-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Sunhouse",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 766
+    },
+    "stock": 270,
+    "soldCount": 97,
+    "weight": 2780,
+    "dimensions": {
+      "length": 48.7,
+      "width": 49.3,
+      "height": 20.6
+    },
+    "origin": "Đức",
+    "warranty": "6 tháng",
+    "tags": [
+      "air fryer",
+      "sunhouse"
+    ],
+    "createdAt": "2026-06-03T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1235",
+    "name": "Máy lọc không khí Daikin",
+    "slug": "may-loc-khong-khi-daikin-1235",
+    "price": 5670000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-loc-khong-khi-daikin-1235.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-loc-khong-khi-daikin-1235.webp",
+    "description": "Máy lọc không khí HEPA CADR cao Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Daikin",
+    "sku": "DAI-1235-CHI",
+    "originalPrice": 6850000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Máy lọc không khí HEPA CADR cao",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-daikin-1235-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-daikin-1235-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-daikin-1235-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Daikin",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 365
+    },
+    "stock": 102,
+    "soldCount": 2234,
+    "weight": 2280,
+    "dimensions": {
+      "length": 29.2,
+      "width": 39.8,
+      "height": 4.0
+    },
+    "origin": "Nhật Bản",
+    "warranty": "6 tháng",
+    "tags": [
+      "máy lọc không khí",
+      "daikin"
+    ],
+    "createdAt": "2026-08-28T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1236",
+    "name": "Máy hút bụi Electrolux 2026",
+    "slug": "may-hut-bui-electrolux-2026-1236",
+    "price": 4350000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-hut-bui-electrolux-2026-1236.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-hut-bui-electrolux-2026-1236.webp",
+    "description": "Máy hút bụi cầm tay hoặc robot Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Philips",
+    "sku": "PHI-1236-CHI",
+    "originalPrice": 4760000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Máy hút bụi cầm tay hoặc robot",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-electrolux-2026-1236-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-electrolux-2026-1236-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-electrolux-2026-1236-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Philips",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 400
+    },
+    "stock": 21,
+    "soldCount": 1730,
+    "weight": 4847,
+    "dimensions": {
+      "length": 57.6,
+      "width": 12.1,
+      "height": 26.3
+    },
+    "origin": "Đức",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "máy hút bụi",
+      "philips"
+    ],
+    "createdAt": "2026-07-17T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1237",
+    "name": "Bình đun siêu tốc Lock&Lock 1.8L",
+    "slug": "binh-dun-sieu-toc-locklock-18l-1237",
+    "price": 389000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/binh-dun-sieu-toc-locklock-18l-1237.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/binh-dun-sieu-toc-locklock-18l-1237.webp",
+    "description": "Bình đun inox tự ngắt Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Philips",
+    "sku": "PHI-1237-CHI",
+    "originalPrice": 425000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Bình đun inox tự ngắt",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-locklock-18l-1237-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-locklock-18l-1237-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-locklock-18l-1237-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Philips",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 113
+    },
+    "stock": 149,
+    "soldCount": 958,
+    "weight": 281,
+    "dimensions": {
+      "length": 41.9,
+      "width": 25.7,
+      "height": 18.3
+    },
+    "origin": "Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bình đun",
+      "philips"
+    ],
+    "createdAt": "2026-07-11T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1238",
+    "name": "Nồi áp suất điện Bluestone 6L",
+    "slug": "noi-ap-suat-dien-bluestone-6l-1238",
+    "price": 2590000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-ap-suat-dien-bluestone-6l-1238.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-ap-suat-dien-bluestone-6l-1238.webp",
+    "description": "Nồi áp suất điện đa năng Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Philips",
+    "sku": "PHI-1238-CHI",
+    "originalPrice": 3120000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Nồi áp suất điện đa năng",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-bluestone-6l-1238-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-bluestone-6l-1238-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-bluestone-6l-1238-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Philips",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 308
+    },
+    "stock": 48,
+    "soldCount": 2178,
+    "weight": 3580,
+    "dimensions": {
+      "length": 67.0,
+      "width": 45.8,
+      "height": 10.0
+    },
+    "origin": "Đức",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "nồi áp suất",
+      "philips"
+    ],
+    "createdAt": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1239",
+    "name": "Máy lọc nước AO Smith",
+    "slug": "may-loc-nuoc-ao-smith-1239",
+    "price": 6550000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-loc-nuoc-ao-smith-1239.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-loc-nuoc-ao-smith-1239.webp",
+    "description": "Máy lọc nước RO uống trực tiếp Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Mutosi",
+    "sku": "MUT-1239-CHI",
+    "originalPrice": 8120000,
+    "discountPercent": 19,
+    "unit": "chiếc",
+    "shortDescription": "Máy lọc nước RO uống trực tiếp",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-ao-smith-1239-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-ao-smith-1239-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-ao-smith-1239-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Mutosi",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 306
+    },
+    "stock": 106,
+    "soldCount": 3410,
+    "weight": 4828,
+    "dimensions": {
+      "length": 56.4,
+      "width": 42.0,
+      "height": 38.1
+    },
+    "origin": "Đức",
+    "warranty": "6 tháng",
+    "tags": [
+      "máy lọc nước",
+      "mutosi"
+    ],
+    "createdAt": "2026-03-29T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1240",
+    "name": "Quạt điện Asia",
+    "slug": "quat-dien-asia-1240",
+    "price": 1080000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/quat-dien-asia-1240.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/quat-dien-asia-1240.webp",
+    "description": "Quạt đứng bàn êm nhiều tốc độ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Panasonic",
+    "sku": "PAN-1240-CHI",
+    "originalPrice": 1250000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Quạt đứng bàn êm nhiều tốc độ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/quat-dien-asia-1240-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/quat-dien-asia-1240-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/quat-dien-asia-1240-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Panasonic",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 537
+    },
+    "stock": 84,
+    "soldCount": 2875,
+    "weight": 2338,
+    "dimensions": {
+      "length": 57.3,
+      "width": 23.0,
+      "height": 4.0
+    },
+    "origin": "Mỹ",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "quạt",
+      "panasonic"
+    ],
+    "createdAt": "2026-03-04T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1241",
+    "name": "Nồi cơm điện Toshiba 1.8L",
+    "slug": "noi-com-dien-toshiba-18l-1241",
+    "price": 2110000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-com-dien-toshiba-18l-1241.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-com-dien-toshiba-18l-1241.webp",
+    "description": "Nồi cơm điện lòng dày nhiều chế độ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Sunhouse",
+    "sku": "SUN-1241-CHI",
+    "originalPrice": 2320000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Nồi cơm điện lòng dày nhiều chế độ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-toshiba-18l-1241-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-toshiba-18l-1241-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-toshiba-18l-1241-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Sunhouse",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 596
+    },
+    "stock": 21,
+    "soldCount": 3362,
+    "weight": 1337,
+    "dimensions": {
+      "length": 55.6,
+      "width": 45.1,
+      "height": 19.2
+    },
+    "origin": "Nhật Bản",
+    "warranty": "6 tháng",
+    "tags": [
+      "nồi cơm",
+      "sunhouse"
+    ],
+    "createdAt": "2026-07-15T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1242",
+    "name": "Máy xay sinh tố Philips",
+    "slug": "may-xay-sinh-to-philips-1242",
+    "price": 1560000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-xay-sinh-to-philips-1242.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-xay-sinh-to-philips-1242.webp",
+    "description": "Máy xay sinh tố công suất mạnh Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Bluestone",
+    "sku": "BLU-1242-CHI",
+    "originalPrice": 1820000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Máy xay sinh tố công suất mạnh",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-philips-1242-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-philips-1242-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-philips-1242-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Bluestone",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 615
+    },
+    "stock": 216,
+    "soldCount": 3217,
+    "weight": 1033,
+    "dimensions": {
+      "length": 41.7,
+      "width": 25.6,
+      "height": 34.9
+    },
+    "origin": "Đức",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "máy xay",
+      "bluestone"
+    ],
+    "createdAt": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1243",
+    "name": "Bếp từ Electrolux",
+    "slug": "bep-tu-electrolux-1243",
+    "price": 796000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/bep-tu-electrolux-1243.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/bep-tu-electrolux-1243.webp",
+    "description": "Bếp từ cảm ứng an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Electrolux",
+    "sku": "ELE-1243-CHI",
+    "originalPrice": 961000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Bếp từ cảm ứng an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-electrolux-1243-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-electrolux-1243-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-electrolux-1243-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Electrolux",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 328
+    },
+    "stock": 280,
+    "soldCount": 832,
+    "weight": 3416,
+    "dimensions": {
+      "length": 41.6,
+      "width": 29.3,
+      "height": 29.2
+    },
+    "origin": "Nhật Bản",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "bếp từ",
+      "electrolux"
+    ],
+    "createdAt": "2026-04-18T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1244",
+    "name": "Nồi chiên không dầu Philips 6.5L",
+    "slug": "noi-chien-khong-dau-philips-65l-1244",
+    "price": 2280000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-chien-khong-dau-philips-65l-1244.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-chien-khong-dau-philips-65l-1244.webp",
+    "description": "Nồi chiên không dầu nhiều chế độ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Sunhouse",
+    "sku": "SUN-1244-CHI",
+    "originalPrice": 2800000,
+    "discountPercent": 19,
+    "unit": "chiếc",
+    "shortDescription": "Nồi chiên không dầu nhiều chế độ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-philips-65l-1244-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-philips-65l-1244-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-philips-65l-1244-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Sunhouse",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 530
+    },
+    "stock": 241,
+    "soldCount": 1116,
+    "weight": 4316,
+    "dimensions": {
+      "length": 72.4,
+      "width": 14.0,
+      "height": 25.7
+    },
+    "origin": "Việt Nam",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "air fryer",
+      "sunhouse"
+    ],
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1245",
+    "name": "Máy lọc không khí Xiaomi",
+    "slug": "may-loc-khong-khi-xiaomi-1245",
+    "price": 3430000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-loc-khong-khi-xiaomi-1245.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-loc-khong-khi-xiaomi-1245.webp",
+    "description": "Máy lọc không khí HEPA CADR cao Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "LG",
+    "sku": "LG-1245-CHI",
+    "originalPrice": 4190000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Máy lọc không khí HEPA CADR cao",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-xiaomi-1245-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-xiaomi-1245-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-xiaomi-1245-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "LG",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 239
+    },
+    "stock": 177,
+    "soldCount": 1919,
+    "weight": 2841,
+    "dimensions": {
+      "length": 7.3,
+      "width": 28.9,
+      "height": 19.5
+    },
+    "origin": "Hàn Quốc",
+    "warranty": "6 tháng",
+    "tags": [
+      "máy lọc không khí",
+      "lg"
+    ],
+    "createdAt": "2026-07-08T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1246",
+    "name": "Máy hút bụi Philips",
+    "slug": "may-hut-bui-philips-1246",
+    "price": 4980000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-hut-bui-philips-1246.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-hut-bui-philips-1246.webp",
+    "description": "Máy hút bụi cầm tay hoặc robot Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Philips",
+    "sku": "PHI-1246-CHI",
+    "originalPrice": 5880000,
+    "discountPercent": 15,
+    "unit": "chiếc",
+    "shortDescription": "Máy hút bụi cầm tay hoặc robot",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-philips-1246-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-philips-1246-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-philips-1246-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Philips",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 424
+    },
+    "stock": 101,
+    "soldCount": 2553,
+    "weight": 1801,
+    "dimensions": {
+      "length": 60.5,
+      "width": 50.0,
+      "height": 8.4
+    },
+    "origin": "Hàn Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "máy hút bụi",
+      "philips"
+    ],
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1247",
+    "name": "Bình đun siêu tốc Sunhouse 1.7L",
+    "slug": "binh-dun-sieu-toc-sunhouse-17l-1247",
+    "price": 371000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/binh-dun-sieu-toc-sunhouse-17l-1247.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/binh-dun-sieu-toc-sunhouse-17l-1247.webp",
+    "description": "Bình đun inox tự ngắt Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Sunhouse",
+    "sku": "SUN-1247-CHI",
+    "originalPrice": 421000,
+    "discountPercent": 12,
+    "unit": "chiếc",
+    "shortDescription": "Bình đun inox tự ngắt",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-sunhouse-17l-1247-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-sunhouse-17l-1247-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-sunhouse-17l-1247-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Sunhouse",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 362
+    },
+    "stock": 116,
+    "soldCount": 2093,
+    "weight": 4263,
+    "dimensions": {
+      "length": 39.0,
+      "width": 23.2,
+      "height": 19.7
+    },
+    "origin": "Mỹ",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "bình đun",
+      "sunhouse"
+    ],
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1248",
+    "name": "Nồi áp suất điện Philips 5L",
+    "slug": "noi-ap-suat-dien-philips-5l-1248",
+    "price": 1880000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-ap-suat-dien-philips-5l-1248.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-ap-suat-dien-philips-5l-1248.webp",
+    "description": "Nồi áp suất điện đa năng Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Sunhouse",
+    "sku": "SUN-1248-CHI",
+    "originalPrice": 2100000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Nồi áp suất điện đa năng",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-philips-5l-1248-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-philips-5l-1248-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-philips-5l-1248-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Sunhouse",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 306
+    },
+    "stock": 199,
+    "soldCount": 606,
+    "weight": 4559,
+    "dimensions": {
+      "length": 71.7,
+      "width": 27.0,
+      "height": 5.5
+    },
+    "origin": "Trung Quốc",
+    "warranty": "6 tháng",
+    "tags": [
+      "nồi áp suất",
+      "sunhouse"
+    ],
+    "createdAt": "2026-05-09T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1249",
+    "name": "Máy lọc nước Mutosi",
+    "slug": "may-loc-nuoc-mutosi-1249",
+    "price": 5480000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-loc-nuoc-mutosi-1249.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-loc-nuoc-mutosi-1249.webp",
+    "description": "Máy lọc nước RO uống trực tiếp Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Kangaroo",
+    "sku": "KAN-1249-CHI",
+    "originalPrice": 6130000,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Máy lọc nước RO uống trực tiếp",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-mutosi-1249-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-mutosi-1249-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-mutosi-1249-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Kangaroo",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 455
+    },
+    "stock": 152,
+    "soldCount": 758,
+    "weight": 4309,
+    "dimensions": {
+      "length": 17.0,
+      "width": 48.5,
+      "height": 35.6
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "máy lọc nước",
+      "kangaroo"
+    ],
+    "createdAt": "2026-05-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1250",
+    "name": "Quạt điện Senko Plus",
+    "slug": "quat-dien-senko-plus-1250",
+    "price": 1350000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/quat-dien-senko-plus-1250.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/quat-dien-senko-plus-1250.webp",
+    "description": "Quạt đứng bàn êm nhiều tốc độ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Asia",
+    "sku": "ASI-1250-CHI",
+    "originalPrice": 1660000,
+    "discountPercent": 19,
+    "unit": "chiếc",
+    "shortDescription": "Quạt đứng bàn êm nhiều tốc độ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/quat-dien-senko-plus-1250-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/quat-dien-senko-plus-1250-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/quat-dien-senko-plus-1250-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Asia",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 551
+    },
+    "stock": 61,
+    "soldCount": 2660,
+    "weight": 2425,
+    "dimensions": {
+      "length": 57.2,
+      "width": 48.4,
+      "height": 32.1
+    },
+    "origin": "Thái Lan",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "quạt",
+      "asia"
+    ],
+    "createdAt": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1251",
+    "name": "Nồi cơm điện Cuckoo 1.8L",
+    "slug": "noi-com-dien-cuckoo-18l-1251",
+    "price": 2680000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-com-dien-cuckoo-18l-1251.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-com-dien-cuckoo-18l-1251.webp",
+    "description": "Nồi cơm điện lòng dày nhiều chế độ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Toshiba",
+    "sku": "TOS-1251-CHI",
+    "originalPrice": 2930000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Nồi cơm điện lòng dày nhiều chế độ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-cuckoo-18l-1251-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-cuckoo-18l-1251-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-cuckoo-18l-1251-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Toshiba",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 739
+    },
+    "stock": 86,
+    "soldCount": 147,
+    "weight": 2491,
+    "dimensions": {
+      "length": 52.6,
+      "width": 22.8,
+      "height": 35.7
+    },
+    "origin": "Việt Nam",
+    "warranty": "6 tháng",
+    "tags": [
+      "nồi cơm",
+      "toshiba"
+    ],
+    "createdAt": "2026-04-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1252",
+    "name": "Máy xay sinh tố Bluestone",
+    "slug": "may-xay-sinh-to-bluestone-1252",
+    "price": 1610000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-xay-sinh-to-bluestone-1252.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-xay-sinh-to-bluestone-1252.webp",
+    "description": "Máy xay sinh tố công suất mạnh Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Sunhouse",
+    "sku": "SUN-1252-CHI",
+    "originalPrice": 1800000,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Máy xay sinh tố công suất mạnh",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-bluestone-1252-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-bluestone-1252-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-bluestone-1252-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Sunhouse",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 794
+    },
+    "stock": 40,
+    "soldCount": 775,
+    "weight": 3919,
+    "dimensions": {
+      "length": 65.7,
+      "width": 7.2,
+      "height": 28.8
+    },
+    "origin": "Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "máy xay",
+      "sunhouse"
+    ],
+    "createdAt": "2026-06-10T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1253",
+    "name": "Bếp từ Munchen",
+    "slug": "bep-tu-munchen-1253",
+    "price": 4300000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/bep-tu-munchen-1253.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/bep-tu-munchen-1253.webp",
+    "description": "Bếp từ cảm ứng an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Munchen",
+    "sku": "MUN-1253-CHI",
+    "originalPrice": 4660000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Bếp từ cảm ứng an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-munchen-1253-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-munchen-1253-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-munchen-1253-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Munchen",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 675
+    },
+    "stock": 271,
+    "soldCount": 961,
+    "weight": 467,
+    "dimensions": {
+      "length": 6.3,
+      "width": 43.0,
+      "height": 2.4
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "bếp từ",
+      "munchen"
+    ],
+    "createdAt": "2026-06-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1254",
+    "name": "Nồi chiên không dầu Sunhouse 5.5L",
+    "slug": "noi-chien-khong-dau-sunhouse-55l-1254",
+    "price": 1750000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-chien-khong-dau-sunhouse-55l-1254.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-chien-khong-dau-sunhouse-55l-1254.webp",
+    "description": "Nồi chiên không dầu nhiều chế độ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Nagakawa",
+    "sku": "NAG-1254-CHI",
+    "originalPrice": 2100000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Nồi chiên không dầu nhiều chế độ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-sunhouse-55l-1254-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-sunhouse-55l-1254-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-sunhouse-55l-1254-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Nagakawa",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 303
+    },
+    "stock": 277,
+    "soldCount": 2246,
+    "weight": 4330,
+    "dimensions": {
+      "length": 75.2,
+      "width": 7.2,
+      "height": 30.4
+    },
+    "origin": "Trung Quốc",
+    "warranty": "6 tháng",
+    "tags": [
+      "air fryer",
+      "nagakawa"
+    ],
+    "createdAt": "2026-05-27T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1255",
+    "name": "Máy lọc không khí Daikin",
+    "slug": "may-loc-khong-khi-daikin-1255",
+    "price": 6360000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-loc-khong-khi-daikin-1255.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-loc-khong-khi-daikin-1255.webp",
+    "description": "Máy lọc không khí HEPA CADR cao Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Xiaomi",
+    "sku": "XIA-1255-CHI",
+    "originalPrice": 7500000,
+    "discountPercent": 15,
+    "unit": "chiếc",
+    "shortDescription": "Máy lọc không khí HEPA CADR cao",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-daikin-1255-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-daikin-1255-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-daikin-1255-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Xiaomi",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 271
+    },
+    "stock": 267,
+    "soldCount": 3339,
+    "weight": 2241,
+    "dimensions": {
+      "length": 20.7,
+      "width": 40.7,
+      "height": 14.3
+    },
+    "origin": "Mỹ",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "máy lọc không khí",
+      "xiaomi"
+    ],
+    "createdAt": "2026-03-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1256",
+    "name": "Máy hút bụi Samsung Plus",
+    "slug": "may-hut-bui-samsung-plus-1256",
+    "price": 2200000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-hut-bui-samsung-plus-1256.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-hut-bui-samsung-plus-1256.webp",
+    "description": "Máy hút bụi cầm tay hoặc robot Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Electrolux",
+    "sku": "ELE-1256-CHI",
+    "originalPrice": 2680000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Máy hút bụi cầm tay hoặc robot",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-samsung-plus-1256-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-samsung-plus-1256-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-samsung-plus-1256-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Electrolux",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 268
+    },
+    "stock": 178,
+    "soldCount": 1325,
+    "weight": 4632,
+    "dimensions": {
+      "length": 67.6,
+      "width": 40.7,
+      "height": 12.1
+    },
+    "origin": "Thái Lan",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "máy hút bụi",
+      "electrolux"
+    ],
+    "createdAt": "2026-08-17T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1257",
+    "name": "Bình đun siêu tốc Sunhouse 1.5L",
+    "slug": "binh-dun-sieu-toc-sunhouse-15l-1257",
+    "price": 732000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/binh-dun-sieu-toc-sunhouse-15l-1257.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/binh-dun-sieu-toc-sunhouse-15l-1257.webp",
+    "description": "Bình đun inox tự ngắt Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Sunhouse",
+    "sku": "SUN-1257-CHI",
+    "originalPrice": 907000,
+    "discountPercent": 19,
+    "unit": "chiếc",
+    "shortDescription": "Bình đun inox tự ngắt",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-sunhouse-15l-1257-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-sunhouse-15l-1257-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-sunhouse-15l-1257-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Sunhouse",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 399
+    },
+    "stock": 107,
+    "soldCount": 3063,
+    "weight": 1408,
+    "dimensions": {
+      "length": 49.7,
+      "width": 47.6,
+      "height": 22.1
+    },
+    "origin": "Hàn Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "bình đun",
+      "sunhouse"
+    ],
+    "createdAt": "2026-04-19T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1258",
+    "name": "Nồi áp suất điện Bluestone 4L",
+    "slug": "noi-ap-suat-dien-bluestone-4l-1258",
+    "price": 2190000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-ap-suat-dien-bluestone-4l-1258.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-ap-suat-dien-bluestone-4l-1258.webp",
+    "description": "Nồi áp suất điện đa năng Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Bluestone",
+    "sku": "BLU-1258-CHI",
+    "originalPrice": 2370000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Nồi áp suất điện đa năng",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-bluestone-4l-1258-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-bluestone-4l-1258-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-bluestone-4l-1258-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Bluestone",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 403
+    },
+    "stock": 83,
+    "soldCount": 1742,
+    "weight": 4232,
+    "dimensions": {
+      "length": 5.5,
+      "width": 27.2,
+      "height": 30.7
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "nồi áp suất",
+      "bluestone"
+    ],
+    "createdAt": "2026-03-30T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1259",
+    "name": "Máy lọc nước Karofi",
+    "slug": "may-loc-nuoc-karofi-1259",
+    "price": 6410000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-loc-nuoc-karofi-1259.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-loc-nuoc-karofi-1259.webp",
+    "description": "Máy lọc nước RO uống trực tiếp Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "AO Smith",
+    "sku": "AO -1259-CHI",
+    "originalPrice": 7050000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Máy lọc nước RO uống trực tiếp",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-karofi-1259-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-karofi-1259-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-karofi-1259-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "AO Smith",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 625
+    },
+    "stock": 295,
+    "soldCount": 3364,
+    "weight": 1562,
+    "dimensions": {
+      "length": 64.8,
+      "width": 26.3,
+      "height": 28.0
+    },
+    "origin": "Hàn Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "máy lọc nước",
+      "ao-smith"
+    ],
+    "createdAt": "2026-06-29T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1260",
+    "name": "Quạt điện Senko",
+    "slug": "quat-dien-senko-1260",
+    "price": 1410000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/quat-dien-senko-1260.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/quat-dien-senko-1260.webp",
+    "description": "Quạt đứng bàn êm nhiều tốc độ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Asia",
+    "sku": "ASI-1260-CHI",
+    "originalPrice": 1610000,
+    "discountPercent": 12,
+    "unit": "chiếc",
+    "shortDescription": "Quạt đứng bàn êm nhiều tốc độ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/quat-dien-senko-1260-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/quat-dien-senko-1260-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/quat-dien-senko-1260-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Asia",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 508
+    },
+    "stock": 125,
+    "soldCount": 589,
+    "weight": 3499,
+    "dimensions": {
+      "length": 25.5,
+      "width": 17.5,
+      "height": 7.2
+    },
+    "origin": "Thái Lan",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "quạt",
+      "asia"
+    ],
+    "createdAt": "2026-06-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1261",
+    "name": "Nồi cơm điện Sunhouse 1.2L",
+    "slug": "noi-com-dien-sunhouse-12l-1261",
+    "price": 1920000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-com-dien-sunhouse-12l-1261.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-com-dien-sunhouse-12l-1261.webp",
+    "description": "Nồi cơm điện lòng dày nhiều chế độ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Sharp",
+    "sku": "SHA-1261-CHI",
+    "originalPrice": 2300000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Nồi cơm điện lòng dày nhiều chế độ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-sunhouse-12l-1261-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-sunhouse-12l-1261-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-sunhouse-12l-1261-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Sharp",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 190
+    },
+    "stock": 217,
+    "soldCount": 414,
+    "weight": 2307,
+    "dimensions": {
+      "length": 56.4,
+      "width": 11.1,
+      "height": 14.1
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "nồi cơm",
+      "sharp"
+    ],
+    "createdAt": "2026-04-08T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1262",
+    "name": "Máy xay sinh tố Philips",
+    "slug": "may-xay-sinh-to-philips-1262",
+    "price": 1500000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-xay-sinh-to-philips-1262.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-xay-sinh-to-philips-1262.webp",
+    "description": "Máy xay sinh tố công suất mạnh Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Sunhouse",
+    "sku": "SUN-1262-CHI",
+    "originalPrice": 1720000,
+    "discountPercent": 13,
+    "unit": "chiếc",
+    "shortDescription": "Máy xay sinh tố công suất mạnh",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-philips-1262-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-philips-1262-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-philips-1262-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Sunhouse",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 397
+    },
+    "stock": 88,
+    "soldCount": 1716,
+    "weight": 222,
+    "dimensions": {
+      "length": 32.3,
+      "width": 35.5,
+      "height": 28.7
+    },
+    "origin": "Nhật Bản",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "máy xay",
+      "sunhouse"
+    ],
+    "createdAt": "2026-05-28T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1263",
+    "name": "Bếp từ Kocher",
+    "slug": "bep-tu-kocher-1263",
+    "price": 5630000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/bep-tu-kocher-1263.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/bep-tu-kocher-1263.webp",
+    "description": "Bếp từ cảm ứng an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Kocher",
+    "sku": "KOC-1263-CHI",
+    "originalPrice": 6650000,
+    "discountPercent": 15,
+    "unit": "chiếc",
+    "shortDescription": "Bếp từ cảm ứng an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-kocher-1263-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-kocher-1263-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-kocher-1263-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Kocher",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 487
+    },
+    "stock": 253,
+    "soldCount": 202,
+    "weight": 4988,
+    "dimensions": {
+      "length": 12.2,
+      "width": 47.8,
+      "height": 18.5
+    },
+    "origin": "Hàn Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "bếp từ",
+      "kocher"
+    ],
+    "createdAt": "2026-06-08T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1264",
+    "name": "Nồi chiên không dầu Philips 3.5L",
+    "slug": "noi-chien-khong-dau-philips-35l-1264",
+    "price": 3030000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-chien-khong-dau-philips-35l-1264.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-chien-khong-dau-philips-35l-1264.webp",
+    "description": "Nồi chiên không dầu nhiều chế độ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Nagakawa",
+    "sku": "NAG-1264-CHI",
+    "originalPrice": 3770000,
+    "discountPercent": 20,
+    "unit": "chiếc",
+    "shortDescription": "Nồi chiên không dầu nhiều chế độ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-philips-35l-1264-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-philips-35l-1264-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-philips-35l-1264-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Nagakawa",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 304
+    },
+    "stock": 239,
+    "soldCount": 2485,
+    "weight": 3761,
+    "dimensions": {
+      "length": 75.4,
+      "width": 15.8,
+      "height": 17.8
+    },
+    "origin": "Nhật Bản",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "air fryer",
+      "nagakawa"
+    ],
+    "createdAt": "2026-06-28T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1265",
+    "name": "Máy lọc không khí LG",
+    "slug": "may-loc-khong-khi-lg-1265",
+    "price": 3590000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-loc-khong-khi-lg-1265.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-loc-khong-khi-lg-1265.webp",
+    "description": "Máy lọc không khí HEPA CADR cao Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Xiaomi",
+    "sku": "XIA-1265-CHI",
+    "originalPrice": 4430000,
+    "discountPercent": 19,
+    "unit": "chiếc",
+    "shortDescription": "Máy lọc không khí HEPA CADR cao",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-lg-1265-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-lg-1265-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-lg-1265-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Xiaomi",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 225
+    },
+    "stock": 209,
+    "soldCount": 1335,
+    "weight": 4776,
+    "dimensions": {
+      "length": 36.4,
+      "width": 36.6,
+      "height": 2.7
+    },
+    "origin": "Hàn Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "máy lọc không khí",
+      "xiaomi"
+    ],
+    "createdAt": "2026-05-03T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1266",
+    "name": "Máy hút bụi Samsung",
+    "slug": "may-hut-bui-samsung-1266",
+    "price": 3330000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-hut-bui-samsung-1266.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-hut-bui-samsung-1266.webp",
+    "description": "Máy hút bụi cầm tay hoặc robot Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Samsung",
+    "sku": "SAM-1266-CHI",
+    "originalPrice": 3650000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Máy hút bụi cầm tay hoặc robot",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-samsung-1266-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-samsung-1266-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-samsung-1266-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Samsung",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 534
+    },
+    "stock": 253,
+    "soldCount": 2776,
+    "weight": 1587,
+    "dimensions": {
+      "length": 21.3,
+      "width": 13.5,
+      "height": 12.0
+    },
+    "origin": "Đức",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "máy hút bụi",
+      "samsung"
+    ],
+    "createdAt": "2026-06-17T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1267",
+    "name": "Bình đun siêu tốc Bluestone 1.8L",
+    "slug": "binh-dun-sieu-toc-bluestone-18l-1267",
+    "price": 688000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/binh-dun-sieu-toc-bluestone-18l-1267.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/binh-dun-sieu-toc-bluestone-18l-1267.webp",
+    "description": "Bình đun inox tự ngắt Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Lock&Lock",
+    "sku": "LOC-1267-CHI",
+    "originalPrice": 834000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Bình đun inox tự ngắt",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-bluestone-18l-1267-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-bluestone-18l-1267-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-bluestone-18l-1267-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Lock&Lock",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 127
+    },
+    "stock": 296,
+    "soldCount": 427,
+    "weight": 1037,
+    "dimensions": {
+      "length": 67.2,
+      "width": 41.9,
+      "height": 10.2
+    },
+    "origin": "Việt Nam",
+    "warranty": "6 tháng",
+    "tags": [
+      "bình đun",
+      "locklock"
+    ],
+    "createdAt": "2026-07-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1268",
+    "name": "Nồi áp suất điện Sunhouse 4L",
+    "slug": "noi-ap-suat-dien-sunhouse-4l-1268",
+    "price": 2600000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-ap-suat-dien-sunhouse-4l-1268.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-ap-suat-dien-sunhouse-4l-1268.webp",
+    "description": "Nồi áp suất điện đa năng Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Philips",
+    "sku": "PHI-1268-CHI",
+    "originalPrice": 3060000,
+    "discountPercent": 15,
+    "unit": "chiếc",
+    "shortDescription": "Nồi áp suất điện đa năng",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-sunhouse-4l-1268-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-sunhouse-4l-1268-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-sunhouse-4l-1268-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Philips",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 214
+    },
+    "stock": 62,
+    "soldCount": 1750,
+    "weight": 4178,
+    "dimensions": {
+      "length": 41.1,
+      "width": 26.0,
+      "height": 28.6
+    },
+    "origin": "Thái Lan",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "nồi áp suất",
+      "philips"
+    ],
+    "createdAt": "2026-08-25T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1269",
+    "name": "Máy lọc nước Karofi",
+    "slug": "may-loc-nuoc-karofi-1269",
+    "price": 6810000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-loc-nuoc-karofi-1269.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-loc-nuoc-karofi-1269.webp",
+    "description": "Máy lọc nước RO uống trực tiếp Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Kangaroo",
+    "sku": "KAN-1269-CHI",
+    "originalPrice": 7620000,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Máy lọc nước RO uống trực tiếp",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-karofi-1269-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-karofi-1269-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-karofi-1269-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Kangaroo",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 389
+    },
+    "stock": 55,
+    "soldCount": 3324,
+    "weight": 1582,
+    "dimensions": {
+      "length": 71.4,
+      "width": 47.7,
+      "height": 27.7
+    },
+    "origin": "Thái Lan",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "máy lọc nước",
+      "kangaroo"
+    ],
+    "createdAt": "2026-08-09T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1270",
+    "name": "Quạt điện Panasonic",
+    "slug": "quat-dien-panasonic-1270",
+    "price": 963000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/quat-dien-panasonic-1270.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/quat-dien-panasonic-1270.webp",
+    "description": "Quạt đứng bàn êm nhiều tốc độ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Xiaomi",
+    "sku": "XIA-1270-CHI",
+    "originalPrice": 1060000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Quạt đứng bàn êm nhiều tốc độ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/quat-dien-panasonic-1270-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/quat-dien-panasonic-1270-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/quat-dien-panasonic-1270-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Xiaomi",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 540
+    },
+    "stock": 75,
+    "soldCount": 3033,
+    "weight": 3452,
+    "dimensions": {
+      "length": 67.7,
+      "width": 7.3,
+      "height": 4.3
+    },
+    "origin": "Việt Nam",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "quạt",
+      "xiaomi"
+    ],
+    "createdAt": "2026-06-08T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1271",
+    "name": "Nồi cơm điện Kangaro 1.2L",
+    "slug": "noi-com-dien-kangaro-12l-1271",
+    "price": 1570000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-com-dien-kangaro-12l-1271.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-com-dien-kangaro-12l-1271.webp",
+    "description": "Nồi cơm điện lòng dày nhiều chế độ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Kangaro",
+    "sku": "KAN-1271-CHI",
+    "originalPrice": 1810000,
+    "discountPercent": 13,
+    "unit": "chiếc",
+    "shortDescription": "Nồi cơm điện lòng dày nhiều chế độ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-kangaro-12l-1271-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-kangaro-12l-1271-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-kangaro-12l-1271-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Kangaro",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 431
+    },
+    "stock": 228,
+    "soldCount": 2552,
+    "weight": 3992,
+    "dimensions": {
+      "length": 10.4,
+      "width": 22.0,
+      "height": 26.6
+    },
+    "origin": "Mỹ",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "nồi cơm",
+      "kangaro"
+    ],
+    "createdAt": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1272",
+    "name": "Máy xay sinh tố Bluestone Plus",
+    "slug": "may-xay-sinh-to-bluestone-plus-1272",
+    "price": 1670000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-xay-sinh-to-bluestone-plus-1272.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-xay-sinh-to-bluestone-plus-1272.webp",
+    "description": "Máy xay sinh tố công suất mạnh Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Philips",
+    "sku": "PHI-1272-CHI",
+    "originalPrice": 1950000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Máy xay sinh tố công suất mạnh",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-bluestone-plus-1272-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-bluestone-plus-1272-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-bluestone-plus-1272-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Philips",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 61
+    },
+    "stock": 117,
+    "soldCount": 3368,
+    "weight": 3906,
+    "dimensions": {
+      "length": 47.5,
+      "width": 47.5,
+      "height": 33.2
+    },
+    "origin": "Thái Lan",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "máy xay",
+      "philips"
+    ],
+    "createdAt": "2026-06-05T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1273",
+    "name": "Bếp từ Kocher mới",
+    "slug": "bep-tu-kocher-moi-1273",
+    "price": 1080000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/bep-tu-kocher-moi-1273.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/bep-tu-kocher-moi-1273.webp",
+    "description": "Bếp từ cảm ứng an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Sunhouse",
+    "sku": "SUN-1273-CHI",
+    "originalPrice": 1210000,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Bếp từ cảm ứng an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-kocher-moi-1273-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-kocher-moi-1273-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-kocher-moi-1273-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Sunhouse",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 594
+    },
+    "stock": 169,
+    "soldCount": 2691,
+    "weight": 4541,
+    "dimensions": {
+      "length": 7.3,
+      "width": 41.4,
+      "height": 7.3
+    },
+    "origin": "Mỹ",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bếp từ",
+      "sunhouse"
+    ],
+    "createdAt": "2026-05-28T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1274",
+    "name": "Nồi chiên không dầu Sunhouse 3.5L",
+    "slug": "noi-chien-khong-dau-sunhouse-35l-1274",
+    "price": 2060000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-chien-khong-dau-sunhouse-35l-1274.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-chien-khong-dau-sunhouse-35l-1274.webp",
+    "description": "Nồi chiên không dầu nhiều chế độ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Nagakawa",
+    "sku": "NAG-1274-CHI",
+    "originalPrice": 2330000,
+    "discountPercent": 12,
+    "unit": "chiếc",
+    "shortDescription": "Nồi chiên không dầu nhiều chế độ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-sunhouse-35l-1274-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-sunhouse-35l-1274-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-sunhouse-35l-1274-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Nagakawa",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 388
+    },
+    "stock": 95,
+    "soldCount": 458,
+    "weight": 4712,
+    "dimensions": {
+      "length": 36.8,
+      "width": 26.5,
+      "height": 37.6
+    },
+    "origin": "Nhật Bản",
+    "warranty": "6 tháng",
+    "tags": [
+      "air fryer",
+      "nagakawa"
+    ],
+    "createdAt": "2026-05-20T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1275",
+    "name": "Máy lọc không khí Sharp",
+    "slug": "may-loc-khong-khi-sharp-1275",
+    "price": 4430000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-loc-khong-khi-sharp-1275.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-loc-khong-khi-sharp-1275.webp",
+    "description": "Máy lọc không khí HEPA CADR cao Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Xiaomi",
+    "sku": "XIA-1275-CHI",
+    "originalPrice": 5140000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Máy lọc không khí HEPA CADR cao",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-sharp-1275-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-sharp-1275-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-sharp-1275-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Xiaomi",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 490
+    },
+    "stock": 219,
+    "soldCount": 3416,
+    "weight": 757,
+    "dimensions": {
+      "length": 59.3,
+      "width": 26.6,
+      "height": 2.7
+    },
+    "origin": "Mỹ",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "máy lọc không khí",
+      "xiaomi"
+    ],
+    "createdAt": "2026-08-19T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1276",
+    "name": "Máy hút bụi Samsung",
+    "slug": "may-hut-bui-samsung-1276",
+    "price": 4330000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-hut-bui-samsung-1276.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-hut-bui-samsung-1276.webp",
+    "description": "Máy hút bụi cầm tay hoặc robot Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Xiaomi",
+    "sku": "XIA-1276-CHI",
+    "originalPrice": 4800000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Máy hút bụi cầm tay hoặc robot",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-samsung-1276-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-samsung-1276-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-samsung-1276-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Xiaomi",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 428
+    },
+    "stock": 102,
+    "soldCount": 1227,
+    "weight": 4693,
+    "dimensions": {
+      "length": 18.7,
+      "width": 34.8,
+      "height": 31.5
+    },
+    "origin": "Việt Nam",
+    "warranty": "6 tháng",
+    "tags": [
+      "máy hút bụi",
+      "xiaomi"
+    ],
+    "createdAt": "2026-07-20T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1277",
+    "name": "Bình đun siêu tốc Bluestone 1.7L",
+    "slug": "binh-dun-sieu-toc-bluestone-17l-1277",
+    "price": 560000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/binh-dun-sieu-toc-bluestone-17l-1277.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/binh-dun-sieu-toc-bluestone-17l-1277.webp",
+    "description": "Bình đun inox tự ngắt Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Sunhouse",
+    "sku": "SUN-1277-CHI",
+    "originalPrice": 669000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Bình đun inox tự ngắt",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-bluestone-17l-1277-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-bluestone-17l-1277-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-bluestone-17l-1277-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Sunhouse",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 706
+    },
+    "stock": 144,
+    "soldCount": 2896,
+    "weight": 2691,
+    "dimensions": {
+      "length": 14.6,
+      "width": 12.4,
+      "height": 26.2
+    },
+    "origin": "Việt Nam",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "bình đun",
+      "sunhouse"
+    ],
+    "createdAt": "2026-04-29T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1278",
+    "name": "Nồi áp suất điện Kangaro 4L",
+    "slug": "noi-ap-suat-dien-kangaro-4l-1278",
+    "price": 3070000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-ap-suat-dien-kangaro-4l-1278.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-ap-suat-dien-kangaro-4l-1278.webp",
+    "description": "Nồi áp suất điện đa năng Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Bluestone",
+    "sku": "BLU-1278-CHI",
+    "originalPrice": 3740000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Nồi áp suất điện đa năng",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-kangaro-4l-1278-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-kangaro-4l-1278-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-kangaro-4l-1278-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Bluestone",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 323
+    },
+    "stock": 116,
+    "soldCount": 2318,
+    "weight": 778,
+    "dimensions": {
+      "length": 65.9,
+      "width": 12.0,
+      "height": 4.3
+    },
+    "origin": "Nhật Bản",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "nồi áp suất",
+      "bluestone"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1279",
+    "name": "Máy lọc nước Mutosi",
+    "slug": "may-loc-nuoc-mutosi-1279",
+    "price": 9300000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-loc-nuoc-mutosi-1279.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-loc-nuoc-mutosi-1279.webp",
+    "description": "Máy lọc nước RO uống trực tiếp Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Kangaroo",
+    "sku": "KAN-1279-CHI",
+    "originalPrice": 11160000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Máy lọc nước RO uống trực tiếp",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-mutosi-1279-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-mutosi-1279-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-mutosi-1279-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Kangaroo",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 211
+    },
+    "stock": 49,
+    "soldCount": 115,
+    "weight": 2193,
+    "dimensions": {
+      "length": 43.0,
+      "width": 7.5,
+      "height": 36.7
+    },
+    "origin": "Mỹ",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "máy lọc nước",
+      "kangaroo"
+    ],
+    "createdAt": "2026-05-12T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1280",
+    "name": "Quạt điện Xiaomi",
+    "slug": "quat-dien-xiaomi-1280",
+    "price": 704000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/quat-dien-xiaomi-1280.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/quat-dien-xiaomi-1280.webp",
+    "description": "Quạt đứng bàn êm nhiều tốc độ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Panasonic",
+    "sku": "PAN-1280-CHI",
+    "originalPrice": 765000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Quạt đứng bàn êm nhiều tốc độ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/quat-dien-xiaomi-1280-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/quat-dien-xiaomi-1280-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/quat-dien-xiaomi-1280-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Panasonic",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 216
+    },
+    "stock": 261,
+    "soldCount": 3428,
+    "weight": 3767,
+    "dimensions": {
+      "length": 74.1,
+      "width": 21.7,
+      "height": 13.0
+    },
+    "origin": "Nhật Bản",
+    "warranty": "6 tháng",
+    "tags": [
+      "quạt",
+      "panasonic"
+    ],
+    "createdAt": "2026-07-17T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1281",
+    "name": "Nồi cơm điện Sharp 1.2L",
+    "slug": "noi-com-dien-sharp-12l-1281",
+    "price": 1120000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-com-dien-sharp-12l-1281.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-com-dien-sharp-12l-1281.webp",
+    "description": "Nồi cơm điện lòng dày nhiều chế độ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Sharp",
+    "sku": "SHA-1281-CHI",
+    "originalPrice": 1220000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Nồi cơm điện lòng dày nhiều chế độ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-sharp-12l-1281-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-sharp-12l-1281-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-sharp-12l-1281-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Sharp",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 166
+    },
+    "stock": 26,
+    "soldCount": 2555,
+    "weight": 1731,
+    "dimensions": {
+      "length": 9.5,
+      "width": 21.9,
+      "height": 11.4
+    },
+    "origin": "Hàn Quốc",
+    "warranty": "6 tháng",
+    "tags": [
+      "nồi cơm",
+      "sharp"
+    ],
+    "createdAt": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1282",
+    "name": "Máy xay sinh tố Panasonic",
+    "slug": "may-xay-sinh-to-panasonic-1282",
+    "price": 1380000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-xay-sinh-to-panasonic-1282.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-xay-sinh-to-panasonic-1282.webp",
+    "description": "Máy xay sinh tố công suất mạnh Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Bluestone",
+    "sku": "BLU-1282-CHI",
+    "originalPrice": 1530000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Máy xay sinh tố công suất mạnh",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-panasonic-1282-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-panasonic-1282-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-panasonic-1282-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Bluestone",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 576
+    },
+    "stock": 260,
+    "soldCount": 3461,
+    "weight": 1460,
+    "dimensions": {
+      "length": 7.7,
+      "width": 17.0,
+      "height": 34.4
+    },
+    "origin": "Trung Quốc",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "máy xay",
+      "bluestone"
+    ],
+    "createdAt": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1283",
+    "name": "Bếp từ Electrolux Plus",
+    "slug": "bep-tu-electrolux-plus-1283",
+    "price": 2900000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/bep-tu-electrolux-plus-1283.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/bep-tu-electrolux-plus-1283.webp",
+    "description": "Bếp từ cảm ứng an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Sunhouse",
+    "sku": "SUN-1283-CHI",
+    "originalPrice": 3520000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Bếp từ cảm ứng an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-electrolux-plus-1283-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-electrolux-plus-1283-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-electrolux-plus-1283-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Sunhouse",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 233
+    },
+    "stock": 106,
+    "soldCount": 1866,
+    "weight": 3312,
+    "dimensions": {
+      "length": 65.6,
+      "width": 5.7,
+      "height": 39.4
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "bếp từ",
+      "sunhouse"
+    ],
+    "createdAt": "2026-04-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1284",
+    "name": "Nồi chiên không dầu Philips 6.5L",
+    "slug": "noi-chien-khong-dau-philips-65l-1284",
+    "price": 1480000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-chien-khong-dau-philips-65l-1284.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-chien-khong-dau-philips-65l-1284.webp",
+    "description": "Nồi chiên không dầu nhiều chế độ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Nagakawa",
+    "sku": "NAG-1284-CHI",
+    "originalPrice": 1640000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Nồi chiên không dầu nhiều chế độ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-philips-65l-1284-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-philips-65l-1284-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-philips-65l-1284-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Nagakawa",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 363
+    },
+    "stock": 181,
+    "soldCount": 2362,
+    "weight": 1967,
+    "dimensions": {
+      "length": 57.9,
+      "width": 29.6,
+      "height": 13.9
+    },
+    "origin": "Mỹ",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "air fryer",
+      "nagakawa"
+    ],
+    "createdAt": "2026-07-05T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1285",
+    "name": "Máy lọc không khí Xiaomi Pro",
+    "slug": "may-loc-khong-khi-xiaomi-pro-1285",
+    "price": 5740000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-loc-khong-khi-xiaomi-pro-1285.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-loc-khong-khi-xiaomi-pro-1285.webp",
+    "description": "Máy lọc không khí HEPA CADR cao Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Daikin",
+    "sku": "DAI-1285-CHI",
+    "originalPrice": 6610000,
+    "discountPercent": 13,
+    "unit": "chiếc",
+    "shortDescription": "Máy lọc không khí HEPA CADR cao",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-xiaomi-pro-1285-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-xiaomi-pro-1285-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-xiaomi-pro-1285-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Daikin",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 465
+    },
+    "stock": 191,
+    "soldCount": 2914,
+    "weight": 1151,
+    "dimensions": {
+      "length": 23.8,
+      "width": 9.0,
+      "height": 26.9
+    },
+    "origin": "Nhật Bản",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "máy lọc không khí",
+      "daikin"
+    ],
+    "createdAt": "2026-04-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1286",
+    "name": "Máy hút bụi Philips",
+    "slug": "may-hut-bui-philips-1286",
+    "price": 6530000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-hut-bui-philips-1286.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-hut-bui-philips-1286.webp",
+    "description": "Máy hút bụi cầm tay hoặc robot Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Samsung",
+    "sku": "SAM-1286-CHI",
+    "originalPrice": 8050000,
+    "discountPercent": 19,
+    "unit": "chiếc",
+    "shortDescription": "Máy hút bụi cầm tay hoặc robot",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-philips-1286-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-philips-1286-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-philips-1286-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Samsung",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 75
+    },
+    "stock": 116,
+    "soldCount": 739,
+    "weight": 2814,
+    "dimensions": {
+      "length": 62.6,
+      "width": 48.7,
+      "height": 30.4
+    },
+    "origin": "Trung Quốc",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "máy hút bụi",
+      "samsung"
+    ],
+    "createdAt": "2026-06-30T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1287",
+    "name": "Bình đun siêu tốc Lock&Lock 1.7L",
+    "slug": "binh-dun-sieu-toc-locklock-17l-1287",
+    "price": 367000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/binh-dun-sieu-toc-locklock-17l-1287.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/binh-dun-sieu-toc-locklock-17l-1287.webp",
+    "description": "Bình đun inox tự ngắt Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Philips",
+    "sku": "PHI-1287-CHI",
+    "originalPrice": 450000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Bình đun inox tự ngắt",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-locklock-17l-1287-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-locklock-17l-1287-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-locklock-17l-1287-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Philips",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 366
+    },
+    "stock": 65,
+    "soldCount": 202,
+    "weight": 436,
+    "dimensions": {
+      "length": 17.7,
+      "width": 18.2,
+      "height": 24.8
+    },
+    "origin": "Thái Lan",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "bình đun",
+      "philips"
+    ],
+    "createdAt": "2026-04-10T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1288",
+    "name": "Nồi áp suất điện Philips 5L cao cấp",
+    "slug": "noi-ap-suat-dien-philips-5l-cao-cap-1288",
+    "price": 3280000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-ap-suat-dien-philips-5l-cao-cap-1288.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-ap-suat-dien-philips-5l-cao-cap-1288.webp",
+    "description": "Nồi áp suất điện đa năng Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Kangaro",
+    "sku": "KAN-1288-CHI",
+    "originalPrice": 3950000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Nồi áp suất điện đa năng",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-philips-5l-cao-cap-1288-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-philips-5l-cao-cap-1288-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-philips-5l-cao-cap-1288-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Kangaro",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 44
+    },
+    "stock": 291,
+    "soldCount": 3404,
+    "weight": 2047,
+    "dimensions": {
+      "length": 72.2,
+      "width": 40.4,
+      "height": 18.6
+    },
+    "origin": "Mỹ",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "nồi áp suất",
+      "kangaro"
+    ],
+    "createdAt": "2026-07-26T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1289",
+    "name": "Máy lọc nước AO Smith Plus",
+    "slug": "may-loc-nuoc-ao-smith-plus-1289",
+    "price": 4630000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-loc-nuoc-ao-smith-plus-1289.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-loc-nuoc-ao-smith-plus-1289.webp",
+    "description": "Máy lọc nước RO uống trực tiếp Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Mutosi",
+    "sku": "MUT-1289-CHI",
+    "originalPrice": 5040000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Máy lọc nước RO uống trực tiếp",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-ao-smith-plus-1289-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-ao-smith-plus-1289-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-ao-smith-plus-1289-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Mutosi",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 400
+    },
+    "stock": 83,
+    "soldCount": 533,
+    "weight": 884,
+    "dimensions": {
+      "length": 62.8,
+      "width": 40.0,
+      "height": 17.0
+    },
+    "origin": "Hàn Quốc",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "máy lọc nước",
+      "mutosi"
+    ],
+    "createdAt": "2026-07-20T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1290",
+    "name": "Quạt điện Panasonic",
+    "slug": "quat-dien-panasonic-1290",
+    "price": 1140000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/quat-dien-panasonic-1290.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/quat-dien-panasonic-1290.webp",
+    "description": "Quạt đứng bàn êm nhiều tốc độ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Panasonic",
+    "sku": "PAN-1290-CHI",
+    "originalPrice": 1320000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Quạt đứng bàn êm nhiều tốc độ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/quat-dien-panasonic-1290-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/quat-dien-panasonic-1290-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/quat-dien-panasonic-1290-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Panasonic",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 463
+    },
+    "stock": 66,
+    "soldCount": 349,
+    "weight": 1564,
+    "dimensions": {
+      "length": 55.9,
+      "width": 48.0,
+      "height": 29.3
+    },
+    "origin": "Hàn Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "quạt",
+      "panasonic"
+    ],
+    "createdAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1291",
+    "name": "Nồi cơm điện Cuckoo 1.5L",
+    "slug": "noi-com-dien-cuckoo-15l-1291",
+    "price": 986000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-com-dien-cuckoo-15l-1291.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-com-dien-cuckoo-15l-1291.webp",
+    "description": "Nồi cơm điện lòng dày nhiều chế độ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Cuckoo",
+    "sku": "CUC-1291-CHI",
+    "originalPrice": 1170000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Nồi cơm điện lòng dày nhiều chế độ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-cuckoo-15l-1291-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-cuckoo-15l-1291-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-cuckoo-15l-1291-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Cuckoo",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 563
+    },
+    "stock": 106,
+    "soldCount": 1173,
+    "weight": 287,
+    "dimensions": {
+      "length": 51.4,
+      "width": 14.9,
+      "height": 36.7
+    },
+    "origin": "Mỹ",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "nồi cơm",
+      "cuckoo"
+    ],
+    "createdAt": "2026-04-26T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1292",
+    "name": "Máy xay sinh tố Sunhouse",
+    "slug": "may-xay-sinh-to-sunhouse-1292",
+    "price": 1810000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-xay-sinh-to-sunhouse-1292.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-xay-sinh-to-sunhouse-1292.webp",
+    "description": "Máy xay sinh tố công suất mạnh Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Philips",
+    "sku": "PHI-1292-CHI",
+    "originalPrice": 2230000,
+    "discountPercent": 19,
+    "unit": "chiếc",
+    "shortDescription": "Máy xay sinh tố công suất mạnh",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-sunhouse-1292-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-sunhouse-1292-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-sunhouse-1292-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Philips",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 530
+    },
+    "stock": 22,
+    "soldCount": 326,
+    "weight": 2204,
+    "dimensions": {
+      "length": 40.9,
+      "width": 16.8,
+      "height": 32.2
+    },
+    "origin": "Đức",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "máy xay",
+      "philips"
+    ],
+    "createdAt": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1293",
+    "name": "Bếp từ Munchen",
+    "slug": "bep-tu-munchen-1293",
+    "price": 5660000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/bep-tu-munchen-1293.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/bep-tu-munchen-1293.webp",
+    "description": "Bếp từ cảm ứng an toàn Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Munchen",
+    "sku": "MUN-1293-CHI",
+    "originalPrice": 6170000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Bếp từ cảm ứng an toàn",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-munchen-1293-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-munchen-1293-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-munchen-1293-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Munchen",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 382
+    },
+    "stock": 129,
+    "soldCount": 1435,
+    "weight": 312,
+    "dimensions": {
+      "length": 9.9,
+      "width": 9.7,
+      "height": 23.8
+    },
+    "origin": "Hàn Quốc",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "bếp từ",
+      "munchen"
+    ],
+    "createdAt": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1294",
+    "name": "Nồi chiên không dầu Philips 3.5L mới",
+    "slug": "noi-chien-khong-dau-philips-35l-moi-1294",
+    "price": 3210000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-chien-khong-dau-philips-35l-moi-1294.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-chien-khong-dau-philips-35l-moi-1294.webp",
+    "description": "Nồi chiên không dầu nhiều chế độ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Nagakawa",
+    "sku": "NAG-1294-CHI",
+    "originalPrice": 3620000,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Nồi chiên không dầu nhiều chế độ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-philips-35l-moi-1294-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-philips-35l-moi-1294-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-philips-35l-moi-1294-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Nagakawa",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 236
+    },
+    "stock": 169,
+    "soldCount": 183,
+    "weight": 3819,
+    "dimensions": {
+      "length": 33.6,
+      "width": 9.5,
+      "height": 5.9
+    },
+    "origin": "Nhật Bản",
+    "warranty": "6 tháng",
+    "tags": [
+      "air fryer",
+      "nagakawa"
+    ],
+    "createdAt": "2026-06-25T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1295",
+    "name": "Máy lọc không khí Xiaomi",
+    "slug": "may-loc-khong-khi-xiaomi-1295",
+    "price": 5210000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-loc-khong-khi-xiaomi-1295.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-loc-khong-khi-xiaomi-1295.webp",
+    "description": "Máy lọc không khí HEPA CADR cao Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Sharp",
+    "sku": "SHA-1295-CHI",
+    "originalPrice": 5920000,
+    "discountPercent": 12,
+    "unit": "chiếc",
+    "shortDescription": "Máy lọc không khí HEPA CADR cao",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-xiaomi-1295-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-xiaomi-1295-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-xiaomi-1295-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Sharp",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 726
+    },
+    "stock": 41,
+    "soldCount": 294,
+    "weight": 966,
+    "dimensions": {
+      "length": 79.6,
+      "width": 5.9,
+      "height": 34.4
+    },
+    "origin": "Thái Lan",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "máy lọc không khí",
+      "sharp"
+    ],
+    "createdAt": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1296",
+    "name": "Máy hút bụi Samsung",
+    "slug": "may-hut-bui-samsung-1296",
+    "price": 7020000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-hut-bui-samsung-1296.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-hut-bui-samsung-1296.webp",
+    "description": "Máy hút bụi cầm tay hoặc robot Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Xiaomi",
+    "sku": "XIA-1296-CHI",
+    "originalPrice": 8750000,
+    "discountPercent": 20,
+    "unit": "chiếc",
+    "shortDescription": "Máy hút bụi cầm tay hoặc robot",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-samsung-1296-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-samsung-1296-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-samsung-1296-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Xiaomi",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 736
+    },
+    "stock": 120,
+    "soldCount": 2086,
+    "weight": 850,
+    "dimensions": {
+      "length": 6.0,
+      "width": 25.4,
+      "height": 36.0
+    },
+    "origin": "Việt Nam",
+    "warranty": "6 tháng",
+    "tags": [
+      "máy hút bụi",
+      "xiaomi"
+    ],
+    "createdAt": "2026-04-13T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1297",
+    "name": "Bình đun siêu tốc Philips 1.7L",
+    "slug": "binh-dun-sieu-toc-philips-17l-1297",
+    "price": 556000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/binh-dun-sieu-toc-philips-17l-1297.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/binh-dun-sieu-toc-philips-17l-1297.webp",
+    "description": "Bình đun inox tự ngắt Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Sunhouse",
+    "sku": "SUN-1297-CHI",
+    "originalPrice": 683000,
+    "discountPercent": 19,
+    "unit": "chiếc",
+    "shortDescription": "Bình đun inox tự ngắt",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-philips-17l-1297-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-philips-17l-1297-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-philips-17l-1297-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Sunhouse",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 413
+    },
+    "stock": 82,
+    "soldCount": 2378,
+    "weight": 2058,
+    "dimensions": {
+      "length": 54.0,
+      "width": 40.4,
+      "height": 4.6
+    },
+    "origin": "Nhật Bản",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "bình đun",
+      "sunhouse"
+    ],
+    "createdAt": "2026-03-02T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1298",
+    "name": "Nồi áp suất điện Sunhouse 5L mới",
+    "slug": "noi-ap-suat-dien-sunhouse-5l-moi-1298",
+    "price": 3660000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-ap-suat-dien-sunhouse-5l-moi-1298.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-ap-suat-dien-sunhouse-5l-moi-1298.webp",
+    "description": "Nồi áp suất điện đa năng Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Philips",
+    "sku": "PHI-1298-CHI",
+    "originalPrice": 4020000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Nồi áp suất điện đa năng",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-sunhouse-5l-moi-1298-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-sunhouse-5l-moi-1298-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-sunhouse-5l-moi-1298-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Philips",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 367
+    },
+    "stock": 115,
+    "soldCount": 1664,
+    "weight": 348,
+    "dimensions": {
+      "length": 73.3,
+      "width": 43.6,
+      "height": 31.0
+    },
+    "origin": "Việt Nam",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "nồi áp suất",
+      "philips"
+    ],
+    "createdAt": "2026-04-15T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1299",
+    "name": "Máy lọc nước Mutosi",
+    "slug": "may-loc-nuoc-mutosi-1299",
+    "price": 8290000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-loc-nuoc-mutosi-1299.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-loc-nuoc-mutosi-1299.webp",
+    "description": "Máy lọc nước RO uống trực tiếp Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "AO Smith",
+    "sku": "AO -1299-CHI",
+    "originalPrice": 9460000,
+    "discountPercent": 12,
+    "unit": "chiếc",
+    "shortDescription": "Máy lọc nước RO uống trực tiếp",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-mutosi-1299-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-mutosi-1299-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-mutosi-1299-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "AO Smith",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 456
+    },
+    "stock": 259,
+    "soldCount": 2399,
+    "weight": 4824,
+    "dimensions": {
+      "length": 32.0,
+      "width": 9.5,
+      "height": 23.1
+    },
+    "origin": "Hàn Quốc",
+    "warranty": "Theo hạn sử dụng",
+    "tags": [
+      "máy lọc nước",
+      "ao-smith"
+    ],
+    "createdAt": "2026-05-02T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1300",
+    "name": "Quạt điện Senko",
+    "slug": "quat-dien-senko-1300",
+    "price": 1260000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/quat-dien-senko-1300.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/quat-dien-senko-1300.webp",
+    "description": "Quạt đứng bàn êm nhiều tốc độ Sản phẩm chất lượng, phù hợp nhu cầu sử dụng hàng ngày. Bảo hành chính hãng.",
+    "brand": "Xiaomi",
+    "sku": "XIA-1300-CHI",
+    "originalPrice": 1570000,
+    "discountPercent": 20,
+    "unit": "chiếc",
+    "shortDescription": "Quạt đứng bàn êm nhiều tốc độ",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/quat-dien-senko-1300-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/quat-dien-senko-1300-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/quat-dien-senko-1300-c.webp"
+    ],
+    "specifications": {
+      "Thương hiệu": "Xiaomi",
+      "Xuất xứ": "Đa dạng",
+      "Bảo hành": "Theo nhà sản xuất"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 357
+    },
+    "stock": 258,
+    "soldCount": 1375,
+    "weight": 3043,
+    "dimensions": {
+      "length": 78.9,
+      "width": 7.1,
+      "height": 3.3
+    },
+    "origin": "Mỹ",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "quạt",
+      "xiaomi"
+    ],
+    "createdAt": "2026-05-03T00:00:00.000Z"
+  }
+]
