@@ -1,1 +1,960 @@
-[]
+[
+  {
+    "id": "prod-301",
+    "name": "Tã quần Bobby size XL limited",
+    "slug": "ta-quan-bobby-size-xl-limited-301",
+    "price": 265000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/ta-quan-bobby-size-xl-limited-301.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/ta-quan-bobby-size-xl-limited-301.webp",
+    "description": "Tã quần thấm hút vượt trội chống tràn hiệu quả. Lớp bề mặt mềm mại không kích ứng. Co giãn 4 chiều dễ mặc. Thoáng khí giữ da bé khô.",
+    "brand": "Molfix",
+    "sku": "MOL-0301-BỊC",
+    "originalPrice": 294000,
+    "discountPercent": 10,
+    "unit": "bịch",
+    "shortDescription": "Tã quần siêu thấm chống tràn thoáng khí cho bé.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-bobby-size-xl-limited-301-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-bobby-size-xl-limited-301-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-bobby-size-xl-limited-301-c.webp"
+    ],
+    "specifications": {
+      "Size": "M-XXL",
+      "Công nghệ": "Siêu thấm chống tràn",
+      "Đặc điểm": "Thoáng khí mềm mại"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 606
+    },
+    "stock": 63,
+    "soldCount": 1147,
+    "weight": 1268,
+    "dimensions": {
+      "length": 35.5,
+      "width": 26.4,
+      "height": 18.0
+    },
+    "origin": "Việt Nam / Nhật Bản / Thái Lan",
+    "warranty": "Đổi trả nếu lỗi NSX",
+    "tags": [
+      "tã quần",
+      "mẹ và bé",
+      "siêu thấm",
+      "molfix"
+    ],
+    "createdAt": "2026-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-302",
+    "name": "Sữa bột Grow số 2",
+    "slug": "sua-bot-grow-so-2-302",
+    "price": 666000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/sua-bot-grow-so-2-302.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/sua-bot-grow-so-2-302.webp",
+    "description": "Sữa bột công thức gần sữa mẹ. Bổ sung DHA và dưỡng chất hỗ trợ phát triển trí não và thể chất. Dễ tiêu hóa. Hương vị dễ uống.",
+    "brand": "Enfamil",
+    "sku": "ENF-0302-HỘP",
+    "originalPrice": 769000,
+    "discountPercent": 13,
+    "unit": "hộp",
+    "shortDescription": "Sữa bột dinh dưỡng cho trẻ nhỏ bổ sung DHA.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-grow-so-2-302-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-grow-so-2-302-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-grow-so-2-302-c.webp"
+    ],
+    "specifications": {
+      "Độ tuổi": "0-6 / 6-12 / 1-3 tuổi",
+      "Thành phần": "DHA Prebiotic",
+      "Dạng": "Bột"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 324
+    },
+    "stock": 21,
+    "soldCount": 1892,
+    "weight": 511,
+    "dimensions": {
+      "length": 15.4,
+      "width": 12.9,
+      "height": 19.2
+    },
+    "origin": "Hà Lan / Mỹ / Singapore",
+    "warranty": "Theo HSD",
+    "tags": [
+      "sữa bột",
+      "trẻ em",
+      "dha",
+      "dinh dưỡng",
+      "enfamil"
+    ],
+    "createdAt": "2026-03-23T00:00:00.000Z"
+  },
+  {
+    "id": "prod-303",
+    "name": "Bình sữa Chicco 120ml",
+    "slug": "binh-sua-chicco-120ml-303",
+    "price": 273000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/binh-sua-chicco-120ml-303.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/binh-sua-chicco-120ml-303.webp",
+    "description": "Bình sữa chất liệu PPSU hoặc thủy tinh an toàn không BPA. Núm ti silicone mềm chống sặc. Thang đo rõ. Dễ vệ sinh.",
+    "brand": "Pigeon",
+    "sku": "PIG-0303-CHI",
+    "originalPrice": 305000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Bình sữa chống sặc chất liệu an toàn núm ti mềm.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-chicco-120ml-303-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-chicco-120ml-303-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-chicco-120ml-303-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "120-300ml",
+      "Chất liệu": "PPSU / Thủy tinh",
+      "Núm ti": "Silicone chống sặc",
+      "Không BPA": "Có"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 189
+    },
+    "stock": 320,
+    "soldCount": 620,
+    "weight": 174,
+    "dimensions": {
+      "length": 7.1,
+      "width": 6.8,
+      "height": 16.7
+    },
+    "origin": "Nhật Bản / Hà Lan / Mỹ",
+    "warranty": "12 tháng",
+    "tags": [
+      "bình sữa",
+      "chống sặc",
+      "mẹ và bé",
+      "pigeon"
+    ],
+    "createdAt": "2026-08-03T00:00:00.000Z"
+  },
+  {
+    "id": "prod-304",
+    "name": "Xe đẩy em bé Combi",
+    "slug": "xe-day-em-be-combi-304",
+    "price": 12550000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/xe-day-em-be-combi-304.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/xe-day-em-be-combi-304.webp",
+    "description": "Xe đẩy thiết kế 2 chiều hoặc gấp gọn một chạm. Mái che chống UV. Đệm êm bánh giảm xóc. Phanh an toàn. Từ sơ sinh đến 3-4 tuổi.",
+    "brand": "Aprica",
+    "sku": "APR-0304-CHI",
+    "originalPrice": 14300000,
+    "discountPercent": 12,
+    "unit": "chiếc",
+    "shortDescription": "Xe đẩy 2 chiều gấp gọn chống UV tải trọng cao.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/xe-day-em-be-combi-304-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/xe-day-em-be-combi-304-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/xe-day-em-be-combi-304-c.webp"
+    ],
+    "specifications": {
+      "Hướng": "1-2 chiều",
+      "Gấp": "Một chạm / Gọn",
+      "Tải trọng": "15-22kg",
+      "Chống UV": "UPF50+"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 606
+    },
+    "stock": 141,
+    "soldCount": 3951,
+    "weight": 8302,
+    "dimensions": {
+      "length": 91.7,
+      "width": 51.4,
+      "height": 32.9
+    },
+    "origin": "Nhật Bản / Đức / Trung Quốc",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "xe đẩy",
+      "em bé",
+      "gấp gọn",
+      "aprica"
+    ],
+    "createdAt": "2026-08-22T00:00:00.000Z"
+  },
+  {
+    "id": "prod-305",
+    "name": "Đồ chơi xếp hình Chicco",
+    "slug": "do-choi-xep-hinh-chicco-305",
+    "price": 383000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/do-choi-xep-hinh-chicco-305.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/do-choi-xep-hinh-chicco-305.webp",
+    "description": "Bộ xếp hình chất liệu an toàn. Nhiều chi tiết kích thích sáng tạo và tư duy logic. Phù hợp nhiều độ tuổi. Màu sắc tươi sáng.",
+    "brand": "Winwintoys",
+    "sku": "WIN-0305-HỘP",
+    "originalPrice": 476000,
+    "discountPercent": 20,
+    "unit": "hộp",
+    "shortDescription": "Đồ chơi xếp hình phát triển tư duy vận động tinh.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-xep-hinh-chicco-305-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-xep-hinh-chicco-305-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-xep-hinh-chicco-305-c.webp"
+    ],
+    "specifications": {
+      "Số chi tiết": "20-200",
+      "Chất liệu": "Gỗ / Nhựa ABS",
+      "Độ tuổi": "1-6 tuổi",
+      "Phát triển": "Tư duy vận động"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 155
+    },
+    "stock": 132,
+    "soldCount": 649,
+    "weight": 1142,
+    "dimensions": {
+      "length": 27.1,
+      "width": 22.0,
+      "height": 8.6
+    },
+    "origin": "Việt Nam / Đan Mạch / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "đồ chơi",
+      "xếp hình",
+      "phát triển tư duy",
+      "winwintoys"
+    ],
+    "createdAt": "2026-07-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-306",
+    "name": "Máy hút sữa Avent",
+    "slug": "may-hut-sua-avent-306",
+    "price": 5600000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/may-hut-sua-avent-306.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/may-hut-sua-avent-306.webp",
+    "description": "Máy hút sữa điện mô phỏng nhịp bú tự nhiên. Hút êm hiệu quả. Có thể sạc pin. Dễ tháo lắp vệ sinh. Phù hợp mẹ bận rộn.",
+    "brand": "Cimilre",
+    "sku": "CIM-0306-CHI",
+    "originalPrice": 6180000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Máy hút sữa điện đôi êm ái hiệu quả cao.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/may-hut-sua-avent-306-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/may-hut-sua-avent-306-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/may-hut-sua-avent-306-c.webp"
+    ],
+    "specifications": {
+      "Loại": "Điện đơn / đôi",
+      "Công nghệ": "Mô phỏng nhịp bú",
+      "Pin": "Sạc được",
+      "Âm thanh": "Êm"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 807
+    },
+    "stock": 52,
+    "soldCount": 1700,
+    "weight": 1447,
+    "dimensions": {
+      "length": 21.0,
+      "width": 14.7,
+      "height": 11.9
+    },
+    "origin": "Thụy Sĩ / Hàn Quốc / Hà Lan",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "máy hút sữa",
+      "mẹ và bé",
+      "điện",
+      "cimilre"
+    ],
+    "createdAt": "2026-05-26T00:00:00.000Z"
+  },
+  {
+    "id": "prod-307",
+    "name": "Ghế ngồi ô tô Britax",
+    "slug": "ghe-ngoi-o-to-britax-307",
+    "price": 6300000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/ghe-ngoi-o-to-britax-307.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/ghe-ngoi-o-to-britax-307.webp",
+    "description": "Ghế ô tô đạt chuẩn an toàn châu Âu. Hỗ trợ nhiều nhóm tuổi. Chống va chạm bên. Lắp Isofix hoặc dây an toàn. Đệm êm dễ vệ sinh.",
+    "brand": "Britax",
+    "sku": "BRI-0307-CHI",
+    "originalPrice": 7820000,
+    "discountPercent": 19,
+    "unit": "chiếc",
+    "shortDescription": "Ghế ô tô an toàn chuẩn châu Âu chống va chạm bên.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ghe-ngoi-o-to-britax-307-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ghe-ngoi-o-to-britax-307-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ghe-ngoi-o-to-britax-307-c.webp"
+    ],
+    "specifications": {
+      "Nhóm": "0+/1/2/3",
+      "Chuẩn": "ECE R44/04 hoặc i-Size",
+      "Lắp đặt": "Isofix / Dây",
+      "Chống va chạm bên": "Có"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 489
+    },
+    "stock": 330,
+    "soldCount": 2770,
+    "weight": 9681,
+    "dimensions": {
+      "length": 55.9,
+      "width": 53.7,
+      "height": 69.5
+    },
+    "origin": "Đức / Trung Quốc / Ý",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "ghế ô tô",
+      "an toàn",
+      "em bé",
+      "britax"
+    ],
+    "createdAt": "2026-07-12T00:00:00.000Z"
+  },
+  {
+    "id": "prod-308",
+    "name": "Khăn ướt em bé Merries",
+    "slug": "khan-uot-em-be-merries-308",
+    "price": 61100,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/khan-uot-em-be-merries-308.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/khan-uot-em-be-merries-308.webp",
+    "description": "Khăn ướt công thức dịu nhẹ không cồn không hương liệu. Nắp đậy kín giữ ẩm. Thấm hút tốt. An toàn cho da nhạy cảm của bé.",
+    "brand": "Mamamy",
+    "sku": "MAM-0308-BỊC",
+    "originalPrice": 68250,
+    "discountPercent": 10,
+    "unit": "bịch",
+    "shortDescription": "Khăn ướt dịu nhẹ không mùi không cồn cho da nhạy cảm.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/khan-uot-em-be-merries-308-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/khan-uot-em-be-merries-308-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/khan-uot-em-be-merries-308-c.webp"
+    ],
+    "specifications": {
+      "Số tờ": "80-100",
+      "Mùi": "Không / Dịu",
+      "Công thức": "Không cồn",
+      "Phù hợp": "Da nhạy cảm"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 580
+    },
+    "stock": 300,
+    "soldCount": 584,
+    "weight": 409,
+    "dimensions": {
+      "length": 19.2,
+      "width": 10.0,
+      "height": 4.8
+    },
+    "origin": "Việt Nam / Nhật Bản / Thái Lan",
+    "warranty": "Theo HSD",
+    "tags": [
+      "khăn ướt",
+      "em bé",
+      "dịu nhẹ",
+      "mamamy"
+    ],
+    "createdAt": "2026-06-08T00:00:00.000Z"
+  },
+  {
+    "id": "prod-309",
+    "name": "Nôi điện / Võng tự động Fisher-Price",
+    "slug": "noi-dien-vong-tu-dong-fisher-price-309",
+    "price": 1880000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/noi-dien-vong-tu-dong-fisher-price-309.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/noi-dien-vong-tu-dong-fisher-price-309.webp",
+    "description": "Nôi điện hoặc võng tự động nhiều chế độ đưa. Tích hợp nhạc trắng đèn ngủ. Điều khiển từ xa. Lưới thoáng khí. Tải trọng phù hợp bé.",
+    "brand": "Mastela",
+    "sku": "MAS-0309-CHI",
+    "originalPrice": 2060000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Nôi điện nhiều chế độ đưa nhạc trắng điều khiển từ xa.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/noi-dien-vong-tu-dong-fisher-price-309-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/noi-dien-vong-tu-dong-fisher-price-309-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/noi-dien-vong-tu-dong-fisher-price-309-c.webp"
+    ],
+    "specifications": {
+      "Chế độ đưa": "3-5",
+      "Nhạc": "Nhạc trắng",
+      "Điều khiển": "Remote",
+      "Tải trọng": "12-15kg"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 458
+    },
+    "stock": 108,
+    "soldCount": 2870,
+    "weight": 8764,
+    "dimensions": {
+      "length": 76.8,
+      "width": 59.7,
+      "height": 60.6
+    },
+    "origin": "Trung Quốc / Ý / Mỹ",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "nôi điện",
+      "võng tự động",
+      "em bé",
+      "mastela"
+    ],
+    "createdAt": "2026-09-04T00:00:00.000Z"
+  },
+  {
+    "id": "prod-310",
+    "name": "Yếm ăn / Đồ dùng ăn dặm Avent",
+    "slug": "yem-an-do-dung-an-dam-avent-310",
+    "price": 172000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/yem-an-do-dung-an-dam-avent-310.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/yem-an-do-dung-an-dam-avent-310.webp",
+    "description": "Yếm silicone có máng hứng hoặc bộ thìa bát ăn dặm. Chất liệu an toàn không BPA. Dễ vệ sinh máy rửa bát được. Thiết kế dễ thương.",
+    "brand": "Chicco",
+    "sku": "CHI-0310-BỘ",
+    "originalPrice": 211000,
+    "discountPercent": 18,
+    "unit": "bộ",
+    "shortDescription": "Yếm silicone / bộ đồ dùng ăn dặm an toàn dễ vệ sinh.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/yem-an-do-dung-an-dam-avent-310-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/yem-an-do-dung-an-dam-avent-310-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/yem-an-do-dung-an-dam-avent-310-c.webp"
+    ],
+    "specifications": {
+      "Chất liệu": "Silicone / Nhựa an toàn",
+      "Không BPA": "Có",
+      "Vệ sinh": "Máy rửa bát",
+      "Độ tuổi": "6 tháng+"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 684
+    },
+    "stock": 89,
+    "soldCount": 262,
+    "weight": 274,
+    "dimensions": {
+      "length": 19.1,
+      "width": 15.5,
+      "height": 4.8
+    },
+    "origin": "Thái Lan / Hà Lan / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "yếm ăn",
+      "ăn dặm",
+      "mẹ và bé",
+      "chicco"
+    ],
+    "createdAt": "2026-04-26T00:00:00.000Z"
+  },
+  {
+    "id": "prod-311",
+    "name": "Tã quần Merries size L",
+    "slug": "ta-quan-merries-size-l-311",
+    "price": 373000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/ta-quan-merries-size-l-311.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/ta-quan-merries-size-l-311.webp",
+    "description": "Tã quần thấm hút vượt trội chống tràn hiệu quả. Lớp bề mặt mềm mại không kích ứng. Co giãn 4 chiều dễ mặc. Thoáng khí giữ da bé khô.",
+    "brand": "Huggies",
+    "sku": "HUG-0311-BỊC",
+    "originalPrice": 409000,
+    "discountPercent": 9,
+    "unit": "bịch",
+    "shortDescription": "Tã quần siêu thấm chống tràn thoáng khí cho bé.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-merries-size-l-311-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-merries-size-l-311-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-merries-size-l-311-c.webp"
+    ],
+    "specifications": {
+      "Size": "M-XXL",
+      "Công nghệ": "Siêu thấm chống tràn",
+      "Đặc điểm": "Thoáng khí mềm mại"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 29
+    },
+    "stock": 9,
+    "soldCount": 2899,
+    "weight": 1018,
+    "dimensions": {
+      "length": 34.8,
+      "width": 23.2,
+      "height": 17.0
+    },
+    "origin": "Việt Nam / Nhật Bản / Thái Lan",
+    "warranty": "Đổi trả nếu lỗi NSX",
+    "tags": [
+      "tã quần",
+      "mẹ và bé",
+      "siêu thấm",
+      "huggies"
+    ],
+    "createdAt": "2026-04-12T00:00:00.000Z"
+  },
+  {
+    "id": "prod-312",
+    "name": "Sữa bột Enfamil số 2",
+    "slug": "sua-bot-enfamil-so-2-312",
+    "price": 326000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/sua-bot-enfamil-so-2-312.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/sua-bot-enfamil-so-2-312.webp",
+    "description": "Sữa bột công thức gần sữa mẹ. Bổ sung DHA và dưỡng chất hỗ trợ phát triển trí não và thể chất. Dễ tiêu hóa. Hương vị dễ uống.",
+    "brand": "Nan",
+    "sku": "NAN-0312-HỘP",
+    "originalPrice": 365000,
+    "discountPercent": 11,
+    "unit": "hộp",
+    "shortDescription": "Sữa bột dinh dưỡng cho trẻ nhỏ bổ sung DHA.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-enfamil-so-2-312-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-enfamil-so-2-312-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-enfamil-so-2-312-c.webp"
+    ],
+    "specifications": {
+      "Độ tuổi": "0-6 / 6-12 / 1-3 tuổi",
+      "Thành phần": "DHA Prebiotic",
+      "Dạng": "Bột"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 160
+    },
+    "stock": 200,
+    "soldCount": 3218,
+    "weight": 445,
+    "dimensions": {
+      "length": 14.6,
+      "width": 12.9,
+      "height": 17.3
+    },
+    "origin": "Hà Lan / Mỹ / Singapore",
+    "warranty": "Theo HSD",
+    "tags": [
+      "sữa bột",
+      "trẻ em",
+      "dha",
+      "dinh dưỡng",
+      "nan"
+    ],
+    "createdAt": "2026-08-11T00:00:00.000Z"
+  },
+  {
+    "id": "prod-313",
+    "name": "Bình sữa Avent 150ml 2026",
+    "slug": "binh-sua-avent-150ml-2026-313",
+    "price": 469000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/binh-sua-avent-150ml-2026-313.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/binh-sua-avent-150ml-2026-313.webp",
+    "description": "Bình sữa chất liệu PPSU hoặc thủy tinh an toàn không BPA. Núm ti silicone mềm chống sặc. Thang đo rõ. Dễ vệ sinh.",
+    "brand": "Pigeon",
+    "sku": "PIG-0313-CHI",
+    "originalPrice": 558000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Bình sữa chống sặc chất liệu an toàn núm ti mềm.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-avent-150ml-2026-313-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-avent-150ml-2026-313-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/binh-sua-avent-150ml-2026-313-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "120-300ml",
+      "Chất liệu": "PPSU / Thủy tinh",
+      "Núm ti": "Silicone chống sặc",
+      "Không BPA": "Có"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 650
+    },
+    "stock": 231,
+    "soldCount": 3572,
+    "weight": 136,
+    "dimensions": {
+      "length": 6.8,
+      "width": 6.6,
+      "height": 16.8
+    },
+    "origin": "Nhật Bản / Hà Lan / Mỹ",
+    "warranty": "12 tháng",
+    "tags": [
+      "bình sữa",
+      "chống sặc",
+      "mẹ và bé",
+      "pigeon"
+    ],
+    "createdAt": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "prod-314",
+    "name": "Xe đẩy em bé Aprica",
+    "slug": "xe-day-em-be-aprica-314",
+    "price": 5060000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/xe-day-em-be-aprica-314.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/xe-day-em-be-aprica-314.webp",
+    "description": "Xe đẩy thiết kế 2 chiều hoặc gấp gọn một chạm. Mái che chống UV. Đệm êm bánh giảm xóc. Phanh an toàn. Từ sơ sinh đến 3-4 tuổi.",
+    "brand": "Combi",
+    "sku": "COM-0314-CHI",
+    "originalPrice": 5970000,
+    "discountPercent": 15,
+    "unit": "chiếc",
+    "shortDescription": "Xe đẩy 2 chiều gấp gọn chống UV tải trọng cao.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/xe-day-em-be-aprica-314-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/xe-day-em-be-aprica-314-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/xe-day-em-be-aprica-314-c.webp"
+    ],
+    "specifications": {
+      "Hướng": "1-2 chiều",
+      "Gấp": "Một chạm / Gọn",
+      "Tải trọng": "15-22kg",
+      "Chống UV": "UPF50+"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 680
+    },
+    "stock": 48,
+    "soldCount": 1066,
+    "weight": 9145,
+    "dimensions": {
+      "length": 87.3,
+      "width": 54.2,
+      "height": 31.7
+    },
+    "origin": "Nhật Bản / Đức / Trung Quốc",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "xe đẩy",
+      "em bé",
+      "gấp gọn",
+      "combi"
+    ],
+    "createdAt": "2026-06-05T00:00:00.000Z"
+  },
+  {
+    "id": "prod-315",
+    "name": "Đồ chơi xếp hình Chicco",
+    "slug": "do-choi-xep-hinh-chicco-315",
+    "price": 697000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/do-choi-xep-hinh-chicco-315.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/do-choi-xep-hinh-chicco-315.webp",
+    "description": "Bộ xếp hình chất liệu an toàn. Nhiều chi tiết kích thích sáng tạo và tư duy logic. Phù hợp nhiều độ tuổi. Màu sắc tươi sáng.",
+    "brand": "Chicco",
+    "sku": "CHI-0315-HỘP",
+    "originalPrice": 845000,
+    "discountPercent": 18,
+    "unit": "hộp",
+    "shortDescription": "Đồ chơi xếp hình phát triển tư duy vận động tinh.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-xep-hinh-chicco-315-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-xep-hinh-chicco-315-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/do-choi-xep-hinh-chicco-315-c.webp"
+    ],
+    "specifications": {
+      "Số chi tiết": "20-200",
+      "Chất liệu": "Gỗ / Nhựa ABS",
+      "Độ tuổi": "1-6 tuổi",
+      "Phát triển": "Tư duy vận động"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 541
+    },
+    "stock": 101,
+    "soldCount": 3113,
+    "weight": 354,
+    "dimensions": {
+      "length": 26.7,
+      "width": 20.6,
+      "height": 7.7
+    },
+    "origin": "Việt Nam / Đan Mạch / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "đồ chơi",
+      "xếp hình",
+      "phát triển tư duy",
+      "chicco"
+    ],
+    "createdAt": "2026-04-25T00:00:00.000Z"
+  },
+  {
+    "id": "prod-316",
+    "name": "Máy hút sữa Avent",
+    "slug": "may-hut-sua-avent-316",
+    "price": 5640000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/may-hut-sua-avent-316.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/may-hut-sua-avent-316.webp",
+    "description": "Máy hút sữa điện mô phỏng nhịp bú tự nhiên. Hút êm hiệu quả. Có thể sạc pin. Dễ tháo lắp vệ sinh. Phù hợp mẹ bận rộn.",
+    "brand": "Spectra",
+    "sku": "SPE-0316-CHI",
+    "originalPrice": 6460000,
+    "discountPercent": 13,
+    "unit": "chiếc",
+    "shortDescription": "Máy hút sữa điện đôi êm ái hiệu quả cao.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/may-hut-sua-avent-316-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/may-hut-sua-avent-316-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/may-hut-sua-avent-316-c.webp"
+    ],
+    "specifications": {
+      "Loại": "Điện đơn / đôi",
+      "Công nghệ": "Mô phỏng nhịp bú",
+      "Pin": "Sạc được",
+      "Âm thanh": "Êm"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 389
+    },
+    "stock": 167,
+    "soldCount": 590,
+    "weight": 1046,
+    "dimensions": {
+      "length": 22.0,
+      "width": 15.3,
+      "height": 12.1
+    },
+    "origin": "Thụy Sĩ / Hàn Quốc / Hà Lan",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "máy hút sữa",
+      "mẹ và bé",
+      "điện",
+      "spectra"
+    ],
+    "createdAt": "2026-04-24T00:00:00.000Z"
+  },
+  {
+    "id": "prod-317",
+    "name": "Ghế ngồi ô tô Aprica",
+    "slug": "ghe-ngoi-o-to-aprica-317",
+    "price": 8220000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/ghe-ngoi-o-to-aprica-317.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/ghe-ngoi-o-to-aprica-317.webp",
+    "description": "Ghế ô tô đạt chuẩn an toàn châu Âu. Hỗ trợ nhiều nhóm tuổi. Chống va chạm bên. Lắp Isofix hoặc dây an toàn. Đệm êm dễ vệ sinh.",
+    "brand": "Aprica",
+    "sku": "APR-0317-CHI",
+    "originalPrice": 9120000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Ghế ô tô an toàn chuẩn châu Âu chống va chạm bên.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ghe-ngoi-o-to-aprica-317-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ghe-ngoi-o-to-aprica-317-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ghe-ngoi-o-to-aprica-317-c.webp"
+    ],
+    "specifications": {
+      "Nhóm": "0+/1/2/3",
+      "Chuẩn": "ECE R44/04 hoặc i-Size",
+      "Lắp đặt": "Isofix / Dây",
+      "Chống va chạm bên": "Có"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 288
+    },
+    "stock": 115,
+    "soldCount": 213,
+    "weight": 10858,
+    "dimensions": {
+      "length": 60.0,
+      "width": 52.7,
+      "height": 58.7
+    },
+    "origin": "Đức / Trung Quốc / Ý",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "ghế ô tô",
+      "an toàn",
+      "em bé",
+      "aprica"
+    ],
+    "createdAt": "2026-09-08T00:00:00.000Z"
+  },
+  {
+    "id": "prod-318",
+    "name": "Khăn ướt em bé Huggies",
+    "slug": "khan-uot-em-be-huggies-318",
+    "price": 68200,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/khan-uot-em-be-huggies-318.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/khan-uot-em-be-huggies-318.webp",
+    "description": "Khăn ướt công thức dịu nhẹ không cồn không hương liệu. Nắp đậy kín giữ ẩm. Thấm hút tốt. An toàn cho da nhạy cảm của bé.",
+    "brand": "Pampers",
+    "sku": "PAM-0318-BỊC",
+    "originalPrice": 76977,
+    "discountPercent": 11,
+    "unit": "bịch",
+    "shortDescription": "Khăn ướt dịu nhẹ không mùi không cồn cho da nhạy cảm.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/khan-uot-em-be-huggies-318-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/khan-uot-em-be-huggies-318-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/khan-uot-em-be-huggies-318-c.webp"
+    ],
+    "specifications": {
+      "Số tờ": "80-100",
+      "Mùi": "Không / Dịu",
+      "Công thức": "Không cồn",
+      "Phù hợp": "Da nhạy cảm"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 569
+    },
+    "stock": 280,
+    "soldCount": 2573,
+    "weight": 482,
+    "dimensions": {
+      "length": 18.0,
+      "width": 9.8,
+      "height": 5.2
+    },
+    "origin": "Việt Nam / Nhật Bản / Thái Lan",
+    "warranty": "Theo HSD",
+    "tags": [
+      "khăn ướt",
+      "em bé",
+      "dịu nhẹ",
+      "pampers"
+    ],
+    "createdAt": "2026-02-23T00:00:00.000Z"
+  },
+  {
+    "id": "prod-319",
+    "name": "Nôi điện / Võng tự động Tiny Love cao cấp",
+    "slug": "noi-dien-vong-tu-dong-tiny-love-cao-cap-319",
+    "price": 3190000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/noi-dien-vong-tu-dong-tiny-love-cao-cap-319.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/noi-dien-vong-tu-dong-tiny-love-cao-cap-319.webp",
+    "description": "Nôi điện hoặc võng tự động nhiều chế độ đưa. Tích hợp nhạc trắng đèn ngủ. Điều khiển từ xa. Lưới thoáng khí. Tải trọng phù hợp bé.",
+    "brand": "Aprica",
+    "sku": "APR-0319-CHI",
+    "originalPrice": 3970000,
+    "discountPercent": 20,
+    "unit": "chiếc",
+    "shortDescription": "Nôi điện nhiều chế độ đưa nhạc trắng điều khiển từ xa.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/noi-dien-vong-tu-dong-tiny-love-cao-cap-319-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/noi-dien-vong-tu-dong-tiny-love-cao-cap-319-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/noi-dien-vong-tu-dong-tiny-love-cao-cap-319-c.webp"
+    ],
+    "specifications": {
+      "Chế độ đưa": "3-5",
+      "Nhạc": "Nhạc trắng",
+      "Điều khiển": "Remote",
+      "Tải trọng": "12-15kg"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 717
+    },
+    "stock": 334,
+    "soldCount": 320,
+    "weight": 6272,
+    "dimensions": {
+      "length": 85.6,
+      "width": 53.8,
+      "height": 66.7
+    },
+    "origin": "Trung Quốc / Ý / Mỹ",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "nôi điện",
+      "võng tự động",
+      "em bé",
+      "aprica"
+    ],
+    "createdAt": "2026-04-04T00:00:00.000Z"
+  },
+  {
+    "id": "prod-320",
+    "name": "Yếm ăn / Đồ dùng ăn dặm Pigeon",
+    "slug": "yem-an-do-dung-an-dam-pigeon-320",
+    "price": 119000,
+    "categoryId": "cat-3",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/yem-an-do-dung-an-dam-pigeon-320.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/yem-an-do-dung-an-dam-pigeon-320.webp",
+    "description": "Yếm silicone có máng hứng hoặc bộ thìa bát ăn dặm. Chất liệu an toàn không BPA. Dễ vệ sinh máy rửa bát được. Thiết kế dễ thương.",
+    "brand": "Avent",
+    "sku": "AVE-0320-BỘ",
+    "originalPrice": 133000,
+    "discountPercent": 11,
+    "unit": "bộ",
+    "shortDescription": "Yếm silicone / bộ đồ dùng ăn dặm an toàn dễ vệ sinh.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/yem-an-do-dung-an-dam-pigeon-320-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/yem-an-do-dung-an-dam-pigeon-320-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/yem-an-do-dung-an-dam-pigeon-320-c.webp"
+    ],
+    "specifications": {
+      "Chất liệu": "Silicone / Nhựa an toàn",
+      "Không BPA": "Có",
+      "Vệ sinh": "Máy rửa bát",
+      "Độ tuổi": "6 tháng+"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 779
+    },
+    "stock": 341,
+    "soldCount": 3083,
+    "weight": 286,
+    "dimensions": {
+      "length": 19.7,
+      "width": 14.9,
+      "height": 5.1
+    },
+    "origin": "Thái Lan / Hà Lan / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "yếm ăn",
+      "ăn dặm",
+      "mẹ và bé",
+      "avent"
+    ],
+    "createdAt": "2026-02-28T00:00:00.000Z"
+  }
+]

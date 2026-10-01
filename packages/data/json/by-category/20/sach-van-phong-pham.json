@@ -1,1 +1,958 @@
-[]
+[
+  {
+    "id": "prod-601",
+    "name": "Sách Người Bán Hàng Vĩ Đại",
+    "slug": "sach-nguoi-ban-hang-vi-dai-601",
+    "price": 80600,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/sach-van-phong-pham/sach-nguoi-ban-hang-vi-dai-601.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/sach-van-phong-pham/sach-nguoi-ban-hang-vi-dai-601.webp",
+    "description": "Sách best-seller được nhiều độc giả yêu thích. Bản dịch chất lượng hoặc nguyên tác. Giấy in đẹp. Phù hợp đọc và làm quà tặng.",
+    "brand": "Generic",
+    "sku": "GEN-0601-CUỐ",
+    "originalPrice": 99496,
+    "discountPercent": 19,
+    "unit": "cuốn",
+    "shortDescription": "Sách kỹ năng sống văn học best-seller bản đẹp.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/sach-nguoi-ban-hang-vi-dai-601-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/sach-nguoi-ban-hang-vi-dai-601-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/sach-nguoi-ban-hang-vi-dai-601-c.webp"
+    ],
+    "specifications": {
+      "Thể loại": "Kỹ năng / Văn học",
+      "Bìa": "Mềm / Cứng",
+      "Ngôn ngữ": "Tiếng Việt"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 636
+    },
+    "stock": 110,
+    "soldCount": 2456,
+    "weight": 211,
+    "dimensions": {
+      "length": 12.8,
+      "width": 20.7,
+      "height": 2.1
+    },
+    "origin": "Việt Nam",
+    "warranty": "Đổi trả nếu lỗi in",
+    "tags": [
+      "sách",
+      "best-seller",
+      "kỹ năng",
+      "văn học",
+      "generic"
+    ],
+    "createdAt": "2026-09-02T00:00:00.000Z"
+  },
+  {
+    "id": "prod-602",
+    "name": "Sổ tay Deli A5",
+    "slug": "so-tay-deli-a5-602",
+    "price": 48800,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/sach-van-phong-pham/so-tay-deli-a5-602.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/sach-van-phong-pham/so-tay-deli-a5-602.webp",
+    "description": "Sổ tay bìa da hoặc giấy cứng. Giấy kẻ dòng hoặc caro chống lem. Nhiều số trang. Phù hợp ghi chép học tập công việc.",
+    "brand": "Klong",
+    "sku": "KLO-0602-CUỐ",
+    "originalPrice": 53911,
+    "discountPercent": 9,
+    "unit": "cuốn",
+    "shortDescription": "Sổ tay bìa đẹp giấy tốt nhiều trang.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/so-tay-deli-a5-602-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/so-tay-deli-a5-602-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/so-tay-deli-a5-602-c.webp"
+    ],
+    "specifications": {
+      "Kích thước": "A5/A6/B5",
+      "Số trang": "80-200",
+      "Bìa": "Da / Giấy cứng",
+      "Giấy": "Kẻ dòng / Caro"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 532
+    },
+    "stock": 318,
+    "soldCount": 1040,
+    "weight": 341,
+    "dimensions": {
+      "length": 16.3,
+      "width": 22.9,
+      "height": 1.5
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "sổ tay",
+      "văn phòng",
+      "ghi chép",
+      "klong"
+    ],
+    "createdAt": "2026-05-24T00:00:00.000Z"
+  },
+  {
+    "id": "prod-603",
+    "name": "Bút bi / Bút gel Uni hộp 2026",
+    "slug": "but-bi-but-gel-uni-hop-2026-603",
+    "price": 94300,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/sach-van-phong-pham/but-bi-but-gel-uni-hop-2026-603.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/sach-van-phong-pham/but-bi-but-gel-uni-hop-2026-603.webp",
+    "description": "Bút bi hoặc bút gel mực ra đều không lem. Viết êm tay. Đầu bi nhiều kích thước. Hộp tiện dụng cho văn phòng trường học.",
+    "brand": "Thiên Long",
+    "sku": "THI-0603-HỘP",
+    "originalPrice": 105000,
+    "discountPercent": 10,
+    "unit": "hộp",
+    "shortDescription": "Bút bi hoặc gel mực đều viết êm hộp nhiều cây.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/but-bi-but-gel-uni-hop-2026-603-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/but-bi-but-gel-uni-hop-2026-603-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/but-bi-but-gel-uni-hop-2026-603-c.webp"
+    ],
+    "specifications": {
+      "Loại": "Bi / Gel",
+      "Số lượng": "10-20 cây",
+      "Đầu bi": "0.5-0.7mm",
+      "Màu mực": "Xanh / Đen / Đỏ"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 762
+    },
+    "stock": 55,
+    "soldCount": 3835,
+    "weight": 199,
+    "dimensions": {
+      "length": 16.4,
+      "width": 7.5,
+      "height": 3.2
+    },
+    "origin": "Việt Nam / Nhật Bản / Trung Quốc",
+    "warranty": "Theo HSD mực",
+    "tags": [
+      "bút bi",
+      "bút gel",
+      "văn phòng",
+      "thien-long"
+    ],
+    "createdAt": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "prod-604",
+    "name": "Giấy in A4 Sai Gon 80gsm 2026",
+    "slug": "giay-in-a4-sai-gon-80gsm-2026-604",
+    "price": 93800,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/sach-van-phong-pham/giay-in-a4-sai-gon-80gsm-2026-604.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/sach-van-phong-pham/giay-in-a4-sai-gon-80gsm-2026-604.webp",
+    "description": "Giấy in A4 định lượng chuẩn. Độ trắng cao bề mặt mịn in sắc nét. Ít bụi giấy. Phù hợp in ấn photocopy.",
+    "brand": "IK Plus",
+    "sku": "IK -0604-REA",
+    "originalPrice": 112000,
+    "discountPercent": 16,
+    "unit": "ream",
+    "shortDescription": "Giấy in A4 trắng mịn không kẹt máy 500 tờ.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/giay-in-a4-sai-gon-80gsm-2026-604-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/giay-in-a4-sai-gon-80gsm-2026-604-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/giay-in-a4-sai-gon-80gsm-2026-604-c.webp"
+    ],
+    "specifications": {
+      "Kích thước": "A4",
+      "Định lượng": "70-80gsm",
+      "Số tờ": "500",
+      "Độ trắng": "Cao"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 253
+    },
+    "stock": 213,
+    "soldCount": 512,
+    "weight": 2309,
+    "dimensions": {
+      "length": 28.1,
+      "width": 20.4,
+      "height": 5.9
+    },
+    "origin": "Thái Lan / Việt Nam / Indonesia",
+    "warranty": "Đổi trả nếu ẩm mốc",
+    "tags": [
+      "giấy in",
+      "a4",
+      "văn phòng",
+      "ik-plus"
+    ],
+    "createdAt": "2026-07-28T00:00:00.000Z"
+  },
+  {
+    "id": "prod-605",
+    "name": "Balo / Cặp laptop Samsonite cao cấp",
+    "slug": "balo-cap-laptop-samsonite-cao-cap-605",
+    "price": 860000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/sach-van-phong-pham/balo-cap-laptop-samsonite-cao-cap-605.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/sach-van-phong-pham/balo-cap-laptop-samsonite-cao-cap-605.webp",
+    "description": "Balo hoặc cặp đựng laptop có ngăn chống sốc. Nhiều ngăn chứa đồ. Chất liệu chống nước nhẹ. Quai đeo êm. Phù hợp học sinh nhân viên.",
+    "brand": "The North Face",
+    "sku": "THE-0605-CHI",
+    "originalPrice": 1000000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Balo laptop nhiều ngăn chống sốc chống nước nhẹ.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/balo-cap-laptop-samsonite-cao-cap-605-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/balo-cap-laptop-samsonite-cao-cap-605-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/balo-cap-laptop-samsonite-cao-cap-605-c.webp"
+    ],
+    "specifications": {
+      "Laptop": "13-15.6 inch",
+      "Chống nước": "Nhẹ",
+      "Ngăn": "Nhiều",
+      "Chất liệu": "Polyester / Vải"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 138
+    },
+    "stock": 202,
+    "soldCount": 1211,
+    "weight": 869,
+    "dimensions": {
+      "length": 46.8,
+      "width": 30.3,
+      "height": 13.6
+    },
+    "origin": "Việt Nam / Trung Quốc / Ý",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "balo",
+      "laptop",
+      "văn phòng",
+      "học tập",
+      "the-north-face"
+    ],
+    "createdAt": "2026-05-11T00:00:00.000Z"
+  },
+  {
+    "id": "prod-606",
+    "name": "Bút chì kim / Bút chì Deli",
+    "slug": "but-chi-kim-but-chi-deli-606",
+    "price": 44600,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/sach-van-phong-pham/but-chi-kim-but-chi-deli-606.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/sach-van-phong-pham/but-chi-kim-but-chi-deli-606.webp",
+    "description": "Bút chì kim bấm ngòi bền hoặc bút chì gỗ dễ gọt. Viết vẽ êm. Nhiều độ cứng. Phù hợp học sinh kỹ thuật.",
+    "brand": "Thiên Long",
+    "sku": "THI-0606-CHI",
+    "originalPrice": 52367,
+    "discountPercent": 15,
+    "unit": "chiếc/hộp",
+    "shortDescription": "Bút chì kim hoặc bút chì gỗ viết vẽ êm.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/but-chi-kim-but-chi-deli-606-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/but-chi-kim-but-chi-deli-606-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/but-chi-kim-but-chi-deli-606-c.webp"
+    ],
+    "specifications": {
+      "Loại": "Kim / Gỗ",
+      "Ngòi": "0.5-2.0mm hoặc 2B HB",
+      "Xuất xứ": "Nhật / Đức / Việt Nam"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 841
+    },
+    "stock": 248,
+    "soldCount": 3896,
+    "weight": 47,
+    "dimensions": {
+      "length": 19.7,
+      "width": 1.0,
+      "height": 1.1
+    },
+    "origin": "Nhật Bản / Đức / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bút chì",
+      "văn phòng",
+      "học tập",
+      "thien-long"
+    ],
+    "createdAt": "2026-07-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-607",
+    "name": "Bảng trắng / Bảng ghim Thiên Long Mini",
+    "slug": "bang-trang-bang-ghim-thien-long-mini-607",
+    "price": 565000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/sach-van-phong-pham/bang-trang-bang-ghim-thien-long-mini-607.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/sach-van-phong-pham/bang-trang-bang-ghim-thien-long-mini-607.webp",
+    "description": "Bảng trắng viết êm dễ lau hoặc bảng ghim. Khung chắc chắn. Có thể treo tường. Kèm phụ kiện. Phù hợp văn phòng lớp học.",
+    "brand": "Flexoffice",
+    "sku": "FLE-0607-CHI",
+    "originalPrice": 652000,
+    "discountPercent": 13,
+    "unit": "chiếc",
+    "shortDescription": "Bảng trắng từ tính hoặc bảng ghim treo tường.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/bang-trang-bang-ghim-thien-long-mini-607-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/bang-trang-bang-ghim-thien-long-mini-607-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/bang-trang-bang-ghim-thien-long-mini-607-c.webp"
+    ],
+    "specifications": {
+      "Loại": "Trắng từ tính / Ghim",
+      "Kích thước": "40x60 đến 90x120cm",
+      "Khung": "Nhôm / Gỗ",
+      "Phụ kiện": "Có"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 124
+    },
+    "stock": 91,
+    "soldCount": 315,
+    "weight": 4197,
+    "dimensions": {
+      "length": 93.2,
+      "width": 55.4,
+      "height": 2.0
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "12 tháng",
+    "tags": [
+      "bảng trắng",
+      "văn phòng",
+      "học tập",
+      "flexoffice"
+    ],
+    "createdAt": "2026-04-18T00:00:00.000Z"
+  },
+  {
+    "id": "prod-608",
+    "name": "Kéo / Bấm ghim / Dụng cụ VP Thiên Long 2026",
+    "slug": "keo-bam-ghim-dung-cu-vp-thien-long-2026-608",
+    "price": 31100,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/sach-van-phong-pham/keo-bam-ghim-dung-cu-vp-thien-long-2026-608.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/sach-van-phong-pham/keo-bam-ghim-dung-cu-vp-thien-long-2026-608.webp",
+    "description": "Dụng cụ văn phòng cơ bản: kéo cắt giấy bấm ghim thủng lỗ. Chất liệu bền. Thiết kế êm tay. Cần thiết cho mọi bàn làm việc.",
+    "brand": "Scout",
+    "sku": "SCO-0608-CHI",
+    "originalPrice": 34819,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Kéo bấm ghim thủng lỗ dụng cụ văn phòng cần thiết.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/keo-bam-ghim-dung-cu-vp-thien-long-2026-608-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/keo-bam-ghim-dung-cu-vp-thien-long-2026-608-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/keo-bam-ghim-dung-cu-vp-thien-long-2026-608-c.webp"
+    ],
+    "specifications": {
+      "Loại": "Kéo / Bấm ghim / Thủng lỗ",
+      "Chất liệu": "Thép / Nhựa",
+      "Đặc điểm": "Êm tay bền"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 299
+    },
+    "stock": 334,
+    "soldCount": 3913,
+    "weight": 158,
+    "dimensions": {
+      "length": 20.9,
+      "width": 7.6,
+      "height": 3.1
+    },
+    "origin": "Việt Nam / Trung Quốc / Nhật Bản",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "dụng cụ văn phòng",
+      "kéo",
+      "bấm ghim",
+      "scout"
+    ],
+    "createdAt": "2026-04-27T00:00:00.000Z"
+  },
+  {
+    "id": "prod-609",
+    "name": "Bút dạ quang / Bút lông Thiên Long",
+    "slug": "but-da-quang-but-long-thien-long-609",
+    "price": 150000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/sach-van-phong-pham/but-da-quang-but-long-thien-long-609.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/sach-van-phong-pham/but-da-quang-but-long-thien-long-609.webp",
+    "description": "Bút dạ quang mực sáng không lem. Bút lông dầu hoặc nước viết đa bề mặt. Nhiều màu. Phù hợp học tập văn phòng.",
+    "brand": "Pilotlet",
+    "sku": "PIL-0609-VỈ/",
+    "originalPrice": 172000,
+    "discountPercent": 13,
+    "unit": "vỉ/hộp",
+    "shortDescription": "Bút dạ quang hoặc bút lông nhiều màu sắc nổi bật.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/but-da-quang-but-long-thien-long-609-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/but-da-quang-but-long-thien-long-609-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/but-da-quang-but-long-thien-long-609-c.webp"
+    ],
+    "specifications": {
+      "Loại": "Dạ quang / Lông dầu / Lông màu",
+      "Số màu": "4-12",
+      "Đặc điểm": "Không lem / Bền màu"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 521
+    },
+    "stock": 259,
+    "soldCount": 995,
+    "weight": 174,
+    "dimensions": {
+      "length": 15.0,
+      "width": 7.4,
+      "height": 2.0
+    },
+    "origin": "Đức / Nhật Bản / Việt Nam / Trung Quốc",
+    "warranty": "Theo HSD mực",
+    "tags": [
+      "dạ quang",
+      "bút lông",
+      "học tập",
+      "pilotlet"
+    ],
+    "createdAt": "2026-06-24T00:00:00.000Z"
+  },
+  {
+    "id": "prod-610",
+    "name": "Cặp tài liệu / Túi đựng hồ sơ Deli",
+    "slug": "cap-tai-lieu-tui-dung-ho-so-deli-610",
+    "price": 38100,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/sach-van-phong-pham/cap-tai-lieu-tui-dung-ho-so-deli-610.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/sach-van-phong-pham/cap-tai-lieu-tui-dung-ho-so-deli-610.webp",
+    "description": "Cặp hoặc túi đựng tài liệu A4. Nhiều ngăn phân loại. Chất liệu nhựa hoặc vải bền. Có nhãn ghi chú. Bảo vệ hồ sơ tốt.",
+    "brand": "Flexoffice",
+    "sku": "FLE-0610-CHI",
+    "originalPrice": 45926,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Cặp tài liệu nhiều ngăn hoặc túi hồ sơ A4.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/cap-tai-lieu-tui-dung-ho-so-deli-610-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/cap-tai-lieu-tui-dung-ho-so-deli-610-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/cap-tai-lieu-tui-dung-ho-so-deli-610-c.webp"
+    ],
+    "specifications": {
+      "Kích thước": "A4",
+      "Số ngăn": "1-12",
+      "Chất liệu": "Nhựa / Vải",
+      "Nhãn": "Có"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 354
+    },
+    "stock": 83,
+    "soldCount": 1290,
+    "weight": 134,
+    "dimensions": {
+      "length": 32.0,
+      "width": 21.7,
+      "height": 2.8
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "cặp tài liệu",
+      "hồ sơ",
+      "văn phòng",
+      "flexoffice"
+    ],
+    "createdAt": "2026-06-23T00:00:00.000Z"
+  },
+  {
+    "id": "prod-611",
+    "name": "Sách Nghĩ Giàu Làm Giàu cao cấp",
+    "slug": "sach-nghi-giau-lam-giau-cao-cap-611",
+    "price": 169000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/sach-van-phong-pham/sach-nghi-giau-lam-giau-cao-cap-611.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/sach-van-phong-pham/sach-nghi-giau-lam-giau-cao-cap-611.webp",
+    "description": "Sách best-seller được nhiều độc giả yêu thích. Bản dịch chất lượng hoặc nguyên tác. Giấy in đẹp. Phù hợp đọc và làm quà tặng.",
+    "brand": "Generic",
+    "sku": "GEN-0611-CUỐ",
+    "originalPrice": 196000,
+    "discountPercent": 14,
+    "unit": "cuốn",
+    "shortDescription": "Sách kỹ năng sống văn học best-seller bản đẹp.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/sach-nghi-giau-lam-giau-cao-cap-611-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/sach-nghi-giau-lam-giau-cao-cap-611-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/sach-nghi-giau-lam-giau-cao-cap-611-c.webp"
+    ],
+    "specifications": {
+      "Thể loại": "Kỹ năng / Văn học",
+      "Bìa": "Mềm / Cứng",
+      "Ngôn ngữ": "Tiếng Việt"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 900
+    },
+    "stock": 281,
+    "soldCount": 2288,
+    "weight": 275,
+    "dimensions": {
+      "length": 14.5,
+      "width": 20.0,
+      "height": 1.9
+    },
+    "origin": "Việt Nam",
+    "warranty": "Đổi trả nếu lỗi in",
+    "tags": [
+      "sách",
+      "best-seller",
+      "kỹ năng",
+      "văn học",
+      "generic"
+    ],
+    "createdAt": "2026-01-19T00:00:00.000Z"
+  },
+  {
+    "id": "prod-612",
+    "name": "Sổ tay Klong A6",
+    "slug": "so-tay-klong-a6-612",
+    "price": 126000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/sach-van-phong-pham/so-tay-klong-a6-612.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/sach-van-phong-pham/so-tay-klong-a6-612.webp",
+    "description": "Sổ tay bìa da hoặc giấy cứng. Giấy kẻ dòng hoặc caro chống lem. Nhiều số trang. Phù hợp ghi chép học tập công việc.",
+    "brand": "Klong",
+    "sku": "KLO-0612-CUỐ",
+    "originalPrice": 146000,
+    "discountPercent": 14,
+    "unit": "cuốn",
+    "shortDescription": "Sổ tay bìa đẹp giấy tốt nhiều trang.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/so-tay-klong-a6-612-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/so-tay-klong-a6-612-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/so-tay-klong-a6-612-c.webp"
+    ],
+    "specifications": {
+      "Kích thước": "A5/A6/B5",
+      "Số trang": "80-200",
+      "Bìa": "Da / Giấy cứng",
+      "Giấy": "Kẻ dòng / Caro"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 818
+    },
+    "stock": 160,
+    "soldCount": 3673,
+    "weight": 368,
+    "dimensions": {
+      "length": 14.6,
+      "width": 20.8,
+      "height": 1.4
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "sổ tay",
+      "văn phòng",
+      "ghi chép",
+      "klong"
+    ],
+    "createdAt": "2026-07-14T00:00:00.000Z"
+  },
+  {
+    "id": "prod-613",
+    "name": "Bút bi / Bút gel Deli hộp",
+    "slug": "but-bi-but-gel-deli-hop-613",
+    "price": 66000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/sach-van-phong-pham/but-bi-but-gel-deli-hop-613.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/sach-van-phong-pham/but-bi-but-gel-deli-hop-613.webp",
+    "description": "Bút bi hoặc bút gel mực ra đều không lem. Viết êm tay. Đầu bi nhiều kích thước. Hộp tiện dụng cho văn phòng trường học.",
+    "brand": "Deli",
+    "sku": "DEL-0613-HỘP",
+    "originalPrice": 79310,
+    "discountPercent": 17,
+    "unit": "hộp",
+    "shortDescription": "Bút bi hoặc gel mực đều viết êm hộp nhiều cây.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/but-bi-but-gel-deli-hop-613-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/but-bi-but-gel-deli-hop-613-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/but-bi-but-gel-deli-hop-613-c.webp"
+    ],
+    "specifications": {
+      "Loại": "Bi / Gel",
+      "Số lượng": "10-20 cây",
+      "Đầu bi": "0.5-0.7mm",
+      "Màu mực": "Xanh / Đen / Đỏ"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 572
+    },
+    "stock": 297,
+    "soldCount": 1974,
+    "weight": 274,
+    "dimensions": {
+      "length": 15.8,
+      "width": 8.1,
+      "height": 3.0
+    },
+    "origin": "Việt Nam / Nhật Bản / Trung Quốc",
+    "warranty": "Theo HSD mực",
+    "tags": [
+      "bút bi",
+      "bút gel",
+      "văn phòng",
+      "deli"
+    ],
+    "createdAt": "2026-05-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-614",
+    "name": "Giấy in A4 Sai Gon 70gsm",
+    "slug": "giay-in-a4-sai-gon-70gsm-614",
+    "price": 82300,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/sach-van-phong-pham/giay-in-a4-sai-gon-70gsm-614.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/sach-van-phong-pham/giay-in-a4-sai-gon-70gsm-614.webp",
+    "description": "Giấy in A4 định lượng chuẩn. Độ trắng cao bề mặt mịn in sắc nét. Ít bụi giấy. Phù hợp in ấn photocopy.",
+    "brand": "Việt Thắng",
+    "sku": "VIE-0614-REA",
+    "originalPrice": 95805,
+    "discountPercent": 14,
+    "unit": "ream",
+    "shortDescription": "Giấy in A4 trắng mịn không kẹt máy 500 tờ.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/giay-in-a4-sai-gon-70gsm-614-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/giay-in-a4-sai-gon-70gsm-614-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/giay-in-a4-sai-gon-70gsm-614-c.webp"
+    ],
+    "specifications": {
+      "Kích thước": "A4",
+      "Định lượng": "70-80gsm",
+      "Số tờ": "500",
+      "Độ trắng": "Cao"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 48
+    },
+    "stock": 307,
+    "soldCount": 234,
+    "weight": 2586,
+    "dimensions": {
+      "length": 30.7,
+      "width": 20.4,
+      "height": 6.6
+    },
+    "origin": "Thái Lan / Việt Nam / Indonesia",
+    "warranty": "Đổi trả nếu ẩm mốc",
+    "tags": [
+      "giấy in",
+      "a4",
+      "văn phòng",
+      "viet-thang"
+    ],
+    "createdAt": "2026-02-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-615",
+    "name": "Balo / Cặp laptop Samsonite 2026",
+    "slug": "balo-cap-laptop-samsonite-2026-615",
+    "price": 1720000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/sach-van-phong-pham/balo-cap-laptop-samsonite-2026-615.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/sach-van-phong-pham/balo-cap-laptop-samsonite-2026-615.webp",
+    "description": "Balo hoặc cặp đựng laptop có ngăn chống sốc. Nhiều ngăn chứa đồ. Chất liệu chống nước nhẹ. Quai đeo êm. Phù hợp học sinh nhân viên.",
+    "brand": "Simplecarry",
+    "sku": "SIM-0615-CHI",
+    "originalPrice": 1970000,
+    "discountPercent": 13,
+    "unit": "chiếc",
+    "shortDescription": "Balo laptop nhiều ngăn chống sốc chống nước nhẹ.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/balo-cap-laptop-samsonite-2026-615-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/balo-cap-laptop-samsonite-2026-615-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/balo-cap-laptop-samsonite-2026-615-c.webp"
+    ],
+    "specifications": {
+      "Laptop": "13-15.6 inch",
+      "Chống nước": "Nhẹ",
+      "Ngăn": "Nhiều",
+      "Chất liệu": "Polyester / Vải"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 273
+    },
+    "stock": 125,
+    "soldCount": 2704,
+    "weight": 938,
+    "dimensions": {
+      "length": 43.6,
+      "width": 29.1,
+      "height": 14.6
+    },
+    "origin": "Việt Nam / Trung Quốc / Ý",
+    "warranty": "6-12 tháng",
+    "tags": [
+      "balo",
+      "laptop",
+      "văn phòng",
+      "học tập",
+      "simplecarry"
+    ],
+    "createdAt": "2026-04-04T00:00:00.000Z"
+  },
+  {
+    "id": "prod-616",
+    "name": "Bút chì kim / Bút chì Deli cao cấp",
+    "slug": "but-chi-kim-but-chi-deli-cao-cap-616",
+    "price": 30000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/sach-van-phong-pham/but-chi-kim-but-chi-deli-cao-cap-616.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/sach-van-phong-pham/but-chi-kim-but-chi-deli-cao-cap-616.webp",
+    "description": "Bút chì kim bấm ngòi bền hoặc bút chì gỗ dễ gọt. Viết vẽ êm. Nhiều độ cứng. Phù hợp học sinh kỹ thuật.",
+    "brand": "Staedtler",
+    "sku": "STA-0616-CHI",
+    "originalPrice": 34121,
+    "discountPercent": 12,
+    "unit": "chiếc/hộp",
+    "shortDescription": "Bút chì kim hoặc bút chì gỗ viết vẽ êm.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/but-chi-kim-but-chi-deli-cao-cap-616-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/but-chi-kim-but-chi-deli-cao-cap-616-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/but-chi-kim-but-chi-deli-cao-cap-616-c.webp"
+    ],
+    "specifications": {
+      "Loại": "Kim / Gỗ",
+      "Ngòi": "0.5-2.0mm hoặc 2B HB",
+      "Xuất xứ": "Nhật / Đức / Việt Nam"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 547
+    },
+    "stock": 220,
+    "soldCount": 1142,
+    "weight": 12,
+    "dimensions": {
+      "length": 18.1,
+      "width": 0.9,
+      "height": 1.0
+    },
+    "origin": "Nhật Bản / Đức / Việt Nam",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "bút chì",
+      "văn phòng",
+      "học tập",
+      "staedtler"
+    ],
+    "createdAt": "2026-01-20T00:00:00.000Z"
+  },
+  {
+    "id": "prod-617",
+    "name": "Bảng trắng / Bảng ghim Hòa Phát",
+    "slug": "bang-trang-bang-ghim-hoa-phat-617",
+    "price": 545000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/sach-van-phong-pham/bang-trang-bang-ghim-hoa-phat-617.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/sach-van-phong-pham/bang-trang-bang-ghim-hoa-phat-617.webp",
+    "description": "Bảng trắng viết êm dễ lau hoặc bảng ghim. Khung chắc chắn. Có thể treo tường. Kèm phụ kiện. Phù hợp văn phòng lớp học.",
+    "brand": "Thiên Long",
+    "sku": "THI-0617-CHI",
+    "originalPrice": 641000,
+    "discountPercent": 15,
+    "unit": "chiếc",
+    "shortDescription": "Bảng trắng từ tính hoặc bảng ghim treo tường.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/bang-trang-bang-ghim-hoa-phat-617-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/bang-trang-bang-ghim-hoa-phat-617-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/bang-trang-bang-ghim-hoa-phat-617-c.webp"
+    ],
+    "specifications": {
+      "Loại": "Trắng từ tính / Ghim",
+      "Kích thước": "40x60 đến 90x120cm",
+      "Khung": "Nhôm / Gỗ",
+      "Phụ kiện": "Có"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 364
+    },
+    "stock": 259,
+    "soldCount": 2109,
+    "weight": 2820,
+    "dimensions": {
+      "length": 91.3,
+      "width": 63.7,
+      "height": 1.8
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "12 tháng",
+    "tags": [
+      "bảng trắng",
+      "văn phòng",
+      "học tập",
+      "thien-long"
+    ],
+    "createdAt": "2026-08-10T00:00:00.000Z"
+  },
+  {
+    "id": "prod-618",
+    "name": "Kéo / Bấm ghim / Dụng cụ VP Flexoffice Pro",
+    "slug": "keo-bam-ghim-dung-cu-vp-flexoffice-pro-618",
+    "price": 72100,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/sach-van-phong-pham/keo-bam-ghim-dung-cu-vp-flexoffice-pro-618.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/sach-van-phong-pham/keo-bam-ghim-dung-cu-vp-flexoffice-pro-618.webp",
+    "description": "Dụng cụ văn phòng cơ bản: kéo cắt giấy bấm ghim thủng lỗ. Chất liệu bền. Thiết kế êm tay. Cần thiết cho mọi bàn làm việc.",
+    "brand": "Flexoffice",
+    "sku": "FLE-0618-CHI",
+    "originalPrice": 80340,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Kéo bấm ghim thủng lỗ dụng cụ văn phòng cần thiết.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/keo-bam-ghim-dung-cu-vp-flexoffice-pro-618-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/keo-bam-ghim-dung-cu-vp-flexoffice-pro-618-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/keo-bam-ghim-dung-cu-vp-flexoffice-pro-618-c.webp"
+    ],
+    "specifications": {
+      "Loại": "Kéo / Bấm ghim / Thủng lỗ",
+      "Chất liệu": "Thép / Nhựa",
+      "Đặc điểm": "Êm tay bền"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 314
+    },
+    "stock": 140,
+    "soldCount": 244,
+    "weight": 212,
+    "dimensions": {
+      "length": 21.4,
+      "width": 8.5,
+      "height": 3.2
+    },
+    "origin": "Việt Nam / Trung Quốc / Nhật Bản",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "dụng cụ văn phòng",
+      "kéo",
+      "bấm ghim",
+      "flexoffice"
+    ],
+    "createdAt": "2026-04-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-619",
+    "name": "Bút dạ quang / Bút lông Pilotlet",
+    "slug": "but-da-quang-but-long-pilotlet-619",
+    "price": 107000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/sach-van-phong-pham/but-da-quang-but-long-pilotlet-619.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/sach-van-phong-pham/but-da-quang-but-long-pilotlet-619.webp",
+    "description": "Bút dạ quang mực sáng không lem. Bút lông dầu hoặc nước viết đa bề mặt. Nhiều màu. Phù hợp học tập văn phòng.",
+    "brand": "Deli",
+    "sku": "DEL-0619-VỈ/",
+    "originalPrice": 129000,
+    "discountPercent": 17,
+    "unit": "vỉ/hộp",
+    "shortDescription": "Bút dạ quang hoặc bút lông nhiều màu sắc nổi bật.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/but-da-quang-but-long-pilotlet-619-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/but-da-quang-but-long-pilotlet-619-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/but-da-quang-but-long-pilotlet-619-c.webp"
+    ],
+    "specifications": {
+      "Loại": "Dạ quang / Lông dầu / Lông màu",
+      "Số màu": "4-12",
+      "Đặc điểm": "Không lem / Bền màu"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 600
+    },
+    "stock": 276,
+    "soldCount": 1996,
+    "weight": 73,
+    "dimensions": {
+      "length": 15.7,
+      "width": 8.1,
+      "height": 2.0
+    },
+    "origin": "Đức / Nhật Bản / Việt Nam / Trung Quốc",
+    "warranty": "Theo HSD mực",
+    "tags": [
+      "dạ quang",
+      "bút lông",
+      "học tập",
+      "deli"
+    ],
+    "createdAt": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "prod-620",
+    "name": "Cặp tài liệu / Túi đựng hồ sơ Deli",
+    "slug": "cap-tai-lieu-tui-dung-ho-so-deli-620",
+    "price": 129000,
+    "categoryId": "cat-6",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/sach-van-phong-pham/cap-tai-lieu-tui-dung-ho-so-deli-620.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/sach-van-phong-pham/cap-tai-lieu-tui-dung-ho-so-deli-620.webp",
+    "description": "Cặp hoặc túi đựng tài liệu A4. Nhiều ngăn phân loại. Chất liệu nhựa hoặc vải bền. Có nhãn ghi chú. Bảo vệ hồ sơ tốt.",
+    "brand": "Thiên Long",
+    "sku": "THI-0620-CHI",
+    "originalPrice": 141000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Cặp tài liệu nhiều ngăn hoặc túi hồ sơ A4.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/cap-tai-lieu-tui-dung-ho-so-deli-620-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/cap-tai-lieu-tui-dung-ho-so-deli-620-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/sach-van-phong-pham/cap-tai-lieu-tui-dung-ho-so-deli-620-c.webp"
+    ],
+    "specifications": {
+      "Kích thước": "A4",
+      "Số ngăn": "1-12",
+      "Chất liệu": "Nhựa / Vải",
+      "Nhãn": "Có"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 444
+    },
+    "stock": 210,
+    "soldCount": 1079,
+    "weight": 254,
+    "dimensions": {
+      "length": 32.0,
+      "width": 23.0,
+      "height": 3.1
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "cặp tài liệu",
+      "hồ sơ",
+      "văn phòng",
+      "thien-long"
+    ],
+    "createdAt": "2026-06-23T00:00:00.000Z"
+  }
+]

@@ -1,1 +1,954 @@
-[]
+[
+  {
+    "id": "prod-401",
+    "name": "Serum CeraVe Retinol",
+    "slug": "serum-cerave-retinol-401",
+    "price": 403000,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/my-pham-cham-soc-ca-nhan/serum-cerave-retinol-401.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/my-pham-cham-soc-ca-nhan/serum-cerave-retinol-401.webp",
+    "description": "Serum công thức tập trung hoạt chất. Hỗ trợ làm sáng mờ thâm cấp ẩm hoặc trị mụn tùy loại. Phù hợp nhiều loại da. Sử dụng theo hướng dẫn.",
+    "brand": "CeraVe",
+    "sku": "CER-0401-CHA",
+    "originalPrice": 487000,
+    "discountPercent": 17,
+    "unit": "chai",
+    "shortDescription": "Serum dưỡng da chuyên sâu cải thiện làn da.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/serum-cerave-retinol-401-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/serum-cerave-retinol-401-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/serum-cerave-retinol-401-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "30ml",
+      "Thành phần chính": "Hoạt chất đậm đặc",
+      "Công dụng": "Dưỡng da chuyên sâu",
+      "Cách dùng": "Sáng/Tối"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 595
+    },
+    "stock": 119,
+    "soldCount": 3090,
+    "weight": 42,
+    "dimensions": {
+      "length": 3.9,
+      "width": 4.0,
+      "height": 10.2
+    },
+    "origin": "Canada / Pháp / Hàn Quốc",
+    "warranty": "Theo HSD",
+    "tags": [
+      "serum",
+      "dưỡng da",
+      "skincare",
+      "cerave"
+    ],
+    "createdAt": "2026-06-29T00:00:00.000Z"
+  },
+  {
+    "id": "prod-402",
+    "name": "Kem chống nắng Senka SPF50+ 2025",
+    "slug": "kem-chong-nang-senka-spf50-2025-402",
+    "price": 552000,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/my-pham-cham-soc-ca-nhan/kem-chong-nang-senka-spf50-2025-402.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/my-pham-cham-soc-ca-nhan/kem-chong-nang-senka-spf50-2025-402.webp",
+    "description": "Kem chống nắng bảo vệ cao SPF50+ PA++++. Công nghệ chống nước mồ hôi. Kết cấu mỏng nhẹ không gây nhờn. Có thể dùng làm lớp lót.",
+    "brand": "Biore",
+    "sku": "BIO-0402-CHA",
+    "originalPrice": 659000,
+    "discountPercent": 16,
+    "unit": "chai",
+    "shortDescription": "Kem chống nắng SPF50+ PA++++ chống nước không nhờn.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/kem-chong-nang-senka-spf50-2025-402-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/kem-chong-nang-senka-spf50-2025-402-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/kem-chong-nang-senka-spf50-2025-402-c.webp"
+    ],
+    "specifications": {
+      "SPF": "50+",
+      "PA": "++++",
+      "Dung tích": "40-60ml",
+      "Chống nước": "Có",
+      "Kết cấu": "Mỏng nhẹ"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 585
+    },
+    "stock": 32,
+    "soldCount": 103,
+    "weight": 74,
+    "dimensions": {
+      "length": 4.9,
+      "width": 5.5,
+      "height": 13.1
+    },
+    "origin": "Nhật Bản / Pháp / Hàn Quốc",
+    "warranty": "Theo HSD",
+    "tags": [
+      "kem chống nắng",
+      "spf50",
+      "chống nước",
+      "biore"
+    ],
+    "createdAt": "2026-07-24T00:00:00.000Z"
+  },
+  {
+    "id": "prod-403",
+    "name": "Sữa rửa mặt Cetaphil Mini",
+    "slug": "sua-rua-mat-cetaphil-mini-403",
+    "price": 322000,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/my-pham-cham-soc-ca-nhan/sua-rua-mat-cetaphil-mini-403.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/my-pham-cham-soc-ca-nhan/sua-rua-mat-cetaphil-mini-403.webp",
+    "description": "Sữa rửa mặt công thức dịu nhẹ làm sạch mà không phá vỡ hàng rào da. Phù hợp da nhạy cảm hoặc da dầu mụn. pH cân bằng.",
+    "brand": "La Roche-Posay",
+    "sku": "LA -0403-CHA",
+    "originalPrice": 389000,
+    "discountPercent": 17,
+    "unit": "chai",
+    "shortDescription": "Sữa rửa mặt dịu nhẹ làm sạch sâu không khô da.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/sua-rua-mat-cetaphil-mini-403-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/sua-rua-mat-cetaphil-mini-403-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/sua-rua-mat-cetaphil-mini-403-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "150-236ml",
+      "Loại da": "Mọi loại / Nhạy cảm",
+      "Công thức": "Dịu nhẹ",
+      "Không hương liệu": "Tùy loại"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 479
+    },
+    "stock": 95,
+    "soldCount": 2846,
+    "weight": 249,
+    "dimensions": {
+      "length": 6.3,
+      "width": 5.6,
+      "height": 16.7
+    },
+    "origin": "Mỹ / Pháp / Nhật Bản",
+    "warranty": "Theo HSD",
+    "tags": [
+      "sữa rửa mặt",
+      "làm sạch",
+      "skincare",
+      "la-roche-posay"
+    ],
+    "createdAt": "2026-02-03T00:00:00.000Z"
+  },
+  {
+    "id": "prod-404",
+    "name": "Son môi 3CE",
+    "slug": "son-moi-3ce-404",
+    "price": 274000,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/my-pham-cham-soc-ca-nhan/son-moi-3ce-404.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/my-pham-cham-soc-ca-nhan/son-moi-3ce-404.webp",
+    "description": "Son môi lên màu chuẩn. Đa dạng chất son lì bán lì dưỡng. Bền màu nhiều giờ. Nhiều tông màu từ cơ bản đến trendy.",
+    "brand": "Innisfree",
+    "sku": "INN-0404-THỎ",
+    "originalPrice": 313000,
+    "discountPercent": 12,
+    "unit": "thỏi",
+    "shortDescription": "Son môi màu chuẩn bền màu nhiều chất son.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/son-moi-3ce-404-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/son-moi-3ce-404-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/son-moi-3ce-404-c.webp"
+    ],
+    "specifications": {
+      "Loại": "Lì / Dưỡng / Tint",
+      "Độ bền": "4-8 giờ",
+      "Dung tích": "3-3.5g"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 25
+    },
+    "stock": 174,
+    "soldCount": 1960,
+    "weight": 28,
+    "dimensions": {
+      "length": 1.9,
+      "width": 1.9,
+      "height": 7.5
+    },
+    "origin": "Canada / Hàn Quốc / Mỹ / Pháp",
+    "warranty": "Theo HSD",
+    "tags": [
+      "son môi",
+      "makeup",
+      "bền màu",
+      "innisfree"
+    ],
+    "createdAt": "2026-07-15T00:00:00.000Z"
+  },
+  {
+    "id": "prod-405",
+    "name": "Mặt nạ Innisfree ngủ Plus",
+    "slug": "mat-na-innisfree-ngu-plus-405",
+    "price": 142000,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/my-pham-cham-soc-ca-nhan/mat-na-innisfree-ngu-plus-405.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/my-pham-cham-soc-ca-nhan/mat-na-innisfree-ngu-plus-405.webp",
+    "description": "Mặt nạ đa dạng loại cấp ẩm làm sạch đất sét hoặc ngủ. Hỗ trợ cải thiện tình trạng da. Sử dụng định kỳ theo hướng dẫn.",
+    "brand": "Senka",
+    "sku": "SEN-0405-HŨ/",
+    "originalPrice": 172000,
+    "discountPercent": 17,
+    "unit": "hũ/hộp",
+    "shortDescription": "Mặt nạ dưỡng da cấp ẩm làm sạch hoặc ngủ.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/mat-na-innisfree-ngu-plus-405-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/mat-na-innisfree-ngu-plus-405-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/mat-na-innisfree-ngu-plus-405-c.webp"
+    ],
+    "specifications": {
+      "Loại": "Ngủ / Đất sét / Giấy",
+      "Dung tích": "50-100ml hoặc 10 miếng",
+      "Tần suất": "1-3 lần/tuần"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 345
+    },
+    "stock": 274,
+    "soldCount": 950,
+    "weight": 118,
+    "dimensions": {
+      "length": 7.0,
+      "width": 7.1,
+      "height": 5.8
+    },
+    "origin": "Hàn Quốc / Nhật Bản",
+    "warranty": "Theo HSD",
+    "tags": [
+      "mặt nạ",
+      "dưỡng da",
+      "skincare",
+      "senka"
+    ],
+    "createdAt": "2026-09-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-406",
+    "name": "Dầu gội / Sữa tắm Dove",
+    "slug": "dau-goi-sua-tam-dove-406",
+    "price": 107000,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/my-pham-cham-soc-ca-nhan/dau-goi-sua-tam-dove-406.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/my-pham-cham-soc-ca-nhan/dau-goi-sua-tam-dove-406.webp",
+    "description": "Dầu gội trị gàu hoặc dưỡng tóc. Sữa tắm dưỡng ẩm làm sạch nhẹ nhàng. Hương thơm dễ chịu. Phù hợp sử dụng hàng ngày.",
+    "brand": "Bioré",
+    "sku": "BIO-0406-CHA",
+    "originalPrice": 123000,
+    "discountPercent": 13,
+    "unit": "chai",
+    "shortDescription": "Dầu gội hoặc sữa tắm dưỡng ẩm hương thơm dễ chịu.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/dau-goi-sua-tam-dove-406-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/dau-goi-sua-tam-dove-406-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/dau-goi-sua-tam-dove-406-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "300-850ml",
+      "Công dụng": "Làm sạch dưỡng ẩm",
+      "Hương": "Đa dạng"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 359
+    },
+    "stock": 189,
+    "soldCount": 1252,
+    "weight": 899,
+    "dimensions": {
+      "length": 7.8,
+      "width": 7.8,
+      "height": 23.7
+    },
+    "origin": "Thái Lan / Việt Nam / Nhật Bản",
+    "warranty": "Theo HSD",
+    "tags": [
+      "dầu gội",
+      "sữa tắm",
+      "chăm sóc cá nhân",
+      "biore"
+    ],
+    "createdAt": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "prod-407",
+    "name": "Nước hoa Versace 100ml",
+    "slug": "nuoc-hoa-versace-100ml-407",
+    "price": 1970000,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/my-pham-cham-soc-ca-nhan/nuoc-hoa-versace-100ml-407.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/my-pham-cham-soc-ca-nhan/nuoc-hoa-versace-100ml-407.webp",
+    "description": "Nước hoa chính hãng từ thương hiệu nổi tiếng. Hương thơm đặc trưng lưu hương tốt. Phù hợp sử dụng hàng ngày hoặc dịp đặc biệt.",
+    "brand": "Dior",
+    "sku": "DIO-0407-CHA",
+    "originalPrice": 2350000,
+    "discountPercent": 16,
+    "unit": "chai",
+    "shortDescription": "Nước hoa chính hãng hương thơm lưu lâu.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/nuoc-hoa-versace-100ml-407-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/nuoc-hoa-versace-100ml-407-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/nuoc-hoa-versace-100ml-407-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "50-100ml",
+      "Nồng độ": "EDT / EDP",
+      "Lưu hương": "4-8 giờ",
+      "Giới tính": "Nam / Nữ / Unisex"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 60
+    },
+    "stock": 169,
+    "soldCount": 1612,
+    "weight": 314,
+    "dimensions": {
+      "length": 5.7,
+      "width": 5.1,
+      "height": 13.0
+    },
+    "origin": "Pháp / Ý / Mỹ",
+    "warranty": "Theo HSD",
+    "tags": [
+      "nước hoa",
+      "hương thơm",
+      "chính hãng",
+      "dior"
+    ],
+    "createdAt": "2026-09-06T00:00:00.000Z"
+  },
+  {
+    "id": "prod-408",
+    "name": "Kem dưỡng ẩm La Roche-Posay 2025",
+    "slug": "kem-duong-am-la-roche-posay-2025-408",
+    "price": 202000,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/my-pham-cham-soc-ca-nhan/kem-duong-am-la-roche-posay-2025-408.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/my-pham-cham-soc-ca-nhan/kem-duong-am-la-roche-posay-2025-408.webp",
+    "description": "Kem dưỡng ẩm công thức dịu nhẹ. Phục hồi và bảo vệ hàng rào da. Phù hợp da nhạy cảm. Thẩm thấu nhanh không nhờn.",
+    "brand": "Hada Labo",
+    "sku": "HAD-0408-HŨ",
+    "originalPrice": 249000,
+    "discountPercent": 19,
+    "unit": "hũ",
+    "shortDescription": "Kem dưỡng ẩm phục hồi hàng rào da dịu nhẹ.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/kem-duong-am-la-roche-posay-2025-408-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/kem-duong-am-la-roche-posay-2025-408-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/kem-duong-am-la-roche-posay-2025-408-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "40-100ml",
+      "Loại da": "Nhạy cảm / Mọi loại",
+      "Công dụng": "Dưỡng ẩm phục hồi"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 687
+    },
+    "stock": 103,
+    "soldCount": 1362,
+    "weight": 97,
+    "dimensions": {
+      "length": 5.0,
+      "width": 5.0,
+      "height": 6.0
+    },
+    "origin": "Pháp / Mỹ / Nhật Bản / Hàn Quốc",
+    "warranty": "Theo HSD",
+    "tags": [
+      "kem dưỡng",
+      "dưỡng ẩm",
+      "skincare",
+      "hada-labo"
+    ],
+    "createdAt": "2026-05-26T00:00:00.000Z"
+  },
+  {
+    "id": "prod-409",
+    "name": "Nước tẩy trang Bioderma",
+    "slug": "nuoc-tay-trang-bioderma-409",
+    "price": 381000,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/my-pham-cham-soc-ca-nhan/nuoc-tay-trang-bioderma-409.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/my-pham-cham-soc-ca-nhan/nuoc-tay-trang-bioderma-409.webp",
+    "description": "Nước tẩy trang micellar làm sạch trang điểm và bụi bẩn. Dịu nhẹ không cần rửa lại. Phù hợp da nhạy cảm. Dung tích lớn tiện dụng.",
+    "brand": "Garnier",
+    "sku": "GAR-0409-CHA",
+    "originalPrice": 446000,
+    "discountPercent": 15,
+    "unit": "chai",
+    "shortDescription": "Nước tẩy trang micellar làm sạch dịu nhẹ.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/nuoc-tay-trang-bioderma-409-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/nuoc-tay-trang-bioderma-409-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/nuoc-tay-trang-bioderma-409-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "200-500ml",
+      "Loại": "Micellar",
+      "Loại da": "Mọi loại / Nhạy cảm",
+      "Rửa lại": "Không cần"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 875
+    },
+    "stock": 58,
+    "soldCount": 892,
+    "weight": 283,
+    "dimensions": {
+      "length": 6.6,
+      "width": 7.2,
+      "height": 17.0
+    },
+    "origin": "Pháp / Nhật Bản / Thái Lan",
+    "warranty": "Theo HSD",
+    "tags": [
+      "tẩy trang",
+      "micellar",
+      "làm sạch",
+      "garnier"
+    ],
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-410",
+    "name": "Lăn khử mùi Adidas",
+    "slug": "lan-khu-mui-adidas-410",
+    "price": 65200,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/my-pham-cham-soc-ca-nhan/lan-khu-mui-adidas-410.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/my-pham-cham-soc-ca-nhan/lan-khu-mui-adidas-410.webp",
+    "description": "Lăn khử mùi kháng khuẩn hiệu quả lâu dài. Không gây ố vàng quần áo. Thấm nhanh không nhờn. Hương thơm dễ chịu.",
+    "brand": "Nivea",
+    "sku": "NIV-0410-CHA",
+    "originalPrice": 70679,
+    "discountPercent": 8,
+    "unit": "chai",
+    "shortDescription": "Lăn khử mùi kháng khuẩn khô thoáng 24-48 giờ.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/lan-khu-mui-adidas-410-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/lan-khu-mui-adidas-410-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/lan-khu-mui-adidas-410-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "40-50ml",
+      "Hiệu quả": "24-48 giờ",
+      "Đặc điểm": "Không ố vàng",
+      "Loại": "Lăn"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 591
+    },
+    "stock": 41,
+    "soldCount": 2405,
+    "weight": 72,
+    "dimensions": {
+      "length": 3.9,
+      "width": 3.7,
+      "height": 10.9
+    },
+    "origin": "Đức / Thái Lan / Anh",
+    "warranty": "Theo HSD",
+    "tags": [
+      "khử mùi",
+      "chăm sóc cá nhân",
+      "nivea"
+    ],
+    "createdAt": "2026-08-13T00:00:00.000Z"
+  },
+  {
+    "id": "prod-411",
+    "name": "Serum La Roche-Posay HA",
+    "slug": "serum-la-roche-posay-ha-411",
+    "price": 850000,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/my-pham-cham-soc-ca-nhan/serum-la-roche-posay-ha-411.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/my-pham-cham-soc-ca-nhan/serum-la-roche-posay-ha-411.webp",
+    "description": "Serum công thức tập trung hoạt chất. Hỗ trợ làm sáng mờ thâm cấp ẩm hoặc trị mụn tùy loại. Phù hợp nhiều loại da. Sử dụng theo hướng dẫn.",
+    "brand": "Some By Mi",
+    "sku": "SOM-0411-CHA",
+    "originalPrice": 976000,
+    "discountPercent": 13,
+    "unit": "chai",
+    "shortDescription": "Serum dưỡng da chuyên sâu cải thiện làn da.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/serum-la-roche-posay-ha-411-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/serum-la-roche-posay-ha-411-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/serum-la-roche-posay-ha-411-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "30ml",
+      "Thành phần chính": "Hoạt chất đậm đặc",
+      "Công dụng": "Dưỡng da chuyên sâu",
+      "Cách dùng": "Sáng/Tối"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 653
+    },
+    "stock": 37,
+    "soldCount": 3146,
+    "weight": 60,
+    "dimensions": {
+      "length": 3.6,
+      "width": 4.1,
+      "height": 10.1
+    },
+    "origin": "Canada / Pháp / Hàn Quốc",
+    "warranty": "Theo HSD",
+    "tags": [
+      "serum",
+      "dưỡng da",
+      "skincare",
+      "some-by-mi"
+    ],
+    "createdAt": "2026-07-24T00:00:00.000Z"
+  },
+  {
+    "id": "prod-412",
+    "name": "Kem chống nắng Senka SPF50+ cao cấp",
+    "slug": "kem-chong-nang-senka-spf50-cao-cap-412",
+    "price": 453000,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/my-pham-cham-soc-ca-nhan/kem-chong-nang-senka-spf50-cao-cap-412.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/my-pham-cham-soc-ca-nhan/kem-chong-nang-senka-spf50-cao-cap-412.webp",
+    "description": "Kem chống nắng bảo vệ cao SPF50+ PA++++. Công nghệ chống nước mồ hôi. Kết cấu mỏng nhẹ không gây nhờn. Có thể dùng làm lớp lót.",
+    "brand": "Biore",
+    "sku": "BIO-0412-CHA",
+    "originalPrice": 497000,
+    "discountPercent": 9,
+    "unit": "chai",
+    "shortDescription": "Kem chống nắng SPF50+ PA++++ chống nước không nhờn.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/kem-chong-nang-senka-spf50-cao-cap-412-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/kem-chong-nang-senka-spf50-cao-cap-412-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/kem-chong-nang-senka-spf50-cao-cap-412-c.webp"
+    ],
+    "specifications": {
+      "SPF": "50+",
+      "PA": "++++",
+      "Dung tích": "40-60ml",
+      "Chống nước": "Có",
+      "Kết cấu": "Mỏng nhẹ"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 861
+    },
+    "stock": 343,
+    "soldCount": 176,
+    "weight": 69,
+    "dimensions": {
+      "length": 5.1,
+      "width": 4.8,
+      "height": 13.0
+    },
+    "origin": "Nhật Bản / Pháp / Hàn Quốc",
+    "warranty": "Theo HSD",
+    "tags": [
+      "kem chống nắng",
+      "spf50",
+      "chống nước",
+      "biore"
+    ],
+    "createdAt": "2026-05-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-413",
+    "name": "Sữa rửa mặt La Roche-Posay",
+    "slug": "sua-rua-mat-la-roche-posay-413",
+    "price": 334000,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/my-pham-cham-soc-ca-nhan/sua-rua-mat-la-roche-posay-413.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/my-pham-cham-soc-ca-nhan/sua-rua-mat-la-roche-posay-413.webp",
+    "description": "Sữa rửa mặt công thức dịu nhẹ làm sạch mà không phá vỡ hàng rào da. Phù hợp da nhạy cảm hoặc da dầu mụn. pH cân bằng.",
+    "brand": "La Roche-Posay",
+    "sku": "LA -0413-CHA",
+    "originalPrice": 406000,
+    "discountPercent": 18,
+    "unit": "chai",
+    "shortDescription": "Sữa rửa mặt dịu nhẹ làm sạch sâu không khô da.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/sua-rua-mat-la-roche-posay-413-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/sua-rua-mat-la-roche-posay-413-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/sua-rua-mat-la-roche-posay-413-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "150-236ml",
+      "Loại da": "Mọi loại / Nhạy cảm",
+      "Công thức": "Dịu nhẹ",
+      "Không hương liệu": "Tùy loại"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 834
+    },
+    "stock": 336,
+    "soldCount": 1578,
+    "weight": 249,
+    "dimensions": {
+      "length": 5.8,
+      "width": 6.2,
+      "height": 15.4
+    },
+    "origin": "Mỹ / Pháp / Nhật Bản",
+    "warranty": "Theo HSD",
+    "tags": [
+      "sữa rửa mặt",
+      "làm sạch",
+      "skincare",
+      "la-roche-posay"
+    ],
+    "createdAt": "2026-09-17T00:00:00.000Z"
+  },
+  {
+    "id": "prod-414",
+    "name": "Son môi MAC",
+    "slug": "son-moi-mac-414",
+    "price": 297000,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/my-pham-cham-soc-ca-nhan/son-moi-mac-414.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/my-pham-cham-soc-ca-nhan/son-moi-mac-414.webp",
+    "description": "Son môi lên màu chuẩn. Đa dạng chất son lì bán lì dưỡng. Bền màu nhiều giờ. Nhiều tông màu từ cơ bản đến trendy.",
+    "brand": "Innisfree",
+    "sku": "INN-0414-THỎ",
+    "originalPrice": 327000,
+    "discountPercent": 9,
+    "unit": "thỏi",
+    "shortDescription": "Son môi màu chuẩn bền màu nhiều chất son.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/son-moi-mac-414-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/son-moi-mac-414-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/son-moi-mac-414-c.webp"
+    ],
+    "specifications": {
+      "Loại": "Lì / Dưỡng / Tint",
+      "Độ bền": "4-8 giờ",
+      "Dung tích": "3-3.5g"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 235
+    },
+    "stock": 181,
+    "soldCount": 917,
+    "weight": 15,
+    "dimensions": {
+      "length": 2.0,
+      "width": 2.0,
+      "height": 8.1
+    },
+    "origin": "Canada / Hàn Quốc / Mỹ / Pháp",
+    "warranty": "Theo HSD",
+    "tags": [
+      "son môi",
+      "makeup",
+      "bền màu",
+      "innisfree"
+    ],
+    "createdAt": "2026-04-30T00:00:00.000Z"
+  },
+  {
+    "id": "prod-415",
+    "name": "Mặt nạ Senka đất sét limited",
+    "slug": "mat-na-senka-dat-set-limited-415",
+    "price": 354000,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/my-pham-cham-soc-ca-nhan/mat-na-senka-dat-set-limited-415.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/my-pham-cham-soc-ca-nhan/mat-na-senka-dat-set-limited-415.webp",
+    "description": "Mặt nạ đa dạng loại cấp ẩm làm sạch đất sét hoặc ngủ. Hỗ trợ cải thiện tình trạng da. Sử dụng định kỳ theo hướng dẫn.",
+    "brand": "Senka",
+    "sku": "SEN-0415-HŨ/",
+    "originalPrice": 394000,
+    "discountPercent": 10,
+    "unit": "hũ/hộp",
+    "shortDescription": "Mặt nạ dưỡng da cấp ẩm làm sạch hoặc ngủ.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/mat-na-senka-dat-set-limited-415-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/mat-na-senka-dat-set-limited-415-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/mat-na-senka-dat-set-limited-415-c.webp"
+    ],
+    "specifications": {
+      "Loại": "Ngủ / Đất sét / Giấy",
+      "Dung tích": "50-100ml hoặc 10 miếng",
+      "Tần suất": "1-3 lần/tuần"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 582
+    },
+    "stock": 241,
+    "soldCount": 2690,
+    "weight": 103,
+    "dimensions": {
+      "length": 7.2,
+      "width": 7.1,
+      "height": 5.5
+    },
+    "origin": "Hàn Quốc / Nhật Bản",
+    "warranty": "Theo HSD",
+    "tags": [
+      "mặt nạ",
+      "dưỡng da",
+      "skincare",
+      "senka"
+    ],
+    "createdAt": "2026-06-04T00:00:00.000Z"
+  },
+  {
+    "id": "prod-416",
+    "name": "Dầu gội / Sữa tắm Head & Shoulders cao cấp",
+    "slug": "dau-goi-sua-tam-head-shoulders-cao-cap-416",
+    "price": 90700,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/my-pham-cham-soc-ca-nhan/dau-goi-sua-tam-head-shoulders-cao-cap-416.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/my-pham-cham-soc-ca-nhan/dau-goi-sua-tam-head-shoulders-cao-cap-416.webp",
+    "description": "Dầu gội trị gàu hoặc dưỡng tóc. Sữa tắm dưỡng ẩm làm sạch nhẹ nhàng. Hương thơm dễ chịu. Phù hợp sử dụng hàng ngày.",
+    "brand": "Pantene",
+    "sku": "PAN-0416-CHA",
+    "originalPrice": 101000,
+    "discountPercent": 10,
+    "unit": "chai",
+    "shortDescription": "Dầu gội hoặc sữa tắm dưỡng ẩm hương thơm dễ chịu.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/dau-goi-sua-tam-head-shoulders-cao-cap-416-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/dau-goi-sua-tam-head-shoulders-cao-cap-416-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/dau-goi-sua-tam-head-shoulders-cao-cap-416-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "300-850ml",
+      "Công dụng": "Làm sạch dưỡng ẩm",
+      "Hương": "Đa dạng"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 311
+    },
+    "stock": 322,
+    "soldCount": 335,
+    "weight": 848,
+    "dimensions": {
+      "length": 8.7,
+      "width": 7.8,
+      "height": 22.8
+    },
+    "origin": "Thái Lan / Việt Nam / Nhật Bản",
+    "warranty": "Theo HSD",
+    "tags": [
+      "dầu gội",
+      "sữa tắm",
+      "chăm sóc cá nhân",
+      "pantene"
+    ],
+    "createdAt": "2026-09-02T00:00:00.000Z"
+  },
+  {
+    "id": "prod-417",
+    "name": "Nước hoa Chanel 100ml",
+    "slug": "nuoc-hoa-chanel-100ml-417",
+    "price": 4080000,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/my-pham-cham-soc-ca-nhan/nuoc-hoa-chanel-100ml-417.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/my-pham-cham-soc-ca-nhan/nuoc-hoa-chanel-100ml-417.webp",
+    "description": "Nước hoa chính hãng từ thương hiệu nổi tiếng. Hương thơm đặc trưng lưu hương tốt. Phù hợp sử dụng hàng ngày hoặc dịp đặc biệt.",
+    "brand": "Gucci",
+    "sku": "GUC-0417-CHA",
+    "originalPrice": 4860000,
+    "discountPercent": 16,
+    "unit": "chai",
+    "shortDescription": "Nước hoa chính hãng hương thơm lưu lâu.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/nuoc-hoa-chanel-100ml-417-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/nuoc-hoa-chanel-100ml-417-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/nuoc-hoa-chanel-100ml-417-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "50-100ml",
+      "Nồng độ": "EDT / EDP",
+      "Lưu hương": "4-8 giờ",
+      "Giới tính": "Nam / Nữ / Unisex"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 458
+    },
+    "stock": 91,
+    "soldCount": 69,
+    "weight": 377,
+    "dimensions": {
+      "length": 6.1,
+      "width": 5.1,
+      "height": 11.7
+    },
+    "origin": "Pháp / Ý / Mỹ",
+    "warranty": "Theo HSD",
+    "tags": [
+      "nước hoa",
+      "hương thơm",
+      "chính hãng",
+      "gucci"
+    ],
+    "createdAt": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "prod-418",
+    "name": "Kem dưỡng ẩm CeraVe",
+    "slug": "kem-duong-am-cerave-418",
+    "price": 334000,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/my-pham-cham-soc-ca-nhan/kem-duong-am-cerave-418.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/my-pham-cham-soc-ca-nhan/kem-duong-am-cerave-418.webp",
+    "description": "Kem dưỡng ẩm công thức dịu nhẹ. Phục hồi và bảo vệ hàng rào da. Phù hợp da nhạy cảm. Thẩm thấu nhanh không nhờn.",
+    "brand": "Innisfree",
+    "sku": "INN-0418-HŨ",
+    "originalPrice": 408000,
+    "discountPercent": 18,
+    "unit": "hũ",
+    "shortDescription": "Kem dưỡng ẩm phục hồi hàng rào da dịu nhẹ.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/kem-duong-am-cerave-418-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/kem-duong-am-cerave-418-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/kem-duong-am-cerave-418-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "40-100ml",
+      "Loại da": "Nhạy cảm / Mọi loại",
+      "Công dụng": "Dưỡng ẩm phục hồi"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 813
+    },
+    "stock": 161,
+    "soldCount": 2044,
+    "weight": 67,
+    "dimensions": {
+      "length": 5.2,
+      "width": 4.8,
+      "height": 6.0
+    },
+    "origin": "Pháp / Mỹ / Nhật Bản / Hàn Quốc",
+    "warranty": "Theo HSD",
+    "tags": [
+      "kem dưỡng",
+      "dưỡng ẩm",
+      "skincare",
+      "innisfree"
+    ],
+    "createdAt": "2026-06-05T00:00:00.000Z"
+  },
+  {
+    "id": "prod-419",
+    "name": "Nước tẩy trang Bioderma 2026",
+    "slug": "nuoc-tay-trang-bioderma-2026-419",
+    "price": 246000,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/my-pham-cham-soc-ca-nhan/nuoc-tay-trang-bioderma-2026-419.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/my-pham-cham-soc-ca-nhan/nuoc-tay-trang-bioderma-2026-419.webp",
+    "description": "Nước tẩy trang micellar làm sạch trang điểm và bụi bẩn. Dịu nhẹ không cần rửa lại. Phù hợp da nhạy cảm. Dung tích lớn tiện dụng.",
+    "brand": "Bioderma",
+    "sku": "BIO-0419-CHA",
+    "originalPrice": 302000,
+    "discountPercent": 19,
+    "unit": "chai",
+    "shortDescription": "Nước tẩy trang micellar làm sạch dịu nhẹ.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/nuoc-tay-trang-bioderma-2026-419-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/nuoc-tay-trang-bioderma-2026-419-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/nuoc-tay-trang-bioderma-2026-419-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "200-500ml",
+      "Loại": "Micellar",
+      "Loại da": "Mọi loại / Nhạy cảm",
+      "Rửa lại": "Không cần"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 764
+    },
+    "stock": 43,
+    "soldCount": 3704,
+    "weight": 321,
+    "dimensions": {
+      "length": 7.5,
+      "width": 6.6,
+      "height": 18.8
+    },
+    "origin": "Pháp / Nhật Bản / Thái Lan",
+    "warranty": "Theo HSD",
+    "tags": [
+      "tẩy trang",
+      "micellar",
+      "làm sạch",
+      "bioderma"
+    ],
+    "createdAt": "2026-01-19T00:00:00.000Z"
+  },
+  {
+    "id": "prod-420",
+    "name": "Lăn khử mùi Gillette",
+    "slug": "lan-khu-mui-gillette-420",
+    "price": 98100,
+    "categoryId": "cat-4",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/my-pham-cham-soc-ca-nhan/lan-khu-mui-gillette-420.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/my-pham-cham-soc-ca-nhan/lan-khu-mui-gillette-420.webp",
+    "description": "Lăn khử mùi kháng khuẩn hiệu quả lâu dài. Không gây ố vàng quần áo. Thấm nhanh không nhờn. Hương thơm dễ chịu.",
+    "brand": "Nivea",
+    "sku": "NIV-0420-CHA",
+    "originalPrice": 119000,
+    "discountPercent": 18,
+    "unit": "chai",
+    "shortDescription": "Lăn khử mùi kháng khuẩn khô thoáng 24-48 giờ.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/lan-khu-mui-gillette-420-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/lan-khu-mui-gillette-420-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/lan-khu-mui-gillette-420-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "40-50ml",
+      "Hiệu quả": "24-48 giờ",
+      "Đặc điểm": "Không ố vàng",
+      "Loại": "Lăn"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 503
+    },
+    "stock": 339,
+    "soldCount": 3225,
+    "weight": 56,
+    "dimensions": {
+      "length": 4.3,
+      "width": 4.0,
+      "height": 12.1
+    },
+    "origin": "Đức / Thái Lan / Anh",
+    "warranty": "Theo HSD",
+    "tags": [
+      "khử mùi",
+      "chăm sóc cá nhân",
+      "nivea"
+    ],
+    "createdAt": "2026-02-22T00:00:00.000Z"
+  }
+]

@@ -178,7 +178,7 @@
       "GPS": "Có"
     },
     "rating": {
-      "average": 4,
+      "average": 4.0,
       "count": 258
     },
     "stock": 56,
@@ -429,8 +429,8 @@
     "soldCount": 2100,
     "weight": 1093,
     "dimensions": {
-      "length": 37,
-      "width": 12,
+      "length": 37.0,
+      "width": 12.0,
       "height": 3.5
     },
     "origin": "Trung Quốc",
@@ -522,7 +522,7 @@
       "Pin": "5000mAh sạc nhanh"
     },
     "rating": {
-      "average": 4,
+      "average": 4.0,
       "count": 769
     },
     "stock": 253,
@@ -579,7 +579,7 @@
     "soldCount": 1684,
     "weight": 1633,
     "dimensions": {
-      "length": 35,
+      "length": 35.0,
       "width": 23.9,
       "height": 1.7
     },
@@ -730,7 +730,7 @@
     "weight": 509,
     "dimensions": {
       "length": 26.8,
-      "width": 15,
+      "width": 15.0,
       "height": 0.7
     },
     "origin": "Trung Quốc / Việt Nam",
@@ -868,7 +868,7 @@
       "Nút": "Tùy chỉnh"
     },
     "rating": {
-      "average": 4,
+      "average": 4.0,
       "count": 341
     },
     "stock": 34,
@@ -923,7 +923,7 @@
     "soldCount": 541,
     "weight": 960,
     "dimensions": {
-      "length": 33,
+      "length": 33.0,
       "width": 12.2,
       "height": 3.6
     },

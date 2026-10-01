@@ -25,12 +25,6 @@ categories = [
     { 'id': 'cat-10', 'name': 'Vật nuôi - thú cưng', 'slug': 'vat-nuoi-thu-cung' }
 ]
 
-# Write categories.json
-os.makedirs('packages/data/json', exist_ok=True)
-with open('packages/data/json/categories.json', 'w', encoding='utf-8') as f:
-    json.dump(categories, f, ensure_ascii=False, indent=2)
-print('Updated categories.json')
-
 def clean_row_df1(row):
     pid = str(row['id'])
     p = {
@@ -113,7 +107,6 @@ def clean_row_df1(row):
 
 
 def clean_row_bo2(row, idx):
-    # idx 0 to 899 -> prod-1101 to prod-2000
     old_num_str = str(2001 + idx)
     new_num_str = str(1101 + idx)
     pid = f'prod-{new_num_str}'
@@ -194,7 +187,8 @@ def clean_row_bo2(row, idx):
         t_val = row['tags']
         if isinstance(t_val, str):
             try:
-                p['tags'] = json.loads(t_val)
+                t_list = json.loads(t_val)
+                p['tags'] = t_list
             except Exception:
                 pass
         elif isinstance(t_val, list):
@@ -203,48 +197,39 @@ def clean_row_bo2(row, idx):
     if pd.notna(row.get('createdAt')): p['createdAt'] = str(row['createdAt'])
     return p
 
-# 1. products-20.json: prod-101 to prod-120 (20 items)
-p_20 = [clean_row_df1(row) for _, row in df1.iloc[0:20].iterrows()]
+# Clean all products from df1 (1000 items) and df2 (1000 items)
+all_df1_products = [clean_row_df1(row) for _, row in df1.iterrows()]
+all_df2_products = [clean_row_bo2(row, idx) for idx, row in df2.iterrows()]
 
-# 2. products-500.json: prod-121 to prod-500 (380 items)
-p_500 = [clean_row_df1(row) for _, row in df1.iloc[20:400].iterrows()]
+# Group by categoryId (200 real products per category)
+products_by_category = {c['id']: [] for c in categories}
+for p in all_df1_products:
+    products_by_category[p['categoryId']].append(p)
+for p in all_df2_products:
+    products_by_category[p['categoryId']].append(p)
 
-# 3. products-2000.json: prod-501 to prod-2000
-# - Part 1: prod-501 to prod-1100 (600 items from df1)
-# - Part 2: prod-1101 to prod-2000 (900 items from df2 reindexed)
-p_2000_part1 = [clean_row_df1(row) for _, row in df1.iloc[400:1000].iterrows()]
-p_2000_part2 = [clean_row_bo2(row, idx) for idx, row in df2.iloc[0:900].iterrows()]
-p_2000 = p_2000_part1 + p_2000_part2 # Total 1500 items (prod-501 to prod-2000)
+# 1. Populate by-category/20 (20 real Excel items per file)
+dir_20 = 'packages/data/json/by-category/20'
+os.makedirs(dir_20, exist_ok=True)
+for cat in categories:
+    cid = cat['id']
+    slug = cat['slug']
+    prods_20 = products_by_category[cid][:20]
+    with open(f'{dir_20}/{slug}.json', 'w', encoding='utf-8') as f:
+        json.dump(prods_20, f, ensure_ascii=False, indent=2)
+        f.write('\n')
+print("Populated by-category/20 with 20 real Excel items per file.")
 
-# Write root products-*.json
-with open('packages/data/json/products-20.json', 'w', encoding='utf-8') as f:
-    json.dump(p_20, f, ensure_ascii=False, indent=2)
-print(f'Wrote {len(p_20)} items to products-20.json (prod-101 to prod-120)')
+# 2. Populate by-category/500 (All 200 real Excel items per file, NO generated items)
+dir_500 = 'packages/data/json/by-category/500'
+os.makedirs(dir_500, exist_ok=True)
+for cat in categories:
+    cid = cat['id']
+    slug = cat['slug']
+    prods_real = products_by_category[cid] # All 200 real Excel items
+    with open(f'{dir_500}/{slug}.json', 'w', encoding='utf-8') as f:
+        json.dump(prods_real, f, ensure_ascii=False, indent=2)
+        f.write('\n')
+print("Populated by-category/500 with 200 real Excel items per file (no generated items).")
 
-with open('packages/data/json/products-500.json', 'w', encoding='utf-8') as f:
-    json.dump(p_500, f, ensure_ascii=False, indent=2)
-print(f'Wrote {len(p_500)} items to products-500.json (prod-121 to prod-500)')
-
-with open('packages/data/json/products-2000.json', 'w', encoding='utf-8') as f:
-    json.dump(p_2000, f, ensure_ascii=False, indent=2)
-print(f'Wrote {len(p_2000)} items to products-2000.json (prod-501 to prod-2000)')
-
-# Populate by-category/20, by-category/500, by-category/2000
-cat_by_id = {c['id']: c['slug'] for c in categories}
-
-def save_by_category(count, prod_list):
-    dir_path = f'packages/data/json/by-category/{count}'
-    os.makedirs(dir_path, exist_ok=True)
-    grouped = {c['slug']: [] for c in categories}
-    for p in prod_list:
-        slug = cat_by_id.get(p['categoryId'])
-        if slug:
-            grouped[slug].append(p)
-    for slug, items in grouped.items():
-        with open(f'{dir_path}/{slug}.json', 'w', encoding='utf-8') as f:
-            json.dump(items, f, ensure_ascii=False, indent=2)
-
-save_by_category(20, p_20)
-save_by_category(500, p_500)
-save_by_category(2000, p_2000)
-print('Populated by-category subdirectories successfully.')
+print("Done updating by-category dataset!")
