@@ -1,5 +1,2410 @@
 [
   {
+    "id": "prod-251",
+    "name": "Nồi cơm điện tử Kangaro 2.0L Plus",
+    "slug": "noi-com-dien-tu-kangaro-20l-plus-251",
+    "price": 2800000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-com-dien-tu-kangaro-20l-plus-251.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-com-dien-tu-kangaro-20l-plus-251.webp",
+    "description": "Nồi cơm điện tử lòng chống dính dày giữ nhiệt tốt. Nhiều chế độ nấu đa dạng. Hẹn giờ và giữ ấm tiện lợi. Thiết kế hiện đại dễ vệ sinh.",
+    "brand": "Cuckoo",
+    "sku": "CUC-0251-CHI",
+    "originalPrice": 3490000,
+    "discountPercent": 20,
+    "unit": "chiếc",
+    "shortDescription": "Nồi cơm điện tử lòng dày nhiều chế độ nấu hẹn giờ.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-tu-kangaro-20l-plus-251-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-tu-kangaro-20l-plus-251-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-tu-kangaro-20l-plus-251-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "1.0-2.0L",
+      "Chế độ nấu": "8-12",
+      "Hẹn giờ": "Có",
+      "Giữ ấm": "Có"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 299
+    },
+    "stock": 103,
+    "soldCount": 3362,
+    "weight": 4112,
+    "dimensions": {
+      "length": 28.1,
+      "width": 30.2,
+      "height": 27.8
+    },
+    "origin": "Thái Lan / Việt Nam / Hàn Quốc",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "nồi cơm điện",
+      "gia dụng",
+      "nhà bếp",
+      "cuckoo"
+    ],
+    "createdAt": "2026-02-12T00:00:00.000Z"
+  },
+  {
+    "id": "prod-252",
+    "name": "Máy xay sinh tố Sunhouse 1.25L",
+    "slug": "may-xay-sinh-to-sunhouse-125l-252",
+    "price": 2100000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-xay-sinh-to-sunhouse-125l-252.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-xay-sinh-to-sunhouse-125l-252.webp",
+    "description": "Máy xay sinh tố công suất cao xay được đá và thực phẩm cứng. Cối bền an toàn thực phẩm. Nhiều tốc độ + pulse. Dễ tháo lắp vệ sinh.",
+    "brand": "Sunhouse",
+    "sku": "SUN-0252-CHI",
+    "originalPrice": 2330000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Máy xay sinh tố công suất mạnh lưỡi dao inox nhiều tốc độ.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-sunhouse-125l-252-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-sunhouse-125l-252-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-sunhouse-125l-252-c.webp"
+    ],
+    "specifications": {
+      "Công suất": "400-800W",
+      "Dung tích": "1.0-1.75L",
+      "Tốc độ": "3-5 + Pulse",
+      "Lưỡi dao": "Inox"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 896
+    },
+    "stock": 332,
+    "soldCount": 3724,
+    "weight": 2690,
+    "dimensions": {
+      "length": 19.0,
+      "width": 18.2,
+      "height": 40.0
+    },
+    "origin": "Trung Quốc / Việt Nam",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "máy xay sinh tố",
+      "blender",
+      "nhà bếp",
+      "sunhouse"
+    ],
+    "createdAt": "2026-04-28T00:00:00.000Z"
+  },
+  {
+    "id": "prod-253",
+    "name": "Bếp từ Electrolux ba vùng Max",
+    "slug": "bep-tu-electrolux-ba-vung-max-253",
+    "price": 2540000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/bep-tu-electrolux-ba-vung-max-253.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/bep-tu-electrolux-ba-vung-max-253.webp",
+    "description": "Bếp từ mặt kính ceramic chịu nhiệt. Điều khiển cảm ứng. Nhiều mức công suất. Khóa trẻ em và tự ngắt an toàn.",
+    "brand": "Sunhouse",
+    "sku": "SUN-0253-CHI",
+    "originalPrice": 3170000,
+    "discountPercent": 20,
+    "unit": "chiếc",
+    "shortDescription": "Bếp từ mặt kính cảm ứng công suất cao an toàn.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-electrolux-ba-vung-max-253-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-electrolux-ba-vung-max-253-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-electrolux-ba-vung-max-253-c.webp"
+    ],
+    "specifications": {
+      "Số vùng": "1-3",
+      "Công suất": "1800-2200W/vùng",
+      "Mặt bếp": "Kính ceramic",
+      "Điều khiển": "Cảm ứng"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 791
+    },
+    "stock": 141,
+    "soldCount": 3957,
+    "weight": 6911,
+    "dimensions": {
+      "length": 57.9,
+      "width": 33.2,
+      "height": 5.7
+    },
+    "origin": "Việt Nam / Đức / Trung Quốc",
+    "warranty": "24-36 tháng chính hãng",
+    "tags": [
+      "bếp từ",
+      "nhà bếp",
+      "cảm ứng",
+      "sunhouse"
+    ],
+    "createdAt": "2026-04-09T00:00:00.000Z"
+  },
+  {
+    "id": "prod-254",
+    "name": "Nồi chiên không dầu Sunhouse 5.5L",
+    "slug": "noi-chien-khong-dau-sunhouse-55l-254",
+    "price": 2390000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-chien-khong-dau-sunhouse-55l-254.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-chien-khong-dau-sunhouse-55l-254.webp",
+    "description": "Nồi chiên không dầu công nghệ khí nóng lưu thông đều. Nhiều chế độ cài sẵn. Điều chỉnh nhiệt độ và thời gian. Lòng chống dính dễ vệ sinh.",
+    "brand": "Philips",
+    "sku": "PHI-0254-CHI",
+    "originalPrice": 2850000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Nồi chiên không dầu dung tích lớn nhiều chế độ ít dầu.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-sunhouse-55l-254-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-sunhouse-55l-254-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-sunhouse-55l-254-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "3.5-6.0L",
+      "Công nghệ": "Rapid Air",
+      "Chế độ": "6-10",
+      "Nhiệt độ": "80-200°C"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 722
+    },
+    "stock": 262,
+    "soldCount": 3831,
+    "weight": 4918,
+    "dimensions": {
+      "length": 26.5,
+      "width": 28.9,
+      "height": 31.8
+    },
+    "origin": "Trung Quốc / Việt Nam",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "nồi chiên không dầu",
+      "air fryer",
+      "nhà bếp",
+      "philips"
+    ],
+    "createdAt": "2026-09-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-255",
+    "name": "Máy lọc không khí Daikin",
+    "slug": "may-loc-khong-khi-daikin-255",
+    "price": 8660000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-loc-khong-khi-daikin-255.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-loc-khong-khi-daikin-255.webp",
+    "description": "Máy lọc không khí bộ lọc HEPA loại bỏ bụi mịn PM2.5 vi khuẩn. CADR cao làm sạch nhanh. Cảm biến tự động. Kết nối app điều khiển.",
+    "brand": "Daikin",
+    "sku": "DAI-0255-CHI",
+    "originalPrice": 10260000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Máy lọc không khí HEPA CADR cao điều khiển app.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-daikin-255-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-daikin-255-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-daikin-255-c.webp"
+    ],
+    "specifications": {
+      "CADR": "300-500 m³/h",
+      "Bộ lọc": "HEPA H13",
+      "Điều khiển": "App / Cảm biến",
+      "Diện tích": "20-50m²"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 402
+    },
+    "stock": 217,
+    "soldCount": 2925,
+    "weight": 4897,
+    "dimensions": {
+      "length": 26.2,
+      "width": 23.9,
+      "height": 49.5
+    },
+    "origin": "Trung Quốc / Nhật Bản / Hàn Quốc",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "máy lọc không khí",
+      "hepa",
+      "sức khỏe",
+      "daikin"
+    ],
+    "createdAt": "2026-06-04T00:00:00.000Z"
+  },
+  {
+    "id": "prod-256",
+    "name": "Máy hút bụi Philips robot",
+    "slug": "may-hut-bui-philips-robot-256",
+    "price": 14770000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-hut-bui-philips-robot-256.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-hut-bui-philips-robot-256.webp",
+    "description": "Máy hút bụi công suất hút cao. Pin sử dụng lâu. Nhiều đầu hút chuyên dụng. Công nghệ cyclone hoặc robot tự động. Nhẹ linh hoạt.",
+    "brand": "Xiaomi",
+    "sku": "XIA-0256-CHI",
+    "originalPrice": 16570000,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Máy hút bụi mạnh pin lâu nhiều đầu hút.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-philips-robot-256-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-philips-robot-256-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-philips-robot-256-c.webp"
+    ],
+    "specifications": {
+      "Loại": "Không dây / Robot",
+      "Pin": "30-60 phút",
+      "Công nghệ": "Cyclone / Laser",
+      "Đầu hút": "Nhiều loại"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 99
+    },
+    "stock": 293,
+    "soldCount": 509,
+    "weight": 4440,
+    "dimensions": {
+      "length": 26.9,
+      "width": 22.9,
+      "height": 98.9
+    },
+    "origin": "Malaysia / Trung Quốc / Hàn Quốc",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "máy hút bụi",
+      "không dây",
+      "vệ sinh",
+      "xiaomi"
+    ],
+    "createdAt": "2026-01-30T00:00:00.000Z"
+  },
+  {
+    "id": "prod-257",
+    "name": "Bình đun siêu tốc Sharp 1.7L",
+    "slug": "binh-dun-sieu-toc-sharp-17l-257",
+    "price": 463000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/binh-dun-sieu-toc-sharp-17l-257.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/binh-dun-sieu-toc-sharp-17l-257.webp",
+    "description": "Bình đun inox 304 an toàn. Công suất cao đun sôi nhanh. Tự ngắt khi sôi và chống cháy khô. Đế xoay 360 độ.",
+    "brand": "Philips",
+    "sku": "PHI-0257-CHI",
+    "originalPrice": 526000,
+    "discountPercent": 12,
+    "unit": "chiếc",
+    "shortDescription": "Bình đun siêu tốc inox tự ngắt chống cháy khô.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-sharp-17l-257-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-sharp-17l-257-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-sharp-17l-257-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "1.5-2.0L",
+      "Công suất": "1500-2000W",
+      "Chất liệu": "Inox 304",
+      "Tính năng": "Tự ngắt chống cháy khô"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 542
+    },
+    "stock": 233,
+    "soldCount": 3362,
+    "weight": 1066,
+    "dimensions": {
+      "length": 21.7,
+      "width": 16.6,
+      "height": 25.0
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "bình đun",
+      "siêu tốc",
+      "inox",
+      "nhà bếp",
+      "philips"
+    ],
+    "createdAt": "2026-01-29T00:00:00.000Z"
+  },
+  {
+    "id": "prod-258",
+    "name": "Nồi áp suất điện Kangaroo 5L",
+    "slug": "noi-ap-suat-dien-kangaroo-5l-258",
+    "price": 3860000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-ap-suat-dien-kangaroo-5l-258.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-ap-suat-dien-kangaroo-5l-258.webp",
+    "description": "Nồi áp suất điện đa năng thay thế nhiều thiết bị. Nhiều chế độ nấu. Lòng inox. Nhiều lớp bảo vệ an toàn. Tiết kiệm thời gian nấu.",
+    "brand": "Kangaroo",
+    "sku": "KAN-0258-CHI",
+    "originalPrice": 4210000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Nồi áp suất điện đa năng nhiều chức năng an toàn.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-kangaroo-5l-258-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-kangaroo-5l-258-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-kangaroo-5l-258-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "4-8L",
+      "Chức năng": "8-12",
+      "Lòng nồi": "Inox",
+      "An toàn": "Nhiều lớp"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 23
+    },
+    "stock": 116,
+    "soldCount": 2418,
+    "weight": 5893,
+    "dimensions": {
+      "length": 33.1,
+      "width": 30.8,
+      "height": 28.9
+    },
+    "origin": "Trung Quốc / Mỹ",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "nồi áp suất",
+      "đa năng",
+      "nhà bếp",
+      "kangaroo"
+    ],
+    "createdAt": "2026-02-02T00:00:00.000Z"
+  },
+  {
+    "id": "prod-259",
+    "name": "Máy lọc nước RO Kangaroo",
+    "slug": "may-loc-nuoc-ro-kangaroo-259",
+    "price": 12570000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-loc-nuoc-ro-kangaroo-259.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-loc-nuoc-ro-kangaroo-259.webp",
+    "description": "Máy lọc nước công nghệ RO nhiều cấp lọc sạch tạp chất kim loại nặng vi khuẩn. Công suất ổn định. Có tủ chứa. Nước đạt chuẩn uống trực tiếp.",
+    "brand": "Kangaroo",
+    "sku": "KAN-0259-CHI",
+    "originalPrice": 15700000,
+    "discountPercent": 20,
+    "unit": "chiếc",
+    "shortDescription": "Máy lọc nước RO nhiều cấp có tủ chứa uống trực tiếp.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-ro-kangaroo-259-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-ro-kangaroo-259-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-ro-kangaroo-259-c.webp"
+    ],
+    "specifications": {
+      "Công nghệ": "RO 8-10 cấp",
+      "Công suất": "10-20L/h",
+      "Tủ chứa": "Có",
+      "Chất lượng": "Uống trực tiếp"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 204
+    },
+    "stock": 74,
+    "soldCount": 3186,
+    "weight": 19656,
+    "dimensions": {
+      "length": 43.2,
+      "width": 38.4,
+      "height": 99.4
+    },
+    "origin": "Việt Nam / Hàn Quốc / Mỹ",
+    "warranty": "24-36 tháng chính hãng",
+    "tags": [
+      "máy lọc nước",
+      "ro",
+      "gia dụng",
+      "kangaroo"
+    ],
+    "createdAt": "2026-06-28T00:00:00.000Z"
+  },
+  {
+    "id": "prod-260",
+    "name": "Máy sấy tóc Lock&Lock",
+    "slug": "may-say-toc-locklock-260",
+    "price": 6710000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-say-toc-locklock-260.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-say-toc-locklock-260.webp",
+    "description": "Máy sấy tóc công nghệ ion giảm xơ rối. Cảm biến nhiệt bảo vệ tóc. Nhiều chế độ và đầu sấy. Thiết kế nhẹ không nóng tay.",
+    "brand": "Panasonic",
+    "sku": "PAN-0260-CHI",
+    "originalPrice": 7760000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Máy sấy tóc ion bảo vệ tóc nhiều chế độ nhiệt.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-say-toc-locklock-260-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-say-toc-locklock-260-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-say-toc-locklock-260-c.webp"
+    ],
+    "specifications": {
+      "Công nghệ": "Ion",
+      "Công suất": "1200-1800W",
+      "Chế độ": "Nhiều",
+      "Đầu sấy": "2-4"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 572
+    },
+    "stock": 73,
+    "soldCount": 2726,
+    "weight": 869,
+    "dimensions": {
+      "length": 30.3,
+      "width": 8.8,
+      "height": 9.3
+    },
+    "origin": "Malaysia / Trung Quốc / Nhật Bản",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "máy sấy tóc",
+      "ion",
+      "chăm sóc tóc",
+      "panasonic"
+    ],
+    "createdAt": "2026-08-23T00:00:00.000Z"
+  },
+  {
+    "id": "prod-261",
+    "name": "Nồi cơm điện tử Cuckoo 1.0L 2025",
+    "slug": "noi-com-dien-tu-cuckoo-10l-2025-261",
+    "price": 3110000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-com-dien-tu-cuckoo-10l-2025-261.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-com-dien-tu-cuckoo-10l-2025-261.webp",
+    "description": "Nồi cơm điện tử lòng chống dính dày giữ nhiệt tốt. Nhiều chế độ nấu đa dạng. Hẹn giờ và giữ ấm tiện lợi. Thiết kế hiện đại dễ vệ sinh.",
+    "brand": "Sunhouse",
+    "sku": "SUN-0261-CHI",
+    "originalPrice": 3430000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Nồi cơm điện tử lòng dày nhiều chế độ nấu hẹn giờ.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-tu-cuckoo-10l-2025-261-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-tu-cuckoo-10l-2025-261-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-tu-cuckoo-10l-2025-261-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "1.0-2.0L",
+      "Chế độ nấu": "8-12",
+      "Hẹn giờ": "Có",
+      "Giữ ấm": "Có"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 756
+    },
+    "stock": 283,
+    "soldCount": 1787,
+    "weight": 3456,
+    "dimensions": {
+      "length": 29.9,
+      "width": 29.4,
+      "height": 32.9
+    },
+    "origin": "Thái Lan / Việt Nam / Hàn Quốc",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "nồi cơm điện",
+      "gia dụng",
+      "nhà bếp",
+      "sunhouse"
+    ],
+    "createdAt": "2026-05-31T00:00:00.000Z"
+  },
+  {
+    "id": "prod-262",
+    "name": "Máy xay sinh tố Bluestone 1.25L Plus",
+    "slug": "may-xay-sinh-to-bluestone-125l-plus-262",
+    "price": 1170000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-xay-sinh-to-bluestone-125l-plus-262.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-xay-sinh-to-bluestone-125l-plus-262.webp",
+    "description": "Máy xay sinh tố công suất cao xay được đá và thực phẩm cứng. Cối bền an toàn thực phẩm. Nhiều tốc độ + pulse. Dễ tháo lắp vệ sinh.",
+    "brand": "Panasonic",
+    "sku": "PAN-0262-CHI",
+    "originalPrice": 1300000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Máy xay sinh tố công suất mạnh lưỡi dao inox nhiều tốc độ.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-bluestone-125l-plus-262-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-bluestone-125l-plus-262-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-bluestone-125l-plus-262-c.webp"
+    ],
+    "specifications": {
+      "Công suất": "400-800W",
+      "Dung tích": "1.0-1.75L",
+      "Tốc độ": "3-5 + Pulse",
+      "Lưỡi dao": "Inox"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 36
+    },
+    "stock": 128,
+    "soldCount": 894,
+    "weight": 3484,
+    "dimensions": {
+      "length": 19.0,
+      "width": 16.3,
+      "height": 39.2
+    },
+    "origin": "Trung Quốc / Việt Nam",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "máy xay sinh tố",
+      "blender",
+      "nhà bếp",
+      "panasonic"
+    ],
+    "createdAt": "2026-02-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-263",
+    "name": "Bếp từ Sunhouse ba vùng 2026",
+    "slug": "bep-tu-sunhouse-ba-vung-2026-263",
+    "price": 3040000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/bep-tu-sunhouse-ba-vung-2026-263.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/bep-tu-sunhouse-ba-vung-2026-263.webp",
+    "description": "Bếp từ mặt kính ceramic chịu nhiệt. Điều khiển cảm ứng. Nhiều mức công suất. Khóa trẻ em và tự ngắt an toàn.",
+    "brand": "Sunhouse",
+    "sku": "SUN-0263-CHI",
+    "originalPrice": 3670000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Bếp từ mặt kính cảm ứng công suất cao an toàn.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-sunhouse-ba-vung-2026-263-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-sunhouse-ba-vung-2026-263-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-sunhouse-ba-vung-2026-263-c.webp"
+    ],
+    "specifications": {
+      "Số vùng": "1-3",
+      "Công suất": "1800-2200W/vùng",
+      "Mặt bếp": "Kính ceramic",
+      "Điều khiển": "Cảm ứng"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 163
+    },
+    "stock": 262,
+    "soldCount": 1234,
+    "weight": 6295,
+    "dimensions": {
+      "length": 59.3,
+      "width": 35.3,
+      "height": 6.3
+    },
+    "origin": "Việt Nam / Đức / Trung Quốc",
+    "warranty": "24-36 tháng chính hãng",
+    "tags": [
+      "bếp từ",
+      "nhà bếp",
+      "cảm ứng",
+      "sunhouse"
+    ],
+    "createdAt": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "prod-264",
+    "name": "Nồi chiên không dầu Nagakawa 4.5L",
+    "slug": "noi-chien-khong-dau-nagakawa-45l-264",
+    "price": 2280000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-chien-khong-dau-nagakawa-45l-264.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-chien-khong-dau-nagakawa-45l-264.webp",
+    "description": "Nồi chiên không dầu công nghệ khí nóng lưu thông đều. Nhiều chế độ cài sẵn. Điều chỉnh nhiệt độ và thời gian. Lòng chống dính dễ vệ sinh.",
+    "brand": "Sunhouse",
+    "sku": "SUN-0264-CHI",
+    "originalPrice": 2580000,
+    "discountPercent": 12,
+    "unit": "chiếc",
+    "shortDescription": "Nồi chiên không dầu dung tích lớn nhiều chế độ ít dầu.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-nagakawa-45l-264-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-nagakawa-45l-264-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-nagakawa-45l-264-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "3.5-6.0L",
+      "Công nghệ": "Rapid Air",
+      "Chế độ": "6-10",
+      "Nhiệt độ": "80-200°C"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 590
+    },
+    "stock": 307,
+    "soldCount": 3653,
+    "weight": 3793,
+    "dimensions": {
+      "length": 30.7,
+      "width": 28.1,
+      "height": 31.4
+    },
+    "origin": "Trung Quốc / Việt Nam",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "nồi chiên không dầu",
+      "air fryer",
+      "nhà bếp",
+      "sunhouse"
+    ],
+    "createdAt": "2026-07-22T00:00:00.000Z"
+  },
+  {
+    "id": "prod-265",
+    "name": "Máy lọc không khí Sharp",
+    "slug": "may-loc-khong-khi-sharp-265",
+    "price": 11820000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-loc-khong-khi-sharp-265.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-loc-khong-khi-sharp-265.webp",
+    "description": "Máy lọc không khí bộ lọc HEPA loại bỏ bụi mịn PM2.5 vi khuẩn. CADR cao làm sạch nhanh. Cảm biến tự động. Kết nối app điều khiển.",
+    "brand": "LG",
+    "sku": "LG-0265-CHI",
+    "originalPrice": 13760000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Máy lọc không khí HEPA CADR cao điều khiển app.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-sharp-265-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-sharp-265-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-sharp-265-c.webp"
+    ],
+    "specifications": {
+      "CADR": "300-500 m³/h",
+      "Bộ lọc": "HEPA H13",
+      "Điều khiển": "App / Cảm biến",
+      "Diện tích": "20-50m²"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 446
+    },
+    "stock": 214,
+    "soldCount": 661,
+    "weight": 5410,
+    "dimensions": {
+      "length": 26.1,
+      "width": 24.8,
+      "height": 52.9
+    },
+    "origin": "Trung Quốc / Nhật Bản / Hàn Quốc",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "máy lọc không khí",
+      "hepa",
+      "sức khỏe",
+      "lg"
+    ],
+    "createdAt": "2026-04-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-266",
+    "name": "Máy hút bụi Philips không dây",
+    "slug": "may-hut-bui-philips-khong-day-266",
+    "price": 6030000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-hut-bui-philips-khong-day-266.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-hut-bui-philips-khong-day-266.webp",
+    "description": "Máy hút bụi công suất hút cao. Pin sử dụng lâu. Nhiều đầu hút chuyên dụng. Công nghệ cyclone hoặc robot tự động. Nhẹ linh hoạt.",
+    "brand": "Philips",
+    "sku": "PHI-0266-CHI",
+    "originalPrice": 7380000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Máy hút bụi mạnh pin lâu nhiều đầu hút.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-philips-khong-day-266-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-philips-khong-day-266-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-philips-khong-day-266-c.webp"
+    ],
+    "specifications": {
+      "Loại": "Không dây / Robot",
+      "Pin": "30-60 phút",
+      "Công nghệ": "Cyclone / Laser",
+      "Đầu hút": "Nhiều loại"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 442
+    },
+    "stock": 218,
+    "soldCount": 2332,
+    "weight": 3231,
+    "dimensions": {
+      "length": 26.8,
+      "width": 23.2,
+      "height": 99.3
+    },
+    "origin": "Malaysia / Trung Quốc / Hàn Quốc",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "máy hút bụi",
+      "không dây",
+      "vệ sinh",
+      "philips"
+    ],
+    "createdAt": "2026-05-30T00:00:00.000Z"
+  },
+  {
+    "id": "prod-267",
+    "name": "Bình đun siêu tốc Philips 2.0L limited",
+    "slug": "binh-dun-sieu-toc-philips-20l-limited-267",
+    "price": 968000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/binh-dun-sieu-toc-philips-20l-limited-267.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/binh-dun-sieu-toc-philips-20l-limited-267.webp",
+    "description": "Bình đun inox 304 an toàn. Công suất cao đun sôi nhanh. Tự ngắt khi sôi và chống cháy khô. Đế xoay 360 độ.",
+    "brand": "Sunhouse",
+    "sku": "SUN-0267-CHI",
+    "originalPrice": 1060000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Bình đun siêu tốc inox tự ngắt chống cháy khô.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-philips-20l-limited-267-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-philips-20l-limited-267-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-philips-20l-limited-267-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "1.5-2.0L",
+      "Công suất": "1500-2000W",
+      "Chất liệu": "Inox 304",
+      "Tính năng": "Tự ngắt chống cháy khô"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 294
+    },
+    "stock": 198,
+    "soldCount": 2809,
+    "weight": 1030,
+    "dimensions": {
+      "length": 23.5,
+      "width": 14.7,
+      "height": 25.1
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "bình đun",
+      "siêu tốc",
+      "inox",
+      "nhà bếp",
+      "sunhouse"
+    ],
+    "createdAt": "2026-06-18T00:00:00.000Z"
+  },
+  {
+    "id": "prod-268",
+    "name": "Nồi áp suất điện Bluestone 4L",
+    "slug": "noi-ap-suat-dien-bluestone-4l-268",
+    "price": 4860000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-ap-suat-dien-bluestone-4l-268.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-ap-suat-dien-bluestone-4l-268.webp",
+    "description": "Nồi áp suất điện đa năng thay thế nhiều thiết bị. Nhiều chế độ nấu. Lòng inox. Nhiều lớp bảo vệ an toàn. Tiết kiệm thời gian nấu.",
+    "brand": "Philips",
+    "sku": "PHI-0268-CHI",
+    "originalPrice": 5880000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Nồi áp suất điện đa năng nhiều chức năng an toàn.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-bluestone-4l-268-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-bluestone-4l-268-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-bluestone-4l-268-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "4-8L",
+      "Chức năng": "8-12",
+      "Lòng nồi": "Inox",
+      "An toàn": "Nhiều lớp"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 330
+    },
+    "stock": 12,
+    "soldCount": 917,
+    "weight": 6966,
+    "dimensions": {
+      "length": 33.1,
+      "width": 30.2,
+      "height": 30.1
+    },
+    "origin": "Trung Quốc / Mỹ",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "nồi áp suất",
+      "đa năng",
+      "nhà bếp",
+      "philips"
+    ],
+    "createdAt": "2026-09-11T00:00:00.000Z"
+  },
+  {
+    "id": "prod-269",
+    "name": "Máy lọc nước RO Karofi",
+    "slug": "may-loc-nuoc-ro-karofi-269",
+    "price": 11520000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-loc-nuoc-ro-karofi-269.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-loc-nuoc-ro-karofi-269.webp",
+    "description": "Máy lọc nước công nghệ RO nhiều cấp lọc sạch tạp chất kim loại nặng vi khuẩn. Công suất ổn định. Có tủ chứa. Nước đạt chuẩn uống trực tiếp.",
+    "brand": "Kangaroo",
+    "sku": "KAN-0269-CHI",
+    "originalPrice": 14230000,
+    "discountPercent": 19,
+    "unit": "chiếc",
+    "shortDescription": "Máy lọc nước RO nhiều cấp có tủ chứa uống trực tiếp.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-ro-karofi-269-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-ro-karofi-269-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-ro-karofi-269-c.webp"
+    ],
+    "specifications": {
+      "Công nghệ": "RO 8-10 cấp",
+      "Công suất": "10-20L/h",
+      "Tủ chứa": "Có",
+      "Chất lượng": "Uống trực tiếp"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 814
+    },
+    "stock": 149,
+    "soldCount": 1609,
+    "weight": 17698,
+    "dimensions": {
+      "length": 40.8,
+      "width": 32.9,
+      "height": 108.3
+    },
+    "origin": "Việt Nam / Hàn Quốc / Mỹ",
+    "warranty": "24-36 tháng chính hãng",
+    "tags": [
+      "máy lọc nước",
+      "ro",
+      "gia dụng",
+      "kangaroo"
+    ],
+    "createdAt": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "id": "prod-270",
+    "name": "Máy sấy tóc Xiaomi",
+    "slug": "may-say-toc-xiaomi-270",
+    "price": 5460000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-say-toc-xiaomi-270.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-say-toc-xiaomi-270.webp",
+    "description": "Máy sấy tóc công nghệ ion giảm xơ rối. Cảm biến nhiệt bảo vệ tóc. Nhiều chế độ và đầu sấy. Thiết kế nhẹ không nóng tay.",
+    "brand": "Panasonic",
+    "sku": "PAN-0270-CHI",
+    "originalPrice": 6140000,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Máy sấy tóc ion bảo vệ tóc nhiều chế độ nhiệt.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-say-toc-xiaomi-270-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-say-toc-xiaomi-270-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-say-toc-xiaomi-270-c.webp"
+    ],
+    "specifications": {
+      "Công nghệ": "Ion",
+      "Công suất": "1200-1800W",
+      "Chế độ": "Nhiều",
+      "Đầu sấy": "2-4"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 799
+    },
+    "stock": 168,
+    "soldCount": 3795,
+    "weight": 662,
+    "dimensions": {
+      "length": 30.1,
+      "width": 8.9,
+      "height": 9.5
+    },
+    "origin": "Malaysia / Trung Quốc / Nhật Bản",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "máy sấy tóc",
+      "ion",
+      "chăm sóc tóc",
+      "panasonic"
+    ],
+    "createdAt": "2026-03-08T00:00:00.000Z"
+  },
+  {
+    "id": "prod-271",
+    "name": "Nồi cơm điện tử Cuckoo 1.5L",
+    "slug": "noi-com-dien-tu-cuckoo-15l-271",
+    "price": 1820000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-com-dien-tu-cuckoo-15l-271.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-com-dien-tu-cuckoo-15l-271.webp",
+    "description": "Nồi cơm điện tử lòng chống dính dày giữ nhiệt tốt. Nhiều chế độ nấu đa dạng. Hẹn giờ và giữ ấm tiện lợi. Thiết kế hiện đại dễ vệ sinh.",
+    "brand": "Kangaro",
+    "sku": "KAN-0271-CHI",
+    "originalPrice": 2190000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Nồi cơm điện tử lòng dày nhiều chế độ nấu hẹn giờ.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-tu-cuckoo-15l-271-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-tu-cuckoo-15l-271-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-tu-cuckoo-15l-271-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "1.0-2.0L",
+      "Chế độ nấu": "8-12",
+      "Hẹn giờ": "Có",
+      "Giữ ấm": "Có"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 176
+    },
+    "stock": 105,
+    "soldCount": 1401,
+    "weight": 3033,
+    "dimensions": {
+      "length": 26.7,
+      "width": 30.4,
+      "height": 30.5
+    },
+    "origin": "Thái Lan / Việt Nam / Hàn Quốc",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "nồi cơm điện",
+      "gia dụng",
+      "nhà bếp",
+      "kangaro"
+    ],
+    "createdAt": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "prod-272",
+    "name": "Máy xay sinh tố Bluestone 1.25L",
+    "slug": "may-xay-sinh-to-bluestone-125l-272",
+    "price": 1130000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-xay-sinh-to-bluestone-125l-272.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-xay-sinh-to-bluestone-125l-272.webp",
+    "description": "Máy xay sinh tố công suất cao xay được đá và thực phẩm cứng. Cối bền an toàn thực phẩm. Nhiều tốc độ + pulse. Dễ tháo lắp vệ sinh.",
+    "brand": "Sunhouse",
+    "sku": "SUN-0272-CHI",
+    "originalPrice": 1370000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Máy xay sinh tố công suất mạnh lưỡi dao inox nhiều tốc độ.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-bluestone-125l-272-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-bluestone-125l-272-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-bluestone-125l-272-c.webp"
+    ],
+    "specifications": {
+      "Công suất": "400-800W",
+      "Dung tích": "1.0-1.75L",
+      "Tốc độ": "3-5 + Pulse",
+      "Lưỡi dao": "Inox"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 834
+    },
+    "stock": 185,
+    "soldCount": 743,
+    "weight": 3000,
+    "dimensions": {
+      "length": 19.7,
+      "width": 18.5,
+      "height": 37.9
+    },
+    "origin": "Trung Quốc / Việt Nam",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "máy xay sinh tố",
+      "blender",
+      "nhà bếp",
+      "sunhouse"
+    ],
+    "createdAt": "2026-02-19T00:00:00.000Z"
+  },
+  {
+    "id": "prod-273",
+    "name": "Bếp từ Bosch đôi vùng 2025",
+    "slug": "bep-tu-bosch-doi-vung-2025-273",
+    "price": 5390000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/bep-tu-bosch-doi-vung-2025-273.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/bep-tu-bosch-doi-vung-2025-273.webp",
+    "description": "Bếp từ mặt kính ceramic chịu nhiệt. Điều khiển cảm ứng. Nhiều mức công suất. Khóa trẻ em và tự ngắt an toàn.",
+    "brand": "Sunhouse",
+    "sku": "SUN-0273-CHI",
+    "originalPrice": 5850000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Bếp từ mặt kính cảm ứng công suất cao an toàn.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-bosch-doi-vung-2025-273-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-bosch-doi-vung-2025-273-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-bosch-doi-vung-2025-273-c.webp"
+    ],
+    "specifications": {
+      "Số vùng": "1-3",
+      "Công suất": "1800-2200W/vùng",
+      "Mặt bếp": "Kính ceramic",
+      "Điều khiển": "Cảm ứng"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 882
+    },
+    "stock": 327,
+    "soldCount": 997,
+    "weight": 3608,
+    "dimensions": {
+      "length": 65.3,
+      "width": 36.2,
+      "height": 6.3
+    },
+    "origin": "Việt Nam / Đức / Trung Quốc",
+    "warranty": "24-36 tháng chính hãng",
+    "tags": [
+      "bếp từ",
+      "nhà bếp",
+      "cảm ứng",
+      "sunhouse"
+    ],
+    "createdAt": "2026-02-01T00:00:00.000Z"
+  },
+  {
+    "id": "prod-274",
+    "name": "Nồi chiên không dầu Lock&Lock 3.5L Mini",
+    "slug": "noi-chien-khong-dau-locklock-35l-mini-274",
+    "price": 1540000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-chien-khong-dau-locklock-35l-mini-274.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-chien-khong-dau-locklock-35l-mini-274.webp",
+    "description": "Nồi chiên không dầu công nghệ khí nóng lưu thông đều. Nhiều chế độ cài sẵn. Điều chỉnh nhiệt độ và thời gian. Lòng chống dính dễ vệ sinh.",
+    "brand": "Sunhouse",
+    "sku": "SUN-0274-CHI",
+    "originalPrice": 1820000,
+    "discountPercent": 15,
+    "unit": "chiếc",
+    "shortDescription": "Nồi chiên không dầu dung tích lớn nhiều chế độ ít dầu.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-locklock-35l-mini-274-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-locklock-35l-mini-274-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-locklock-35l-mini-274-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "3.5-6.0L",
+      "Công nghệ": "Rapid Air",
+      "Chế độ": "6-10",
+      "Nhiệt độ": "80-200°C"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 564
+    },
+    "stock": 287,
+    "soldCount": 1734,
+    "weight": 4865,
+    "dimensions": {
+      "length": 30.4,
+      "width": 30.3,
+      "height": 33.0
+    },
+    "origin": "Trung Quốc / Việt Nam",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "nồi chiên không dầu",
+      "air fryer",
+      "nhà bếp",
+      "sunhouse"
+    ],
+    "createdAt": "2026-01-18T00:00:00.000Z"
+  },
+  {
+    "id": "prod-275",
+    "name": "Máy lọc không khí Xiaomi",
+    "slug": "may-loc-khong-khi-xiaomi-275",
+    "price": 11480000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-loc-khong-khi-xiaomi-275.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-loc-khong-khi-xiaomi-275.webp",
+    "description": "Máy lọc không khí bộ lọc HEPA loại bỏ bụi mịn PM2.5 vi khuẩn. CADR cao làm sạch nhanh. Cảm biến tự động. Kết nối app điều khiển.",
+    "brand": "Daikin",
+    "sku": "DAI-0275-CHI",
+    "originalPrice": 14310000,
+    "discountPercent": 20,
+    "unit": "chiếc",
+    "shortDescription": "Máy lọc không khí HEPA CADR cao điều khiển app.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-xiaomi-275-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-xiaomi-275-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-xiaomi-275-c.webp"
+    ],
+    "specifications": {
+      "CADR": "300-500 m³/h",
+      "Bộ lọc": "HEPA H13",
+      "Điều khiển": "App / Cảm biến",
+      "Diện tích": "20-50m²"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 203
+    },
+    "stock": 59,
+    "soldCount": 3810,
+    "weight": 4070,
+    "dimensions": {
+      "length": 24.0,
+      "width": 24.9,
+      "height": 49.3
+    },
+    "origin": "Trung Quốc / Nhật Bản / Hàn Quốc",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "máy lọc không khí",
+      "hepa",
+      "sức khỏe",
+      "daikin"
+    ],
+    "createdAt": "2026-02-08T00:00:00.000Z"
+  },
+  {
+    "id": "prod-276",
+    "name": "Máy hút bụi Samsung không dây 2026",
+    "slug": "may-hut-bui-samsung-khong-day-2026-276",
+    "price": 6220000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-hut-bui-samsung-khong-day-2026-276.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-hut-bui-samsung-khong-day-2026-276.webp",
+    "description": "Máy hút bụi công suất hút cao. Pin sử dụng lâu. Nhiều đầu hút chuyên dụng. Công nghệ cyclone hoặc robot tự động. Nhẹ linh hoạt.",
+    "brand": "Samsung",
+    "sku": "SAM-0276-CHI",
+    "originalPrice": 7580000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Máy hút bụi mạnh pin lâu nhiều đầu hút.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-samsung-khong-day-2026-276-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-samsung-khong-day-2026-276-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-samsung-khong-day-2026-276-c.webp"
+    ],
+    "specifications": {
+      "Loại": "Không dây / Robot",
+      "Pin": "30-60 phút",
+      "Công nghệ": "Cyclone / Laser",
+      "Đầu hút": "Nhiều loại"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 269
+    },
+    "stock": 120,
+    "soldCount": 1278,
+    "weight": 3094,
+    "dimensions": {
+      "length": 26.5,
+      "width": 22.9,
+      "height": 109.2
+    },
+    "origin": "Malaysia / Trung Quốc / Hàn Quốc",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "máy hút bụi",
+      "không dây",
+      "vệ sinh",
+      "samsung"
+    ],
+    "createdAt": "2026-07-09T00:00:00.000Z"
+  },
+  {
+    "id": "prod-277",
+    "name": "Bình đun siêu tốc Lock&Lock 1.5L Max",
+    "slug": "binh-dun-sieu-toc-locklock-15l-max-277",
+    "price": 870000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/binh-dun-sieu-toc-locklock-15l-max-277.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/binh-dun-sieu-toc-locklock-15l-max-277.webp",
+    "description": "Bình đun inox 304 an toàn. Công suất cao đun sôi nhanh. Tự ngắt khi sôi và chống cháy khô. Đế xoay 360 độ.",
+    "brand": "Bluestone",
+    "sku": "BLU-0277-CHI",
+    "originalPrice": 1010000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Bình đun siêu tốc inox tự ngắt chống cháy khô.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-locklock-15l-max-277-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-locklock-15l-max-277-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-locklock-15l-max-277-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "1.5-2.0L",
+      "Công suất": "1500-2000W",
+      "Chất liệu": "Inox 304",
+      "Tính năng": "Tự ngắt chống cháy khô"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 823
+    },
+    "stock": 174,
+    "soldCount": 2367,
+    "weight": 1126,
+    "dimensions": {
+      "length": 19.8,
+      "width": 14.9,
+      "height": 24.0
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "bình đun",
+      "siêu tốc",
+      "inox",
+      "nhà bếp",
+      "bluestone"
+    ],
+    "createdAt": "2026-09-22T00:00:00.000Z"
+  },
+  {
+    "id": "prod-278",
+    "name": "Nồi áp suất điện Instant Pot 4L 2026",
+    "slug": "noi-ap-suat-dien-instant-pot-4l-2026-278",
+    "price": 2630000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-ap-suat-dien-instant-pot-4l-2026-278.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-ap-suat-dien-instant-pot-4l-2026-278.webp",
+    "description": "Nồi áp suất điện đa năng thay thế nhiều thiết bị. Nhiều chế độ nấu. Lòng inox. Nhiều lớp bảo vệ an toàn. Tiết kiệm thời gian nấu.",
+    "brand": "Kangaroo",
+    "sku": "KAN-0278-CHI",
+    "originalPrice": 2860000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Nồi áp suất điện đa năng nhiều chức năng an toàn.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-instant-pot-4l-2026-278-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-instant-pot-4l-2026-278-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-instant-pot-4l-2026-278-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "4-8L",
+      "Chức năng": "8-12",
+      "Lòng nồi": "Inox",
+      "An toàn": "Nhiều lớp"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 203
+    },
+    "stock": 166,
+    "soldCount": 114,
+    "weight": 4304,
+    "dimensions": {
+      "length": 33.2,
+      "width": 30.6,
+      "height": 32.3
+    },
+    "origin": "Trung Quốc / Mỹ",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "nồi áp suất",
+      "đa năng",
+      "nhà bếp",
+      "kangaroo"
+    ],
+    "createdAt": "2026-09-18T00:00:00.000Z"
+  },
+  {
+    "id": "prod-279",
+    "name": "Máy lọc nước RO Karofi",
+    "slug": "may-loc-nuoc-ro-karofi-279",
+    "price": 4780000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-loc-nuoc-ro-karofi-279.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-loc-nuoc-ro-karofi-279.webp",
+    "description": "Máy lọc nước công nghệ RO nhiều cấp lọc sạch tạp chất kim loại nặng vi khuẩn. Công suất ổn định. Có tủ chứa. Nước đạt chuẩn uống trực tiếp.",
+    "brand": "AO Smith",
+    "sku": "AO -0279-CHI",
+    "originalPrice": 5410000,
+    "discountPercent": 12,
+    "unit": "chiếc",
+    "shortDescription": "Máy lọc nước RO nhiều cấp có tủ chứa uống trực tiếp.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-ro-karofi-279-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-ro-karofi-279-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-ro-karofi-279-c.webp"
+    ],
+    "specifications": {
+      "Công nghệ": "RO 8-10 cấp",
+      "Công suất": "10-20L/h",
+      "Tủ chứa": "Có",
+      "Chất lượng": "Uống trực tiếp"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 359
+    },
+    "stock": 201,
+    "soldCount": 3144,
+    "weight": 16619,
+    "dimensions": {
+      "length": 37.9,
+      "width": 37.3,
+      "height": 97.8
+    },
+    "origin": "Việt Nam / Hàn Quốc / Mỹ",
+    "warranty": "24-36 tháng chính hãng",
+    "tags": [
+      "máy lọc nước",
+      "ro",
+      "gia dụng",
+      "ao-smith"
+    ],
+    "createdAt": "2026-07-23T00:00:00.000Z"
+  },
+  {
+    "id": "prod-280",
+    "name": "Máy sấy tóc Philips",
+    "slug": "may-say-toc-philips-280",
+    "price": 8690000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-say-toc-philips-280.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-say-toc-philips-280.webp",
+    "description": "Máy sấy tóc công nghệ ion giảm xơ rối. Cảm biến nhiệt bảo vệ tóc. Nhiều chế độ và đầu sấy. Thiết kế nhẹ không nóng tay.",
+    "brand": "Dyson",
+    "sku": "DYS-0280-CHI",
+    "originalPrice": 10490000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Máy sấy tóc ion bảo vệ tóc nhiều chế độ nhiệt.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-say-toc-philips-280-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-say-toc-philips-280-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-say-toc-philips-280-c.webp"
+    ],
+    "specifications": {
+      "Công nghệ": "Ion",
+      "Công suất": "1200-1800W",
+      "Chế độ": "Nhiều",
+      "Đầu sấy": "2-4"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 807
+    },
+    "stock": 319,
+    "soldCount": 3961,
+    "weight": 577,
+    "dimensions": {
+      "length": 25.5,
+      "width": 8.9,
+      "height": 9.6
+    },
+    "origin": "Malaysia / Trung Quốc / Nhật Bản",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "máy sấy tóc",
+      "ion",
+      "chăm sóc tóc",
+      "dyson"
+    ],
+    "createdAt": "2026-06-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-281",
+    "name": "Nồi cơm điện tử Sunhouse 1.5L Pro",
+    "slug": "noi-com-dien-tu-sunhouse-15l-pro-281",
+    "price": 2950000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-com-dien-tu-sunhouse-15l-pro-281.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-com-dien-tu-sunhouse-15l-pro-281.webp",
+    "description": "Nồi cơm điện tử lòng chống dính dày giữ nhiệt tốt. Nhiều chế độ nấu đa dạng. Hẹn giờ và giữ ấm tiện lợi. Thiết kế hiện đại dễ vệ sinh.",
+    "brand": "Sunhouse",
+    "sku": "SUN-0281-CHI",
+    "originalPrice": 3300000,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Nồi cơm điện tử lòng dày nhiều chế độ nấu hẹn giờ.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-tu-sunhouse-15l-pro-281-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-tu-sunhouse-15l-pro-281-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-tu-sunhouse-15l-pro-281-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "1.0-2.0L",
+      "Chế độ nấu": "8-12",
+      "Hẹn giờ": "Có",
+      "Giữ ấm": "Có"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 107
+    },
+    "stock": 321,
+    "soldCount": 1259,
+    "weight": 4132,
+    "dimensions": {
+      "length": 30.5,
+      "width": 27.6,
+      "height": 31.1
+    },
+    "origin": "Thái Lan / Việt Nam / Hàn Quốc",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "nồi cơm điện",
+      "gia dụng",
+      "nhà bếp",
+      "sunhouse"
+    ],
+    "createdAt": "2026-08-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-282",
+    "name": "Máy xay sinh tố Panasonic 1.0L phiên bản mới",
+    "slug": "may-xay-sinh-to-panasonic-10l-phien-ban-moi-282",
+    "price": 2080000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-xay-sinh-to-panasonic-10l-phien-ban-moi-282.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-xay-sinh-to-panasonic-10l-phien-ban-moi-282.webp",
+    "description": "Máy xay sinh tố công suất cao xay được đá và thực phẩm cứng. Cối bền an toàn thực phẩm. Nhiều tốc độ + pulse. Dễ tháo lắp vệ sinh.",
+    "brand": "Bluestone",
+    "sku": "BLU-0282-CHI",
+    "originalPrice": 2520000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Máy xay sinh tố công suất mạnh lưỡi dao inox nhiều tốc độ.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-panasonic-10l-phien-ban-moi-282-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-panasonic-10l-phien-ban-moi-282-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-panasonic-10l-phien-ban-moi-282-c.webp"
+    ],
+    "specifications": {
+      "Công suất": "400-800W",
+      "Dung tích": "1.0-1.75L",
+      "Tốc độ": "3-5 + Pulse",
+      "Lưỡi dao": "Inox"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 335
+    },
+    "stock": 232,
+    "soldCount": 1524,
+    "weight": 2315,
+    "dimensions": {
+      "length": 18.9,
+      "width": 17.3,
+      "height": 35.0
+    },
+    "origin": "Trung Quốc / Việt Nam",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "máy xay sinh tố",
+      "blender",
+      "nhà bếp",
+      "bluestone"
+    ],
+    "createdAt": "2026-07-28T00:00:00.000Z"
+  },
+  {
+    "id": "prod-283",
+    "name": "Bếp từ Munchen đơn vùng phiên bản mới",
+    "slug": "bep-tu-munchen-don-vung-phien-ban-moi-283",
+    "price": 4760000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/bep-tu-munchen-don-vung-phien-ban-moi-283.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/bep-tu-munchen-don-vung-phien-ban-moi-283.webp",
+    "description": "Bếp từ mặt kính ceramic chịu nhiệt. Điều khiển cảm ứng. Nhiều mức công suất. Khóa trẻ em và tự ngắt an toàn.",
+    "brand": "Electrolux",
+    "sku": "ELE-0283-CHI",
+    "originalPrice": 5590000,
+    "discountPercent": 15,
+    "unit": "chiếc",
+    "shortDescription": "Bếp từ mặt kính cảm ứng công suất cao an toàn.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-munchen-don-vung-phien-ban-moi-283-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-munchen-don-vung-phien-ban-moi-283-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-munchen-don-vung-phien-ban-moi-283-c.webp"
+    ],
+    "specifications": {
+      "Số vùng": "1-3",
+      "Công suất": "1800-2200W/vùng",
+      "Mặt bếp": "Kính ceramic",
+      "Điều khiển": "Cảm ứng"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 632
+    },
+    "stock": 171,
+    "soldCount": 3587,
+    "weight": 7197,
+    "dimensions": {
+      "length": 58.9,
+      "width": 31.7,
+      "height": 5.8
+    },
+    "origin": "Việt Nam / Đức / Trung Quốc",
+    "warranty": "24-36 tháng chính hãng",
+    "tags": [
+      "bếp từ",
+      "nhà bếp",
+      "cảm ứng",
+      "electrolux"
+    ],
+    "createdAt": "2026-04-23T00:00:00.000Z"
+  },
+  {
+    "id": "prod-284",
+    "name": "Nồi chiên không dầu Philips 4.5L",
+    "slug": "noi-chien-khong-dau-philips-45l-284",
+    "price": 4330000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-chien-khong-dau-philips-45l-284.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-chien-khong-dau-philips-45l-284.webp",
+    "description": "Nồi chiên không dầu công nghệ khí nóng lưu thông đều. Nhiều chế độ cài sẵn. Điều chỉnh nhiệt độ và thời gian. Lòng chống dính dễ vệ sinh.",
+    "brand": "Philips",
+    "sku": "PHI-0284-CHI",
+    "originalPrice": 5340000,
+    "discountPercent": 19,
+    "unit": "chiếc",
+    "shortDescription": "Nồi chiên không dầu dung tích lớn nhiều chế độ ít dầu.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-philips-45l-284-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-philips-45l-284-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-philips-45l-284-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "3.5-6.0L",
+      "Công nghệ": "Rapid Air",
+      "Chế độ": "6-10",
+      "Nhiệt độ": "80-200°C"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 193
+    },
+    "stock": 76,
+    "soldCount": 1151,
+    "weight": 5353,
+    "dimensions": {
+      "length": 30.8,
+      "width": 26.6,
+      "height": 32.1
+    },
+    "origin": "Trung Quốc / Việt Nam",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "nồi chiên không dầu",
+      "air fryer",
+      "nhà bếp",
+      "philips"
+    ],
+    "createdAt": "2026-04-02T00:00:00.000Z"
+  },
+  {
+    "id": "prod-285",
+    "name": "Máy lọc không khí Daikin",
+    "slug": "may-loc-khong-khi-daikin-285",
+    "price": 5300000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-loc-khong-khi-daikin-285.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-loc-khong-khi-daikin-285.webp",
+    "description": "Máy lọc không khí bộ lọc HEPA loại bỏ bụi mịn PM2.5 vi khuẩn. CADR cao làm sạch nhanh. Cảm biến tự động. Kết nối app điều khiển.",
+    "brand": "Xiaomi",
+    "sku": "XIA-0285-CHI",
+    "originalPrice": 6120000,
+    "discountPercent": 13,
+    "unit": "chiếc",
+    "shortDescription": "Máy lọc không khí HEPA CADR cao điều khiển app.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-daikin-285-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-daikin-285-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-daikin-285-c.webp"
+    ],
+    "specifications": {
+      "CADR": "300-500 m³/h",
+      "Bộ lọc": "HEPA H13",
+      "Điều khiển": "App / Cảm biến",
+      "Diện tích": "20-50m²"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 758
+    },
+    "stock": 325,
+    "soldCount": 2080,
+    "weight": 5724,
+    "dimensions": {
+      "length": 23.0,
+      "width": 25.4,
+      "height": 48.6
+    },
+    "origin": "Trung Quốc / Nhật Bản / Hàn Quốc",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "máy lọc không khí",
+      "hepa",
+      "sức khỏe",
+      "xiaomi"
+    ],
+    "createdAt": "2026-06-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-286",
+    "name": "Máy hút bụi Samsung không dây",
+    "slug": "may-hut-bui-samsung-khong-day-286",
+    "price": 7100000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-hut-bui-samsung-khong-day-286.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-hut-bui-samsung-khong-day-286.webp",
+    "description": "Máy hút bụi công suất hút cao. Pin sử dụng lâu. Nhiều đầu hút chuyên dụng. Công nghệ cyclone hoặc robot tự động. Nhẹ linh hoạt.",
+    "brand": "Xiaomi",
+    "sku": "XIA-0286-CHI",
+    "originalPrice": 7680000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Máy hút bụi mạnh pin lâu nhiều đầu hút.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-samsung-khong-day-286-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-samsung-khong-day-286-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-samsung-khong-day-286-c.webp"
+    ],
+    "specifications": {
+      "Loại": "Không dây / Robot",
+      "Pin": "30-60 phút",
+      "Công nghệ": "Cyclone / Laser",
+      "Đầu hút": "Nhiều loại"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 362
+    },
+    "stock": 225,
+    "soldCount": 3390,
+    "weight": 3620,
+    "dimensions": {
+      "length": 24.2,
+      "width": 25.6,
+      "height": 106.1
+    },
+    "origin": "Malaysia / Trung Quốc / Hàn Quốc",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "máy hút bụi",
+      "không dây",
+      "vệ sinh",
+      "xiaomi"
+    ],
+    "createdAt": "2026-08-13T00:00:00.000Z"
+  },
+  {
+    "id": "prod-287",
+    "name": "Bình đun siêu tốc Sharp 1.7L 2026",
+    "slug": "binh-dun-sieu-toc-sharp-17l-2026-287",
+    "price": 792000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/binh-dun-sieu-toc-sharp-17l-2026-287.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/binh-dun-sieu-toc-sharp-17l-2026-287.webp",
+    "description": "Bình đun inox 304 an toàn. Công suất cao đun sôi nhanh. Tự ngắt khi sôi và chống cháy khô. Đế xoay 360 độ.",
+    "brand": "Philips",
+    "sku": "PHI-0287-CHI",
+    "originalPrice": 898000,
+    "discountPercent": 12,
+    "unit": "chiếc",
+    "shortDescription": "Bình đun siêu tốc inox tự ngắt chống cháy khô.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-sharp-17l-2026-287-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-sharp-17l-2026-287-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-sharp-17l-2026-287-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "1.5-2.0L",
+      "Công suất": "1500-2000W",
+      "Chất liệu": "Inox 304",
+      "Tính năng": "Tự ngắt chống cháy khô"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 609
+    },
+    "stock": 129,
+    "soldCount": 1384,
+    "weight": 1003,
+    "dimensions": {
+      "length": 24.1,
+      "width": 15.3,
+      "height": 24.9
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "bình đun",
+      "siêu tốc",
+      "inox",
+      "nhà bếp",
+      "philips"
+    ],
+    "createdAt": "2026-04-21T00:00:00.000Z"
+  },
+  {
+    "id": "prod-288",
+    "name": "Nồi áp suất điện Sunhouse 8L 2026",
+    "slug": "noi-ap-suat-dien-sunhouse-8l-2026-288",
+    "price": 3970000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-ap-suat-dien-sunhouse-8l-2026-288.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-ap-suat-dien-sunhouse-8l-2026-288.webp",
+    "description": "Nồi áp suất điện đa năng thay thế nhiều thiết bị. Nhiều chế độ nấu. Lòng inox. Nhiều lớp bảo vệ an toàn. Tiết kiệm thời gian nấu.",
+    "brand": "Philips",
+    "sku": "PHI-0288-CHI",
+    "originalPrice": 4960000,
+    "discountPercent": 20,
+    "unit": "chiếc",
+    "shortDescription": "Nồi áp suất điện đa năng nhiều chức năng an toàn.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-sunhouse-8l-2026-288-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-sunhouse-8l-2026-288-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-sunhouse-8l-2026-288-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "4-8L",
+      "Chức năng": "8-12",
+      "Lòng nồi": "Inox",
+      "An toàn": "Nhiều lớp"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 745
+    },
+    "stock": 112,
+    "soldCount": 1845,
+    "weight": 4736,
+    "dimensions": {
+      "length": 33.2,
+      "width": 32.3,
+      "height": 34.9
+    },
+    "origin": "Trung Quốc / Mỹ",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "nồi áp suất",
+      "đa năng",
+      "nhà bếp",
+      "philips"
+    ],
+    "createdAt": "2026-08-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-289",
+    "name": "Máy lọc nước RO Mutosi",
+    "slug": "may-loc-nuoc-ro-mutosi-289",
+    "price": 10350000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-loc-nuoc-ro-mutosi-289.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-loc-nuoc-ro-mutosi-289.webp",
+    "description": "Máy lọc nước công nghệ RO nhiều cấp lọc sạch tạp chất kim loại nặng vi khuẩn. Công suất ổn định. Có tủ chứa. Nước đạt chuẩn uống trực tiếp.",
+    "brand": "Kangaroo",
+    "sku": "KAN-0289-CHI",
+    "originalPrice": 12360000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Máy lọc nước RO nhiều cấp có tủ chứa uống trực tiếp.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-ro-mutosi-289-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-ro-mutosi-289-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-ro-mutosi-289-c.webp"
+    ],
+    "specifications": {
+      "Công nghệ": "RO 8-10 cấp",
+      "Công suất": "10-20L/h",
+      "Tủ chứa": "Có",
+      "Chất lượng": "Uống trực tiếp"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 828
+    },
+    "stock": 198,
+    "soldCount": 352,
+    "weight": 13140,
+    "dimensions": {
+      "length": 41.1,
+      "width": 33.2,
+      "height": 103.2
+    },
+    "origin": "Việt Nam / Hàn Quốc / Mỹ",
+    "warranty": "24-36 tháng chính hãng",
+    "tags": [
+      "máy lọc nước",
+      "ro",
+      "gia dụng",
+      "kangaroo"
+    ],
+    "createdAt": "2026-05-09T00:00:00.000Z"
+  },
+  {
+    "id": "prod-290",
+    "name": "Máy sấy tóc Xiaomi",
+    "slug": "may-say-toc-xiaomi-290",
+    "price": 10060000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-say-toc-xiaomi-290.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-say-toc-xiaomi-290.webp",
+    "description": "Máy sấy tóc công nghệ ion giảm xơ rối. Cảm biến nhiệt bảo vệ tóc. Nhiều chế độ và đầu sấy. Thiết kế nhẹ không nóng tay.",
+    "brand": "Lock&Lock",
+    "sku": "LOC-0290-CHI",
+    "originalPrice": 11550000,
+    "discountPercent": 13,
+    "unit": "chiếc",
+    "shortDescription": "Máy sấy tóc ion bảo vệ tóc nhiều chế độ nhiệt.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-say-toc-xiaomi-290-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-say-toc-xiaomi-290-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-say-toc-xiaomi-290-c.webp"
+    ],
+    "specifications": {
+      "Công nghệ": "Ion",
+      "Công suất": "1200-1800W",
+      "Chế độ": "Nhiều",
+      "Đầu sấy": "2-4"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 388
+    },
+    "stock": 279,
+    "soldCount": 2482,
+    "weight": 659,
+    "dimensions": {
+      "length": 30.4,
+      "width": 9.7,
+      "height": 8.9
+    },
+    "origin": "Malaysia / Trung Quốc / Nhật Bản",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "máy sấy tóc",
+      "ion",
+      "chăm sóc tóc",
+      "locklock"
+    ],
+    "createdAt": "2026-06-27T00:00:00.000Z"
+  },
+  {
+    "id": "prod-291",
+    "name": "Nồi cơm điện tử Sharp 1.0L",
+    "slug": "noi-com-dien-tu-sharp-10l-291",
+    "price": 1590000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-com-dien-tu-sharp-10l-291.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-com-dien-tu-sharp-10l-291.webp",
+    "description": "Nồi cơm điện tử lòng chống dính dày giữ nhiệt tốt. Nhiều chế độ nấu đa dạng. Hẹn giờ và giữ ấm tiện lợi. Thiết kế hiện đại dễ vệ sinh.",
+    "brand": "Cuckoo",
+    "sku": "CUC-0291-CHI",
+    "originalPrice": 1890000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Nồi cơm điện tử lòng dày nhiều chế độ nấu hẹn giờ.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-tu-sharp-10l-291-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-tu-sharp-10l-291-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-tu-sharp-10l-291-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "1.0-2.0L",
+      "Chế độ nấu": "8-12",
+      "Hẹn giờ": "Có",
+      "Giữ ấm": "Có"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 359
+    },
+    "stock": 225,
+    "soldCount": 483,
+    "weight": 3090,
+    "dimensions": {
+      "length": 28.4,
+      "width": 28.8,
+      "height": 30.9
+    },
+    "origin": "Thái Lan / Việt Nam / Hàn Quốc",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "nồi cơm điện",
+      "gia dụng",
+      "nhà bếp",
+      "cuckoo"
+    ],
+    "createdAt": "2026-01-17T00:00:00.000Z"
+  },
+  {
+    "id": "prod-292",
+    "name": "Máy xay sinh tố Philips 1.5L 2025",
+    "slug": "may-xay-sinh-to-philips-15l-2025-292",
+    "price": 1810000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-xay-sinh-to-philips-15l-2025-292.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-xay-sinh-to-philips-15l-2025-292.webp",
+    "description": "Máy xay sinh tố công suất cao xay được đá và thực phẩm cứng. Cối bền an toàn thực phẩm. Nhiều tốc độ + pulse. Dễ tháo lắp vệ sinh.",
+    "brand": "Lock&Lock",
+    "sku": "LOC-0292-CHI",
+    "originalPrice": 2170000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Máy xay sinh tố công suất mạnh lưỡi dao inox nhiều tốc độ.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-philips-15l-2025-292-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-philips-15l-2025-292-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-xay-sinh-to-philips-15l-2025-292-c.webp"
+    ],
+    "specifications": {
+      "Công suất": "400-800W",
+      "Dung tích": "1.0-1.75L",
+      "Tốc độ": "3-5 + Pulse",
+      "Lưỡi dao": "Inox"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 532
+    },
+    "stock": 82,
+    "soldCount": 1462,
+    "weight": 2452,
+    "dimensions": {
+      "length": 17.8,
+      "width": 17.6,
+      "height": 40.1
+    },
+    "origin": "Trung Quốc / Việt Nam",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "máy xay sinh tố",
+      "blender",
+      "nhà bếp",
+      "locklock"
+    ],
+    "createdAt": "2026-01-21T00:00:00.000Z"
+  },
+  {
+    "id": "prod-293",
+    "name": "Bếp từ Electrolux đơn vùng cao cấp",
+    "slug": "bep-tu-electrolux-don-vung-cao-cap-293",
+    "price": 7960000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/bep-tu-electrolux-don-vung-cao-cap-293.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/bep-tu-electrolux-don-vung-cao-cap-293.webp",
+    "description": "Bếp từ mặt kính ceramic chịu nhiệt. Điều khiển cảm ứng. Nhiều mức công suất. Khóa trẻ em và tự ngắt an toàn.",
+    "brand": "Sunhouse",
+    "sku": "SUN-0293-CHI",
+    "originalPrice": 9870000,
+    "discountPercent": 19,
+    "unit": "chiếc",
+    "shortDescription": "Bếp từ mặt kính cảm ứng công suất cao an toàn.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-electrolux-don-vung-cao-cap-293-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-electrolux-don-vung-cao-cap-293-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/bep-tu-electrolux-don-vung-cao-cap-293-c.webp"
+    ],
+    "specifications": {
+      "Số vùng": "1-3",
+      "Công suất": "1800-2200W/vùng",
+      "Mặt bếp": "Kính ceramic",
+      "Điều khiển": "Cảm ứng"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 376
+    },
+    "stock": 248,
+    "soldCount": 449,
+    "weight": 4160,
+    "dimensions": {
+      "length": 58.2,
+      "width": 33.9,
+      "height": 6.3
+    },
+    "origin": "Việt Nam / Đức / Trung Quốc",
+    "warranty": "24-36 tháng chính hãng",
+    "tags": [
+      "bếp từ",
+      "nhà bếp",
+      "cảm ứng",
+      "sunhouse"
+    ],
+    "createdAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-294",
+    "name": "Nồi chiên không dầu Bluestone 4.5L",
+    "slug": "noi-chien-khong-dau-bluestone-45l-294",
+    "price": 1380000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-chien-khong-dau-bluestone-45l-294.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-chien-khong-dau-bluestone-45l-294.webp",
+    "description": "Nồi chiên không dầu công nghệ khí nóng lưu thông đều. Nhiều chế độ cài sẵn. Điều chỉnh nhiệt độ và thời gian. Lòng chống dính dễ vệ sinh.",
+    "brand": "Philips",
+    "sku": "PHI-0294-CHI",
+    "originalPrice": 1690000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Nồi chiên không dầu dung tích lớn nhiều chế độ ít dầu.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-bluestone-45l-294-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-bluestone-45l-294-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-chien-khong-dau-bluestone-45l-294-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "3.5-6.0L",
+      "Công nghệ": "Rapid Air",
+      "Chế độ": "6-10",
+      "Nhiệt độ": "80-200°C"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 548
+    },
+    "stock": 94,
+    "soldCount": 2310,
+    "weight": 4827,
+    "dimensions": {
+      "length": 25.8,
+      "width": 29.7,
+      "height": 34.8
+    },
+    "origin": "Trung Quốc / Việt Nam",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "nồi chiên không dầu",
+      "air fryer",
+      "nhà bếp",
+      "philips"
+    ],
+    "createdAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "id": "prod-295",
+    "name": "Máy lọc không khí Daikin",
+    "slug": "may-loc-khong-khi-daikin-295",
+    "price": 6380000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-loc-khong-khi-daikin-295.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-loc-khong-khi-daikin-295.webp",
+    "description": "Máy lọc không khí bộ lọc HEPA loại bỏ bụi mịn PM2.5 vi khuẩn. CADR cao làm sạch nhanh. Cảm biến tự động. Kết nối app điều khiển.",
+    "brand": "LG",
+    "sku": "LG-0295-CHI",
+    "originalPrice": 7760000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Máy lọc không khí HEPA CADR cao điều khiển app.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-daikin-295-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-daikin-295-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-khong-khi-daikin-295-c.webp"
+    ],
+    "specifications": {
+      "CADR": "300-500 m³/h",
+      "Bộ lọc": "HEPA H13",
+      "Điều khiển": "App / Cảm biến",
+      "Diện tích": "20-50m²"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 648
+    },
+    "stock": 106,
+    "soldCount": 1891,
+    "weight": 6579,
+    "dimensions": {
+      "length": 22.5,
+      "width": 24.7,
+      "height": 49.3
+    },
+    "origin": "Trung Quốc / Nhật Bản / Hàn Quốc",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "máy lọc không khí",
+      "hepa",
+      "sức khỏe",
+      "lg"
+    ],
+    "createdAt": "2026-06-15T00:00:00.000Z"
+  },
+  {
+    "id": "prod-296",
+    "name": "Máy hút bụi Philips cầm tay limited",
+    "slug": "may-hut-bui-philips-cam-tay-limited-296",
+    "price": 6660000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-hut-bui-philips-cam-tay-limited-296.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-hut-bui-philips-cam-tay-limited-296.webp",
+    "description": "Máy hút bụi công suất hút cao. Pin sử dụng lâu. Nhiều đầu hút chuyên dụng. Công nghệ cyclone hoặc robot tự động. Nhẹ linh hoạt.",
+    "brand": "Xiaomi",
+    "sku": "XIA-0296-CHI",
+    "originalPrice": 8040000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Máy hút bụi mạnh pin lâu nhiều đầu hút.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-philips-cam-tay-limited-296-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-philips-cam-tay-limited-296-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-hut-bui-philips-cam-tay-limited-296-c.webp"
+    ],
+    "specifications": {
+      "Loại": "Không dây / Robot",
+      "Pin": "30-60 phút",
+      "Công nghệ": "Cyclone / Laser",
+      "Đầu hút": "Nhiều loại"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 221
+    },
+    "stock": 239,
+    "soldCount": 516,
+    "weight": 2256,
+    "dimensions": {
+      "length": 25.4,
+      "width": 26.5,
+      "height": 100.7
+    },
+    "origin": "Malaysia / Trung Quốc / Hàn Quốc",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "máy hút bụi",
+      "không dây",
+      "vệ sinh",
+      "xiaomi"
+    ],
+    "createdAt": "2026-03-23T00:00:00.000Z"
+  },
+  {
+    "id": "prod-297",
+    "name": "Bình đun siêu tốc Bluestone 1.8L",
+    "slug": "binh-dun-sieu-toc-bluestone-18l-297",
+    "price": 702000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/binh-dun-sieu-toc-bluestone-18l-297.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/binh-dun-sieu-toc-bluestone-18l-297.webp",
+    "description": "Bình đun inox 304 an toàn. Công suất cao đun sôi nhanh. Tự ngắt khi sôi và chống cháy khô. Đế xoay 360 độ.",
+    "brand": "Sharp",
+    "sku": "SHA-0297-CHI",
+    "originalPrice": 828000,
+    "discountPercent": 15,
+    "unit": "chiếc",
+    "shortDescription": "Bình đun siêu tốc inox tự ngắt chống cháy khô.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-bluestone-18l-297-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-bluestone-18l-297-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/binh-dun-sieu-toc-bluestone-18l-297-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "1.5-2.0L",
+      "Công suất": "1500-2000W",
+      "Chất liệu": "Inox 304",
+      "Tính năng": "Tự ngắt chống cháy khô"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 839
+    },
+    "stock": 157,
+    "soldCount": 3812,
+    "weight": 978,
+    "dimensions": {
+      "length": 21.3,
+      "width": 15.9,
+      "height": 22.4
+    },
+    "origin": "Việt Nam / Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "bình đun",
+      "siêu tốc",
+      "inox",
+      "nhà bếp",
+      "sharp"
+    ],
+    "createdAt": "2026-06-21T00:00:00.000Z"
+  },
+  {
+    "id": "prod-298",
+    "name": "Nồi áp suất điện Bluestone 4L",
+    "slug": "noi-ap-suat-dien-bluestone-4l-298",
+    "price": 1980000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-ap-suat-dien-bluestone-4l-298.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-ap-suat-dien-bluestone-4l-298.webp",
+    "description": "Nồi áp suất điện đa năng thay thế nhiều thiết bị. Nhiều chế độ nấu. Lòng inox. Nhiều lớp bảo vệ an toàn. Tiết kiệm thời gian nấu.",
+    "brand": "Sunhouse",
+    "sku": "SUN-0298-CHI",
+    "originalPrice": 2220000,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Nồi áp suất điện đa năng nhiều chức năng an toàn.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-bluestone-4l-298-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-bluestone-4l-298-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-ap-suat-dien-bluestone-4l-298-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "4-8L",
+      "Chức năng": "8-12",
+      "Lòng nồi": "Inox",
+      "An toàn": "Nhiều lớp"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 161
+    },
+    "stock": 299,
+    "soldCount": 1621,
+    "weight": 4479,
+    "dimensions": {
+      "length": 30.0,
+      "width": 33.2,
+      "height": 32.1
+    },
+    "origin": "Trung Quốc / Mỹ",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "nồi áp suất",
+      "đa năng",
+      "nhà bếp",
+      "sunhouse"
+    ],
+    "createdAt": "2026-05-03T00:00:00.000Z"
+  },
+  {
+    "id": "prod-299",
+    "name": "Máy lọc nước RO Karofi",
+    "slug": "may-loc-nuoc-ro-karofi-299",
+    "price": 6400000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-loc-nuoc-ro-karofi-299.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-loc-nuoc-ro-karofi-299.webp",
+    "description": "Máy lọc nước công nghệ RO nhiều cấp lọc sạch tạp chất kim loại nặng vi khuẩn. Công suất ổn định. Có tủ chứa. Nước đạt chuẩn uống trực tiếp.",
+    "brand": "Sunhouse",
+    "sku": "SUN-0299-CHI",
+    "originalPrice": 7520000,
+    "discountPercent": 15,
+    "unit": "chiếc",
+    "shortDescription": "Máy lọc nước RO nhiều cấp có tủ chứa uống trực tiếp.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-ro-karofi-299-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-ro-karofi-299-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-loc-nuoc-ro-karofi-299-c.webp"
+    ],
+    "specifications": {
+      "Công nghệ": "RO 8-10 cấp",
+      "Công suất": "10-20L/h",
+      "Tủ chứa": "Có",
+      "Chất lượng": "Uống trực tiếp"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 387
+    },
+    "stock": 9,
+    "soldCount": 2034,
+    "weight": 16011,
+    "dimensions": {
+      "length": 38.3,
+      "width": 32.8,
+      "height": 106.8
+    },
+    "origin": "Việt Nam / Hàn Quốc / Mỹ",
+    "warranty": "24-36 tháng chính hãng",
+    "tags": [
+      "máy lọc nước",
+      "ro",
+      "gia dụng",
+      "sunhouse"
+    ],
+    "createdAt": "2026-02-18T00:00:00.000Z"
+  },
+  {
+    "id": "prod-300",
+    "name": "Máy sấy tóc Philips",
+    "slug": "may-say-toc-philips-300",
+    "price": 9710000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/may-say-toc-philips-300.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/may-say-toc-philips-300.webp",
+    "description": "Máy sấy tóc công nghệ ion giảm xơ rối. Cảm biến nhiệt bảo vệ tóc. Nhiều chế độ và đầu sấy. Thiết kế nhẹ không nóng tay.",
+    "brand": "Lock&Lock",
+    "sku": "LOC-0300-CHI",
+    "originalPrice": 11320000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Máy sấy tóc ion bảo vệ tóc nhiều chế độ nhiệt.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-say-toc-philips-300-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-say-toc-philips-300-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/may-say-toc-philips-300-c.webp"
+    ],
+    "specifications": {
+      "Công nghệ": "Ion",
+      "Công suất": "1200-1800W",
+      "Chế độ": "Nhiều",
+      "Đầu sấy": "2-4"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 191
+    },
+    "stock": 47,
+    "soldCount": 2365,
+    "weight": 653,
+    "dimensions": {
+      "length": 27.5,
+      "width": 9.0,
+      "height": 9.4
+    },
+    "origin": "Malaysia / Trung Quốc / Nhật Bản",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "máy sấy tóc",
+      "ion",
+      "chăm sóc tóc",
+      "locklock"
+    ],
+    "createdAt": "2026-01-22T00:00:00.000Z"
+  },
+  {
     "id": "prod-1201",
     "name": "Nồi cơm điện Sharp 1.8L",
     "slug": "noi-com-dien-sharp-18l-1201",

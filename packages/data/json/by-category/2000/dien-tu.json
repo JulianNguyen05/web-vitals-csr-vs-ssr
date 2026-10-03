@@ -1,5 +1,2475 @@
 [
   {
+    "id": "prod-151",
+    "name": "Điện thoại thông minh Samsung Reno11",
+    "slug": "dien-thoai-thong-minh-samsung-reno11-151",
+    "price": 10050000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/dien-thoai-thong-minh-samsung-reno11-151.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/dien-thoai-thong-minh-samsung-reno11-151.webp",
+    "description": "Smartphone cao cấp với màn hình chất lượng cao, hiệu năng mạnh mẽ cho đa nhiệm và chơi game. Hệ thống camera nhiều ống kính hỗ trợ chụp đêm và chân dung. Pin dung lượng lớn kèm sạc nhanh. Chạy hệ điều hành mới nhất với cam kết cập nhật phần mềm.",
+    "brand": "Oppo",
+    "sku": "OPP-0151-CHI",
+    "originalPrice": 11460000,
+    "discountPercent": 12,
+    "unit": "chiếc",
+    "shortDescription": "Smartphone màn hình AMOLED, chip mạnh, camera AI, pin dung lượng lớn sạc nhanh.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dien-thoai-thong-minh-samsung-reno11-151-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dien-thoai-thong-minh-samsung-reno11-151-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dien-thoai-thong-minh-samsung-reno11-151-c.webp"
+    ],
+    "specifications": {
+      "Màn hình": "AMOLED 6.5-6.8 inch",
+      "Chip": "8 nhân",
+      "RAM": "8-12GB",
+      "Bộ nhớ": "128-256GB",
+      "Camera sau": "50-108MP",
+      "Pin": "5000mAh sạc nhanh"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 142
+    },
+    "stock": 279,
+    "soldCount": 3944,
+    "weight": 209,
+    "dimensions": {
+      "length": 15.3,
+      "width": 7.1,
+      "height": 0.7
+    },
+    "origin": "Việt Nam (lắp ráp) / Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "smartphone",
+      "5G",
+      "camera",
+      "sạc nhanh",
+      "oppo"
+    ],
+    "createdAt": "2026-07-29T00:00:00.000Z"
+  },
+  {
+    "id": "prod-152",
+    "name": "Laptop Acer Inspiron 15 Mini",
+    "slug": "laptop-acer-inspiron-15-mini-152",
+    "price": 22150000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/laptop-acer-inspiron-15-mini-152.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/laptop-acer-inspiron-15-mini-152.webp",
+    "description": "Laptop thiết kế mỏng nhẹ dễ mang theo. Màn hình Full HD chống chói. Bộ xử lý thế hệ mới kết hợp RAM và SSD cho hiệu năng mượt mà. Pin sử dụng cả ngày. Bàn phím có đèn nền.",
+    "brand": "HP",
+    "sku": "HP-0152-CHI",
+    "originalPrice": 26140000,
+    "discountPercent": 15,
+    "unit": "chiếc",
+    "shortDescription": "Laptop văn phòng / học tập mỏng nhẹ, chip mới, SSD nhanh, pin lâu.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/laptop-acer-inspiron-15-mini-152-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/laptop-acer-inspiron-15-mini-152-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/laptop-acer-inspiron-15-mini-152-c.webp"
+    ],
+    "specifications": {
+      "Màn hình": "14-15.6 inch FHD",
+      "CPU": "Intel/AMD thế hệ mới",
+      "RAM": "8-16GB",
+      "SSD": "256-512GB",
+      "Pin": "8-12 giờ"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 389
+    },
+    "stock": 96,
+    "soldCount": 1288,
+    "weight": 1737,
+    "dimensions": {
+      "length": 32.6,
+      "width": 24.1,
+      "height": 1.7
+    },
+    "origin": "Trung Quốc",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "laptop",
+      "văn phòng",
+      "mỏng nhẹ",
+      "ssd",
+      "hp"
+    ],
+    "createdAt": "2026-01-18T00:00:00.000Z"
+  },
+  {
+    "id": "prod-153",
+    "name": "Tai nghe không dây Baseus WF-C700",
+    "slug": "tai-nghe-khong-day-baseus-wf-c700-153",
+    "price": 1720000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/tai-nghe-khong-day-baseus-wf-c700-153.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/tai-nghe-khong-day-baseus-wf-c700-153.webp",
+    "description": "Tai nghe true wireless với chống ồn chủ động, âm thanh sống động. Pin sử dụng nhiều giờ kèm hộp sạc. Kết nối Bluetooth ổn định, chống nước. Thiết kế êm tai.",
+    "brand": "Baseus",
+    "sku": "BAS-0153-CHI",
+    "originalPrice": 2060000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Tai nghe true wireless chống ồn, pin lâu, sạc nhanh.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/tai-nghe-khong-day-baseus-wf-c700-153-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/tai-nghe-khong-day-baseus-wf-c700-153-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/tai-nghe-khong-day-baseus-wf-c700-153-c.webp"
+    ],
+    "specifications": {
+      "Loại": "True Wireless",
+      "Chống ồn": "ANC",
+      "Pin": "20-40 giờ",
+      "Bluetooth": "5.2-5.3",
+      "Chống nước": "IPX4-IPX5"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 311
+    },
+    "stock": 245,
+    "soldCount": 2010,
+    "weight": 44,
+    "dimensions": {
+      "length": 6.2,
+      "width": 5.3,
+      "height": 2.8
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "tai nghe",
+      "true wireless",
+      "chống ồn",
+      "bluetooth",
+      "baseus"
+    ],
+    "createdAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-154",
+    "name": "Đồng hồ thông minh Huawei Watch 2",
+    "slug": "dong-ho-thong-minh-huawei-watch-2-154",
+    "price": 5000000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/dong-ho-thong-minh-huawei-watch-2-154.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/dong-ho-thong-minh-huawei-watch-2-154.webp",
+    "description": "Đồng hồ thông minh theo dõi nhịp tim, SpO2, giấc ngủ và nhiều chế độ thể thao. Có GPS, chống nước. Pin sử dụng nhiều ngày. Hỗ trợ thông báo và điều khiển nhạc.",
+    "brand": "Huawei",
+    "sku": "HUA-0154-CHI",
+    "originalPrice": 5500000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Đồng hồ thông minh theo dõi sức khỏe, GPS, pin nhiều ngày.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dong-ho-thong-minh-huawei-watch-2-154-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dong-ho-thong-minh-huawei-watch-2-154-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dong-ho-thong-minh-huawei-watch-2-154-c.webp"
+    ],
+    "specifications": {
+      "Màn hình": "AMOLED/LCD",
+      "Cảm biến": "Nhịp tim SpO2",
+      "Chống nước": "5ATM",
+      "Pin": "7-14 ngày",
+      "GPS": "Có"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 172
+    },
+    "stock": 293,
+    "soldCount": 3937,
+    "weight": 32,
+    "dimensions": {
+      "length": 4.4,
+      "width": 4.1,
+      "height": 1.2
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "đồng hồ thông minh",
+      "fitness",
+      "gps",
+      "sức khỏe",
+      "huawei"
+    ],
+    "createdAt": "2026-04-02T00:00:00.000Z"
+  },
+  {
+    "id": "prod-155",
+    "name": "Máy tính bảng Xelio Galaxy Tab A9 Max",
+    "slug": "may-tinh-bang-xelio-galaxy-tab-a9-max-155",
+    "price": 12760000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/may-tinh-bang-xelio-galaxy-tab-a9-max-155.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/may-tinh-bang-xelio-galaxy-tab-a9-max-155.webp",
+    "description": "Máy tính bảng màn hình sắc nét tần số quét cao. Hỗ trợ bút cảm ứng ghi chú vẽ. Pin dung lượng lớn dùng cả ngày. Loa stereo. Phù hợp học tập giải trí.",
+    "brand": "Samsung",
+    "sku": "SAM-0155-CHI",
+    "originalPrice": 14610000,
+    "discountPercent": 13,
+    "unit": "chiếc",
+    "shortDescription": "Máy tính bảng màn hình lớn, hỗ trợ bút cảm ứng, pin trâu.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/may-tinh-bang-xelio-galaxy-tab-a9-max-155-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/may-tinh-bang-xelio-galaxy-tab-a9-max-155-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/may-tinh-bang-xelio-galaxy-tab-a9-max-155-c.webp"
+    ],
+    "specifications": {
+      "Màn hình": "10.5-11 inch",
+      "RAM": "4-8GB",
+      "Bộ nhớ": "64-128GB",
+      "Pin": "7000-8000mAh",
+      "Bút cảm ứng": "Hỗ trợ"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 81
+    },
+    "stock": 317,
+    "soldCount": 3982,
+    "weight": 506,
+    "dimensions": {
+      "length": 24.0,
+      "width": 16.8,
+      "height": 0.7
+    },
+    "origin": "Trung Quốc / Việt Nam",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "máy tính bảng",
+      "tablet",
+      "bút cảm ứng",
+      "học tập",
+      "samsung"
+    ],
+    "createdAt": "2026-07-23T00:00:00.000Z"
+  },
+  {
+    "id": "prod-156",
+    "name": "Loa bluetooth SoundMax Flip 6",
+    "slug": "loa-bluetooth-soundmax-flip-6-156",
+    "price": 731000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/loa-bluetooth-soundmax-flip-6-156.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/loa-bluetooth-soundmax-flip-6-156.webp",
+    "description": "Loa bluetooth công suất mạnh bass sâu. Chống nước tốt dùng ngoài trời. Pin phát nhạc nhiều giờ. Hỗ trợ ghép đôi TWS. Đèn LED trang trí.",
+    "brand": "Sony",
+    "sku": "SON-0156-CHI",
+    "originalPrice": 809000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Loa bluetooth công suất lớn, chống nước, pin lâu, đèn LED.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/loa-bluetooth-soundmax-flip-6-156-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/loa-bluetooth-soundmax-flip-6-156-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/loa-bluetooth-soundmax-flip-6-156-c.webp"
+    ],
+    "specifications": {
+      "Công suất": "20-40W",
+      "Bluetooth": "5.0-5.3",
+      "Chống nước": "IPX5-IPX7",
+      "Pin": "12-24 giờ"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 501
+    },
+    "stock": 154,
+    "soldCount": 183,
+    "weight": 488,
+    "dimensions": {
+      "length": 18.2,
+      "width": 7.5,
+      "height": 7.9
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "loa bluetooth",
+      "chống nước",
+      "bass",
+      "ngoài trời",
+      "sony"
+    ],
+    "createdAt": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "prod-157",
+    "name": "Sạc dự phòng Xiaomi 25000mAh",
+    "slug": "sac-du-phong-xiaomi-25000mah-157",
+    "price": 365000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/sac-du-phong-xiaomi-25000mah-157.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/sac-du-phong-xiaomi-25000mah-157.webp",
+    "description": "Sạc dự phòng dung lượng cao hỗ trợ sạc nhanh PD/QC. Nhiều cổng sạc đồng thời. Màn hình hiển thị %. An toàn nhiều lớp bảo vệ.",
+    "brand": "Aukey",
+    "sku": "AUK-0157-CHI",
+    "originalPrice": 437000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Sạc dự phòng dung lượng lớn sạc nhanh nhiều cổng.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/sac-du-phong-xiaomi-25000mah-157-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/sac-du-phong-xiaomi-25000mah-157-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/sac-du-phong-xiaomi-25000mah-157-c.webp"
+    ],
+    "specifications": {
+      "Dung lượng": "10000-30000mAh",
+      "Sạc nhanh": "PD/QC",
+      "Cổng": "USB-C + USB-A",
+      "Màn hình": "LED"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 222
+    },
+    "stock": 222,
+    "soldCount": 520,
+    "weight": 436,
+    "dimensions": {
+      "length": 13.3,
+      "width": 7.4,
+      "height": 2.5
+    },
+    "origin": "Trung Quốc",
+    "warranty": "18 tháng chính hãng",
+    "tags": [
+      "sạc dự phòng",
+      "powerbank",
+      "sạc nhanh",
+      "aukey"
+    ],
+    "createdAt": "2026-06-03T00:00:00.000Z"
+  },
+  {
+    "id": "prod-158",
+    "name": "Chuột không dây Rapoo M330",
+    "slug": "chuot-khong-day-rapoo-m330-158",
+    "price": 490000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/chuot-khong-day-rapoo-m330-158.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/chuot-khong-day-rapoo-m330-158.webp",
+    "description": "Chuột không dây thiết kế ergonomic. Cảm biến chính xác. Kết nối Bluetooth hoặc receiver. Pin sử dụng lâu. Nút tùy chỉnh.",
+    "brand": "Rapoo",
+    "sku": "RAP-0158-CHI",
+    "originalPrice": 534000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Chuột không dây êm ái, pin lâu, kết nối đa thiết bị.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/chuot-khong-day-rapoo-m330-158-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/chuot-khong-day-rapoo-m330-158-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/chuot-khong-day-rapoo-m330-158-c.webp"
+    ],
+    "specifications": {
+      "Cảm biến": "Cao DPI",
+      "Kết nối": "BT / 2.4G",
+      "Pin": "Nhiều tháng",
+      "Nút": "Tùy chỉnh"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 499
+    },
+    "stock": 160,
+    "soldCount": 2916,
+    "weight": 119,
+    "dimensions": {
+      "length": 12.2,
+      "width": 7.5,
+      "height": 4.3
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "chuột không dây",
+      "ergonomic",
+      "văn phòng",
+      "rapoo"
+    ],
+    "createdAt": "2026-04-28T00:00:00.000Z"
+  },
+  {
+    "id": "prod-159",
+    "name": "Bàn phím cơ Dareu BlackWidow",
+    "slug": "ban-phim-co-dareu-blackwidow-159",
+    "price": 1230000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/ban-phim-co-dareu-blackwidow-159.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/ban-phim-co-dareu-blackwidow-159.webp",
+    "description": "Bàn phím cơ switch hot-swap dễ thay. Đèn RGB nhiều chế độ. Kết nối Bluetooth hoặc USB-C. Keycap chất lượng. Tương thích đa hệ điều hành.",
+    "brand": "Logitech",
+    "sku": "LOG-0159-CHI",
+    "originalPrice": 1450000,
+    "discountPercent": 15,
+    "unit": "chiếc",
+    "shortDescription": "Bàn phím cơ hot-swap, RGB, kết nối không dây hoặc dây.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/ban-phim-co-dareu-blackwidow-159-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/ban-phim-co-dareu-blackwidow-159-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/ban-phim-co-dareu-blackwidow-159-c.webp"
+    ],
+    "specifications": {
+      "Layout": "87-104 phím",
+      "Switch": "Hot-swap",
+      "Kết nối": "BT + USB-C",
+      "RGB": "Có"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 710
+    },
+    "stock": 299,
+    "soldCount": 2454,
+    "weight": 921,
+    "dimensions": {
+      "length": 37.7,
+      "width": 13.3,
+      "height": 3.2
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "bàn phím cơ",
+      "mechanical",
+      "hot-swap",
+      "rgb",
+      "logitech"
+    ],
+    "createdAt": "2026-09-15T00:00:00.000Z"
+  },
+  {
+    "id": "prod-160",
+    "name": "Webcam Logitech LifeCam",
+    "slug": "webcam-logitech-lifecam-160",
+    "price": 459000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/webcam-logitech-lifecam-160.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/webcam-logitech-lifecam-160.webp",
+    "description": "Webcam Full HD hình ảnh sắc nét. Lấy nét tự động. Micro kép khử tiếng ồn. Kẹp linh hoạt. Tương thích Zoom Teams Meet.",
+    "brand": "Emeet",
+    "sku": "EME-0160-CHI",
+    "originalPrice": 555000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Webcam Full HD lấy nét tự động, micro khử ồn.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/webcam-logitech-lifecam-160-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/webcam-logitech-lifecam-160-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/webcam-logitech-lifecam-160-c.webp"
+    ],
+    "specifications": {
+      "Độ phân giải": "1080p",
+      "Lấy nét": "Tự động",
+      "Micro": "Khử ồn",
+      "Góc nhìn": "78-90°"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 619
+    },
+    "stock": 228,
+    "soldCount": 2650,
+    "weight": 102,
+    "dimensions": {
+      "length": 8.0,
+      "width": 4.1,
+      "height": 3.2
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "webcam",
+      "họp online",
+      "1080p",
+      "autofocus",
+      "emeet"
+    ],
+    "createdAt": "2026-08-11T00:00:00.000Z"
+  },
+  {
+    "id": "prod-161",
+    "name": "Điện thoại thông minh Xiaomi Nova X12",
+    "slug": "dien-thoai-thong-minh-xiaomi-nova-x12-161",
+    "price": 10090000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/dien-thoai-thong-minh-xiaomi-nova-x12-161.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/dien-thoai-thong-minh-xiaomi-nova-x12-161.webp",
+    "description": "Smartphone cao cấp với màn hình chất lượng cao, hiệu năng mạnh mẽ cho đa nhiệm và chơi game. Hệ thống camera nhiều ống kính hỗ trợ chụp đêm và chân dung. Pin dung lượng lớn kèm sạc nhanh. Chạy hệ điều hành mới nhất với cam kết cập nhật phần mềm.",
+    "brand": "Xiaomi",
+    "sku": "XIA-0161-CHI",
+    "originalPrice": 11450000,
+    "discountPercent": 12,
+    "unit": "chiếc",
+    "shortDescription": "Smartphone màn hình AMOLED, chip mạnh, camera AI, pin dung lượng lớn sạc nhanh.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dien-thoai-thong-minh-xiaomi-nova-x12-161-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dien-thoai-thong-minh-xiaomi-nova-x12-161-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dien-thoai-thong-minh-xiaomi-nova-x12-161-c.webp"
+    ],
+    "specifications": {
+      "Màn hình": "AMOLED 6.5-6.8 inch",
+      "Chip": "8 nhân",
+      "RAM": "8-12GB",
+      "Bộ nhớ": "128-256GB",
+      "Camera sau": "50-108MP",
+      "Pin": "5000mAh sạc nhanh"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 430
+    },
+    "stock": 286,
+    "soldCount": 200,
+    "weight": 186,
+    "dimensions": {
+      "length": 17.1,
+      "width": 7.2,
+      "height": 0.8
+    },
+    "origin": "Việt Nam (lắp ráp) / Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "smartphone",
+      "5G",
+      "camera",
+      "sạc nhanh",
+      "xiaomi"
+    ],
+    "createdAt": "2026-05-11T00:00:00.000Z"
+  },
+  {
+    "id": "prod-162",
+    "name": "Laptop NovaTech Pavilion cao cấp",
+    "slug": "laptop-novatech-pavilion-cao-cap-162",
+    "price": 24500000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/laptop-novatech-pavilion-cao-cap-162.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/laptop-novatech-pavilion-cao-cap-162.webp",
+    "description": "Laptop thiết kế mỏng nhẹ dễ mang theo. Màn hình Full HD chống chói. Bộ xử lý thế hệ mới kết hợp RAM và SSD cho hiệu năng mượt mà. Pin sử dụng cả ngày. Bàn phím có đèn nền.",
+    "brand": "Asus",
+    "sku": "ASU-0162-CHI",
+    "originalPrice": 28600000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Laptop văn phòng / học tập mỏng nhẹ, chip mới, SSD nhanh, pin lâu.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/laptop-novatech-pavilion-cao-cap-162-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/laptop-novatech-pavilion-cao-cap-162-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/laptop-novatech-pavilion-cao-cap-162-c.webp"
+    ],
+    "specifications": {
+      "Màn hình": "14-15.6 inch FHD",
+      "CPU": "Intel/AMD thế hệ mới",
+      "RAM": "8-16GB",
+      "SSD": "256-512GB",
+      "Pin": "8-12 giờ"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 390
+    },
+    "stock": 323,
+    "soldCount": 3148,
+    "weight": 1201,
+    "dimensions": {
+      "length": 33.0,
+      "width": 22.2,
+      "height": 1.6
+    },
+    "origin": "Trung Quốc",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "laptop",
+      "văn phòng",
+      "mỏng nhẹ",
+      "ssd",
+      "asus"
+    ],
+    "createdAt": "2026-05-22T00:00:00.000Z"
+  },
+  {
+    "id": "prod-163",
+    "name": "Tai nghe không dây Anker Pro 2025",
+    "slug": "tai-nghe-khong-day-anker-pro-2025-163",
+    "price": 1700000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/tai-nghe-khong-day-anker-pro-2025-163.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/tai-nghe-khong-day-anker-pro-2025-163.webp",
+    "description": "Tai nghe true wireless với chống ồn chủ động, âm thanh sống động. Pin sử dụng nhiều giờ kèm hộp sạc. Kết nối Bluetooth ổn định, chống nước. Thiết kế êm tai.",
+    "brand": "Sony",
+    "sku": "SON-0163-CHI",
+    "originalPrice": 1960000,
+    "discountPercent": 13,
+    "unit": "chiếc",
+    "shortDescription": "Tai nghe true wireless chống ồn, pin lâu, sạc nhanh.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/tai-nghe-khong-day-anker-pro-2025-163-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/tai-nghe-khong-day-anker-pro-2025-163-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/tai-nghe-khong-day-anker-pro-2025-163-c.webp"
+    ],
+    "specifications": {
+      "Loại": "True Wireless",
+      "Chống ồn": "ANC",
+      "Pin": "20-40 giờ",
+      "Bluetooth": "5.2-5.3",
+      "Chống nước": "IPX4-IPX5"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 746
+    },
+    "stock": 86,
+    "soldCount": 1322,
+    "weight": 62,
+    "dimensions": {
+      "length": 6.0,
+      "width": 4.5,
+      "height": 3.1
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "tai nghe",
+      "true wireless",
+      "chống ồn",
+      "bluetooth",
+      "sony"
+    ],
+    "createdAt": "2026-06-05T00:00:00.000Z"
+  },
+  {
+    "id": "prod-164",
+    "name": "Đồng hồ thông minh FitLife GTR",
+    "slug": "dong-ho-thong-minh-fitlife-gtr-164",
+    "price": 1940000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/dong-ho-thong-minh-fitlife-gtr-164.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/dong-ho-thong-minh-fitlife-gtr-164.webp",
+    "description": "Đồng hồ thông minh theo dõi nhịp tim, SpO2, giấc ngủ và nhiều chế độ thể thao. Có GPS, chống nước. Pin sử dụng nhiều ngày. Hỗ trợ thông báo và điều khiển nhạc.",
+    "brand": "Xiaomi",
+    "sku": "XIA-0164-CHI",
+    "originalPrice": 2250000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Đồng hồ thông minh theo dõi sức khỏe, GPS, pin nhiều ngày.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dong-ho-thong-minh-fitlife-gtr-164-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dong-ho-thong-minh-fitlife-gtr-164-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dong-ho-thong-minh-fitlife-gtr-164-c.webp"
+    ],
+    "specifications": {
+      "Màn hình": "AMOLED/LCD",
+      "Cảm biến": "Nhịp tim SpO2",
+      "Chống nước": "5ATM",
+      "Pin": "7-14 ngày",
+      "GPS": "Có"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 742
+    },
+    "stock": 144,
+    "soldCount": 1751,
+    "weight": 33,
+    "dimensions": {
+      "length": 4.6,
+      "width": 4.2,
+      "height": 1.3
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "đồng hồ thông minh",
+      "fitness",
+      "gps",
+      "sức khỏe",
+      "xiaomi"
+    ],
+    "createdAt": "2026-08-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-165",
+    "name": "Máy tính bảng Xiaomi Pad 6 2025",
+    "slug": "may-tinh-bang-xiaomi-pad-6-2025-165",
+    "price": 10430000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/may-tinh-bang-xiaomi-pad-6-2025-165.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/may-tinh-bang-xiaomi-pad-6-2025-165.webp",
+    "description": "Máy tính bảng màn hình sắc nét tần số quét cao. Hỗ trợ bút cảm ứng ghi chú vẽ. Pin dung lượng lớn dùng cả ngày. Loa stereo. Phù hợp học tập giải trí.",
+    "brand": "Samsung",
+    "sku": "SAM-0165-CHI",
+    "originalPrice": 11600000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Máy tính bảng màn hình lớn, hỗ trợ bút cảm ứng, pin trâu.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/may-tinh-bang-xiaomi-pad-6-2025-165-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/may-tinh-bang-xiaomi-pad-6-2025-165-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/may-tinh-bang-xiaomi-pad-6-2025-165-c.webp"
+    ],
+    "specifications": {
+      "Màn hình": "10.5-11 inch",
+      "RAM": "4-8GB",
+      "Bộ nhớ": "64-128GB",
+      "Pin": "7000-8000mAh",
+      "Bút cảm ứng": "Hỗ trợ"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 828
+    },
+    "stock": 217,
+    "soldCount": 1442,
+    "weight": 526,
+    "dimensions": {
+      "length": 25.0,
+      "width": 17.8,
+      "height": 0.8
+    },
+    "origin": "Trung Quốc / Việt Nam",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "máy tính bảng",
+      "tablet",
+      "bút cảm ứng",
+      "học tập",
+      "samsung"
+    ],
+    "createdAt": "2026-09-11T00:00:00.000Z"
+  },
+  {
+    "id": "prod-166",
+    "name": "Loa bluetooth Xiaomi SRS-XB",
+    "slug": "loa-bluetooth-xiaomi-srs-xb-166",
+    "price": 1640000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/loa-bluetooth-xiaomi-srs-xb-166.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/loa-bluetooth-xiaomi-srs-xb-166.webp",
+    "description": "Loa bluetooth công suất mạnh bass sâu. Chống nước tốt dùng ngoài trời. Pin phát nhạc nhiều giờ. Hỗ trợ ghép đôi TWS. Đèn LED trang trí.",
+    "brand": "Sony",
+    "sku": "SON-0166-CHI",
+    "originalPrice": 2000000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Loa bluetooth công suất lớn, chống nước, pin lâu, đèn LED.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/loa-bluetooth-xiaomi-srs-xb-166-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/loa-bluetooth-xiaomi-srs-xb-166-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/loa-bluetooth-xiaomi-srs-xb-166-c.webp"
+    ],
+    "specifications": {
+      "Công suất": "20-40W",
+      "Bluetooth": "5.0-5.3",
+      "Chống nước": "IPX5-IPX7",
+      "Pin": "12-24 giờ"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 373
+    },
+    "stock": 175,
+    "soldCount": 2310,
+    "weight": 696,
+    "dimensions": {
+      "length": 19.8,
+      "width": 8.0,
+      "height": 7.4
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "loa bluetooth",
+      "chống nước",
+      "bass",
+      "ngoài trời",
+      "sony"
+    ],
+    "createdAt": "2026-07-29T00:00:00.000Z"
+  },
+  {
+    "id": "prod-167",
+    "name": "Sạc dự phòng Romoss 30000mAh",
+    "slug": "sac-du-phong-romoss-30000mah-167",
+    "price": 1200000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/sac-du-phong-romoss-30000mah-167.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/sac-du-phong-romoss-30000mah-167.webp",
+    "description": "Sạc dự phòng dung lượng cao hỗ trợ sạc nhanh PD/QC. Nhiều cổng sạc đồng thời. Màn hình hiển thị %. An toàn nhiều lớp bảo vệ.",
+    "brand": "Xiaomi",
+    "sku": "XIA-0167-CHI",
+    "originalPrice": 1330000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Sạc dự phòng dung lượng lớn sạc nhanh nhiều cổng.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/sac-du-phong-romoss-30000mah-167-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/sac-du-phong-romoss-30000mah-167-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/sac-du-phong-romoss-30000mah-167-c.webp"
+    ],
+    "specifications": {
+      "Dung lượng": "10000-30000mAh",
+      "Sạc nhanh": "PD/QC",
+      "Cổng": "USB-C + USB-A",
+      "Màn hình": "LED"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 345
+    },
+    "stock": 247,
+    "soldCount": 2938,
+    "weight": 378,
+    "dimensions": {
+      "length": 13.3,
+      "width": 6.8,
+      "height": 2.7
+    },
+    "origin": "Trung Quốc",
+    "warranty": "18 tháng chính hãng",
+    "tags": [
+      "sạc dự phòng",
+      "powerbank",
+      "sạc nhanh",
+      "xiaomi"
+    ],
+    "createdAt": "2026-09-05T00:00:00.000Z"
+  },
+  {
+    "id": "prod-168",
+    "name": "Chuột không dây Xiaomi Silent",
+    "slug": "chuot-khong-day-xiaomi-silent-168",
+    "price": 2270000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/chuot-khong-day-xiaomi-silent-168.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/chuot-khong-day-xiaomi-silent-168.webp",
+    "description": "Chuột không dây thiết kế ergonomic. Cảm biến chính xác. Kết nối Bluetooth hoặc receiver. Pin sử dụng lâu. Nút tùy chỉnh.",
+    "brand": "Rapoo",
+    "sku": "RAP-0168-CHI",
+    "originalPrice": 2820000,
+    "discountPercent": 20,
+    "unit": "chiếc",
+    "shortDescription": "Chuột không dây êm ái, pin lâu, kết nối đa thiết bị.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/chuot-khong-day-xiaomi-silent-168-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/chuot-khong-day-xiaomi-silent-168-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/chuot-khong-day-xiaomi-silent-168-c.webp"
+    ],
+    "specifications": {
+      "Cảm biến": "Cao DPI",
+      "Kết nối": "BT / 2.4G",
+      "Pin": "Nhiều tháng",
+      "Nút": "Tùy chỉnh"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 470
+    },
+    "stock": 56,
+    "soldCount": 2204,
+    "weight": 96,
+    "dimensions": {
+      "length": 12.0,
+      "width": 7.1,
+      "height": 4.3
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "chuột không dây",
+      "ergonomic",
+      "văn phòng",
+      "rapoo"
+    ],
+    "createdAt": "2026-09-05T00:00:00.000Z"
+  },
+  {
+    "id": "prod-169",
+    "name": "Bàn phím cơ Logitech K8 Pro",
+    "slug": "ban-phim-co-logitech-k8-pro-169",
+    "price": 1540000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/ban-phim-co-logitech-k8-pro-169.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/ban-phim-co-logitech-k8-pro-169.webp",
+    "description": "Bàn phím cơ switch hot-swap dễ thay. Đèn RGB nhiều chế độ. Kết nối Bluetooth hoặc USB-C. Keycap chất lượng. Tương thích đa hệ điều hành.",
+    "brand": "Logitech",
+    "sku": "LOG-0169-CHI",
+    "originalPrice": 1680000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Bàn phím cơ hot-swap, RGB, kết nối không dây hoặc dây.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/ban-phim-co-logitech-k8-pro-169-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/ban-phim-co-logitech-k8-pro-169-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/ban-phim-co-logitech-k8-pro-169-c.webp"
+    ],
+    "specifications": {
+      "Layout": "87-104 phím",
+      "Switch": "Hot-swap",
+      "Kết nối": "BT + USB-C",
+      "RGB": "Có"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 892
+    },
+    "stock": 173,
+    "soldCount": 3541,
+    "weight": 1100,
+    "dimensions": {
+      "length": 39.4,
+      "width": 12.6,
+      "height": 3.6
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "bàn phím cơ",
+      "mechanical",
+      "hot-swap",
+      "rgb",
+      "logitech"
+    ],
+    "createdAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "id": "prod-170",
+    "name": "Webcam Emeet IMILAB",
+    "slug": "webcam-emeet-imilab-170",
+    "price": 2340000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/webcam-emeet-imilab-170.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/webcam-emeet-imilab-170.webp",
+    "description": "Webcam Full HD hình ảnh sắc nét. Lấy nét tự động. Micro kép khử tiếng ồn. Kẹp linh hoạt. Tương thích Zoom Teams Meet.",
+    "brand": "Microsoft",
+    "sku": "MIC-0170-CHI",
+    "originalPrice": 2870000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Webcam Full HD lấy nét tự động, micro khử ồn.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/webcam-emeet-imilab-170-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/webcam-emeet-imilab-170-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/webcam-emeet-imilab-170-c.webp"
+    ],
+    "specifications": {
+      "Độ phân giải": "1080p",
+      "Lấy nét": "Tự động",
+      "Micro": "Khử ồn",
+      "Góc nhìn": "78-90°"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 252
+    },
+    "stock": 51,
+    "soldCount": 1827,
+    "weight": 84,
+    "dimensions": {
+      "length": 8.2,
+      "width": 3.8,
+      "height": 3.1
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "webcam",
+      "họp online",
+      "1080p",
+      "autofocus",
+      "microsoft"
+    ],
+    "createdAt": "2026-09-22T00:00:00.000Z"
+  },
+  {
+    "id": "prod-171",
+    "name": "Điện thoại thông minh Xelio GT Neo",
+    "slug": "dien-thoai-thong-minh-xelio-gt-neo-171",
+    "price": 11940000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/dien-thoai-thong-minh-xelio-gt-neo-171.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/dien-thoai-thong-minh-xelio-gt-neo-171.webp",
+    "description": "Smartphone cao cấp với màn hình chất lượng cao, hiệu năng mạnh mẽ cho đa nhiệm và chơi game. Hệ thống camera nhiều ống kính hỗ trợ chụp đêm và chân dung. Pin dung lượng lớn kèm sạc nhanh. Chạy hệ điều hành mới nhất với cam kết cập nhật phần mềm.",
+    "brand": "Xelio",
+    "sku": "XEL-0171-CHI",
+    "originalPrice": 13230000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Smartphone màn hình AMOLED, chip mạnh, camera AI, pin dung lượng lớn sạc nhanh.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dien-thoai-thong-minh-xelio-gt-neo-171-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dien-thoai-thong-minh-xelio-gt-neo-171-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dien-thoai-thong-minh-xelio-gt-neo-171-c.webp"
+    ],
+    "specifications": {
+      "Màn hình": "AMOLED 6.5-6.8 inch",
+      "Chip": "8 nhân",
+      "RAM": "8-12GB",
+      "Bộ nhớ": "128-256GB",
+      "Camera sau": "50-108MP",
+      "Pin": "5000mAh sạc nhanh"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 403
+    },
+    "stock": 225,
+    "soldCount": 646,
+    "weight": 199,
+    "dimensions": {
+      "length": 17.3,
+      "width": 6.8,
+      "height": 0.8
+    },
+    "origin": "Việt Nam (lắp ráp) / Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "smartphone",
+      "5G",
+      "camera",
+      "sạc nhanh",
+      "xelio"
+    ],
+    "createdAt": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "prod-172",
+    "name": "Laptop Lenovo VivoBook",
+    "slug": "laptop-lenovo-vivobook-172",
+    "price": 12840000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/laptop-lenovo-vivobook-172.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/laptop-lenovo-vivobook-172.webp",
+    "description": "Laptop thiết kế mỏng nhẹ dễ mang theo. Màn hình Full HD chống chói. Bộ xử lý thế hệ mới kết hợp RAM và SSD cho hiệu năng mượt mà. Pin sử dụng cả ngày. Bàn phím có đèn nền.",
+    "brand": "Dell",
+    "sku": "DEL-0172-CHI",
+    "originalPrice": 14250000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Laptop văn phòng / học tập mỏng nhẹ, chip mới, SSD nhanh, pin lâu.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/laptop-lenovo-vivobook-172-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/laptop-lenovo-vivobook-172-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/laptop-lenovo-vivobook-172-c.webp"
+    ],
+    "specifications": {
+      "Màn hình": "14-15.6 inch FHD",
+      "CPU": "Intel/AMD thế hệ mới",
+      "RAM": "8-16GB",
+      "SSD": "256-512GB",
+      "Pin": "8-12 giờ"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 492
+    },
+    "stock": 331,
+    "soldCount": 1090,
+    "weight": 1591,
+    "dimensions": {
+      "length": 32.8,
+      "width": 20.9,
+      "height": 1.7
+    },
+    "origin": "Trung Quốc",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "laptop",
+      "văn phòng",
+      "mỏng nhẹ",
+      "ssd",
+      "dell"
+    ],
+    "createdAt": "2026-05-12T00:00:00.000Z"
+  },
+  {
+    "id": "prod-173",
+    "name": "Tai nghe không dây JBL Pro",
+    "slug": "tai-nghe-khong-day-jbl-pro-173",
+    "price": 1700000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/tai-nghe-khong-day-jbl-pro-173.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/tai-nghe-khong-day-jbl-pro-173.webp",
+    "description": "Tai nghe true wireless với chống ồn chủ động, âm thanh sống động. Pin sử dụng nhiều giờ kèm hộp sạc. Kết nối Bluetooth ổn định, chống nước. Thiết kế êm tai.",
+    "brand": "Anker",
+    "sku": "ANK-0173-CHI",
+    "originalPrice": 2030000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Tai nghe true wireless chống ồn, pin lâu, sạc nhanh.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/tai-nghe-khong-day-jbl-pro-173-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/tai-nghe-khong-day-jbl-pro-173-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/tai-nghe-khong-day-jbl-pro-173-c.webp"
+    ],
+    "specifications": {
+      "Loại": "True Wireless",
+      "Chống ồn": "ANC",
+      "Pin": "20-40 giờ",
+      "Bluetooth": "5.2-5.3",
+      "Chống nước": "IPX4-IPX5"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 454
+    },
+    "stock": 133,
+    "soldCount": 1921,
+    "weight": 45,
+    "dimensions": {
+      "length": 5.5,
+      "width": 5.4,
+      "height": 3.3
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "tai nghe",
+      "true wireless",
+      "chống ồn",
+      "bluetooth",
+      "anker"
+    ],
+    "createdAt": "2026-08-19T00:00:00.000Z"
+  },
+  {
+    "id": "prod-174",
+    "name": "Đồng hồ thông minh Huawei Watch 2",
+    "slug": "dong-ho-thong-minh-huawei-watch-2-174",
+    "price": 1880000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/dong-ho-thong-minh-huawei-watch-2-174.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/dong-ho-thong-minh-huawei-watch-2-174.webp",
+    "description": "Đồng hồ thông minh theo dõi nhịp tim, SpO2, giấc ngủ và nhiều chế độ thể thao. Có GPS, chống nước. Pin sử dụng nhiều ngày. Hỗ trợ thông báo và điều khiển nhạc.",
+    "brand": "Garmin",
+    "sku": "GAR-0174-CHI",
+    "originalPrice": 2110000,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Đồng hồ thông minh theo dõi sức khỏe, GPS, pin nhiều ngày.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dong-ho-thong-minh-huawei-watch-2-174-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dong-ho-thong-minh-huawei-watch-2-174-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dong-ho-thong-minh-huawei-watch-2-174-c.webp"
+    ],
+    "specifications": {
+      "Màn hình": "AMOLED/LCD",
+      "Cảm biến": "Nhịp tim SpO2",
+      "Chống nước": "5ATM",
+      "Pin": "7-14 ngày",
+      "GPS": "Có"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 869
+    },
+    "stock": 342,
+    "soldCount": 1671,
+    "weight": 48,
+    "dimensions": {
+      "length": 4.4,
+      "width": 4.3,
+      "height": 1.2
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "đồng hồ thông minh",
+      "fitness",
+      "gps",
+      "sức khỏe",
+      "garmin"
+    ],
+    "createdAt": "2026-03-26T00:00:00.000Z"
+  },
+  {
+    "id": "prod-175",
+    "name": "Máy tính bảng Xelio TabMax 11",
+    "slug": "may-tinh-bang-xelio-tabmax-11-175",
+    "price": 8790000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/may-tinh-bang-xelio-tabmax-11-175.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/may-tinh-bang-xelio-tabmax-11-175.webp",
+    "description": "Máy tính bảng màn hình sắc nét tần số quét cao. Hỗ trợ bút cảm ứng ghi chú vẽ. Pin dung lượng lớn dùng cả ngày. Loa stereo. Phù hợp học tập giải trí.",
+    "brand": "Xiaomi",
+    "sku": "XIA-0175-CHI",
+    "originalPrice": 10650000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Máy tính bảng màn hình lớn, hỗ trợ bút cảm ứng, pin trâu.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/may-tinh-bang-xelio-tabmax-11-175-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/may-tinh-bang-xelio-tabmax-11-175-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/may-tinh-bang-xelio-tabmax-11-175-c.webp"
+    ],
+    "specifications": {
+      "Màn hình": "10.5-11 inch",
+      "RAM": "4-8GB",
+      "Bộ nhớ": "64-128GB",
+      "Pin": "7000-8000mAh",
+      "Bút cảm ứng": "Hỗ trợ"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 714
+    },
+    "stock": 342,
+    "soldCount": 2838,
+    "weight": 479,
+    "dimensions": {
+      "length": 25.5,
+      "width": 16.0,
+      "height": 0.7
+    },
+    "origin": "Trung Quốc / Việt Nam",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "máy tính bảng",
+      "tablet",
+      "bút cảm ứng",
+      "học tập",
+      "xiaomi"
+    ],
+    "createdAt": "2026-08-17T00:00:00.000Z"
+  },
+  {
+    "id": "prod-176",
+    "name": "Loa bluetooth JBL BassBoost X5",
+    "slug": "loa-bluetooth-jbl-bassboost-x5-176",
+    "price": 1690000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/loa-bluetooth-jbl-bassboost-x5-176.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/loa-bluetooth-jbl-bassboost-x5-176.webp",
+    "description": "Loa bluetooth công suất mạnh bass sâu. Chống nước tốt dùng ngoài trời. Pin phát nhạc nhiều giờ. Hỗ trợ ghép đôi TWS. Đèn LED trang trí.",
+    "brand": "SoundMax",
+    "sku": "SOU-0176-CHI",
+    "originalPrice": 2050000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Loa bluetooth công suất lớn, chống nước, pin lâu, đèn LED.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/loa-bluetooth-jbl-bassboost-x5-176-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/loa-bluetooth-jbl-bassboost-x5-176-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/loa-bluetooth-jbl-bassboost-x5-176-c.webp"
+    ],
+    "specifications": {
+      "Công suất": "20-40W",
+      "Bluetooth": "5.0-5.3",
+      "Chống nước": "IPX5-IPX7",
+      "Pin": "12-24 giờ"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 785
+    },
+    "stock": 217,
+    "soldCount": 769,
+    "weight": 417,
+    "dimensions": {
+      "length": 18.3,
+      "width": 8.4,
+      "height": 7.3
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "loa bluetooth",
+      "chống nước",
+      "bass",
+      "ngoài trời",
+      "soundmax"
+    ],
+    "createdAt": "2026-03-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-177",
+    "name": "Sạc dự phòng Baseus 25000mAh",
+    "slug": "sac-du-phong-baseus-25000mah-177",
+    "price": 1160000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/sac-du-phong-baseus-25000mah-177.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/sac-du-phong-baseus-25000mah-177.webp",
+    "description": "Sạc dự phòng dung lượng cao hỗ trợ sạc nhanh PD/QC. Nhiều cổng sạc đồng thời. Màn hình hiển thị %. An toàn nhiều lớp bảo vệ.",
+    "brand": "Xiaomi",
+    "sku": "XIA-0177-CHI",
+    "originalPrice": 1290000,
+    "discountPercent": 10,
+    "unit": "chiếc",
+    "shortDescription": "Sạc dự phòng dung lượng lớn sạc nhanh nhiều cổng.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/sac-du-phong-baseus-25000mah-177-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/sac-du-phong-baseus-25000mah-177-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/sac-du-phong-baseus-25000mah-177-c.webp"
+    ],
+    "specifications": {
+      "Dung lượng": "10000-30000mAh",
+      "Sạc nhanh": "PD/QC",
+      "Cổng": "USB-C + USB-A",
+      "Màn hình": "LED"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 366
+    },
+    "stock": 63,
+    "soldCount": 1968,
+    "weight": 433,
+    "dimensions": {
+      "length": 14.9,
+      "width": 7.0,
+      "height": 2.7
+    },
+    "origin": "Trung Quốc",
+    "warranty": "18 tháng chính hãng",
+    "tags": [
+      "sạc dự phòng",
+      "powerbank",
+      "sạc nhanh",
+      "xiaomi"
+    ],
+    "createdAt": "2026-09-18T00:00:00.000Z"
+  },
+  {
+    "id": "prod-178",
+    "name": "Chuột không dây Logitech M330",
+    "slug": "chuot-khong-day-logitech-m330-178",
+    "price": 1860000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/chuot-khong-day-logitech-m330-178.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/chuot-khong-day-logitech-m330-178.webp",
+    "description": "Chuột không dây thiết kế ergonomic. Cảm biến chính xác. Kết nối Bluetooth hoặc receiver. Pin sử dụng lâu. Nút tùy chỉnh.",
+    "brand": "Rapoo",
+    "sku": "RAP-0178-CHI",
+    "originalPrice": 2310000,
+    "discountPercent": 19,
+    "unit": "chiếc",
+    "shortDescription": "Chuột không dây êm ái, pin lâu, kết nối đa thiết bị.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/chuot-khong-day-logitech-m330-178-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/chuot-khong-day-logitech-m330-178-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/chuot-khong-day-logitech-m330-178-c.webp"
+    ],
+    "specifications": {
+      "Cảm biến": "Cao DPI",
+      "Kết nối": "BT / 2.4G",
+      "Pin": "Nhiều tháng",
+      "Nút": "Tùy chỉnh"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 397
+    },
+    "stock": 349,
+    "soldCount": 3117,
+    "weight": 126,
+    "dimensions": {
+      "length": 11.0,
+      "width": 6.9,
+      "height": 3.8
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "chuột không dây",
+      "ergonomic",
+      "văn phòng",
+      "rapoo"
+    ],
+    "createdAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "id": "prod-179",
+    "name": "Bàn phím cơ Dareu BlackWidow Plus",
+    "slug": "ban-phim-co-dareu-blackwidow-plus-179",
+    "price": 1870000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/ban-phim-co-dareu-blackwidow-plus-179.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/ban-phim-co-dareu-blackwidow-plus-179.webp",
+    "description": "Bàn phím cơ switch hot-swap dễ thay. Đèn RGB nhiều chế độ. Kết nối Bluetooth hoặc USB-C. Keycap chất lượng. Tương thích đa hệ điều hành.",
+    "brand": "Keychron",
+    "sku": "KEY-0179-CHI",
+    "originalPrice": 2170000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Bàn phím cơ hot-swap, RGB, kết nối không dây hoặc dây.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/ban-phim-co-dareu-blackwidow-plus-179-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/ban-phim-co-dareu-blackwidow-plus-179-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/ban-phim-co-dareu-blackwidow-plus-179-c.webp"
+    ],
+    "specifications": {
+      "Layout": "87-104 phím",
+      "Switch": "Hot-swap",
+      "Kết nối": "BT + USB-C",
+      "RGB": "Có"
+    },
+    "rating": {
+      "average": 4.1,
+      "count": 84
+    },
+    "stock": 330,
+    "soldCount": 3424,
+    "weight": 1017,
+    "dimensions": {
+      "length": 38.8,
+      "width": 13.2,
+      "height": 3.8
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "bàn phím cơ",
+      "mechanical",
+      "hot-swap",
+      "rgb",
+      "keychron"
+    ],
+    "createdAt": "2026-05-13T00:00:00.000Z"
+  },
+  {
+    "id": "prod-180",
+    "name": "Webcam Microsoft IMILAB",
+    "slug": "webcam-microsoft-imilab-180",
+    "price": 876000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/webcam-microsoft-imilab-180.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/webcam-microsoft-imilab-180.webp",
+    "description": "Webcam Full HD hình ảnh sắc nét. Lấy nét tự động. Micro kép khử tiếng ồn. Kẹp linh hoạt. Tương thích Zoom Teams Meet.",
+    "brand": "Logitech",
+    "sku": "LOG-0180-CHI",
+    "originalPrice": 953000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Webcam Full HD lấy nét tự động, micro khử ồn.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/webcam-microsoft-imilab-180-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/webcam-microsoft-imilab-180-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/webcam-microsoft-imilab-180-c.webp"
+    ],
+    "specifications": {
+      "Độ phân giải": "1080p",
+      "Lấy nét": "Tự động",
+      "Micro": "Khử ồn",
+      "Góc nhìn": "78-90°"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 158
+    },
+    "stock": 203,
+    "soldCount": 1908,
+    "weight": 84,
+    "dimensions": {
+      "length": 7.7,
+      "width": 4.0,
+      "height": 2.8
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "webcam",
+      "họp online",
+      "1080p",
+      "autofocus",
+      "logitech"
+    ],
+    "createdAt": "2026-04-19T00:00:00.000Z"
+  },
+  {
+    "id": "prod-181",
+    "name": "Điện thoại thông minh Vivo GT Neo",
+    "slug": "dien-thoai-thong-minh-vivo-gt-neo-181",
+    "price": 11530000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/dien-thoai-thong-minh-vivo-gt-neo-181.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/dien-thoai-thong-minh-vivo-gt-neo-181.webp",
+    "description": "Smartphone cao cấp với màn hình chất lượng cao, hiệu năng mạnh mẽ cho đa nhiệm và chơi game. Hệ thống camera nhiều ống kính hỗ trợ chụp đêm và chân dung. Pin dung lượng lớn kèm sạc nhanh. Chạy hệ điều hành mới nhất với cam kết cập nhật phần mềm.",
+    "brand": "Oppo",
+    "sku": "OPP-0181-CHI",
+    "originalPrice": 13600000,
+    "discountPercent": 15,
+    "unit": "chiếc",
+    "shortDescription": "Smartphone màn hình AMOLED, chip mạnh, camera AI, pin dung lượng lớn sạc nhanh.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dien-thoai-thong-minh-vivo-gt-neo-181-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dien-thoai-thong-minh-vivo-gt-neo-181-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dien-thoai-thong-minh-vivo-gt-neo-181-c.webp"
+    ],
+    "specifications": {
+      "Màn hình": "AMOLED 6.5-6.8 inch",
+      "Chip": "8 nhân",
+      "RAM": "8-12GB",
+      "Bộ nhớ": "128-256GB",
+      "Camera sau": "50-108MP",
+      "Pin": "5000mAh sạc nhanh"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 306
+    },
+    "stock": 21,
+    "soldCount": 2877,
+    "weight": 189,
+    "dimensions": {
+      "length": 17.2,
+      "width": 7.7,
+      "height": 0.9
+    },
+    "origin": "Việt Nam (lắp ráp) / Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "smartphone",
+      "5G",
+      "camera",
+      "sạc nhanh",
+      "oppo"
+    ],
+    "createdAt": "2026-04-19T00:00:00.000Z"
+  },
+  {
+    "id": "prod-182",
+    "name": "Laptop Dell VivoBook",
+    "slug": "laptop-dell-vivobook-182",
+    "price": 24340000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/laptop-dell-vivobook-182.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/laptop-dell-vivobook-182.webp",
+    "description": "Laptop thiết kế mỏng nhẹ dễ mang theo. Màn hình Full HD chống chói. Bộ xử lý thế hệ mới kết hợp RAM và SSD cho hiệu năng mượt mà. Pin sử dụng cả ngày. Bàn phím có đèn nền.",
+    "brand": "Dell",
+    "sku": "DEL-0182-CHI",
+    "originalPrice": 27790000,
+    "discountPercent": 12,
+    "unit": "chiếc",
+    "shortDescription": "Laptop văn phòng / học tập mỏng nhẹ, chip mới, SSD nhanh, pin lâu.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/laptop-dell-vivobook-182-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/laptop-dell-vivobook-182-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/laptop-dell-vivobook-182-c.webp"
+    ],
+    "specifications": {
+      "Màn hình": "14-15.6 inch FHD",
+      "CPU": "Intel/AMD thế hệ mới",
+      "RAM": "8-16GB",
+      "SSD": "256-512GB",
+      "Pin": "8-12 giờ"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 214
+    },
+    "stock": 67,
+    "soldCount": 3937,
+    "weight": 1576,
+    "dimensions": {
+      "length": 32.3,
+      "width": 24.1,
+      "height": 1.6
+    },
+    "origin": "Trung Quốc",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "laptop",
+      "văn phòng",
+      "mỏng nhẹ",
+      "ssd",
+      "dell"
+    ],
+    "createdAt": "2026-08-20T00:00:00.000Z"
+  },
+  {
+    "id": "prod-183",
+    "name": "Tai nghe không dây Anker Pro",
+    "slug": "tai-nghe-khong-day-anker-pro-183",
+    "price": 580000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/tai-nghe-khong-day-anker-pro-183.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/tai-nghe-khong-day-anker-pro-183.webp",
+    "description": "Tai nghe true wireless với chống ồn chủ động, âm thanh sống động. Pin sử dụng nhiều giờ kèm hộp sạc. Kết nối Bluetooth ổn định, chống nước. Thiết kế êm tai.",
+    "brand": "Baseus",
+    "sku": "BAS-0183-CHI",
+    "originalPrice": 631000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Tai nghe true wireless chống ồn, pin lâu, sạc nhanh.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/tai-nghe-khong-day-anker-pro-183-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/tai-nghe-khong-day-anker-pro-183-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/tai-nghe-khong-day-anker-pro-183-c.webp"
+    ],
+    "specifications": {
+      "Loại": "True Wireless",
+      "Chống ồn": "ANC",
+      "Pin": "20-40 giờ",
+      "Bluetooth": "5.2-5.3",
+      "Chống nước": "IPX4-IPX5"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 803
+    },
+    "stock": 288,
+    "soldCount": 898,
+    "weight": 50,
+    "dimensions": {
+      "length": 5.7,
+      "width": 4.6,
+      "height": 3.0
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "tai nghe",
+      "true wireless",
+      "chống ồn",
+      "bluetooth",
+      "baseus"
+    ],
+    "createdAt": "2026-06-14T00:00:00.000Z"
+  },
+  {
+    "id": "prod-184",
+    "name": "Đồng hồ thông minh Xiaomi Watch 2 phiên bản mới",
+    "slug": "dong-ho-thong-minh-xiaomi-watch-2-phien-ban-moi-184",
+    "price": 1010000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/dong-ho-thong-minh-xiaomi-watch-2-phien-ban-moi-184.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/dong-ho-thong-minh-xiaomi-watch-2-phien-ban-moi-184.webp",
+    "description": "Đồng hồ thông minh theo dõi nhịp tim, SpO2, giấc ngủ và nhiều chế độ thể thao. Có GPS, chống nước. Pin sử dụng nhiều ngày. Hỗ trợ thông báo và điều khiển nhạc.",
+    "brand": "Amazfit",
+    "sku": "AMA-0184-CHI",
+    "originalPrice": 1140000,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Đồng hồ thông minh theo dõi sức khỏe, GPS, pin nhiều ngày.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dong-ho-thong-minh-xiaomi-watch-2-phien-ban-moi-184-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dong-ho-thong-minh-xiaomi-watch-2-phien-ban-moi-184-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dong-ho-thong-minh-xiaomi-watch-2-phien-ban-moi-184-c.webp"
+    ],
+    "specifications": {
+      "Màn hình": "AMOLED/LCD",
+      "Cảm biến": "Nhịp tim SpO2",
+      "Chống nước": "5ATM",
+      "Pin": "7-14 ngày",
+      "GPS": "Có"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 46
+    },
+    "stock": 72,
+    "soldCount": 110,
+    "weight": 34,
+    "dimensions": {
+      "length": 4.9,
+      "width": 4.5,
+      "height": 1.3
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "đồng hồ thông minh",
+      "fitness",
+      "gps",
+      "sức khỏe",
+      "amazfit"
+    ],
+    "createdAt": "2026-04-16T00:00:00.000Z"
+  },
+  {
+    "id": "prod-185",
+    "name": "Máy tính bảng Samsung Tab M11 Pro",
+    "slug": "may-tinh-bang-samsung-tab-m11-pro-185",
+    "price": 6120000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/may-tinh-bang-samsung-tab-m11-pro-185.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/may-tinh-bang-samsung-tab-m11-pro-185.webp",
+    "description": "Máy tính bảng màn hình sắc nét tần số quét cao. Hỗ trợ bút cảm ứng ghi chú vẽ. Pin dung lượng lớn dùng cả ngày. Loa stereo. Phù hợp học tập giải trí.",
+    "brand": "Xelio",
+    "sku": "XEL-0185-CHI",
+    "originalPrice": 7380000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Máy tính bảng màn hình lớn, hỗ trợ bút cảm ứng, pin trâu.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/may-tinh-bang-samsung-tab-m11-pro-185-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/may-tinh-bang-samsung-tab-m11-pro-185-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/may-tinh-bang-samsung-tab-m11-pro-185-c.webp"
+    ],
+    "specifications": {
+      "Màn hình": "10.5-11 inch",
+      "RAM": "4-8GB",
+      "Bộ nhớ": "64-128GB",
+      "Pin": "7000-8000mAh",
+      "Bút cảm ứng": "Hỗ trợ"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 627
+    },
+    "stock": 60,
+    "soldCount": 1901,
+    "weight": 517,
+    "dimensions": {
+      "length": 23.1,
+      "width": 15.1,
+      "height": 0.7
+    },
+    "origin": "Trung Quốc / Việt Nam",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "máy tính bảng",
+      "tablet",
+      "bút cảm ứng",
+      "học tập",
+      "xelio"
+    ],
+    "createdAt": "2026-05-23T00:00:00.000Z"
+  },
+  {
+    "id": "prod-186",
+    "name": "Loa bluetooth JBL Outdoor 2025",
+    "slug": "loa-bluetooth-jbl-outdoor-2025-186",
+    "price": 2310000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/loa-bluetooth-jbl-outdoor-2025-186.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/loa-bluetooth-jbl-outdoor-2025-186.webp",
+    "description": "Loa bluetooth công suất mạnh bass sâu. Chống nước tốt dùng ngoài trời. Pin phát nhạc nhiều giờ. Hỗ trợ ghép đôi TWS. Đèn LED trang trí.",
+    "brand": "Sony",
+    "sku": "SON-0186-CHI",
+    "originalPrice": 2750000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Loa bluetooth công suất lớn, chống nước, pin lâu, đèn LED.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/loa-bluetooth-jbl-outdoor-2025-186-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/loa-bluetooth-jbl-outdoor-2025-186-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/loa-bluetooth-jbl-outdoor-2025-186-c.webp"
+    ],
+    "specifications": {
+      "Công suất": "20-40W",
+      "Bluetooth": "5.0-5.3",
+      "Chống nước": "IPX5-IPX7",
+      "Pin": "12-24 giờ"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 522
+    },
+    "stock": 232,
+    "soldCount": 351,
+    "weight": 415,
+    "dimensions": {
+      "length": 16.4,
+      "width": 8.0,
+      "height": 7.8
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "loa bluetooth",
+      "chống nước",
+      "bass",
+      "ngoài trời",
+      "sony"
+    ],
+    "createdAt": "2026-09-02T00:00:00.000Z"
+  },
+  {
+    "id": "prod-187",
+    "name": "Sạc dự phòng Anker 25000mAh",
+    "slug": "sac-du-phong-anker-25000mah-187",
+    "price": 422000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/sac-du-phong-anker-25000mah-187.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/sac-du-phong-anker-25000mah-187.webp",
+    "description": "Sạc dự phòng dung lượng cao hỗ trợ sạc nhanh PD/QC. Nhiều cổng sạc đồng thời. Màn hình hiển thị %. An toàn nhiều lớp bảo vệ.",
+    "brand": "Anker",
+    "sku": "ANK-0187-CHI",
+    "originalPrice": 475000,
+    "discountPercent": 11,
+    "unit": "chiếc",
+    "shortDescription": "Sạc dự phòng dung lượng lớn sạc nhanh nhiều cổng.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/sac-du-phong-anker-25000mah-187-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/sac-du-phong-anker-25000mah-187-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/sac-du-phong-anker-25000mah-187-c.webp"
+    ],
+    "specifications": {
+      "Dung lượng": "10000-30000mAh",
+      "Sạc nhanh": "PD/QC",
+      "Cổng": "USB-C + USB-A",
+      "Màn hình": "LED"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 321
+    },
+    "stock": 237,
+    "soldCount": 2120,
+    "weight": 362,
+    "dimensions": {
+      "length": 14.2,
+      "width": 7.3,
+      "height": 2.4
+    },
+    "origin": "Trung Quốc",
+    "warranty": "18 tháng chính hãng",
+    "tags": [
+      "sạc dự phòng",
+      "powerbank",
+      "sạc nhanh",
+      "anker"
+    ],
+    "createdAt": "2026-06-18T00:00:00.000Z"
+  },
+  {
+    "id": "prod-188",
+    "name": "Chuột không dây Xiaomi MX Master",
+    "slug": "chuot-khong-day-xiaomi-mx-master-188",
+    "price": 2500000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/chuot-khong-day-xiaomi-mx-master-188.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/chuot-khong-day-xiaomi-mx-master-188.webp",
+    "description": "Chuột không dây thiết kế ergonomic. Cảm biến chính xác. Kết nối Bluetooth hoặc receiver. Pin sử dụng lâu. Nút tùy chỉnh.",
+    "brand": "Logitech",
+    "sku": "LOG-0188-CHI",
+    "originalPrice": 3010000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Chuột không dây êm ái, pin lâu, kết nối đa thiết bị.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/chuot-khong-day-xiaomi-mx-master-188-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/chuot-khong-day-xiaomi-mx-master-188-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/chuot-khong-day-xiaomi-mx-master-188-c.webp"
+    ],
+    "specifications": {
+      "Cảm biến": "Cao DPI",
+      "Kết nối": "BT / 2.4G",
+      "Pin": "Nhiều tháng",
+      "Nút": "Tùy chỉnh"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 428
+    },
+    "stock": 217,
+    "soldCount": 3038,
+    "weight": 107,
+    "dimensions": {
+      "length": 11.8,
+      "width": 7.5,
+      "height": 3.9
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "chuột không dây",
+      "ergonomic",
+      "văn phòng",
+      "logitech"
+    ],
+    "createdAt": "2026-02-08T00:00:00.000Z"
+  },
+  {
+    "id": "prod-189",
+    "name": "Bàn phím cơ Dareu G Pro Pro",
+    "slug": "ban-phim-co-dareu-g-pro-pro-189",
+    "price": 1530000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/ban-phim-co-dareu-g-pro-pro-189.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/ban-phim-co-dareu-g-pro-pro-189.webp",
+    "description": "Bàn phím cơ switch hot-swap dễ thay. Đèn RGB nhiều chế độ. Kết nối Bluetooth hoặc USB-C. Keycap chất lượng. Tương thích đa hệ điều hành.",
+    "brand": "Dareu",
+    "sku": "DAR-0189-CHI",
+    "originalPrice": 1830000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Bàn phím cơ hot-swap, RGB, kết nối không dây hoặc dây.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/ban-phim-co-dareu-g-pro-pro-189-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/ban-phim-co-dareu-g-pro-pro-189-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/ban-phim-co-dareu-g-pro-pro-189-c.webp"
+    ],
+    "specifications": {
+      "Layout": "87-104 phím",
+      "Switch": "Hot-swap",
+      "Kết nối": "BT + USB-C",
+      "RGB": "Có"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 776
+    },
+    "stock": 195,
+    "soldCount": 3375,
+    "weight": 942,
+    "dimensions": {
+      "length": 32.9,
+      "width": 13.9,
+      "height": 3.2
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "bàn phím cơ",
+      "mechanical",
+      "hot-swap",
+      "rgb",
+      "dareu"
+    ],
+    "createdAt": "2026-02-17T00:00:00.000Z"
+  },
+  {
+    "id": "prod-190",
+    "name": "Webcam Emeet C920",
+    "slug": "webcam-emeet-c920-190",
+    "price": 1670000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/webcam-emeet-c920-190.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/webcam-emeet-c920-190.webp",
+    "description": "Webcam Full HD hình ảnh sắc nét. Lấy nét tự động. Micro kép khử tiếng ồn. Kẹp linh hoạt. Tương thích Zoom Teams Meet.",
+    "brand": "Emeet",
+    "sku": "EME-0190-CHI",
+    "originalPrice": 1990000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Webcam Full HD lấy nét tự động, micro khử ồn.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/webcam-emeet-c920-190-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/webcam-emeet-c920-190-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/webcam-emeet-c920-190-c.webp"
+    ],
+    "specifications": {
+      "Độ phân giải": "1080p",
+      "Lấy nét": "Tự động",
+      "Micro": "Khử ồn",
+      "Góc nhìn": "78-90°"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 758
+    },
+    "stock": 31,
+    "soldCount": 1228,
+    "weight": 132,
+    "dimensions": {
+      "length": 7.8,
+      "width": 4.1,
+      "height": 3.2
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "webcam",
+      "họp online",
+      "1080p",
+      "autofocus",
+      "emeet"
+    ],
+    "createdAt": "2026-06-17T00:00:00.000Z"
+  },
+  {
+    "id": "prod-191",
+    "name": "Điện thoại thông minh Samsung Redmi Note 13 2025",
+    "slug": "dien-thoai-thong-minh-samsung-redmi-note-13-2025-191",
+    "price": 7100000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/dien-thoai-thong-minh-samsung-redmi-note-13-2025-191.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/dien-thoai-thong-minh-samsung-redmi-note-13-2025-191.webp",
+    "description": "Smartphone cao cấp với màn hình chất lượng cao, hiệu năng mạnh mẽ cho đa nhiệm và chơi game. Hệ thống camera nhiều ống kính hỗ trợ chụp đêm và chân dung. Pin dung lượng lớn kèm sạc nhanh. Chạy hệ điều hành mới nhất với cam kết cập nhật phần mềm.",
+    "brand": "NovaTech",
+    "sku": "NOV-0191-CHI",
+    "originalPrice": 8460000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Smartphone màn hình AMOLED, chip mạnh, camera AI, pin dung lượng lớn sạc nhanh.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dien-thoai-thong-minh-samsung-redmi-note-13-2025-191-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dien-thoai-thong-minh-samsung-redmi-note-13-2025-191-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dien-thoai-thong-minh-samsung-redmi-note-13-2025-191-c.webp"
+    ],
+    "specifications": {
+      "Màn hình": "AMOLED 6.5-6.8 inch",
+      "Chip": "8 nhân",
+      "RAM": "8-12GB",
+      "Bộ nhớ": "128-256GB",
+      "Camera sau": "50-108MP",
+      "Pin": "5000mAh sạc nhanh"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 305
+    },
+    "stock": 298,
+    "soldCount": 976,
+    "weight": 194,
+    "dimensions": {
+      "length": 17.1,
+      "width": 7.3,
+      "height": 0.8
+    },
+    "origin": "Việt Nam (lắp ráp) / Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "smartphone",
+      "5G",
+      "camera",
+      "sạc nhanh",
+      "novatech"
+    ],
+    "createdAt": "2026-08-09T00:00:00.000Z"
+  },
+  {
+    "id": "prod-192",
+    "name": "Laptop Asus IdeaPad",
+    "slug": "laptop-asus-ideapad-192",
+    "price": 20280000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/laptop-asus-ideapad-192.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/laptop-asus-ideapad-192.webp",
+    "description": "Laptop thiết kế mỏng nhẹ dễ mang theo. Màn hình Full HD chống chói. Bộ xử lý thế hệ mới kết hợp RAM và SSD cho hiệu năng mượt mà. Pin sử dụng cả ngày. Bàn phím có đèn nền.",
+    "brand": "Lenovo",
+    "sku": "LEN-0192-CHI",
+    "originalPrice": 24230000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Laptop văn phòng / học tập mỏng nhẹ, chip mới, SSD nhanh, pin lâu.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/laptop-asus-ideapad-192-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/laptop-asus-ideapad-192-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/laptop-asus-ideapad-192-c.webp"
+    ],
+    "specifications": {
+      "Màn hình": "14-15.6 inch FHD",
+      "CPU": "Intel/AMD thế hệ mới",
+      "RAM": "8-16GB",
+      "SSD": "256-512GB",
+      "Pin": "8-12 giờ"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 204
+    },
+    "stock": 144,
+    "soldCount": 2928,
+    "weight": 1770,
+    "dimensions": {
+      "length": 29.0,
+      "width": 23.9,
+      "height": 1.7
+    },
+    "origin": "Trung Quốc",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "laptop",
+      "văn phòng",
+      "mỏng nhẹ",
+      "ssd",
+      "lenovo"
+    ],
+    "createdAt": "2026-07-29T00:00:00.000Z"
+  },
+  {
+    "id": "prod-193",
+    "name": "Tai nghe không dây JBL Tune Flex phiên bản mới",
+    "slug": "tai-nghe-khong-day-jbl-tune-flex-phien-ban-moi-193",
+    "price": 2870000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/tai-nghe-khong-day-jbl-tune-flex-phien-ban-moi-193.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/tai-nghe-khong-day-jbl-tune-flex-phien-ban-moi-193.webp",
+    "description": "Tai nghe true wireless với chống ồn chủ động, âm thanh sống động. Pin sử dụng nhiều giờ kèm hộp sạc. Kết nối Bluetooth ổn định, chống nước. Thiết kế êm tai.",
+    "brand": "Sony",
+    "sku": "SON-0193-CHI",
+    "originalPrice": 3420000,
+    "discountPercent": 16,
+    "unit": "chiếc",
+    "shortDescription": "Tai nghe true wireless chống ồn, pin lâu, sạc nhanh.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/tai-nghe-khong-day-jbl-tune-flex-phien-ban-moi-193-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/tai-nghe-khong-day-jbl-tune-flex-phien-ban-moi-193-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/tai-nghe-khong-day-jbl-tune-flex-phien-ban-moi-193-c.webp"
+    ],
+    "specifications": {
+      "Loại": "True Wireless",
+      "Chống ồn": "ANC",
+      "Pin": "20-40 giờ",
+      "Bluetooth": "5.2-5.3",
+      "Chống nước": "IPX4-IPX5"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 240
+    },
+    "stock": 197,
+    "soldCount": 1769,
+    "weight": 42,
+    "dimensions": {
+      "length": 5.6,
+      "width": 5.1,
+      "height": 2.7
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "tai nghe",
+      "true wireless",
+      "chống ồn",
+      "bluetooth",
+      "sony"
+    ],
+    "createdAt": "2026-05-11T00:00:00.000Z"
+  },
+  {
+    "id": "prod-194",
+    "name": "Đồng hồ thông minh Huawei Watch 2 Plus",
+    "slug": "dong-ho-thong-minh-huawei-watch-2-plus-194",
+    "price": 5990000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/dong-ho-thong-minh-huawei-watch-2-plus-194.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/dong-ho-thong-minh-huawei-watch-2-plus-194.webp",
+    "description": "Đồng hồ thông minh theo dõi nhịp tim, SpO2, giấc ngủ và nhiều chế độ thể thao. Có GPS, chống nước. Pin sử dụng nhiều ngày. Hỗ trợ thông báo và điều khiển nhạc.",
+    "brand": "Amazfit",
+    "sku": "AMA-0194-CHI",
+    "originalPrice": 6560000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Đồng hồ thông minh theo dõi sức khỏe, GPS, pin nhiều ngày.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dong-ho-thong-minh-huawei-watch-2-plus-194-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dong-ho-thong-minh-huawei-watch-2-plus-194-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dong-ho-thong-minh-huawei-watch-2-plus-194-c.webp"
+    ],
+    "specifications": {
+      "Màn hình": "AMOLED/LCD",
+      "Cảm biến": "Nhịp tim SpO2",
+      "Chống nước": "5ATM",
+      "Pin": "7-14 ngày",
+      "GPS": "Có"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 473
+    },
+    "stock": 343,
+    "soldCount": 1786,
+    "weight": 31,
+    "dimensions": {
+      "length": 4.2,
+      "width": 4.7,
+      "height": 1.1
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "đồng hồ thông minh",
+      "fitness",
+      "gps",
+      "sức khỏe",
+      "amazfit"
+    ],
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "prod-195",
+    "name": "Máy tính bảng Xiaomi Pad 6 2025",
+    "slug": "may-tinh-bang-xiaomi-pad-6-2025-195",
+    "price": 9780000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/may-tinh-bang-xiaomi-pad-6-2025-195.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/may-tinh-bang-xiaomi-pad-6-2025-195.webp",
+    "description": "Máy tính bảng màn hình sắc nét tần số quét cao. Hỗ trợ bút cảm ứng ghi chú vẽ. Pin dung lượng lớn dùng cả ngày. Loa stereo. Phù hợp học tập giải trí.",
+    "brand": "Xelio",
+    "sku": "XEL-0195-CHI",
+    "originalPrice": 11280000,
+    "discountPercent": 13,
+    "unit": "chiếc",
+    "shortDescription": "Máy tính bảng màn hình lớn, hỗ trợ bút cảm ứng, pin trâu.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/may-tinh-bang-xiaomi-pad-6-2025-195-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/may-tinh-bang-xiaomi-pad-6-2025-195-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/may-tinh-bang-xiaomi-pad-6-2025-195-c.webp"
+    ],
+    "specifications": {
+      "Màn hình": "10.5-11 inch",
+      "RAM": "4-8GB",
+      "Bộ nhớ": "64-128GB",
+      "Pin": "7000-8000mAh",
+      "Bút cảm ứng": "Hỗ trợ"
+    },
+    "rating": {
+      "average": 4.2,
+      "count": 245
+    },
+    "stock": 207,
+    "soldCount": 2504,
+    "weight": 486,
+    "dimensions": {
+      "length": 25.9,
+      "width": 16.8,
+      "height": 0.7
+    },
+    "origin": "Trung Quốc / Việt Nam",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "máy tính bảng",
+      "tablet",
+      "bút cảm ứng",
+      "học tập",
+      "xelio"
+    ],
+    "createdAt": "2026-01-29T00:00:00.000Z"
+  },
+  {
+    "id": "prod-196",
+    "name": "Loa bluetooth SoundMax Flip 6 limited",
+    "slug": "loa-bluetooth-soundmax-flip-6-limited-196",
+    "price": 1460000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/loa-bluetooth-soundmax-flip-6-limited-196.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/loa-bluetooth-soundmax-flip-6-limited-196.webp",
+    "description": "Loa bluetooth công suất mạnh bass sâu. Chống nước tốt dùng ngoài trời. Pin phát nhạc nhiều giờ. Hỗ trợ ghép đôi TWS. Đèn LED trang trí.",
+    "brand": "JBL",
+    "sku": "JBL-0196-CHI",
+    "originalPrice": 1650000,
+    "discountPercent": 12,
+    "unit": "chiếc",
+    "shortDescription": "Loa bluetooth công suất lớn, chống nước, pin lâu, đèn LED.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/loa-bluetooth-soundmax-flip-6-limited-196-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/loa-bluetooth-soundmax-flip-6-limited-196-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/loa-bluetooth-soundmax-flip-6-limited-196-c.webp"
+    ],
+    "specifications": {
+      "Công suất": "20-40W",
+      "Bluetooth": "5.0-5.3",
+      "Chống nước": "IPX5-IPX7",
+      "Pin": "12-24 giờ"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 740
+    },
+    "stock": 122,
+    "soldCount": 2099,
+    "weight": 461,
+    "dimensions": {
+      "length": 16.2,
+      "width": 8.4,
+      "height": 7.5
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "loa bluetooth",
+      "chống nước",
+      "bass",
+      "ngoài trời",
+      "jbl"
+    ],
+    "createdAt": "2026-06-07T00:00:00.000Z"
+  },
+  {
+    "id": "prod-197",
+    "name": "Sạc dự phòng Xiaomi 10000mAh",
+    "slug": "sac-du-phong-xiaomi-10000mah-197",
+    "price": 310000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/sac-du-phong-xiaomi-10000mah-197.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/sac-du-phong-xiaomi-10000mah-197.webp",
+    "description": "Sạc dự phòng dung lượng cao hỗ trợ sạc nhanh PD/QC. Nhiều cổng sạc đồng thời. Màn hình hiển thị %. An toàn nhiều lớp bảo vệ.",
+    "brand": "Aukey",
+    "sku": "AUK-0197-CHI",
+    "originalPrice": 359000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Sạc dự phòng dung lượng lớn sạc nhanh nhiều cổng.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/sac-du-phong-xiaomi-10000mah-197-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/sac-du-phong-xiaomi-10000mah-197-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/sac-du-phong-xiaomi-10000mah-197-c.webp"
+    ],
+    "specifications": {
+      "Dung lượng": "10000-30000mAh",
+      "Sạc nhanh": "PD/QC",
+      "Cổng": "USB-C + USB-A",
+      "Màn hình": "LED"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 447
+    },
+    "stock": 153,
+    "soldCount": 521,
+    "weight": 219,
+    "dimensions": {
+      "length": 15.0,
+      "width": 7.1,
+      "height": 2.5
+    },
+    "origin": "Trung Quốc",
+    "warranty": "18 tháng chính hãng",
+    "tags": [
+      "sạc dự phòng",
+      "powerbank",
+      "sạc nhanh",
+      "aukey"
+    ],
+    "createdAt": "2026-04-28T00:00:00.000Z"
+  },
+  {
+    "id": "prod-198",
+    "name": "Chuột không dây Logitech Arc 2026",
+    "slug": "chuot-khong-day-logitech-arc-2026-198",
+    "price": 1710000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/chuot-khong-day-logitech-arc-2026-198.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/chuot-khong-day-logitech-arc-2026-198.webp",
+    "description": "Chuột không dây thiết kế ergonomic. Cảm biến chính xác. Kết nối Bluetooth hoặc receiver. Pin sử dụng lâu. Nút tùy chỉnh.",
+    "brand": "Xiaomi",
+    "sku": "XIA-0198-CHI",
+    "originalPrice": 1870000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Chuột không dây êm ái, pin lâu, kết nối đa thiết bị.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/chuot-khong-day-logitech-arc-2026-198-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/chuot-khong-day-logitech-arc-2026-198-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/chuot-khong-day-logitech-arc-2026-198-c.webp"
+    ],
+    "specifications": {
+      "Cảm biến": "Cao DPI",
+      "Kết nối": "BT / 2.4G",
+      "Pin": "Nhiều tháng",
+      "Nút": "Tùy chỉnh"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 337
+    },
+    "stock": 178,
+    "soldCount": 957,
+    "weight": 93,
+    "dimensions": {
+      "length": 11.4,
+      "width": 7.1,
+      "height": 4.0
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "chuột không dây",
+      "ergonomic",
+      "văn phòng",
+      "xiaomi"
+    ],
+    "createdAt": "2026-04-10T00:00:00.000Z"
+  },
+  {
+    "id": "prod-199",
+    "name": "Bàn phím cơ Akko K8 Pro",
+    "slug": "ban-phim-co-akko-k8-pro-199",
+    "price": 3120000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/ban-phim-co-akko-k8-pro-199.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/ban-phim-co-akko-k8-pro-199.webp",
+    "description": "Bàn phím cơ switch hot-swap dễ thay. Đèn RGB nhiều chế độ. Kết nối Bluetooth hoặc USB-C. Keycap chất lượng. Tương thích đa hệ điều hành.",
+    "brand": "Keychron",
+    "sku": "KEY-0199-CHI",
+    "originalPrice": 3640000,
+    "discountPercent": 14,
+    "unit": "chiếc",
+    "shortDescription": "Bàn phím cơ hot-swap, RGB, kết nối không dây hoặc dây.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/ban-phim-co-akko-k8-pro-199-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/ban-phim-co-akko-k8-pro-199-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/ban-phim-co-akko-k8-pro-199-c.webp"
+    ],
+    "specifications": {
+      "Layout": "87-104 phím",
+      "Switch": "Hot-swap",
+      "Kết nối": "BT + USB-C",
+      "RGB": "Có"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 261
+    },
+    "stock": 57,
+    "soldCount": 649,
+    "weight": 1097,
+    "dimensions": {
+      "length": 34.9,
+      "width": 13.6,
+      "height": 3.7
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "bàn phím cơ",
+      "mechanical",
+      "hot-swap",
+      "rgb",
+      "keychron"
+    ],
+    "createdAt": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "prod-200",
+    "name": "Webcam Rapoo C270",
+    "slug": "webcam-rapoo-c270-200",
+    "price": 931000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/webcam-rapoo-c270-200.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/webcam-rapoo-c270-200.webp",
+    "description": "Webcam Full HD hình ảnh sắc nét. Lấy nét tự động. Micro kép khử tiếng ồn. Kẹp linh hoạt. Tương thích Zoom Teams Meet.",
+    "brand": "Emeet",
+    "sku": "EME-0200-CHI",
+    "originalPrice": 1130000,
+    "discountPercent": 18,
+    "unit": "chiếc",
+    "shortDescription": "Webcam Full HD lấy nét tự động, micro khử ồn.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/webcam-rapoo-c270-200-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/webcam-rapoo-c270-200-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/webcam-rapoo-c270-200-c.webp"
+    ],
+    "specifications": {
+      "Độ phân giải": "1080p",
+      "Lấy nét": "Tự động",
+      "Micro": "Khử ồn",
+      "Góc nhìn": "78-90°"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 798
+    },
+    "stock": 301,
+    "soldCount": 1888,
+    "weight": 89,
+    "dimensions": {
+      "length": 7.5,
+      "width": 4.2,
+      "height": 3.0
+    },
+    "origin": "Trung Quốc",
+    "warranty": "12-24 tháng chính hãng",
+    "tags": [
+      "webcam",
+      "họp online",
+      "1080p",
+      "autofocus",
+      "emeet"
+    ],
+    "createdAt": "2026-07-08T00:00:00.000Z"
+  },
+  {
     "id": "prod-1101",
     "name": "Smartphone Samsung A78",
     "slug": "smartphone-samsung-a78-1101",

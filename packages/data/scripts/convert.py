@@ -201,35 +201,48 @@ def clean_row_bo2(row, idx):
 all_df1_products = [clean_row_df1(row) for _, row in df1.iterrows()]
 all_df2_products = [clean_row_bo2(row, idx) for idx, row in df2.iterrows()]
 
-# Group by categoryId (200 real products per category)
+# Group products by categoryId (200 real products per category across 10 categories)
 products_by_category = {c['id']: [] for c in categories}
 for p in all_df1_products:
     products_by_category[p['categoryId']].append(p)
 for p in all_df2_products:
     products_by_category[p['categoryId']].append(p)
 
-# 1. Populate by-category/20 (20 real Excel items per file)
 dir_20 = 'packages/data/json/by-category/20'
-os.makedirs(dir_20, exist_ok=True)
-for cat in categories:
-    cid = cat['id']
-    slug = cat['slug']
-    prods_20 = products_by_category[cid][:20]
-    with open(f'{dir_20}/{slug}.json', 'w', encoding='utf-8') as f:
-        json.dump(prods_20, f, ensure_ascii=False, indent=2)
-        f.write('\n')
-print("Populated by-category/20 with 20 real Excel items per file.")
-
-# 2. Populate by-category/500 (All 200 real Excel items per file, NO generated items)
 dir_500 = 'packages/data/json/by-category/500'
+dir_2000 = 'packages/data/json/by-category/2000'
+
+os.makedirs(dir_20, exist_ok=True)
 os.makedirs(dir_500, exist_ok=True)
+os.makedirs(dir_2000, exist_ok=True)
+
+# For each category:
+# - First 2 items -> by-category/20 (2 items * 10 categories = 20 total)
+# - Next 48 items -> by-category/500 (48 items * 10 categories = 480 total, products 21-500)
+# - Remaining 150 items -> by-category/2000 (150 items * 10 categories = 1500 total, products 501-2000)
+
 for cat in categories:
     cid = cat['id']
     slug = cat['slug']
-    prods_real = products_by_category[cid] # All 200 real Excel items
-    with open(f'{dir_500}/{slug}.json', 'w', encoding='utf-8') as f:
-        json.dump(prods_real, f, ensure_ascii=False, indent=2)
+    cat_prods = products_by_category[cid] # 200 items for this category
+    
+    p20 = cat_prods[0:2]     # 2 items per category file (20 total)
+    p500 = cat_prods[2:50]   # 48 items per category file (480 total)
+    p2000 = cat_prods[50:]   # 150 items per category file (1500 total)
+    
+    with open(f'{dir_20}/{slug}.json', 'w', encoding='utf-8') as f:
+        json.dump(p20, f, ensure_ascii=False, indent=2)
         f.write('\n')
-print("Populated by-category/500 with 200 real Excel items per file (no generated items).")
+        
+    with open(f'{dir_500}/{slug}.json', 'w', encoding='utf-8') as f:
+        json.dump(p500, f, ensure_ascii=False, indent=2)
+        f.write('\n')
 
-print("Done updating by-category dataset!")
+    with open(f'{dir_2000}/{slug}.json', 'w', encoding='utf-8') as f:
+        json.dump(p2000, f, ensure_ascii=False, indent=2)
+        f.write('\n')
+
+print("Successfully partitioned 2000 products into:")
+print(" - by-category/20 (2 items per category, 20 total)")
+print(" - by-category/500 (48 items per category, 480 total)")
+print(" - by-category/2000 (150 items per category, 1500 total)")
