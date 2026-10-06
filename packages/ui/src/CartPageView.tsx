@@ -1,11 +1,13 @@
 import type { CartItem, Product } from "@repo/types";
 import { ArrowLeft, Minus, Plus, ShoppingCart, Trash2 } from "lucide-react";
 import { Button } from "./Button";
+import type { LinkComponentType } from "./types";
 
 interface CartPageViewProps {
   items: CartItem[];
   products: Product[];
   total: number;
+  LinkComponent: LinkComponentType;
   onUpdateQuantity: (productId: string, quantity: number) => void;
   onRemove: (productId: string) => void;
 }
@@ -14,6 +16,7 @@ export function CartPageView({
   items,
   products,
   total,
+  LinkComponent,
   onUpdateQuantity,
   onRemove,
 }: CartPageViewProps) {
@@ -32,9 +35,9 @@ export function CartPageView({
         <p className="text-sm text-muted">
           Hãy khám phá sản phẩm và thêm vào giỏ hàng để bắt đầu mua sắm.
         </p>
-        <a href="/">
+        <LinkComponent href="/">
           <Button variant="primary">Tiếp tục mua sắm</Button>
-        </a>
+        </LinkComponent>
       </div>
     );
   }
@@ -48,13 +51,14 @@ export function CartPageView({
             ({itemCount} sản phẩm)
           </span>
         </h1>
-        <a
+
+        <LinkComponent
           href="/"
           className="hidden items-center gap-1 text-sm text-accent hover:text-accent-dark sm:flex"
         >
           <ArrowLeft className="h-4 w-4" />
           Tiếp tục mua sắm
-        </a>
+        </LinkComponent>
       </div>
 
       <div className="grid grid-cols-1 gap-8 lg:grid-cols-3">
@@ -115,7 +119,7 @@ export function CartPageView({
                           onUpdateQuantity(item.productId, item.quantity + 1)
                         }
                         aria-label="Tăng số lượng"
-                        className="flex h-8 w-8 items-center justify-center text-foreground transition-colors hover:bg-surface"
+                        className="flex h-8 w-8 items-center justify-center text-foreground"
                       >
                         <Plus className="h-3.5 w-3.5" />
                       </button>

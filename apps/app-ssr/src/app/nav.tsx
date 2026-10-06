@@ -1,26 +1,9 @@
 "use client";
 
-import Link from "next/link";
-import type { ReactNode } from "react";
 import { useCartStore } from "@repo/cart-store";
 import { useEffect, useState } from "react";
 import { SiteHeader } from "@repo/ui";
-
-function NextLinkAdapter({
-  href,
-  className,
-  children,
-}: {
-  href: string;
-  className?: string;
-  children: ReactNode;
-}) {
-  return (
-    <Link href={href} className={className}>
-      {children}
-    </Link>
-  );
-}
+import { NextLinkAdapter } from "./next-link-adapter";
 
 export function Nav() {
   const totalQuantity = useCartStore((s) => s.getTotalQuantity());

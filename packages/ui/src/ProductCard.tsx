@@ -3,11 +3,10 @@ import type { Product } from "@repo/types";
 
 interface ProductCardProps {
   product: Product;
-  onAddToCart?: (productId: string) => void;
   actions?: ReactNode;
 }
 
-export function ProductCard({ product, onAddToCart, actions }: ProductCardProps) {
+export function ProductCard({ product, actions }: ProductCardProps) {
   const hasDiscount = Boolean(product.discountPercent && product.originalPrice);
 
   return (
@@ -29,12 +28,18 @@ export function ProductCard({ product, onAddToCart, actions }: ProductCardProps)
       </div>
       <div className="p-3 flex flex-col gap-1 flex-1">
         {product.brand && (
-          <span className="text-xs text-muted uppercase tracking-wide">{product.brand}</span>
+          <span className="text-xs text-muted uppercase tracking-wide">
+            {product.brand}
+          </span>
         )}
-        <h3 className="text-sm font-medium line-clamp-2 text-foreground">{product.name}</h3>
+        <h3 className="text-sm font-medium line-clamp-2 text-foreground">
+          {product.name}
+        </h3>
         {product.rating && (
           <div className="flex items-center gap-1 text-xs text-muted">
-            <span className="text-amber-500">★ {product.rating.average.toFixed(1)}</span>
+            <span className="text-amber-500">
+              ★ {product.rating.average.toFixed(1)}
+            </span>
             <span>({product.rating.count})</span>
             {typeof product.soldCount === "number" && (
               <span>· Đã bán {product.soldCount.toLocaleString("vi-VN")}</span>
@@ -51,18 +56,8 @@ export function ProductCard({ product, onAddToCart, actions }: ProductCardProps)
             </p>
           )}
         </div>
-        {actions ? (
-          actions
-        ) : (
-          onAddToCart && (
-            <button
-              onClick={() => onAddToCart(product.id)}
-              className="text-sm bg-accent text-white rounded-md py-1.5 hover:bg-accent-dark transition-colors"
-            >
-              Thêm vào giỏ
-            </button>
-          )
-        )}
+
+        {actions}
       </div>
     </div>
   );

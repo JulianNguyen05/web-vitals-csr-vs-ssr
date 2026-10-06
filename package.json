@@ -20,9 +20,6 @@
     }
   },
   "type": "module",
-  "pnpm": {
-    "onlyBuiltDependencies": [
-      "esbuild"
-    ]
-  }
+  "validate": "pnpm --filter @repo/data run validate",
+  "build": "pnpm -r --if-present run build"
 }

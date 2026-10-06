@@ -1,12 +1,8 @@
-import productsData from "@repo/data/json/products-20.json";
-import type { Product } from "@repo/types";
+import { products } from "@repo/data";
 import { notFound } from "next/navigation";
-import { ProductDetailView } from "@repo/ui";
-import { AddToCartButton } from "../../add-to-cart-button";
+import { ProductDetailView, AddToCartButton } from "@repo/ui";
 
 export const dynamic = "force-dynamic";
-
-const products = productsData as Product[];
 
 export default function ProductDetailPage({
   params,

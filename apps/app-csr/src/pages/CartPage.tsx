@@ -1,9 +1,7 @@
-import productsData from "@repo/data/json/products-20.json";
 import { CartPageView } from "@repo/ui";
 import { useCartStore, selectCartTotal } from "@repo/cart-store";
-import type { Product } from "@repo/types";
-
-const products = productsData as Product[];
+import { products } from "@repo/data";
+import { RouterLink } from "../components/RouterLink";
 
 export function CartPage() {
   const items = useCartStore((s) => s.items);
@@ -18,6 +16,7 @@ export function CartPage() {
       total={total}
       onUpdateQuantity={updateQuantity}
       onRemove={removeItem}
+      LinkComponent={RouterLink}
     />
   );
 }

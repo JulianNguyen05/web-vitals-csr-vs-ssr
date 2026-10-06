@@ -1,12 +1,10 @@
 "use client";
 
-import productsData from "@repo/data/json/products-20.json";
 import { CartPageView } from "@repo/ui";
 import { useCartStore, selectCartTotal } from "@repo/cart-store";
-import type { Product } from "@repo/types";
+import { products } from "@repo/data";
 import { useEffect, useState } from "react";
-
-const products = productsData as Product[];
+import { NextLinkAdapter } from "../next-link-adapter";
 
 export default function CartPage() {
   const items = useCartStore((s) => s.items);
@@ -27,6 +25,7 @@ export default function CartPage() {
       total={total}
       onUpdateQuantity={updateQuantity}
       onRemove={removeItem}
+      LinkComponent={NextLinkAdapter}
     />
   );
 }

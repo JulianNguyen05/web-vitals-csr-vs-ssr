@@ -4,19 +4,22 @@ import type { Product } from "@repo/types";
 interface ProductDetailViewProps {
   product: Product;
   /**
-   * Nút "Thêm vào giỏ hàng" — mỗi app tự truyền vào (CSR dùng <Button> gọi
-   * thẳng zustand store, SSR dùng client component riêng), nhưng phần
-   * markup bao quanh (div.mt-4.max-w-xs) được render giống hệt nhau ở đây
-   * để đảm bảo HTML/CSS đồng nhất 100% giữa hai phiên bản.
+   *Cả hai app truyền <AddToCartButton /> từ @repo/ui
    */
   cartAction: ReactNode;
 }
 
-export function ProductDetailView({ product, cartAction }: ProductDetailViewProps) {
+export function ProductDetailView({
+  product,
+  cartAction,
+}: ProductDetailViewProps) {
   const hasDiscount = Boolean(product.discountPercent && product.originalPrice);
   const gallery = product.gallery ?? [];
-  const specs = product.specifications ? Object.entries(product.specifications) : [];
-  const showFullDescriptionBlock = Boolean(product.shortDescription) && Boolean(product.description);
+  const specs = product.specifications
+    ? Object.entries(product.specifications)
+    : [];
+  const showFullDescriptionBlock =
+    Boolean(product.shortDescription) && Boolean(product.description);
 
   return (
     <div className="p-4 flex flex-col md:flex-row gap-6">
@@ -47,14 +50,20 @@ export function ProductDetailView({ product, cartAction }: ProductDetailViewProp
 
       <div className="flex-1">
         {product.brand && (
-          <p className="text-sm text-muted uppercase tracking-wide">{product.brand}</p>
+          <p className="text-sm text-muted uppercase tracking-wide">
+            {product.brand}
+          </p>
         )}
 
-        <h1 className="text-xl font-semibold text-foreground">{product.name}</h1>
+        <h1 className="text-xl font-semibold text-foreground">
+          {product.name}
+        </h1>
 
         {product.rating && (
           <div className="flex items-center gap-2 mt-1 text-sm text-muted">
-            <span className="text-amber-500">★ {product.rating.average.toFixed(1)}</span>
+            <span className="text-amber-500">
+              ★ {product.rating.average.toFixed(1)}
+            </span>
             <span>({product.rating.count} đánh giá)</span>
             {typeof product.soldCount === "number" && (
               <span>· Đã bán {product.soldCount.toLocaleString("vi-VN")}</span>
@@ -76,22 +85,30 @@ export function ProductDetailView({ product, cartAction }: ProductDetailViewProp
               </span>
             </>
           )}
-          {product.unit && <span className="text-sm text-muted">/ {product.unit}</span>}
+          {product.unit && (
+            <span className="text-sm text-muted">/ {product.unit}</span>
+          )}
         </div>
 
         {typeof product.stock === "number" && (
           <p className="text-sm text-muted mt-1">
-            {product.stock > 0 ? `Còn ${product.stock} sản phẩm` : "Tạm hết hàng"}
+            {product.stock > 0
+              ? `Còn ${product.stock} sản phẩm`
+              : "Tạm hết hàng"}
           </p>
         )}
 
-        <p className="text-muted mt-4">{product.shortDescription ?? product.description}</p>
+        <p className="text-muted mt-4">
+          {product.shortDescription ?? product.description}
+        </p>
 
         <div className="mt-4 max-w-xs">{cartAction}</div>
 
         {specs.length > 0 && (
           <div className="mt-6">
-            <h2 className="text-sm font-semibold text-foreground mb-2">Thông số kỹ thuật</h2>
+            <h2 className="text-sm font-semibold text-foreground mb-2">
+              Thông số kỹ thuật
+            </h2>
             <dl className="text-sm divide-y divide-border">
               {specs.map(([label, value]) => (
                 <div key={label} className="flex justify-between gap-4 py-1.5">
@@ -105,8 +122,12 @@ export function ProductDetailView({ product, cartAction }: ProductDetailViewProp
 
         {showFullDescriptionBlock && (
           <div className="mt-6">
-            <h2 className="text-sm font-semibold text-foreground mb-2">Mô tả chi tiết</h2>
-            <p className="text-muted whitespace-pre-line">{product.description}</p>
+            <h2 className="text-sm font-semibold text-foreground mb-2">
+              Mô tả chi tiết
+            </h2>
+            <p className="text-muted whitespace-pre-line">
+              {product.description}
+            </p>
           </div>
         )}
 
@@ -130,7 +151,10 @@ export function ProductDetailView({ product, cartAction }: ProductDetailViewProp
         {product.tags && product.tags.length > 0 && (
           <div className="flex flex-wrap gap-2 mt-4">
             {product.tags.map((tag) => (
-              <span key={tag} className="text-xs bg-surface text-muted rounded-full px-2.5 py-1">
+              <span
+                key={tag}
+                className="text-xs bg-surface text-muted rounded-full px-2.5 py-1"
+              >
                 #{tag}
               </span>
             ))}

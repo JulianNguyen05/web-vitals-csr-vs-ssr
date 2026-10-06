@@ -1,26 +1,10 @@
-import { Routes, Route, Link } from "react-router-dom";
-import type { ReactNode } from "react";
-import { CategoryPage } from "./pages/CategoryPage";
+import { Routes, Route } from "react-router-dom";
+import { ProductListPage } from "./pages/ProductListPage";
 import { ProductDetailPage } from "./pages/ProductDetailPage";
 import { CartPage } from "./pages/CartPage";
 import { useCartStore } from "@repo/cart-store";
 import { SiteHeader } from "@repo/ui";
-
-function RouterLink({
-  href,
-  className,
-  children,
-}: {
-  href: string;
-  className?: string;
-  children: ReactNode;
-}) {
-  return (
-    <Link to={href} className={className}>
-      {children}
-    </Link>
-  );
-}
+import { RouterLink } from "./components/RouterLink";
 
 function App() {
   const totalQuantity = useCartStore((s) => s.getTotalQuantity());
@@ -34,7 +18,7 @@ function App() {
           LinkComponent={RouterLink}
         />
         <Routes>
-          <Route path="/" element={<CategoryPage />} />
+          <Route path="/" element={<ProductListPage />} />
           <Route path="/products/:id" element={<ProductDetailPage />} />
           <Route path="/cart" element={<CartPage />} />
         </Routes>
