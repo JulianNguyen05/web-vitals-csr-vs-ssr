@@ -4,3 +4,7 @@ dist
 .turbo
 .env
 .env.local
+
+# Generated helper files
+gather-code.mjs
+combined-types-data-ui-config.txt

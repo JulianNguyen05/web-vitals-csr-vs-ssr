@@ -11,18 +11,18 @@ function App() {
 
   return (
     <div className="min-h-screen bg-surface">
-      <div className="max-w-6xl mx-auto px-4">
-        <SiteHeader
-          storeLabel="T&Q Mart (CSR)"
-          cartQuantity={totalQuantity}
-          LinkComponent={RouterLink}
-        />
+      <SiteHeader
+        storeLabel="T&Q Mart (CSR)"
+        cartQuantity={totalQuantity}
+        LinkComponent={RouterLink}
+      />
+      <main className="mx-auto max-w-7xl px-4 py-6 sm:px-6">
         <Routes>
           <Route path="/" element={<ProductListPage />} />
           <Route path="/products/:id" element={<ProductDetailPage />} />
           <Route path="/cart" element={<CartPage />} />
         </Routes>
-      </div>
+      </main>
     </div>
   );
 }
