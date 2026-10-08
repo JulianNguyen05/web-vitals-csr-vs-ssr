@@ -3,9 +3,5 @@
 @tailwind utilities;
 
 body {
-  @apply bg-surface text-foreground font-sans;
-}
-
-a {
-  @apply text-accent hover:text-accent-dark;
+  @apply bg-surface text-foreground font-sans antialiased;
 }

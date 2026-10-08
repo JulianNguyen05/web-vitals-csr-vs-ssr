@@ -9,14 +9,15 @@ module.exports = {
     extend: {
       colors: {
         background: "#FFFFFF",
-        surface: "#F7F7F6",
-        foreground: "#1A1A1A",
-        muted: "#6B6B68",
-        border: "#E5E5E2",
+        surface: "#F4F6F5",
+        foreground: "#14201B",
+        muted: "#5E6B65",
+        border: "#E2E8E4",
+        sale: "#E5484D",
         accent: {
-          light: "#E1F5EE",
-          DEFAULT: "#0F6E56",
-          dark: "#085041",
+          light: "#E6F5EE",
+          DEFAULT: "#0F7B5F",
+          dark: "#0A5D47",
         },
       },
       fontFamily: {
@@ -32,6 +33,10 @@ module.exports = {
       borderRadius: {
         DEFAULT: "8px",
         card: "16px",
+      },
+      boxShadow: {
+        card: "0 1px 2px rgba(20,32,27,0.04), 0 1px 3px rgba(20,32,27,0.06)",
+        "card-hover": "0 10px 28px rgba(20,32,27,0.10)",
       },
     },
   },

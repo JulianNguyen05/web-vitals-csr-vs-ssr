@@ -11,7 +11,7 @@ export function ProductDetailPage() {
   return (
     <ProductDetailView
       product={product}
-      cartAction={<AddToCartButton productId={product.id} />}
+      cartAction={<AddToCartButton productId={product.id} variant="detail" />}
     />
   );
 }

@@ -1,9 +1,9 @@
-# TỔNG HỢP TYPES, DATA (SAMPLE), UI & BUILD CONFIG
+# TỔNG HỢP SOURCE CODE (CSR, SSR, UI, TYPES, CONFIG) & DATA SAMPLE
 
 
-// ============================================================
+// ======================================================================
 // 📄 FILE: packages/types/index.ts
-// ============================================================
+// ======================================================================
 
 export interface Category {
   id: string;
@@ -60,9 +60,9 @@ export interface CartItem {
 }
 
 
-// ============================================================
+// ======================================================================
 // 📄 FILE: packages/types/package.json
-// ============================================================
+// ======================================================================
 
 {
   "name": "@repo/types",
@@ -75,116 +75,526 @@ export interface CartItem {
   }
 }
 
-// ============================================================
-// 📄 FILE: packages/types/tsconfig.json
-// ============================================================
+// ======================================================================
+// 📄 FILE: packages/cart-store/index.ts
+// ======================================================================
 
-{
-  "compilerOptions": {
-    "target": "ES2020",
-    "module": "ESNext",
-    "moduleResolution": "Bundler",
-    "strict": true,
-    "declaration": true,
-    "skipLibCheck": true
-  },
-  "include": ["index.ts"]
+import { create } from "zustand";
+import { persist } from "zustand/middleware";
+import type { CartItem, Product } from "@repo/types";
+
+interface CartState {
+  items: CartItem[];
+  addItem: (productId: string, quantity?: number) => void;
+  updateQuantity: (productId: string, quantity: number) => void;
+  removeItem: (productId: string) => void;
+  clearCart: () => void;
+  getTotalQuantity: () => number;
 }
 
-// ============================================================
-// 📄 FILE: packages/data/package.json
-// ============================================================
+export const useCartStore = create<CartState>()(
+  persist(
+    (set, get) => ({
+      items: [],
+
+      addItem: (productId, quantity = 1) => {
+        set((state) => {
+          const existing = state.items.find((i) => i.productId === productId);
+          if (existing) {
+            return {
+              items: state.items.map((i) =>
+                i.productId === productId
+                  ? { ...i, quantity: i.quantity + quantity }
+                  : i
+              ),
+            };
+          }
+          return {
+            items: [...state.items, { productId, quantity, addedAt: Date.now() }],
+          };
+        });
+      },
+
+      updateQuantity: (productId, quantity) => {
+        set((state) => ({
+          items:
+            quantity <= 0
+              ? state.items.filter((i) => i.productId !== productId)
+              : state.items.map((i) =>
+                  i.productId === productId ? { ...i, quantity } : i
+                ),
+        }));
+      },
+
+      removeItem: (productId) => {
+        set((state) => ({
+          items: state.items.filter((i) => i.productId !== productId),
+        }));
+      },
+
+      clearCart: () => set({ items: [] }),
+
+      getTotalQuantity: () =>
+        get().items.reduce((sum, i) => sum + i.quantity, 0),
+    }),
+    { name: "tqmart-cart" }
+  )
+);
+
+export function selectCartTotal(items: CartItem[], products: Product[]): number {
+  const priceMap = new Map(products.map((p) => [p.id, p.price]));
+  return items.reduce((sum, item) => {
+    const price = priceMap.get(item.productId) ?? 0;
+    return sum + price * item.quantity;
+  }, 0);
+}
+
+// ======================================================================
+// 📄 FILE: packages/cart-store/package.json
+// ======================================================================
 
 {
-  "name": "@repo/data",
+  "name": "@repo/cart-store",
   "version": "0.0.0",
   "private": true,
-  "scripts": {
-    "generate": "node scripts/generate.mjs",
-    "merge": "node scripts/merge.mjs",
-    "process-images": "node scripts/process-images.mjs",
-    "upload-r2": "node scripts/upload-r2.mjs",
-    "prune-r2": "node scripts/upload-r2.mjs --prune",
-    "update-urls": "node scripts/update-urls.mjs",
-    "sync": "pnpm process-images && pnpm upload-r2 && pnpm update-urls && pnpm merge"
+  "main": "index.ts",
+  "types": "index.ts",
+  "dependencies": {
+    "zustand": "^4.5.4",
+    "@repo/types": "workspace:*"
   },
   "devDependencies": {
-    "@aws-sdk/client-s3": "^3.1136.0",
-    "@faker-js/faker": "^8.4.1",
-    "dotenv": "^18.0.1",
-    "sharp": "^0.35.4"
+    "typescript": "^5.5.4"
   }
 }
 
-// ============================================================
-// 📄 FILE: packages/data/json/categories.json
-// ============================================================
+// ======================================================================
+// 📄 FILE: packages/config/tailwind.config.js
+// ======================================================================
 
-[
-  {
-    "id": "cat-1",
-    "name": "Điện tử",
-    "slug": "dien-tu"
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: [
+    "../../packages/ui/src/**/*.{js,ts,jsx,tsx}",
+    "../../apps/*/src/**/*.{js,ts,jsx,tsx}",
+    "../../apps/*/app/**/*.{js,ts,jsx,tsx}",
+  ],
+  theme: {
+    extend: {
+      colors: {
+        background: "#FFFFFF",
+        surface: "#F7F7F6",
+        foreground: "#1A1A1A",
+        muted: "#6B6B68",
+        border: "#E5E5E2",
+        accent: {
+          light: "#E1F5EE",
+          DEFAULT: "#0F6E56",
+          dark: "#085041",
+        },
+      },
+      fontFamily: {
+        sans: [
+          "ui-sans-serif",
+          "system-ui",
+          "-apple-system",
+          "Segoe UI",
+          "Roboto",
+          "sans-serif",
+        ],
+      },
+      borderRadius: {
+        DEFAULT: "8px",
+        card: "16px",
+      },
+    },
   },
-  {
-    "id": "cat-2",
-    "name": "Gia dụng",
-    "slug": "gia-dung"
-  },
-  {
-    "id": "cat-3",
-    "name": "Mẹ và bé - đồ chơi trẻ em",
-    "slug": "me-va-be-do-choi-tre-em"
-  },
-  {
-    "id": "cat-4",
-    "name": "Mỹ phẩm - chăm sóc cá nhân",
-    "slug": "my-pham-cham-soc-ca-nhan"
-  },
-  {
-    "id": "cat-5",
-    "name": "Nội thất - trang trí",
-    "slug": "noi-that-trang-tri"
-  },
-  {
-    "id": "cat-6",
-    "name": "Sách - văn phòng phẩm",
-    "slug": "sach-van-phong-pham"
-  },
-  {
-    "id": "cat-7",
-    "name": "Thể thao - dã ngoại",
-    "slug": "the-thao-da-ngoai"
-  },
-  {
-    "id": "cat-8",
-    "name": "Thời trang",
-    "slug": "thoi-trang"
-  },
-  {
-    "id": "cat-9",
-    "name": "Thực phẩm - đồ uống",
-    "slug": "thuc-pham-do-uong"
-  },
-  {
-    "id": "cat-10",
-    "name": "Vật nuôi - thú cưng",
-    "slug": "vat-nuoi-thu-cung"
+  plugins: [],
+};
+
+// ======================================================================
+// 📄 FILE: packages/config/package.json
+// ======================================================================
+
+{
+  "name": "@repo/config",
+  "version": "0.0.0",
+  "private": true,
+  "main": "index.js",
+  "devDependencies": {
+    "eslint": "^9.39.5",
+    "prettier": "^3.9.6",
+    "tailwindcss": "^3.4.19",
+    "typescript": "^5.9.3"
   }
-]
+}
 
-// ============================================================
+// ======================================================================
+// 📄 FILE: package.json
+// ======================================================================
+
+{
+  "name": "web-vitals-csr-vs-ssr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sync": "pnpm --filter \"./packages/data\" run sync",
+    "predev": "pnpm run sync",
+    "dev": "pnpm -r --parallel --if-present run dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "^12.3.4",
+      "onFail": "download"
+    }
+  },
+  "type": "module",
+  "validate": "pnpm --filter @repo/data run validate",
+  "build": "pnpm -r --if-present run build"
+}
+
+// ======================================================================
+// 📄 FILE: pnpm-workspace.yaml
+// ======================================================================
+
+packages:
+  - "apps/*"
+  - "packages/*"
+allowBuilds:
+  esbuild: false
+  unrs-resolver: false
+
+
+// ======================================================================
+// 📄 FILE: packages/ui/src/index.ts
+// ======================================================================
+
+export { Button } from "./Button";
+export { ProductCard } from "./ProductCard";
+export { ProductDetailView } from "./ProductDetailView";
+export { SiteHeader } from "./SiteHeader";
+export { CartPageView } from "./CartPageView";
+export { AddToCartButton } from "./AddToCartButton";
+
+// ======================================================================
+// 📄 FILE: packages/ui/src/types.ts
+// ======================================================================
+
+import type { ComponentType, ReactNode } from "react";
+
+export type LinkComponentType = ComponentType<{
+  href: string;
+  className?: string;
+  children: ReactNode;
+}>;
+
+// ======================================================================
+// 📄 FILE: packages/ui/src/AddToCartButton.tsx
+// ======================================================================
+
+"use client";
+
+import { useCartStore } from "@repo/cart-store";
+
+export function AddToCartButton({ productId }: { productId: string }) {
+  const addItem = useCartStore((s) => s.addItem);
+  return (
+    <button
+      onClick={() => addItem(productId)}
+      className="w-full text-sm bg-accent text-white rounded-md py-1.5 hover:bg-accent-dark transition-colors"
+    >
+      Thêm vào giỏ
+    </button>
+  );
+}
+
+// ======================================================================
+// 📄 FILE: packages/ui/src/Button.tsx
+// ======================================================================
+
+import type { ButtonHTMLAttributes, ReactNode } from "react";
+
+interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
+  children: ReactNode;
+  variant?: "primary" | "secondary";
+}
+
+export function Button({ children, variant = "primary", className = "", ...props }: ButtonProps) {
+  const base =
+    "inline-flex items-center justify-center gap-2 px-4 py-2 rounded-md font-medium transition-colors disabled:opacity-50 disabled:cursor-not-allowed disabled:pointer-events-none";
+  const variants = {
+    primary: "bg-accent text-white hover:bg-accent-dark",
+    secondary: "bg-surface text-foreground border border-border hover:bg-border",
+  };
+  return (
+    <button className={`${base} ${variants[variant]} ${className}`} {...props}>
+      {children}
+    </button>
+  );
+}
+
+// ======================================================================
+// 📄 FILE: packages/ui/src/ProductCard.tsx
+// ======================================================================
+
+import type { ReactNode } from "react";
+import type { Product } from "@repo/types";
+
+interface ProductCardProps {
+  product: Product;
+  actions?: ReactNode;
+}
+
+export function ProductCard({ product, actions }: ProductCardProps) {
+  const hasDiscount = Boolean(product.discountPercent && product.originalPrice);
+
+  return (
+    <div className="bg-background rounded-card overflow-hidden flex flex-col shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all duration-200">
+      <div className="relative">
+        <img
+          src={product.thumbUrl}
+          alt={product.name}
+          width={400}
+          height={400}
+          loading="lazy"
+          className="w-full aspect-square object-cover bg-surface"
+        />
+        {hasDiscount && (
+          <span className="absolute top-2 left-2 text-xs font-semibold bg-accent text-white rounded px-1.5 py-0.5">
+            -{product.discountPercent}%
+          </span>
+        )}
+      </div>
+      <div className="p-3 flex flex-col gap-1 flex-1">
+        {product.brand && (
+          <span className="text-xs text-muted uppercase tracking-wide">
+            {product.brand}
+          </span>
+        )}
+        <h3 className="text-sm font-medium line-clamp-2 text-foreground">
+          {product.name}
+        </h3>
+        {product.rating && (
+          <div className="flex items-center gap-1 text-xs text-muted">
+            <span className="text-amber-500">
+              ★ {product.rating.average.toFixed(1)}
+            </span>
+            <span>({product.rating.count})</span>
+            {typeof product.soldCount === "number" && (
+              <span>· Đã bán {product.soldCount.toLocaleString("vi-VN")}</span>
+            )}
+          </div>
+        )}
+        <div className="flex items-baseline gap-1.5 mt-auto">
+          <p className="text-base font-semibold text-foreground">
+            {product.price.toLocaleString("vi-VN")}₫
+          </p>
+          {hasDiscount && (
+            <p className="text-xs text-muted line-through">
+              {product.originalPrice!.toLocaleString("vi-VN")}₫
+            </p>
+          )}
+        </div>
+
+        {actions}
+      </div>
+    </div>
+  );
+}
+
+
+// ======================================================================
+// 📄 FILE: packages/ui/src/ProductDetailView.tsx
+// ======================================================================
+
+import type { ReactNode } from "react";
+import type { Product } from "@repo/types";
+
+interface ProductDetailViewProps {
+  product: Product;
+  /**
+   *Cả hai app truyền <AddToCartButton /> từ @repo/ui
+   */
+  cartAction: ReactNode;
+}
+
+export function ProductDetailView({
+  product,
+  cartAction,
+}: ProductDetailViewProps) {
+  const hasDiscount = Boolean(product.discountPercent && product.originalPrice);
+  const gallery = product.gallery ?? [];
+  const specs = product.specifications
+    ? Object.entries(product.specifications)
+    : [];
+  const showFullDescriptionBlock =
+    Boolean(product.shortDescription) && Boolean(product.description);
+
+  return (
+    <div className="p-4 flex flex-col md:flex-row gap-6">
+      <div className="w-full md:w-96 flex flex-col gap-2">
+        <img
+          src={product.detailUrl}
+          alt={product.name}
+          width={800}
+          height={800}
+          className="w-full aspect-square object-cover rounded-lg bg-surface"
+        />
+        {gallery.length > 0 && (
+          <div className="flex gap-2 overflow-x-auto">
+            {gallery.map((url, i) => (
+              <img
+                key={url}
+                src={url}
+                alt={`${product.name} - ảnh ${i + 2}`}
+                width={120}
+                height={120}
+                loading="lazy"
+                className="w-20 h-20 object-cover rounded-md bg-surface shrink-0"
+              />
+            ))}
+          </div>
+        )}
+      </div>
+
+      <div className="flex-1">
+        {product.brand && (
+          <p className="text-sm text-muted uppercase tracking-wide">
+            {product.brand}
+          </p>
+        )}
+
+        <h1 className="text-xl font-semibold text-foreground">
+          {product.name}
+        </h1>
+
+        {product.rating && (
+          <div className="flex items-center gap-2 mt-1 text-sm text-muted">
+            <span className="text-amber-500">
+              ★ {product.rating.average.toFixed(1)}
+            </span>
+            <span>({product.rating.count} đánh giá)</span>
+            {typeof product.soldCount === "number" && (
+              <span>· Đã bán {product.soldCount.toLocaleString("vi-VN")}</span>
+            )}
+          </div>
+        )}
+
+        <div className="flex items-baseline gap-2 mt-2 flex-wrap">
+          <p className="text-lg font-bold text-foreground">
+            {product.price.toLocaleString("vi-VN")}₫
+          </p>
+          {hasDiscount && (
+            <>
+              <p className="text-sm text-muted line-through">
+                {product.originalPrice!.toLocaleString("vi-VN")}₫
+              </p>
+              <span className="text-xs font-medium bg-accent/10 text-accent rounded px-1.5 py-0.5">
+                -{product.discountPercent}%
+              </span>
+            </>
+          )}
+          {product.unit && (
+            <span className="text-sm text-muted">/ {product.unit}</span>
+          )}
+        </div>
+
+        {typeof product.stock === "number" && (
+          <p className="text-sm text-muted mt-1">
+            {product.stock > 0
+              ? `Còn ${product.stock} sản phẩm`
+              : "Tạm hết hàng"}
+          </p>
+        )}
+
+        <p className="text-muted mt-4">
+          {product.shortDescription ?? product.description}
+        </p>
+
+        <div className="mt-4 max-w-xs">{cartAction}</div>
+
+        {specs.length > 0 && (
+          <div className="mt-6">
+            <h2 className="text-sm font-semibold text-foreground mb-2">
+              Thông số kỹ thuật
+            </h2>
+            <dl className="text-sm divide-y divide-border">
+              {specs.map(([label, value]) => (
+                <div key={label} className="flex justify-between gap-4 py-1.5">
+                  <dt className="text-muted">{label}</dt>
+                  <dd className="text-foreground text-right">{value}</dd>
+                </div>
+              ))}
+            </dl>
+          </div>
+        )}
+
+        {showFullDescriptionBlock && (
+          <div className="mt-6">
+            <h2 className="text-sm font-semibold text-foreground mb-2">
+              Mô tả chi tiết
+            </h2>
+            <p className="text-muted whitespace-pre-line">
+              {product.description}
+            </p>
+          </div>
+        )}
+
+        {(product.origin || product.warranty) && (
+          <dl className="text-sm mt-6 space-y-1">
+            {product.origin && (
+              <div className="flex gap-2">
+                <dt className="text-muted">Xuất xứ:</dt>
+                <dd className="text-foreground">{product.origin}</dd>
+              </div>
+            )}
+            {product.warranty && (
+              <div className="flex gap-2">
+                <dt className="text-muted">Bảo hành:</dt>
+                <dd className="text-foreground">{product.warranty}</dd>
+              </div>
+            )}
+          </dl>
+        )}
+
+        {product.tags && product.tags.length > 0 && (
+          <div className="flex flex-wrap gap-2 mt-4">
+            {product.tags.map((tag) => (
+              <span
+                key={tag}
+                className="text-xs bg-surface text-muted rounded-full px-2.5 py-1"
+              >
+                #{tag}
+              </span>
+            ))}
+          </div>
+        )}
+      </div>
+    </div>
+  );
+}
+
+
+// ======================================================================
 // 📄 FILE: packages/ui/src/CartPageView.tsx
-// ============================================================
+// ======================================================================
 
 import type { CartItem, Product } from "@repo/types";
 import { ArrowLeft, Minus, Plus, ShoppingCart, Trash2 } from "lucide-react";
 import { Button } from "./Button";
+import type { LinkComponentType } from "./types";
 
 interface CartPageViewProps {
   items: CartItem[];
   products: Product[];
   total: number;
+  LinkComponent: LinkComponentType;
   onUpdateQuantity: (productId: string, quantity: number) => void;
   onRemove: (productId: string) => void;
 }
@@ -193,6 +603,7 @@ export function CartPageView({
   items,
   products,
   total,
+  LinkComponent,
   onUpdateQuantity,
   onRemove,
 }: CartPageViewProps) {
@@ -211,9 +622,9 @@ export function CartPageView({
         <p className="text-sm text-muted">
           Hãy khám phá sản phẩm và thêm vào giỏ hàng để bắt đầu mua sắm.
         </p>
-        <a href="/">
+        <LinkComponent href="/">
           <Button variant="primary">Tiếp tục mua sắm</Button>
-        </a>
+        </LinkComponent>
       </div>
     );
   }
@@ -227,13 +638,14 @@ export function CartPageView({
             ({itemCount} sản phẩm)
           </span>
         </h1>
-        <a
+
+        <LinkComponent
           href="/"
           className="hidden items-center gap-1 text-sm text-accent hover:text-accent-dark sm:flex"
         >
           <ArrowLeft className="h-4 w-4" />
           Tiếp tục mua sắm
-        </a>
+        </LinkComponent>
       </div>
 
       <div className="grid grid-cols-1 gap-8 lg:grid-cols-3">
@@ -294,7 +706,7 @@ export function CartPageView({
                           onUpdateQuantity(item.productId, item.quantity + 1)
                         }
                         aria-label="Tăng số lượng"
-                        className="flex h-8 w-8 items-center justify-center text-foreground transition-colors hover:bg-surface"
+                        className="flex h-8 w-8 items-center justify-center text-foreground"
                       >
                         <Plus className="h-3.5 w-3.5" />
                       </button>
@@ -341,12 +753,12 @@ export function CartPageView({
 }
 
 
-// ============================================================
+// ======================================================================
 // 📄 FILE: packages/ui/src/SiteHeader.tsx
-// ============================================================
+// ======================================================================
 
-import type { ComponentType, ReactNode } from "react";
 import { ShoppingCart } from "lucide-react";
+import type { LinkComponentType } from "./types";
 
 interface SiteHeaderProps {
   /** "T&Q Mart (CSR)" hoặc "T&Q Mart (SSR)" — chỉ khác nhau ở nhãn để phân biệt lúc test, không phải khác biệt nghiệp vụ */
@@ -358,13 +770,20 @@ interface SiteHeaderProps {
    * ProductDetailView — để phần markup/CSS ở đây luôn render giống hệt nhau
    * giữa CSR và SSR.
    */
-  LinkComponent: ComponentType<{ href: string; className?: string; children: ReactNode }>;
+  LinkComponent: LinkComponentType;
 }
 
-export function SiteHeader({ storeLabel, cartQuantity, LinkComponent }: SiteHeaderProps) {
+export function SiteHeader({
+  storeLabel,
+  cartQuantity,
+  LinkComponent,
+}: SiteHeaderProps) {
   return (
     <header className="flex items-center justify-between bg-background shadow-sm rounded-card px-6 py-3 mt-4 mb-6">
-      <LinkComponent href="/" className="flex items-center gap-2 font-semibold text-foreground">
+      <LinkComponent
+        href="/"
+        className="flex items-center gap-2 font-semibold text-foreground"
+      >
         <span className="w-6 h-6 rounded-md bg-accent text-white text-xs flex items-center justify-center">
           T
         </span>
@@ -382,163 +801,497 @@ export function SiteHeader({ storeLabel, cartQuantity, LinkComponent }: SiteHead
 }
 
 
-// ============================================================
-// 📄 FILE: packages/ui/src/CartDrawer.tsx
-// ============================================================
+// ======================================================================
+// 📄 FILE: packages/ui/package.json
+// ======================================================================
 
-import type { CartItem, Product } from "@repo/types";
-
-interface CartDrawerProps {
-  items: CartItem[];
-  products: Product[];
-  total: number;
-  onUpdateQuantity: (productId: string, quantity: number) => void;
-  onRemove: (productId: string) => void;
-  onClose: () => void;
+{
+  "name": "@repo/ui",
+  "version": "0.0.0",
+  "private": true,
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "peerDependencies": {
+    "react": "^18.3.1"
+  },
+  "dependencies": {
+    "@repo/types": "workspace:*",
+    "lucide-react": "^0.436.0",
+    "@repo/cart-store": "workspace:*"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.4",
+    "typescript": "^5.5.4"
+  }
 }
 
-export function CartDrawer({
-  items,
-  products,
-  total,
-  onUpdateQuantity,
-  onRemove,
-  onClose,
-}: CartDrawerProps) {
-  const productMap = new Map(products.map((p) => [p.id, p]));
+// ======================================================================
+// 📄 FILE: apps/app-csr/package.json
+// ======================================================================
+
+{
+  "name": "app-csr",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@repo/cart-store": "workspace:*",
+    "@repo/data": "workspace:*",
+    "@repo/types": "workspace:*",
+    "@repo/ui": "workspace:*",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-router-dom": "^7.0.0",
+    "web-vitals": "^4.2.3",
+    "zustand": "^4.5.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.43",
+    "@types/react": "18.3.4",
+    "@types/react-dom": "18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^9.9.0",
+    "postcss": "^8.4.41",
+    "tailwindcss": "^3.4.9",
+    "typescript": "^5.5.4",
+    "vite": "^5.4.2"
+  }
+}
+
+// ======================================================================
+// 📄 FILE: apps/app-csr/postcss.config.js
+// ======================================================================
+
+export default {
+  plugins: {
+    tailwindcss: { config: "../../packages/config/tailwind.config.js" },
+    autoprefixer: {},
+  },
+};
+
+// ======================================================================
+// 📄 FILE: apps/app-csr/src/index.css
+// ======================================================================
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-surface text-foreground font-sans;
+}
+
+a {
+  @apply text-accent hover:text-accent-dark;
+}
+
+
+// ======================================================================
+// 📄 FILE: apps/app-csr/src/App.tsx
+// ======================================================================
+
+import { Routes, Route } from "react-router-dom";
+import { ProductListPage } from "./pages/ProductListPage";
+import { ProductDetailPage } from "./pages/ProductDetailPage";
+import { CartPage } from "./pages/CartPage";
+import { useCartStore } from "@repo/cart-store";
+import { SiteHeader } from "@repo/ui";
+import { RouterLink } from "./components/RouterLink";
+
+function App() {
+  const totalQuantity = useCartStore((s) => s.getTotalQuantity());
 
   return (
-    <div className="fixed inset-y-0 right-0 w-full sm:w-96 bg-background shadow-xl flex flex-col z-50">
-      <div className="flex items-center justify-between p-4 border-b border-border">
-        <h2 className="font-semibold text-foreground">Giỏ hàng</h2>
-        <button onClick={onClose} aria-label="Đóng" className="text-muted hover:text-foreground">✕</button>
-      </div>
-
-      <div className="flex-1 overflow-y-auto p-4 flex flex-col gap-4">
-        {items.length === 0 && <p className="text-sm text-muted">Giỏ hàng trống.</p>}
-        {items.map((item) => {
-          const product = productMap.get(item.productId);
-          if (!product) return null;
-          return (
-            <div key={item.productId} className="flex gap-3">
-              <img
-                src={product.thumbUrl}
-                alt={product.name}
-                width={64}
-                height={64}
-                className="w-16 h-16 object-cover rounded bg-surface"
-              />
-              <div className="flex-1">
-                <p className="text-sm font-medium line-clamp-1 text-foreground">{product.name}</p>
-                <p className="text-sm text-muted">{product.price.toLocaleString("vi-VN")}₫</p>
-                <div className="flex items-center gap-2 mt-1">
-                  <button
-                    onClick={() => onUpdateQuantity(item.productId, item.quantity - 1)}
-                    className="w-6 h-6 border border-border rounded text-foreground hover:bg-surface"
-                  >
-                    −
-                  </button>
-                  <span className="text-sm w-6 text-center text-foreground">{item.quantity}</span>
-                  <button
-                    onClick={() => onUpdateQuantity(item.productId, item.quantity + 1)}
-                    className="w-6 h-6 border border-border rounded text-foreground hover:bg-surface"
-                  >
-                    +
-                  </button>
-                  <button
-                    onClick={() => onRemove(item.productId)}
-                    className="text-xs text-red-600 ml-2 hover:text-red-700"
-                  >
-                    Xoá
-                  </button>
-                </div>
-              </div>
-            </div>
-          );
-        })}
-      </div>
-
-      <div className="p-4 border-t border-border">
-        <div className="flex justify-between font-semibold text-foreground">
-          <span>Tổng tiền</span>
-          <span>{total.toLocaleString("vi-VN")}₫</span>
-        </div>
+    <div className="min-h-screen bg-surface">
+      <div className="max-w-6xl mx-auto px-4">
+        <SiteHeader
+          storeLabel="T&Q Mart (CSR)"
+          cartQuantity={totalQuantity}
+          LinkComponent={RouterLink}
+        />
+        <Routes>
+          <Route path="/" element={<ProductListPage />} />
+          <Route path="/products/:id" element={<ProductDetailPage />} />
+          <Route path="/cart" element={<CartPage />} />
+        </Routes>
       </div>
     </div>
   );
 }
 
+export default App;
 
-// ============================================================
-// 📄 FILE: packages/ui/tsconfig.json
-// ============================================================
 
-// ❌ LỖI: Không tìm thấy file này trong hệ thống.
+// ======================================================================
+// 📄 FILE: apps/app-csr/src/components/RouterLink.tsx
+// ======================================================================
 
-// ============================================================
-// 📄 FILE: packages/cart-store/tsconfig.json
-// ============================================================
+import type { ReactNode } from "react";
+import { Link } from "react-router-dom";
 
-{
-  "compilerOptions": {
-    "target": "ES2020",
-    "module": "ESNext",
-    "moduleResolution": "Bundler",
-    "strict": true,
-    "declaration": true,
-    "skipLibCheck": true
-  },
-  "include": ["index.ts"]
+export function RouterLink({
+  href,
+  className,
+  children,
+}: {
+  href: string;
+  className?: string;
+  children: ReactNode;
+}) {
+  return (
+    <Link to={href} className={className}>
+      {children}
+    </Link>
+  );
 }
 
-// ============================================================
-// 📄 FILE: package.json
-// ============================================================
+// ======================================================================
+// 📄 FILE: apps/app-csr/src/pages/ProductListPage.tsx
+// ======================================================================
+
+import { ProductCard, AddToCartButton } from "@repo/ui";
+import { products } from "@repo/data";
+import { Link } from "react-router-dom";
+
+export function ProductListPage() {
+  return (
+    <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-5 md:gap-6 pb-8">
+      {products.map((p) => (
+        <Link key={p.id} to={`/products/${p.id}`}>
+          <ProductCard product={p} actions={<AddToCartButton productId={p.id} />} />
+        </Link>
+      ))}
+    </div>
+  );
+}
+
+// ======================================================================
+// 📄 FILE: apps/app-csr/src/pages/ProductDetailPage.tsx
+// ======================================================================
+
+import { useParams } from "react-router-dom";
+import { ProductDetailView, AddToCartButton } from "@repo/ui";
+import { products } from "@repo/data";
+
+export function ProductDetailPage() {
+  const { id } = useParams();
+  const product = products.find((p) => p.id === id);
+
+  if (!product) return <div className="p-4">Không tìm thấy sản phẩm.</div>;
+
+  return (
+    <ProductDetailView
+      product={product}
+      cartAction={<AddToCartButton productId={product.id} />}
+    />
+  );
+}
+
+// ======================================================================
+// 📄 FILE: apps/app-csr/src/pages/CartPage.tsx
+// ======================================================================
+
+import { CartPageView } from "@repo/ui";
+import { useCartStore, selectCartTotal } from "@repo/cart-store";
+import { products } from "@repo/data";
+import { RouterLink } from "../components/RouterLink";
+
+export function CartPage() {
+  const items = useCartStore((s) => s.items);
+  const updateQuantity = useCartStore((s) => s.updateQuantity);
+  const removeItem = useCartStore((s) => s.removeItem);
+  const total = selectCartTotal(items, products);
+
+  return (
+    <CartPageView
+      items={items}
+      products={products}
+      total={total}
+      onUpdateQuantity={updateQuantity}
+      onRemove={removeItem}
+      LinkComponent={RouterLink}
+    />
+  );
+}
+
+// ======================================================================
+// 📄 FILE: apps/app-ssr/package.json
+// ======================================================================
 
 {
-  "name": "web-vitals-csr-vs-ssr",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "app-ssr",
+  "version": "0.0.0",
+  "private": true,
   "scripts": {
-    "sync": "pnpm --filter \"./packages/data\" run sync",
-    "predev": "pnpm run sync",
-    "dev": "pnpm -r --parallel --if-present run dev",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev -p 3001",
+    "build": "next build",
+    "start": "next start -p 3001",
+    "lint": "next lint"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devEngines": {
-    "packageManager": {
-      "name": "pnpm",
-      "version": "^12.3.4",
-      "onFail": "download"
-    }
+  "dependencies": {
+    "next": "14.2.15",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "zustand": "^4.5.4",
+    "web-vitals": "^4.2.3",
+    "@repo/types": "workspace:*",
+    "@repo/data": "workspace:*",
+    "@repo/cart-store": "workspace:*",
+    "@repo/ui": "workspace:*"
   },
-  "type": "module",
-  "pnpm": {
-    "onlyBuiltDependencies": [
-      "esbuild"
-    ]
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "18.3.4",
+    "@types/react-dom": "18.3.0",
+    "typescript": "^5.5.4",
+    "tailwindcss": "3.4.9",
+    "postcss": "8.4.41",
+    "autoprefixer": "10.4.20",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.15"
   }
 }
 
-// ============================================================
-// 📄 FILE: pnpm-workspace.yaml
-// ============================================================
+// ======================================================================
+// 📄 FILE: apps/app-ssr/postcss.config.mjs
+// ======================================================================
 
-packages:
-  - "apps/*"
-  - "packages/*"
-allowBuilds:
-  esbuild: false
-  unrs-resolver: false
+export default {
+  plugins: {
+    tailwindcss: { config: "../../packages/config/tailwind.config.js" },
+    autoprefixer: {},
+  },
+};
+
+// ======================================================================
+// 📄 FILE: apps/app-ssr/src/app/globals.css
+// ======================================================================
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-surface text-foreground font-sans;
+}
+
+a {
+  @apply text-accent hover:text-accent-dark;
+}
 
 
-// ============================================================
-// 📄 FILE (MẪU DỮ LIỆU): packages/data/json/products-20.json
-// ============================================================
+// ======================================================================
+// 📄 FILE: apps/app-ssr/src/app/layout.tsx
+// ======================================================================
+
+import type { Metadata } from "next";
+import "./globals.css";
+import { Nav } from "./nav";
+
+export const metadata: Metadata = {
+  title: "T&Q Mart (SSR)",
+  description: "Ứng dụng mẫu mô phỏng giao dịch thương mại điện tử T&Q Mart",
+};
+
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
+  return (
+    <html lang="vi">
+      <body>
+        <div className="min-h-screen bg-surface">
+          <div className="max-w-6xl mx-auto px-4">
+            <Nav />
+            {children}
+          </div>
+        </div>
+      </body>
+    </html>
+  );
+}
+
+
+// ======================================================================
+// 📄 FILE: apps/app-ssr/src/app/nav.tsx
+// ======================================================================
+
+"use client";
+
+import { useCartStore } from "@repo/cart-store";
+import { useEffect, useState } from "react";
+import { SiteHeader } from "@repo/ui";
+import { NextLinkAdapter } from "./next-link-adapter";
+
+export function Nav() {
+  const totalQuantity = useCartStore((s) => s.getTotalQuantity());
+  const [mounted, setMounted] = useState(false);
+
+  useEffect(() => setMounted(true), []);
+
+  return (
+    <SiteHeader
+      storeLabel="T&Q Mart (SSR)"
+      cartQuantity={mounted ? totalQuantity : 0}
+      LinkComponent={NextLinkAdapter}
+    />
+  );
+}
+
+
+// ======================================================================
+// 📄 FILE: apps/app-ssr/src/app/page.tsx
+// ======================================================================
+
+import { ProductCard, AddToCartButton } from "@repo/ui";
+import { products } from "@repo/data";
+import Link from "next/link";
+
+export const dynamic = "force-dynamic";
+
+export default function ProductListPage() {
+  return (
+    <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-5 md:gap-6 pb-8">
+      {products.map((p) => (
+        <Link key={p.id} href={`/products/${p.id}`}>
+          <ProductCard product={p} actions={<AddToCartButton productId={p.id} />} />
+        </Link>
+      ))}
+    </div>
+  );
+}
+
+
+// ======================================================================
+// 📄 FILE: apps/app-ssr/src/app/products/[id]/page.tsx
+// ======================================================================
+
+import { products } from "@repo/data";
+import { notFound } from "next/navigation";
+import { ProductDetailView, AddToCartButton } from "@repo/ui";
+
+export const dynamic = "force-dynamic";
+
+export default function ProductDetailPage({
+  params,
+}: {
+  params: { id: string };
+}) {
+  const product = products.find((p) => p.id === params.id);
+  if (!product) notFound();
+
+  return (
+    <ProductDetailView
+      product={product}
+      cartAction={<AddToCartButton productId={product.id} />}
+    />
+  );
+}
+
+
+// ======================================================================
+// 📄 FILE: apps/app-ssr/src/app/cart/page.tsx
+// ======================================================================
+
+"use client";
+
+import { CartPageView } from "@repo/ui";
+import { useCartStore, selectCartTotal } from "@repo/cart-store";
+import { products } from "@repo/data";
+import { useEffect, useState } from "react";
+import { NextLinkAdapter } from "../next-link-adapter";
+
+export default function CartPage() {
+  const items = useCartStore((s) => s.items);
+  const updateQuantity = useCartStore((s) => s.updateQuantity);
+  const removeItem = useCartStore((s) => s.removeItem);
+  const [mounted, setMounted] = useState(false);
+
+  useEffect(() => setMounted(true), []);
+
+  const total = selectCartTotal(items, products);
+
+  if (!mounted) return <div className="p-4">Đang tải giỏ hàng...</div>;
+
+  return (
+    <CartPageView
+      items={items}
+      products={products}
+      total={total}
+      onUpdateQuantity={updateQuantity}
+      onRemove={removeItem}
+      LinkComponent={NextLinkAdapter}
+    />
+  );
+}
+
+// ======================================================================
+// 📄 FILE JSON MẪU (DỮ LIỆU ĐẦY ĐỦ): packages/data/json/categories.json
+// ======================================================================
+
+[
+  {
+    "id": "cat-1",
+    "name": "Điện tử",
+    "slug": "dien-tu"
+  },
+  {
+    "id": "cat-2",
+    "name": "Gia dụng",
+    "slug": "gia-dung"
+  },
+  {
+    "id": "cat-3",
+    "name": "Mẹ và bé - đồ chơi trẻ em",
+    "slug": "me-va-be-do-choi-tre-em"
+  },
+  {
+    "id": "cat-4",
+    "name": "Mỹ phẩm - chăm sóc cá nhân",
+    "slug": "my-pham-cham-soc-ca-nhan"
+  },
+  {
+    "id": "cat-5",
+    "name": "Nội thất - trang trí",
+    "slug": "noi-that-trang-tri"
+  },
+  {
+    "id": "cat-6",
+    "name": "Sách - văn phòng phẩm",
+    "slug": "sach-van-phong-pham"
+  },
+  {
+    "id": "cat-7",
+    "name": "Thể thao - dã ngoại",
+    "slug": "the-thao-da-ngoai"
+  },
+  {
+    "id": "cat-8",
+    "name": "Thời trang",
+    "slug": "thoi-trang"
+  },
+  {
+    "id": "cat-9",
+    "name": "Thực phẩm - đồ uống",
+    "slug": "thuc-pham-do-uong"
+  },
+  {
+    "id": "cat-10",
+    "name": "Vật nuôi - thú cưng",
+    "slug": "vat-nuoi-thu-cung"
+  }
+]
+
+// ======================================================================
+// 📄 FILE JSON MẪU (LẤY 2 ITEM ĐẦU TIÊN): packages/data/json/products-20.json
+// ======================================================================
 
 [
   {
@@ -591,191 +1344,26 @@ allowBuilds:
       "novatech"
     ],
     "createdAt": "2026-03-15T00:00:00.000Z"
-  }
-]
-
-// ============================================================
-// 📄 FILE (MẪU DỮ LIỆU): packages/data/json/products-500.json
-// ============================================================
-
-[
-  {
-    "id": "prod-103",
-    "name": "Tai nghe không dây JBL Tune Flex Plus",
-    "slug": "tai-nghe-khong-day-jbl-tune-flex-plus-103",
-    "price": 879000,
-    "categoryId": "cat-1",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/tai-nghe-khong-day-jbl-tune-flex-plus-103.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/tai-nghe-khong-day-jbl-tune-flex-plus-103.webp",
-    "description": "Tai nghe true wireless với chống ồn chủ động, âm thanh sống động. Pin sử dụng nhiều giờ kèm hộp sạc. Kết nối Bluetooth ổn định, chống nước. Thiết kế êm tai.",
-    "brand": "SoundMax",
-    "sku": "SOU-0103-CHI",
-    "originalPrice": 1010000,
-    "discountPercent": 13,
-    "unit": "chiếc",
-    "shortDescription": "Tai nghe true wireless chống ồn, pin lâu, sạc nhanh.",
-    "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/tai-nghe-khong-day-jbl-tune-flex-plus-103-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/tai-nghe-khong-day-jbl-tune-flex-plus-103-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/tai-nghe-khong-day-jbl-tune-flex-plus-103-c.webp"
-    ],
-    "specifications": {
-      "Loại": "True Wireless",
-      "Chống ồn": "ANC",
-      "Pin": "20-40 giờ",
-      "Bluetooth": "5.2-5.3",
-      "Chống nước": "IPX4-IPX5"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 569
-    },
-    "stock": 68,
-    "soldCount": 3827,
-    "weight": 51,
-    "dimensions": {
-      "length": 6.4,
-      "width": 5.1,
-      "height": 3.2
-    },
-    "origin": "Trung Quốc",
-    "warranty": "12 tháng chính hãng",
-    "tags": [
-      "tai nghe",
-      "true wireless",
-      "chống ồn",
-      "bluetooth",
-      "soundmax"
-    ],
-    "createdAt": "2026-04-21T00:00:00.000Z"
   },
   {
-    "id": "prod-104",
-    "name": "Đồng hồ thông minh FitLife GTR 2026",
-    "slug": "dong-ho-thong-minh-fitlife-gtr-2026-104",
-    "price": 5830000,
+    "id": "prod-102",
+    "name": "Laptop Lenovo IdeaPad limited",
+    "slug": "laptop-lenovo-ideapad-limited-102",
+    "price": 20890000,
     "categoryId": "cat-1",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/dong-ho-thong-minh-fitlife-gtr-2026-104.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/dong-ho-thong-minh-fitlife-gtr-2026-104.webp",
-    "description": "Đồng hồ thông minh theo dõi nhịp tim, SpO2, giấc ngủ và nhiều chế độ thể thao. Có GPS, chống nước. Pin sử dụng nhiều ngày. Hỗ trợ thông báo và điều khiển nhạc.",
-    "brand": "Huawei",
-    "sku": "HUA-0104-CHI",
-    "originalPrice": 6490000,
-    "discountPercent": 10,
-    "unit": "chiếc",
-    "shortDescription": "Đồng hồ thông minh theo dõi sức khỏe, GPS, pin nhiều ngày.",
-    "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dong-ho-thong-minh-fitlife-gtr-2026-104-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dong-ho-thong-minh-fitlife-gtr-2026-104-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dong-ho-thong-minh-fitlife-gtr-2026-104-c.webp"
-    ],
-    "specifications": {
-      "Màn hình": "AMOLED/LCD",
-      "Cảm biến": "Nhịp tim SpO2",
-      "Chống nước": "5ATM",
-      "Pin": "7-14 ngày",
-      "GPS": "Có"
-    },
-    "rating": {
-      "average": 4,
-      "count": 258
-    },
-    "stock": 56,
-    "soldCount": 1606,
-    "weight": 32,
-    "dimensions": {
-      "length": 4.1,
-      "width": 4.3,
-      "height": 1.1
-    },
-    "origin": "Trung Quốc",
-    "warranty": "12 tháng chính hãng",
-    "tags": [
-      "đồng hồ thông minh",
-      "fitness",
-      "gps",
-      "sức khỏe",
-      "huawei"
-    ],
-    "createdAt": "2026-03-27T00:00:00.000Z"
-  }
-]
-
-// ============================================================
-// 📄 FILE (MẪU DỮ LIỆU): packages/data/json/products-2000.json
-// ============================================================
-
-[
-  {
-    "id": "prod-151",
-    "name": "Điện thoại thông minh Samsung Reno11",
-    "slug": "dien-thoai-thong-minh-samsung-reno11-151",
-    "price": 10050000,
-    "categoryId": "cat-1",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/dien-thoai-thong-minh-samsung-reno11-151.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/dien-thoai-thong-minh-samsung-reno11-151.webp",
-    "description": "Smartphone cao cấp với màn hình chất lượng cao, hiệu năng mạnh mẽ cho đa nhiệm và chơi game. Hệ thống camera nhiều ống kính hỗ trợ chụp đêm và chân dung. Pin dung lượng lớn kèm sạc nhanh. Chạy hệ điều hành mới nhất với cam kết cập nhật phần mềm.",
-    "brand": "Oppo",
-    "sku": "OPP-0151-CHI",
-    "originalPrice": 11460000,
-    "discountPercent": 12,
-    "unit": "chiếc",
-    "shortDescription": "Smartphone màn hình AMOLED, chip mạnh, camera AI, pin dung lượng lớn sạc nhanh.",
-    "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dien-thoai-thong-minh-samsung-reno11-151-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dien-thoai-thong-minh-samsung-reno11-151-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dien-thoai-thong-minh-samsung-reno11-151-c.webp"
-    ],
-    "specifications": {
-      "Màn hình": "AMOLED 6.5-6.8 inch",
-      "Chip": "8 nhân",
-      "RAM": "8-12GB",
-      "Bộ nhớ": "128-256GB",
-      "Camera sau": "50-108MP",
-      "Pin": "5000mAh sạc nhanh"
-    },
-    "rating": {
-      "average": 4.1,
-      "count": 142
-    },
-    "stock": 279,
-    "soldCount": 3944,
-    "weight": 209,
-    "dimensions": {
-      "length": 15.3,
-      "width": 7.1,
-      "height": 0.7
-    },
-    "origin": "Việt Nam (lắp ráp) / Trung Quốc",
-    "warranty": "12 tháng chính hãng",
-    "tags": [
-      "smartphone",
-      "5G",
-      "camera",
-      "sạc nhanh",
-      "oppo"
-    ],
-    "createdAt": "2026-07-29T00:00:00.000Z"
-  },
-  {
-    "id": "prod-152",
-    "name": "Laptop Acer Inspiron 15 Mini",
-    "slug": "laptop-acer-inspiron-15-mini-152",
-    "price": 22150000,
-    "categoryId": "cat-1",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/laptop-acer-inspiron-15-mini-152.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/laptop-acer-inspiron-15-mini-152.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/laptop-lenovo-ideapad-limited-102.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/laptop-lenovo-ideapad-limited-102.webp",
     "description": "Laptop thiết kế mỏng nhẹ dễ mang theo. Màn hình Full HD chống chói. Bộ xử lý thế hệ mới kết hợp RAM và SSD cho hiệu năng mượt mà. Pin sử dụng cả ngày. Bàn phím có đèn nền.",
-    "brand": "HP",
-    "sku": "HP-0152-CHI",
-    "originalPrice": 26140000,
-    "discountPercent": 15,
+    "brand": "Acer",
+    "sku": "ACE-0102-CHI",
+    "originalPrice": 25050000,
+    "discountPercent": 17,
     "unit": "chiếc",
     "shortDescription": "Laptop văn phòng / học tập mỏng nhẹ, chip mới, SSD nhanh, pin lâu.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/laptop-acer-inspiron-15-mini-152-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/laptop-acer-inspiron-15-mini-152-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/laptop-acer-inspiron-15-mini-152-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/laptop-lenovo-ideapad-limited-102-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/laptop-lenovo-ideapad-limited-102-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/laptop-lenovo-ideapad-limited-102-c.webp"
     ],
     "specifications": {
       "Màn hình": "14-15.6 inch FHD",
@@ -785,15 +1373,15 @@ allowBuilds:
       "Pin": "8-12 giờ"
     },
     "rating": {
-      "average": 4.2,
-      "count": 389
+      "average": 3.9,
+      "count": 845
     },
-    "stock": 96,
-    "soldCount": 1288,
-    "weight": 1737,
+    "stock": 86,
+    "soldCount": 2909,
+    "weight": 1629,
     "dimensions": {
-      "length": 32.6,
-      "width": 24.1,
+      "length": 30.2,
+      "width": 22.4,
       "height": 1.7
     },
     "origin": "Trung Quốc",
@@ -803,8 +1391,8 @@ allowBuilds:
       "văn phòng",
       "mỏng nhẹ",
       "ssd",
-      "hp"
+      "acer"
     ],
-    "createdAt": "2026-01-18T00:00:00.000Z"
+    "createdAt": "2026-05-03T00:00:00.000Z"
   }
 ]
