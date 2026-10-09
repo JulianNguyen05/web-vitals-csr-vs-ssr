@@ -1,12 +1,108 @@
 [
   {
+    "id": "prod-701",
+    "name": "Giày thể thao Adidas Runfalcon",
+    "slug": "giay-the-thao-adidas-runfalcon-701",
+    "price": 673000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/giay-the-thao-adidas-runfalcon-701.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/giay-the-thao-adidas-runfalcon-701.webp",
+    "description": "Giày thể thao đệm êm giảm chấn. Upper thoáng khí. Đế bám tốt. Phù hợp chạy bộ tập gym hoặc mang hàng ngày. Nhiều size màu.",
+    "brand": "Adidas",
+    "sku": "ADI-0701-ĐÔI",
+    "originalPrice": 814000,
+    "discountPercent": 17,
+    "unit": "đôi",
+    "shortDescription": "Giày thể thao đệm êm nhẹ thoáng khí nhiều mục đích.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/giay-the-thao-adidas-runfalcon-701-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/giay-the-thao-adidas-runfalcon-701-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/giay-the-thao-adidas-runfalcon-701-c.webp"
+    ],
+    "specifications": {
+      "Loại": "Chạy / Training / Lifestyle",
+      "Đệm": "Êm",
+      "Upper": "Lưới / Dệt",
+      "Đế": "Cao su"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 246
+    },
+    "stock": 124,
+    "soldCount": 2072,
+    "weight": 341,
+    "dimensions": {
+      "length": 28.1,
+      "width": 21.3,
+      "height": 12.3
+    },
+    "origin": "Việt Nam / Trung Quốc / Indonesia",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "giày thể thao",
+      "chạy bộ",
+      "thể thao",
+      "adidas"
+    ],
+    "createdAt": "2026-09-19T00:00:00.000Z"
+  },
+  {
+    "id": "prod-702",
+    "name": "Thảm yoga Xiaomi TPE 8mm",
+    "slug": "tham-yoga-xiaomi-tpe-8mm-702",
+    "price": 628000,
+    "categoryId": "cat-7",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/tham-yoga-xiaomi-tpe-8mm-702.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/tham-yoga-xiaomi-tpe-8mm-702.webp",
+    "description": "Thảm yoga chất liệu TPE hoặc PVC cao cấp. Chống trượt tốt. Độ dày hỗ trợ khớp. Thân thiện môi trường. Kèm túi đựng.",
+    "brand": "Xiaomi",
+    "sku": "XIA-0702-CHI",
+    "originalPrice": 679000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Thảm yoga chống trượt dày hỗ trợ khớp thân thiện MT.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-yoga-xiaomi-tpe-8mm-702-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-yoga-xiaomi-tpe-8mm-702-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-yoga-xiaomi-tpe-8mm-702-c.webp"
+    ],
+    "specifications": {
+      "Chất liệu": "TPE / PVC",
+      "Độ dày": "5-8mm",
+      "Chống trượt": "2 mặt",
+      "Kích thước": "183x61cm"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 585
+    },
+    "stock": 104,
+    "soldCount": 2752,
+    "weight": 2307,
+    "dimensions": {
+      "length": 179.2,
+      "width": 65.5,
+      "height": 0.8
+    },
+    "origin": "Trung Quốc / Mỹ / Pháp",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "thảm yoga",
+      "pilates",
+      "thể thao",
+      "xiaomi"
+    ],
+    "createdAt": "2026-07-23T00:00:00.000Z"
+  },
+  {
     "id": "prod-703",
-    "name": "Bình nước thể thao Contigo 1L",
-    "slug": "binh-nuoc-the-thao-contigo-1l-703",
+    "name": "Bình nước thể thao Contigo 500ml",
+    "slug": "binh-nuoc-the-thao-contigo-500ml-703",
     "price": 283000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/binh-nuoc-the-thao-contigo-1l-703.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/binh-nuoc-the-thao-contigo-1l-703.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/binh-nuoc-the-thao-contigo-500ml-703.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/binh-nuoc-the-thao-contigo-500ml-703.webp",
     "description": "Bình nước thể thao giữ nhiệt hoặc nhựa an toàn. Nắp tiện lợi một tay. Dung tích phù hợp tập luyện. Dễ vệ sinh.",
     "brand": "Contigo",
     "sku": "CON-0703-CHI",
@@ -15,9 +111,9 @@
     "unit": "chiếc",
     "shortDescription": "Bình nước thể thao giữ nhiệt hoặc nhựa BPA free.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/binh-nuoc-the-thao-contigo-1l-703-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/binh-nuoc-the-thao-contigo-1l-703-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/binh-nuoc-the-thao-contigo-1l-703-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/binh-nuoc-the-thao-contigo-500ml-703-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/binh-nuoc-the-thao-contigo-500ml-703-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/binh-nuoc-the-thao-contigo-500ml-703-c.webp"
     ],
     "specifications": {
       "Dung tích": "500ml-1L",
@@ -49,12 +145,12 @@
   },
   {
     "id": "prod-704",
-    "name": "Áo thể thao Adidas",
-    "slug": "ao-the-thao-adidas-704",
+    "name": "Áo thể thao Decathlon dri-fit",
+    "slug": "ao-the-thao-decathlon-dri-fit-704",
     "price": 834000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/ao-the-thao-adidas-704.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/ao-the-thao-adidas-704.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/ao-the-thao-decathlon-dri-fit-704.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/ao-the-thao-decathlon-dri-fit-704.webp",
     "description": "Áo thể thao công nghệ thấm hút thoát mồ hôi. Co giãn 4 chiều. Form vừa hoặc ôm. Phù hợp tập luyện mọi môn.",
     "brand": "Decathlon",
     "sku": "DEC-0704-CHI",
@@ -63,9 +159,9 @@
     "unit": "chiếc",
     "shortDescription": "Áo thể thao thấm hút mồ hôi nhanh co giãn thoải mái.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/ao-the-thao-adidas-704-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/ao-the-thao-adidas-704-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/ao-the-thao-adidas-704-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/ao-the-thao-decathlon-dri-fit-704-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/ao-the-thao-decathlon-dri-fit-704-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/ao-the-thao-decathlon-dri-fit-704-c.webp"
     ],
     "specifications": {
       "Chất liệu": "Polyester / Co giãn",
@@ -97,12 +193,12 @@
   },
   {
     "id": "prod-705",
-    "name": "Vợt cầu lông / Tennis Victor",
-    "slug": "vot-cau-long-tennis-victor-705",
+    "name": "Vợt thể thao Wilson tennis",
+    "slug": "vot-the-thao-wilson-tennis-705",
     "price": 2590000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/vot-cau-long-tennis-victor-705.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/vot-cau-long-tennis-victor-705.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/vot-the-thao-wilson-tennis-705.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/vot-the-thao-wilson-tennis-705.webp",
     "description": "Vợt khung carbon hoặc hợp kim nhẹ. Cân bằng phù hợp nhiều lối đánh. Đã căng dây hoặc chưa. Phù hợp người mới đến nâng cao.",
     "brand": "Wilson",
     "sku": "WIL-0705-CHI",
@@ -111,9 +207,9 @@
     "unit": "chiếc",
     "shortDescription": "Vợt cầu lông hoặc tennis khung carbon nhẹ linh hoạt.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/vot-cau-long-tennis-victor-705-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/vot-cau-long-tennis-victor-705-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/vot-cau-long-tennis-victor-705-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/vot-the-thao-wilson-tennis-705-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/vot-the-thao-wilson-tennis-705-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/vot-the-thao-wilson-tennis-705-c.webp"
     ],
     "specifications": {
       "Môn": "Cầu lông / Tennis",
@@ -146,12 +242,12 @@
   },
   {
     "id": "prod-706",
-    "name": "Lều cắm trại Camel 4 người",
-    "slug": "leu-cam-trai-camel-4-nguoi-706",
+    "name": "Lều cắm trại Coleman 4 người",
+    "slug": "leu-cam-trai-coleman-4-nguoi-706",
     "price": 2530000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/leu-cam-trai-camel-4-nguoi-706.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/leu-cam-trai-camel-4-nguoi-706.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/leu-cam-trai-coleman-4-nguoi-706.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/leu-cam-trai-coleman-4-nguoi-706.webp",
     "description": "Lều cắm trại chống nước tốt. Dựng nhanh. Có mái hiên. Thông gió. Túi đựng gọn nhẹ. Phù hợp dã ngoại gia đình.",
     "brand": "Coleman",
     "sku": "COL-0706-CHI",
@@ -160,9 +256,9 @@
     "unit": "chiếc",
     "shortDescription": "Lều cắm trại chống nước dễ dựng có mái hiên.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/leu-cam-trai-camel-4-nguoi-706-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/leu-cam-trai-camel-4-nguoi-706-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/leu-cam-trai-camel-4-nguoi-706-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/leu-cam-trai-coleman-4-nguoi-706-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/leu-cam-trai-coleman-4-nguoi-706-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/leu-cam-trai-coleman-4-nguoi-706-c.webp"
     ],
     "specifications": {
       "Sức chứa": "2-4 người",
@@ -194,12 +290,12 @@
   },
   {
     "id": "prod-707",
-    "name": "Thảm picnic / Đệm ngồi Decathlon Plus",
-    "slug": "tham-picnic-dem-ngoi-decathlon-plus-707",
+    "name": "Thảm picnic Coleman chống thấm",
+    "slug": "tham-picnic-coleman-chong-tham-707",
     "price": 132000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/tham-picnic-dem-ngoi-decathlon-plus-707.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/tham-picnic-dem-ngoi-decathlon-plus-707.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/tham-picnic-coleman-chong-tham-707.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/tham-picnic-coleman-chong-tham-707.webp",
     "description": "Thảm picnic mặt trên mềm mặt dưới chống thấm. Gấp gọn thành túi. Kích thước đủ cho nhiều người. Dã ngoại biển công viên.",
     "brand": "Coleman",
     "sku": "COL-0707-CHI",
@@ -208,9 +304,9 @@
     "unit": "chiếc",
     "shortDescription": "Thảm picnic chống thấm gấp gọn mặt mềm.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-picnic-dem-ngoi-decathlon-plus-707-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-picnic-dem-ngoi-decathlon-plus-707-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-picnic-dem-ngoi-decathlon-plus-707-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-picnic-coleman-chong-tham-707-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-picnic-coleman-chong-tham-707-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-picnic-coleman-chong-tham-707-c.webp"
     ],
     "specifications": {
       "Kích thước": "150x200 đến 200x200cm",
@@ -242,12 +338,12 @@
   },
   {
     "id": "prod-708",
-    "name": "Đèn pin / Đèn đội đầu Xiaomi Plus",
-    "slug": "den-pin-den-doi-dau-xiaomi-plus-708",
+    "name": "Đèn pin đội đầu Fenix LED 1000lm",
+    "slug": "den-pin-doi-dau-fenix-led-1000lm-708",
     "price": 799000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/den-pin-den-doi-dau-xiaomi-plus-708.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/den-pin-den-doi-dau-xiaomi-plus-708.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/den-pin-doi-dau-fenix-led-1000lm-708.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/den-pin-doi-dau-fenix-led-1000lm-708.webp",
     "description": "Đèn pin hoặc đèn đội đầu LED độ sáng cao. Nhiều chế độ. Sạc USB. Chống nước. Pin lâu. Phù hợp dã ngoại sửa chữa.",
     "brand": "Fenix",
     "sku": "FEN-0708-CHI",
@@ -256,9 +352,9 @@
     "unit": "chiếc",
     "shortDescription": "Đèn pin hoặc đội đầu LED sáng sạc USB chống nước.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/den-pin-den-doi-dau-xiaomi-plus-708-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/den-pin-den-doi-dau-xiaomi-plus-708-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/den-pin-den-doi-dau-xiaomi-plus-708-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/den-pin-doi-dau-fenix-led-1000lm-708-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/den-pin-doi-dau-fenix-led-1000lm-708-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/den-pin-doi-dau-fenix-led-1000lm-708-c.webp"
     ],
     "specifications": {
       "Độ sáng": "200-1000 lumen",
@@ -291,12 +387,12 @@
   },
   {
     "id": "prod-709",
-    "name": "Bóng thể thao Molten đá",
-    "slug": "bong-the-thao-molten-da-709",
+    "name": "Bóng thể thao Nike số 7",
+    "slug": "bong-the-thao-nike-so-7-709",
     "price": 478000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/bong-the-thao-molten-da-709.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/bong-the-thao-molten-da-709.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/bong-the-thao-nike-so-7-709.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/bong-the-thao-nike-so-7-709.webp",
     "description": "Bóng thể thao size chuẩn. Chất liệu da PU hoặc cao su bền. Độ nảy tốt. Phù hợp thi đấu và tập luyện.",
     "brand": "Nike",
     "sku": "NIK-0709-QUẢ",
@@ -305,9 +401,9 @@
     "unit": "quả",
     "shortDescription": "Bóng đá rổ chuyền size chuẩn thi đấu hoặc tập.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/bong-the-thao-molten-da-709-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/bong-the-thao-molten-da-709-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/bong-the-thao-molten-da-709-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/bong-the-thao-nike-so-7-709-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/bong-the-thao-nike-so-7-709-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/bong-the-thao-nike-so-7-709-c.webp"
     ],
     "specifications": {
       "Môn": "Đá / Rổ / Chuyền",
@@ -339,12 +435,12 @@
   },
   {
     "id": "prod-710",
-    "name": "Balo / Túi thể thao The North Face",
-    "slug": "balo-tui-the-thao-the-north-face-710",
+    "name": "Balo thể thao The North Face leo núi",
+    "slug": "balo-the-thao-the-north-face-leo-nui-710",
     "price": 524000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/balo-tui-the-thao-the-north-face-710.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/balo-tui-the-thao-the-north-face-710.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/balo-the-thao-the-north-face-leo-nui-710.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/balo-the-thao-the-north-face-leo-nui-710.webp",
     "description": "Balo thể thao hoặc leo núi dung tích đa dạng. Đệm lưng đai hông. Chống nước nhẹ. Nhiều ngăn. Phù hợp gym dã ngoại.",
     "brand": "The North Face",
     "sku": "THE-0710-CHI",
@@ -353,9 +449,9 @@
     "unit": "chiếc",
     "shortDescription": "Balo thể thao hoặc leo núi nhiều ngăn chống nước.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/balo-tui-the-thao-the-north-face-710-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/balo-tui-the-thao-the-north-face-710-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/balo-tui-the-thao-the-north-face-710-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/balo-the-thao-the-north-face-leo-nui-710-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/balo-the-thao-the-north-face-leo-nui-710-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/balo-the-thao-the-north-face-leo-nui-710-c.webp"
     ],
     "specifications": {
       "Dung tích": "20-50L",
@@ -388,12 +484,12 @@
   },
   {
     "id": "prod-711",
-    "name": "Giày thể thao New Balance training",
-    "slug": "giay-the-thao-new-balance-training-711",
+    "name": "Giày thể thao New Balance chạy bộ",
+    "slug": "giay-the-thao-new-balance-chay-bo-711",
     "price": 3190000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/giay-the-thao-new-balance-training-711.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/giay-the-thao-new-balance-training-711.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/giay-the-thao-new-balance-chay-bo-711.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/giay-the-thao-new-balance-chay-bo-711.webp",
     "description": "Giày thể thao đệm êm giảm chấn. Upper thoáng khí. Đế bám tốt. Phù hợp chạy bộ tập gym hoặc mang hàng ngày. Nhiều size màu.",
     "brand": "New Balance",
     "sku": "NEW-0711-ĐÔI",
@@ -402,9 +498,9 @@
     "unit": "đôi",
     "shortDescription": "Giày thể thao đệm êm nhẹ thoáng khí nhiều mục đích.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/giay-the-thao-new-balance-training-711-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/giay-the-thao-new-balance-training-711-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/giay-the-thao-new-balance-training-711-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/giay-the-thao-new-balance-chay-bo-711-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/giay-the-thao-new-balance-chay-bo-711-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/giay-the-thao-new-balance-chay-bo-711-c.webp"
     ],
     "specifications": {
       "Loại": "Chạy / Training / Lifestyle",
@@ -436,12 +532,12 @@
   },
   {
     "id": "prod-712",
-    "name": "Thảm yoga / Thảm tập Liforme",
-    "slug": "tham-yoga-tham-tap-liforme-712",
+    "name": "Thảm yoga Liforme PVC 6mm",
+    "slug": "tham-yoga-liforme-pvc-6mm-712",
     "price": 1430000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/tham-yoga-tham-tap-liforme-712.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/tham-yoga-tham-tap-liforme-712.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/tham-yoga-liforme-pvc-6mm-712.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/tham-yoga-liforme-pvc-6mm-712.webp",
     "description": "Thảm yoga chất liệu TPE hoặc PVC cao cấp. Chống trượt tốt. Độ dày hỗ trợ khớp. Thân thiện môi trường. Kèm túi đựng.",
     "brand": "Liforme",
     "sku": "LIF-0712-CHI",
@@ -450,9 +546,9 @@
     "unit": "chiếc",
     "shortDescription": "Thảm yoga chống trượt dày hỗ trợ khớp thân thiện MT.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-yoga-tham-tap-liforme-712-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-yoga-tham-tap-liforme-712-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-yoga-tham-tap-liforme-712-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-yoga-liforme-pvc-6mm-712-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-yoga-liforme-pvc-6mm-712-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-yoga-liforme-pvc-6mm-712-c.webp"
     ],
     "specifications": {
       "Chất liệu": "TPE / PVC",
@@ -484,12 +580,12 @@
   },
   {
     "id": "prod-713",
-    "name": "Bình nước thể thao Nike 500ml",
-    "slug": "binh-nuoc-the-thao-nike-500ml-713",
+    "name": "Bình nước thể thao Lock&Lock giữ nhiệt 1L",
+    "slug": "binh-nuoc-the-thao-lock-and-lock-giu-nhiet-1l-713",
     "price": 233000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/binh-nuoc-the-thao-nike-500ml-713.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/binh-nuoc-the-thao-nike-500ml-713.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/binh-nuoc-the-thao-lock-and-lock-giu-nhiet-1l-713.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/binh-nuoc-the-thao-lock-and-lock-giu-nhiet-1l-713.webp",
     "description": "Bình nước thể thao giữ nhiệt hoặc nhựa an toàn. Nắp tiện lợi một tay. Dung tích phù hợp tập luyện. Dễ vệ sinh.",
     "brand": "Lock&Lock",
     "sku": "LOC-0713-CHI",
@@ -498,9 +594,9 @@
     "unit": "chiếc",
     "shortDescription": "Bình nước thể thao giữ nhiệt hoặc nhựa BPA free.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/binh-nuoc-the-thao-nike-500ml-713-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/binh-nuoc-the-thao-nike-500ml-713-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/binh-nuoc-the-thao-nike-500ml-713-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/binh-nuoc-the-thao-lock-and-lock-giu-nhiet-1l-713-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/binh-nuoc-the-thao-lock-and-lock-giu-nhiet-1l-713-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/binh-nuoc-the-thao-lock-and-lock-giu-nhiet-1l-713-c.webp"
     ],
     "specifications": {
       "Dung tích": "500ml-1L",
@@ -526,18 +622,19 @@
       "bình nước",
       "thể thao",
       "giữ nhiệt",
-      "locklock"
+      "locklock",
+      "lock-and-lock"
     ],
     "createdAt": "2026-05-15T00:00:00.000Z"
   },
   {
     "id": "prod-714",
-    "name": "Áo thể thao Puma",
-    "slug": "ao-the-thao-puma-714",
+    "name": "Áo thể thao Puma nam",
+    "slug": "ao-the-thao-puma-nam-714",
     "price": 577000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/ao-the-thao-puma-714.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/ao-the-thao-puma-714.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/ao-the-thao-puma-nam-714.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/ao-the-thao-puma-nam-714.webp",
     "description": "Áo thể thao công nghệ thấm hút thoát mồ hôi. Co giãn 4 chiều. Form vừa hoặc ôm. Phù hợp tập luyện mọi môn.",
     "brand": "Puma",
     "sku": "PUM-0714-CHI",
@@ -546,9 +643,9 @@
     "unit": "chiếc",
     "shortDescription": "Áo thể thao thấm hút mồ hôi nhanh co giãn thoải mái.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/ao-the-thao-puma-714-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/ao-the-thao-puma-714-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/ao-the-thao-puma-714-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/ao-the-thao-puma-nam-714-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/ao-the-thao-puma-nam-714-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/ao-the-thao-puma-nam-714-c.webp"
     ],
     "specifications": {
       "Chất liệu": "Polyester / Co giãn",
@@ -580,12 +677,12 @@
   },
   {
     "id": "prod-715",
-    "name": "Vợt cầu lông / Tennis Wilson limited",
-    "slug": "vot-cau-long-tennis-wilson-limited-715",
+    "name": "Vợt thể thao Lining tennis",
+    "slug": "vot-the-thao-lining-tennis-715",
     "price": 864000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/vot-cau-long-tennis-wilson-limited-715.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/vot-cau-long-tennis-wilson-limited-715.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/vot-the-thao-lining-tennis-715.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/vot-the-thao-lining-tennis-715.webp",
     "description": "Vợt khung carbon hoặc hợp kim nhẹ. Cân bằng phù hợp nhiều lối đánh. Đã căng dây hoặc chưa. Phù hợp người mới đến nâng cao.",
     "brand": "Lining",
     "sku": "LIN-0715-CHI",
@@ -594,9 +691,9 @@
     "unit": "chiếc",
     "shortDescription": "Vợt cầu lông hoặc tennis khung carbon nhẹ linh hoạt.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/vot-cau-long-tennis-wilson-limited-715-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/vot-cau-long-tennis-wilson-limited-715-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/vot-cau-long-tennis-wilson-limited-715-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/vot-the-thao-lining-tennis-715-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/vot-the-thao-lining-tennis-715-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/vot-the-thao-lining-tennis-715-c.webp"
     ],
     "specifications": {
       "Môn": "Cầu lông / Tennis",
@@ -629,12 +726,12 @@
   },
   {
     "id": "prod-716",
-    "name": "Lều cắm trại Decathlon 4 người Plus",
-    "slug": "leu-cam-trai-decathlon-4-nguoi-plus-716",
+    "name": "Lều cắm trại Naturehike chống nước",
+    "slug": "leu-cam-trai-naturehike-chong-nuoc-716",
     "price": 1330000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/leu-cam-trai-decathlon-4-nguoi-plus-716.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/leu-cam-trai-decathlon-4-nguoi-plus-716.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/leu-cam-trai-naturehike-chong-nuoc-716.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/leu-cam-trai-naturehike-chong-nuoc-716.webp",
     "description": "Lều cắm trại chống nước tốt. Dựng nhanh. Có mái hiên. Thông gió. Túi đựng gọn nhẹ. Phù hợp dã ngoại gia đình.",
     "brand": "Naturehike",
     "sku": "NAT-0716-CHI",
@@ -643,9 +740,9 @@
     "unit": "chiếc",
     "shortDescription": "Lều cắm trại chống nước dễ dựng có mái hiên.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/leu-cam-trai-decathlon-4-nguoi-plus-716-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/leu-cam-trai-decathlon-4-nguoi-plus-716-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/leu-cam-trai-decathlon-4-nguoi-plus-716-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/leu-cam-trai-naturehike-chong-nuoc-716-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/leu-cam-trai-naturehike-chong-nuoc-716-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/leu-cam-trai-naturehike-chong-nuoc-716-c.webp"
     ],
     "specifications": {
       "Sức chứa": "2-4 người",
@@ -677,12 +774,12 @@
   },
   {
     "id": "prod-717",
-    "name": "Thảm picnic / Đệm ngồi Decathlon Plus",
-    "slug": "tham-picnic-dem-ngoi-decathlon-plus-717",
+    "name": "Thảm picnic Outway 2x2m",
+    "slug": "tham-picnic-outway-2x2m-717",
     "price": 207000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/tham-picnic-dem-ngoi-decathlon-plus-717.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/tham-picnic-dem-ngoi-decathlon-plus-717.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/tham-picnic-outway-2x2m-717.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/tham-picnic-outway-2x2m-717.webp",
     "description": "Thảm picnic mặt trên mềm mặt dưới chống thấm. Gấp gọn thành túi. Kích thước đủ cho nhiều người. Dã ngoại biển công viên.",
     "brand": "Outway",
     "sku": "OUT-0717-CHI",
@@ -691,9 +788,9 @@
     "unit": "chiếc",
     "shortDescription": "Thảm picnic chống thấm gấp gọn mặt mềm.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-picnic-dem-ngoi-decathlon-plus-717-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-picnic-dem-ngoi-decathlon-plus-717-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-picnic-dem-ngoi-decathlon-plus-717-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-picnic-outway-2x2m-717-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-picnic-outway-2x2m-717-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-picnic-outway-2x2m-717-c.webp"
     ],
     "specifications": {
       "Kích thước": "150x200 đến 200x200cm",
@@ -725,12 +822,12 @@
   },
   {
     "id": "prod-718",
-    "name": "Đèn pin / Đèn đội đầu Nitecore",
-    "slug": "den-pin-den-doi-dau-nitecore-718",
+    "name": "Đèn pin đội đầu Decathlon sạc USB",
+    "slug": "den-pin-doi-dau-decathlon-sac-usb-718",
     "price": 191000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/den-pin-den-doi-dau-nitecore-718.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/den-pin-den-doi-dau-nitecore-718.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/den-pin-doi-dau-decathlon-sac-usb-718.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/den-pin-doi-dau-decathlon-sac-usb-718.webp",
     "description": "Đèn pin hoặc đèn đội đầu LED độ sáng cao. Nhiều chế độ. Sạc USB. Chống nước. Pin lâu. Phù hợp dã ngoại sửa chữa.",
     "brand": "Decathlon",
     "sku": "DEC-0718-CHI",
@@ -739,9 +836,9 @@
     "unit": "chiếc",
     "shortDescription": "Đèn pin hoặc đội đầu LED sáng sạc USB chống nước.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/den-pin-den-doi-dau-nitecore-718-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/den-pin-den-doi-dau-nitecore-718-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/den-pin-den-doi-dau-nitecore-718-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/den-pin-doi-dau-decathlon-sac-usb-718-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/den-pin-doi-dau-decathlon-sac-usb-718-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/den-pin-doi-dau-decathlon-sac-usb-718-c.webp"
     ],
     "specifications": {
       "Độ sáng": "200-1000 lumen",
@@ -774,12 +871,12 @@
   },
   {
     "id": "prod-719",
-    "name": "Bóng thể thao Mikasa đá Pro",
-    "slug": "bong-the-thao-mikasa-da-pro-719",
+    "name": "Bóng thể thao Molten rổ size 7",
+    "slug": "bong-the-thao-molten-ro-size-7-719",
     "price": 172000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/bong-the-thao-mikasa-da-pro-719.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/bong-the-thao-mikasa-da-pro-719.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/bong-the-thao-molten-ro-size-7-719.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/bong-the-thao-molten-ro-size-7-719.webp",
     "description": "Bóng thể thao size chuẩn. Chất liệu da PU hoặc cao su bền. Độ nảy tốt. Phù hợp thi đấu và tập luyện.",
     "brand": "Molten",
     "sku": "MOL-0719-QUẢ",
@@ -788,9 +885,9 @@
     "unit": "quả",
     "shortDescription": "Bóng đá rổ chuyền size chuẩn thi đấu hoặc tập.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/bong-the-thao-mikasa-da-pro-719-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/bong-the-thao-mikasa-da-pro-719-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/bong-the-thao-mikasa-da-pro-719-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/bong-the-thao-molten-ro-size-7-719-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/bong-the-thao-molten-ro-size-7-719-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/bong-the-thao-molten-ro-size-7-719-c.webp"
     ],
     "specifications": {
       "Môn": "Đá / Rổ / Chuyền",
@@ -822,12 +919,12 @@
   },
   {
     "id": "prod-720",
-    "name": "Balo / Túi thể thao Adidas",
-    "slug": "balo-tui-the-thao-adidas-720",
+    "name": "Balo thể thao Nike 30L",
+    "slug": "balo-the-thao-nike-30l-720",
     "price": 2500000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/balo-tui-the-thao-adidas-720.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/balo-tui-the-thao-adidas-720.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/balo-the-thao-nike-30l-720.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/balo-the-thao-nike-30l-720.webp",
     "description": "Balo thể thao hoặc leo núi dung tích đa dạng. Đệm lưng đai hông. Chống nước nhẹ. Nhiều ngăn. Phù hợp gym dã ngoại.",
     "brand": "Nike",
     "sku": "NIK-0720-CHI",
@@ -836,9 +933,9 @@
     "unit": "chiếc",
     "shortDescription": "Balo thể thao hoặc leo núi nhiều ngăn chống nước.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/balo-tui-the-thao-adidas-720-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/balo-tui-the-thao-adidas-720-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/balo-tui-the-thao-adidas-720-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/balo-the-thao-nike-30l-720-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/balo-the-thao-nike-30l-720-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/balo-the-thao-nike-30l-720-c.webp"
     ],
     "specifications": {
       "Dung tích": "20-50L",
@@ -871,12 +968,12 @@
   },
   {
     "id": "prod-721",
-    "name": "Giày thể thao New Balance lifestyle 2026",
-    "slug": "giay-the-thao-new-balance-lifestyle-2026-721",
+    "name": "Giày thể thao New Balance tập gym",
+    "slug": "giay-the-thao-new-balance-tap-gym-721",
     "price": 3260000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/giay-the-thao-new-balance-lifestyle-2026-721.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/giay-the-thao-new-balance-lifestyle-2026-721.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/giay-the-thao-new-balance-tap-gym-721.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/giay-the-thao-new-balance-tap-gym-721.webp",
     "description": "Giày thể thao đệm êm giảm chấn. Upper thoáng khí. Đế bám tốt. Phù hợp chạy bộ tập gym hoặc mang hàng ngày. Nhiều size màu.",
     "brand": "New Balance",
     "sku": "NEW-0721-ĐÔI",
@@ -885,9 +982,9 @@
     "unit": "đôi",
     "shortDescription": "Giày thể thao đệm êm nhẹ thoáng khí nhiều mục đích.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/giay-the-thao-new-balance-lifestyle-2026-721-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/giay-the-thao-new-balance-lifestyle-2026-721-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/giay-the-thao-new-balance-lifestyle-2026-721-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/giay-the-thao-new-balance-tap-gym-721-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/giay-the-thao-new-balance-tap-gym-721-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/giay-the-thao-new-balance-tap-gym-721-c.webp"
     ],
     "specifications": {
       "Loại": "Chạy / Training / Lifestyle",
@@ -919,12 +1016,12 @@
   },
   {
     "id": "prod-722",
-    "name": "Thảm yoga / Thảm tập Decathlon",
-    "slug": "tham-yoga-tham-tap-decathlon-722",
+    "name": "Thảm yoga Xiaomi cao su tự nhiên",
+    "slug": "tham-yoga-xiaomi-cao-su-tu-nhien-722",
     "price": 1410000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/tham-yoga-tham-tap-decathlon-722.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/tham-yoga-tham-tap-decathlon-722.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/tham-yoga-xiaomi-cao-su-tu-nhien-722.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/tham-yoga-xiaomi-cao-su-tu-nhien-722.webp",
     "description": "Thảm yoga chất liệu TPE hoặc PVC cao cấp. Chống trượt tốt. Độ dày hỗ trợ khớp. Thân thiện môi trường. Kèm túi đựng.",
     "brand": "Xiaomi",
     "sku": "XIA-0722-CHI",
@@ -933,9 +1030,9 @@
     "unit": "chiếc",
     "shortDescription": "Thảm yoga chống trượt dày hỗ trợ khớp thân thiện MT.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-yoga-tham-tap-decathlon-722-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-yoga-tham-tap-decathlon-722-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-yoga-tham-tap-decathlon-722-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-yoga-xiaomi-cao-su-tu-nhien-722-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-yoga-xiaomi-cao-su-tu-nhien-722-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-yoga-xiaomi-cao-su-tu-nhien-722-c.webp"
     ],
     "specifications": {
       "Chất liệu": "TPE / PVC",
@@ -967,12 +1064,12 @@
   },
   {
     "id": "prod-723",
-    "name": "Bình nước thể thao Contigo 750ml",
-    "slug": "binh-nuoc-the-thao-contigo-750ml-723",
+    "name": "Bình nước thể thao Hydro Flask 750ml",
+    "slug": "binh-nuoc-the-thao-hydro-flask-750ml-723",
     "price": 287000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/binh-nuoc-the-thao-contigo-750ml-723.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/binh-nuoc-the-thao-contigo-750ml-723.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/binh-nuoc-the-thao-hydro-flask-750ml-723.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/binh-nuoc-the-thao-hydro-flask-750ml-723.webp",
     "description": "Bình nước thể thao giữ nhiệt hoặc nhựa an toàn. Nắp tiện lợi một tay. Dung tích phù hợp tập luyện. Dễ vệ sinh.",
     "brand": "Hydro Flask",
     "sku": "HYD-0723-CHI",
@@ -981,9 +1078,9 @@
     "unit": "chiếc",
     "shortDescription": "Bình nước thể thao giữ nhiệt hoặc nhựa BPA free.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/binh-nuoc-the-thao-contigo-750ml-723-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/binh-nuoc-the-thao-contigo-750ml-723-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/binh-nuoc-the-thao-contigo-750ml-723-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/binh-nuoc-the-thao-hydro-flask-750ml-723-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/binh-nuoc-the-thao-hydro-flask-750ml-723-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/binh-nuoc-the-thao-hydro-flask-750ml-723-c.webp"
     ],
     "specifications": {
       "Dung tích": "500ml-1L",
@@ -1015,12 +1112,12 @@
   },
   {
     "id": "prod-724",
-    "name": "Áo thể thao Decathlon",
-    "slug": "ao-the-thao-decathlon-724",
+    "name": "Áo thể thao Nike nữ",
+    "slug": "ao-the-thao-nike-nu-724",
     "price": 420000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/ao-the-thao-decathlon-724.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/ao-the-thao-decathlon-724.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/ao-the-thao-nike-nu-724.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/ao-the-thao-nike-nu-724.webp",
     "description": "Áo thể thao công nghệ thấm hút thoát mồ hôi. Co giãn 4 chiều. Form vừa hoặc ôm. Phù hợp tập luyện mọi môn.",
     "brand": "Nike",
     "sku": "NIK-0724-CHI",
@@ -1029,9 +1126,9 @@
     "unit": "chiếc",
     "shortDescription": "Áo thể thao thấm hút mồ hôi nhanh co giãn thoải mái.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/ao-the-thao-decathlon-724-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/ao-the-thao-decathlon-724-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/ao-the-thao-decathlon-724-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/ao-the-thao-nike-nu-724-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/ao-the-thao-nike-nu-724-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/ao-the-thao-nike-nu-724-c.webp"
     ],
     "specifications": {
       "Chất liệu": "Polyester / Co giãn",
@@ -1063,12 +1160,12 @@
   },
   {
     "id": "prod-725",
-    "name": "Vợt cầu lông / Tennis Victor cao cấp",
-    "slug": "vot-cau-long-tennis-victor-cao-cap-725",
+    "name": "Vợt thể thao Lining tennis",
+    "slug": "vot-the-thao-lining-tennis-725",
     "price": 995000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/vot-cau-long-tennis-victor-cao-cap-725.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/vot-cau-long-tennis-victor-cao-cap-725.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/vot-the-thao-lining-tennis-725.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/vot-the-thao-lining-tennis-725.webp",
     "description": "Vợt khung carbon hoặc hợp kim nhẹ. Cân bằng phù hợp nhiều lối đánh. Đã căng dây hoặc chưa. Phù hợp người mới đến nâng cao.",
     "brand": "Lining",
     "sku": "LIN-0725-CHI",
@@ -1077,9 +1174,9 @@
     "unit": "chiếc",
     "shortDescription": "Vợt cầu lông hoặc tennis khung carbon nhẹ linh hoạt.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/vot-cau-long-tennis-victor-cao-cap-725-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/vot-cau-long-tennis-victor-cao-cap-725-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/vot-cau-long-tennis-victor-cao-cap-725-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/vot-the-thao-lining-tennis-725-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/vot-the-thao-lining-tennis-725-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/vot-the-thao-lining-tennis-725-c.webp"
     ],
     "specifications": {
       "Môn": "Cầu lông / Tennis",
@@ -1112,12 +1209,12 @@
   },
   {
     "id": "prod-726",
-    "name": "Lều cắm trại Camel 3 người",
-    "slug": "leu-cam-trai-camel-3-nguoi-726",
+    "name": "Lều cắm trại Decathlon 2 người",
+    "slug": "leu-cam-trai-decathlon-2-nguoi-726",
     "price": 2040000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/leu-cam-trai-camel-3-nguoi-726.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/leu-cam-trai-camel-3-nguoi-726.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/leu-cam-trai-decathlon-2-nguoi-726.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/leu-cam-trai-decathlon-2-nguoi-726.webp",
     "description": "Lều cắm trại chống nước tốt. Dựng nhanh. Có mái hiên. Thông gió. Túi đựng gọn nhẹ. Phù hợp dã ngoại gia đình.",
     "brand": "Decathlon",
     "sku": "DEC-0726-CHI",
@@ -1126,9 +1223,9 @@
     "unit": "chiếc",
     "shortDescription": "Lều cắm trại chống nước dễ dựng có mái hiên.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/leu-cam-trai-camel-3-nguoi-726-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/leu-cam-trai-camel-3-nguoi-726-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/leu-cam-trai-camel-3-nguoi-726-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/leu-cam-trai-decathlon-2-nguoi-726-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/leu-cam-trai-decathlon-2-nguoi-726-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/leu-cam-trai-decathlon-2-nguoi-726-c.webp"
     ],
     "specifications": {
       "Sức chứa": "2-4 người",
@@ -1160,12 +1257,12 @@
   },
   {
     "id": "prod-727",
-    "name": "Thảm picnic / Đệm ngồi Naturehike",
-    "slug": "tham-picnic-dem-ngoi-naturehike-727",
+    "name": "Thảm picnic Decathlon 1.5x2m",
+    "slug": "tham-picnic-decathlon-15x2m-727",
     "price": 151000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/tham-picnic-dem-ngoi-naturehike-727.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/tham-picnic-dem-ngoi-naturehike-727.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/tham-picnic-decathlon-15x2m-727.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/tham-picnic-decathlon-15x2m-727.webp",
     "description": "Thảm picnic mặt trên mềm mặt dưới chống thấm. Gấp gọn thành túi. Kích thước đủ cho nhiều người. Dã ngoại biển công viên.",
     "brand": "Decathlon",
     "sku": "DEC-0727-CHI",
@@ -1174,9 +1271,9 @@
     "unit": "chiếc",
     "shortDescription": "Thảm picnic chống thấm gấp gọn mặt mềm.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-picnic-dem-ngoi-naturehike-727-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-picnic-dem-ngoi-naturehike-727-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-picnic-dem-ngoi-naturehike-727-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-picnic-decathlon-15x2m-727-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-picnic-decathlon-15x2m-727-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-picnic-decathlon-15x2m-727-c.webp"
     ],
     "specifications": {
       "Kích thước": "150x200 đến 200x200cm",
@@ -1208,12 +1305,12 @@
   },
   {
     "id": "prod-728",
-    "name": "Đèn pin / Đèn đội đầu Anker",
-    "slug": "den-pin-den-doi-dau-anker-728",
+    "name": "Đèn pin đội đầu Anker đội đầu",
+    "slug": "den-pin-doi-dau-anker-doi-dau-728",
     "price": 647000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/den-pin-den-doi-dau-anker-728.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/den-pin-den-doi-dau-anker-728.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/den-pin-doi-dau-anker-doi-dau-728.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/den-pin-doi-dau-anker-doi-dau-728.webp",
     "description": "Đèn pin hoặc đèn đội đầu LED độ sáng cao. Nhiều chế độ. Sạc USB. Chống nước. Pin lâu. Phù hợp dã ngoại sửa chữa.",
     "brand": "Anker",
     "sku": "ANK-0728-CHI",
@@ -1222,9 +1319,9 @@
     "unit": "chiếc",
     "shortDescription": "Đèn pin hoặc đội đầu LED sáng sạc USB chống nước.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/den-pin-den-doi-dau-anker-728-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/den-pin-den-doi-dau-anker-728-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/den-pin-den-doi-dau-anker-728-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/den-pin-doi-dau-anker-doi-dau-728-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/den-pin-doi-dau-anker-doi-dau-728-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/den-pin-doi-dau-anker-doi-dau-728-c.webp"
     ],
     "specifications": {
       "Độ sáng": "200-1000 lumen",
@@ -1257,12 +1354,12 @@
   },
   {
     "id": "prod-729",
-    "name": "Bóng thể thao Molten rổ",
-    "slug": "bong-the-thao-molten-ro-729",
+    "name": "Bóng thể thao Mikasa số 5",
+    "slug": "bong-the-thao-mikasa-so-5-729",
     "price": 567000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/bong-the-thao-molten-ro-729.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/bong-the-thao-molten-ro-729.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/bong-the-thao-mikasa-so-5-729.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/bong-the-thao-mikasa-so-5-729.webp",
     "description": "Bóng thể thao size chuẩn. Chất liệu da PU hoặc cao su bền. Độ nảy tốt. Phù hợp thi đấu và tập luyện.",
     "brand": "Mikasa",
     "sku": "MIK-0729-QUẢ",
@@ -1271,9 +1368,9 @@
     "unit": "quả",
     "shortDescription": "Bóng đá rổ chuyền size chuẩn thi đấu hoặc tập.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/bong-the-thao-molten-ro-729-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/bong-the-thao-molten-ro-729-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/bong-the-thao-molten-ro-729-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/bong-the-thao-mikasa-so-5-729-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/bong-the-thao-mikasa-so-5-729-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/bong-the-thao-mikasa-so-5-729-c.webp"
     ],
     "specifications": {
       "Môn": "Đá / Rổ / Chuyền",
@@ -1305,12 +1402,12 @@
   },
   {
     "id": "prod-730",
-    "name": "Balo / Túi thể thao Decathlon",
-    "slug": "balo-tui-the-thao-decathlon-730",
+    "name": "Balo thể thao Adidas 40L",
+    "slug": "balo-the-thao-adidas-40l-730",
     "price": 650000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/balo-tui-the-thao-decathlon-730.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/balo-tui-the-thao-decathlon-730.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/balo-the-thao-adidas-40l-730.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/balo-the-thao-adidas-40l-730.webp",
     "description": "Balo thể thao hoặc leo núi dung tích đa dạng. Đệm lưng đai hông. Chống nước nhẹ. Nhiều ngăn. Phù hợp gym dã ngoại.",
     "brand": "Adidas",
     "sku": "ADI-0730-CHI",
@@ -1319,9 +1416,9 @@
     "unit": "chiếc",
     "shortDescription": "Balo thể thao hoặc leo núi nhiều ngăn chống nước.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/balo-tui-the-thao-decathlon-730-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/balo-tui-the-thao-decathlon-730-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/balo-tui-the-thao-decathlon-730-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/balo-the-thao-adidas-40l-730-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/balo-the-thao-adidas-40l-730-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/balo-the-thao-adidas-40l-730-c.webp"
     ],
     "specifications": {
       "Dung tích": "20-50L",
@@ -1354,12 +1451,12 @@
   },
   {
     "id": "prod-731",
-    "name": "Giày thể thao Adidas lifestyle",
-    "slug": "giay-the-thao-adidas-lifestyle-731",
+    "name": "Giày thể thao Puma lifestyle",
+    "slug": "giay-the-thao-puma-lifestyle-731",
     "price": 631000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/giay-the-thao-adidas-lifestyle-731.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/giay-the-thao-adidas-lifestyle-731.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/giay-the-thao-puma-lifestyle-731.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/giay-the-thao-puma-lifestyle-731.webp",
     "description": "Giày thể thao đệm êm giảm chấn. Upper thoáng khí. Đế bám tốt. Phù hợp chạy bộ tập gym hoặc mang hàng ngày. Nhiều size màu.",
     "brand": "Puma",
     "sku": "PUM-0731-ĐÔI",
@@ -1368,9 +1465,9 @@
     "unit": "đôi",
     "shortDescription": "Giày thể thao đệm êm nhẹ thoáng khí nhiều mục đích.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/giay-the-thao-adidas-lifestyle-731-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/giay-the-thao-adidas-lifestyle-731-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/giay-the-thao-adidas-lifestyle-731-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/giay-the-thao-puma-lifestyle-731-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/giay-the-thao-puma-lifestyle-731-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/giay-the-thao-puma-lifestyle-731-c.webp"
     ],
     "specifications": {
       "Loại": "Chạy / Training / Lifestyle",
@@ -1402,12 +1499,12 @@
   },
   {
     "id": "prod-732",
-    "name": "Thảm yoga / Thảm tập Xiaomi",
-    "slug": "tham-yoga-tham-tap-xiaomi-732",
+    "name": "Thảm yoga Manduka TPE 8mm",
+    "slug": "tham-yoga-manduka-tpe-8mm-732",
     "price": 512000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/tham-yoga-tham-tap-xiaomi-732.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/tham-yoga-tham-tap-xiaomi-732.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/tham-yoga-manduka-tpe-8mm-732.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/tham-yoga-manduka-tpe-8mm-732.webp",
     "description": "Thảm yoga chất liệu TPE hoặc PVC cao cấp. Chống trượt tốt. Độ dày hỗ trợ khớp. Thân thiện môi trường. Kèm túi đựng.",
     "brand": "Manduka",
     "sku": "MAN-0732-CHI",
@@ -1416,9 +1513,9 @@
     "unit": "chiếc",
     "shortDescription": "Thảm yoga chống trượt dày hỗ trợ khớp thân thiện MT.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-yoga-tham-tap-xiaomi-732-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-yoga-tham-tap-xiaomi-732-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-yoga-tham-tap-xiaomi-732-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-yoga-manduka-tpe-8mm-732-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-yoga-manduka-tpe-8mm-732-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-yoga-manduka-tpe-8mm-732-c.webp"
     ],
     "specifications": {
       "Chất liệu": "TPE / PVC",
@@ -1450,12 +1547,12 @@
   },
   {
     "id": "prod-733",
-    "name": "Bình nước thể thao Hydro Flask 500ml",
-    "slug": "binh-nuoc-the-thao-hydro-flask-500ml-733",
+    "name": "Bình nước thể thao Nike 500ml",
+    "slug": "binh-nuoc-the-thao-nike-500ml-733",
     "price": 597000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/binh-nuoc-the-thao-hydro-flask-500ml-733.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/binh-nuoc-the-thao-hydro-flask-500ml-733.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/binh-nuoc-the-thao-nike-500ml-733.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/binh-nuoc-the-thao-nike-500ml-733.webp",
     "description": "Bình nước thể thao giữ nhiệt hoặc nhựa an toàn. Nắp tiện lợi một tay. Dung tích phù hợp tập luyện. Dễ vệ sinh.",
     "brand": "Nike",
     "sku": "NIK-0733-CHI",
@@ -1464,9 +1561,9 @@
     "unit": "chiếc",
     "shortDescription": "Bình nước thể thao giữ nhiệt hoặc nhựa BPA free.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/binh-nuoc-the-thao-hydro-flask-500ml-733-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/binh-nuoc-the-thao-hydro-flask-500ml-733-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/binh-nuoc-the-thao-hydro-flask-500ml-733-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/binh-nuoc-the-thao-nike-500ml-733-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/binh-nuoc-the-thao-nike-500ml-733-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/binh-nuoc-the-thao-nike-500ml-733-c.webp"
     ],
     "specifications": {
       "Dung tích": "500ml-1L",
@@ -1498,12 +1595,12 @@
   },
   {
     "id": "prod-734",
-    "name": "Áo thể thao Decathlon",
-    "slug": "ao-the-thao-decathlon-734",
+    "name": "Áo thể thao Nike dri-fit",
+    "slug": "ao-the-thao-nike-dri-fit-734",
     "price": 399000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/ao-the-thao-decathlon-734.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/ao-the-thao-decathlon-734.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/ao-the-thao-nike-dri-fit-734.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/ao-the-thao-nike-dri-fit-734.webp",
     "description": "Áo thể thao công nghệ thấm hút thoát mồ hôi. Co giãn 4 chiều. Form vừa hoặc ôm. Phù hợp tập luyện mọi môn.",
     "brand": "Nike",
     "sku": "NIK-0734-CHI",
@@ -1512,9 +1609,9 @@
     "unit": "chiếc",
     "shortDescription": "Áo thể thao thấm hút mồ hôi nhanh co giãn thoải mái.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/ao-the-thao-decathlon-734-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/ao-the-thao-decathlon-734-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/ao-the-thao-decathlon-734-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/ao-the-thao-nike-dri-fit-734-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/ao-the-thao-nike-dri-fit-734-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/ao-the-thao-nike-dri-fit-734-c.webp"
     ],
     "specifications": {
       "Chất liệu": "Polyester / Co giãn",
@@ -1546,12 +1643,12 @@
   },
   {
     "id": "prod-735",
-    "name": "Vợt cầu lông / Tennis Lining Max",
-    "slug": "vot-cau-long-tennis-lining-max-735",
+    "name": "Vợt thể thao Wilson tennis",
+    "slug": "vot-the-thao-wilson-tennis-735",
     "price": 1610000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/vot-cau-long-tennis-lining-max-735.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/vot-cau-long-tennis-lining-max-735.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/vot-the-thao-wilson-tennis-735.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/vot-the-thao-wilson-tennis-735.webp",
     "description": "Vợt khung carbon hoặc hợp kim nhẹ. Cân bằng phù hợp nhiều lối đánh. Đã căng dây hoặc chưa. Phù hợp người mới đến nâng cao.",
     "brand": "Wilson",
     "sku": "WIL-0735-CHI",
@@ -1560,9 +1657,9 @@
     "unit": "chiếc",
     "shortDescription": "Vợt cầu lông hoặc tennis khung carbon nhẹ linh hoạt.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/vot-cau-long-tennis-lining-max-735-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/vot-cau-long-tennis-lining-max-735-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/vot-cau-long-tennis-lining-max-735-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/vot-the-thao-wilson-tennis-735-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/vot-the-thao-wilson-tennis-735-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/vot-the-thao-wilson-tennis-735-c.webp"
     ],
     "specifications": {
       "Môn": "Cầu lông / Tennis",
@@ -1595,12 +1692,12 @@
   },
   {
     "id": "prod-736",
-    "name": "Lều cắm trại Decathlon 3 người",
-    "slug": "leu-cam-trai-decathlon-3-nguoi-736",
+    "name": "Lều cắm trại Camel 4 người",
+    "slug": "leu-cam-trai-camel-4-nguoi-736",
     "price": 1560000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/leu-cam-trai-decathlon-3-nguoi-736.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/leu-cam-trai-decathlon-3-nguoi-736.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/leu-cam-trai-camel-4-nguoi-736.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/leu-cam-trai-camel-4-nguoi-736.webp",
     "description": "Lều cắm trại chống nước tốt. Dựng nhanh. Có mái hiên. Thông gió. Túi đựng gọn nhẹ. Phù hợp dã ngoại gia đình.",
     "brand": "Camel",
     "sku": "CAM-0736-CHI",
@@ -1609,9 +1706,9 @@
     "unit": "chiếc",
     "shortDescription": "Lều cắm trại chống nước dễ dựng có mái hiên.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/leu-cam-trai-decathlon-3-nguoi-736-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/leu-cam-trai-decathlon-3-nguoi-736-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/leu-cam-trai-decathlon-3-nguoi-736-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/leu-cam-trai-camel-4-nguoi-736-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/leu-cam-trai-camel-4-nguoi-736-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/leu-cam-trai-camel-4-nguoi-736-c.webp"
     ],
     "specifications": {
       "Sức chứa": "2-4 người",
@@ -1643,12 +1740,12 @@
   },
   {
     "id": "prod-737",
-    "name": "Thảm picnic / Đệm ngồi Outway",
-    "slug": "tham-picnic-dem-ngoi-outway-737",
+    "name": "Thảm picnic Decathlon chống thấm",
+    "slug": "tham-picnic-decathlon-chong-tham-737",
     "price": 375000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/tham-picnic-dem-ngoi-outway-737.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/tham-picnic-dem-ngoi-outway-737.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/tham-picnic-decathlon-chong-tham-737.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/tham-picnic-decathlon-chong-tham-737.webp",
     "description": "Thảm picnic mặt trên mềm mặt dưới chống thấm. Gấp gọn thành túi. Kích thước đủ cho nhiều người. Dã ngoại biển công viên.",
     "brand": "Decathlon",
     "sku": "DEC-0737-CHI",
@@ -1657,9 +1754,9 @@
     "unit": "chiếc",
     "shortDescription": "Thảm picnic chống thấm gấp gọn mặt mềm.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-picnic-dem-ngoi-outway-737-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-picnic-dem-ngoi-outway-737-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-picnic-dem-ngoi-outway-737-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-picnic-decathlon-chong-tham-737-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-picnic-decathlon-chong-tham-737-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-picnic-decathlon-chong-tham-737-c.webp"
     ],
     "specifications": {
       "Kích thước": "150x200 đến 200x200cm",
@@ -1691,12 +1788,12 @@
   },
   {
     "id": "prod-738",
-    "name": "Đèn pin / Đèn đội đầu Xiaomi Pro",
-    "slug": "den-pin-den-doi-dau-xiaomi-pro-738",
+    "name": "Đèn pin đội đầu Xiaomi LED 1000lm",
+    "slug": "den-pin-doi-dau-xiaomi-led-1000lm-738",
     "price": 1380000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/den-pin-den-doi-dau-xiaomi-pro-738.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/den-pin-den-doi-dau-xiaomi-pro-738.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/den-pin-doi-dau-xiaomi-led-1000lm-738.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/den-pin-doi-dau-xiaomi-led-1000lm-738.webp",
     "description": "Đèn pin hoặc đèn đội đầu LED độ sáng cao. Nhiều chế độ. Sạc USB. Chống nước. Pin lâu. Phù hợp dã ngoại sửa chữa.",
     "brand": "Xiaomi",
     "sku": "XIA-0738-CHI",
@@ -1705,9 +1802,9 @@
     "unit": "chiếc",
     "shortDescription": "Đèn pin hoặc đội đầu LED sáng sạc USB chống nước.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/den-pin-den-doi-dau-xiaomi-pro-738-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/den-pin-den-doi-dau-xiaomi-pro-738-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/den-pin-den-doi-dau-xiaomi-pro-738-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/den-pin-doi-dau-xiaomi-led-1000lm-738-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/den-pin-doi-dau-xiaomi-led-1000lm-738-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/den-pin-doi-dau-xiaomi-led-1000lm-738-c.webp"
     ],
     "specifications": {
       "Độ sáng": "200-1000 lumen",
@@ -1740,12 +1837,12 @@
   },
   {
     "id": "prod-739",
-    "name": "Bóng thể thao Decathlon đá",
-    "slug": "bong-the-thao-decathlon-da-739",
+    "name": "Bóng thể thao Mikasa số 7",
+    "slug": "bong-the-thao-mikasa-so-7-739",
     "price": 316000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/bong-the-thao-decathlon-da-739.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/bong-the-thao-decathlon-da-739.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/bong-the-thao-mikasa-so-7-739.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/bong-the-thao-mikasa-so-7-739.webp",
     "description": "Bóng thể thao size chuẩn. Chất liệu da PU hoặc cao su bền. Độ nảy tốt. Phù hợp thi đấu và tập luyện.",
     "brand": "Mikasa",
     "sku": "MIK-0739-QUẢ",
@@ -1754,9 +1851,9 @@
     "unit": "quả",
     "shortDescription": "Bóng đá rổ chuyền size chuẩn thi đấu hoặc tập.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/bong-the-thao-decathlon-da-739-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/bong-the-thao-decathlon-da-739-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/bong-the-thao-decathlon-da-739-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/bong-the-thao-mikasa-so-7-739-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/bong-the-thao-mikasa-so-7-739-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/bong-the-thao-mikasa-so-7-739-c.webp"
     ],
     "specifications": {
       "Môn": "Đá / Rổ / Chuyền",
@@ -1788,12 +1885,12 @@
   },
   {
     "id": "prod-740",
-    "name": "Balo / Túi thể thao Naturehike",
-    "slug": "balo-tui-the-thao-naturehike-740",
+    "name": "Balo thể thao The North Face leo núi",
+    "slug": "balo-the-thao-the-north-face-leo-nui-740",
     "price": 1840000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/balo-tui-the-thao-naturehike-740.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/balo-tui-the-thao-naturehike-740.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/balo-the-thao-the-north-face-leo-nui-740.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/balo-the-thao-the-north-face-leo-nui-740.webp",
     "description": "Balo thể thao hoặc leo núi dung tích đa dạng. Đệm lưng đai hông. Chống nước nhẹ. Nhiều ngăn. Phù hợp gym dã ngoại.",
     "brand": "The North Face",
     "sku": "THE-0740-CHI",
@@ -1802,9 +1899,9 @@
     "unit": "chiếc",
     "shortDescription": "Balo thể thao hoặc leo núi nhiều ngăn chống nước.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/balo-tui-the-thao-naturehike-740-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/balo-tui-the-thao-naturehike-740-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/balo-tui-the-thao-naturehike-740-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/balo-the-thao-the-north-face-leo-nui-740-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/balo-the-thao-the-north-face-leo-nui-740-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/balo-the-thao-the-north-face-leo-nui-740-c.webp"
     ],
     "specifications": {
       "Dung tích": "20-50L",
@@ -1837,12 +1934,12 @@
   },
   {
     "id": "prod-741",
-    "name": "Giày thể thao Nike chạy bộ",
-    "slug": "giay-the-thao-nike-chay-bo-741",
+    "name": "Giày thể thao Bitis chạy bộ",
+    "slug": "giay-the-thao-bitis-chay-bo-741",
     "price": 2530000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/giay-the-thao-nike-chay-bo-741.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/giay-the-thao-nike-chay-bo-741.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/giay-the-thao-bitis-chay-bo-741.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/giay-the-thao-bitis-chay-bo-741.webp",
     "description": "Giày thể thao đệm êm giảm chấn. Upper thoáng khí. Đế bám tốt. Phù hợp chạy bộ tập gym hoặc mang hàng ngày. Nhiều size màu.",
     "brand": "Bitis",
     "sku": "BIT-0741-ĐÔI",
@@ -1851,9 +1948,9 @@
     "unit": "đôi",
     "shortDescription": "Giày thể thao đệm êm nhẹ thoáng khí nhiều mục đích.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/giay-the-thao-nike-chay-bo-741-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/giay-the-thao-nike-chay-bo-741-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/giay-the-thao-nike-chay-bo-741-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/giay-the-thao-bitis-chay-bo-741-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/giay-the-thao-bitis-chay-bo-741-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/giay-the-thao-bitis-chay-bo-741-c.webp"
     ],
     "specifications": {
       "Loại": "Chạy / Training / Lifestyle",
@@ -1885,12 +1982,12 @@
   },
   {
     "id": "prod-742",
-    "name": "Thảm yoga / Thảm tập Adidas",
-    "slug": "tham-yoga-tham-tap-adidas-742",
+    "name": "Thảm yoga Liforme PVC 6mm",
+    "slug": "tham-yoga-liforme-pvc-6mm-742",
     "price": 363000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/tham-yoga-tham-tap-adidas-742.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/tham-yoga-tham-tap-adidas-742.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/tham-yoga-liforme-pvc-6mm-742.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/tham-yoga-liforme-pvc-6mm-742.webp",
     "description": "Thảm yoga chất liệu TPE hoặc PVC cao cấp. Chống trượt tốt. Độ dày hỗ trợ khớp. Thân thiện môi trường. Kèm túi đựng.",
     "brand": "Liforme",
     "sku": "LIF-0742-CHI",
@@ -1899,9 +1996,9 @@
     "unit": "chiếc",
     "shortDescription": "Thảm yoga chống trượt dày hỗ trợ khớp thân thiện MT.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-yoga-tham-tap-adidas-742-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-yoga-tham-tap-adidas-742-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-yoga-tham-tap-adidas-742-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-yoga-liforme-pvc-6mm-742-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-yoga-liforme-pvc-6mm-742-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-yoga-liforme-pvc-6mm-742-c.webp"
     ],
     "specifications": {
       "Chất liệu": "TPE / PVC",
@@ -1933,12 +2030,12 @@
   },
   {
     "id": "prod-743",
-    "name": "Bình nước thể thao Contigo 500ml cao cấp",
-    "slug": "binh-nuoc-the-thao-contigo-500ml-cao-cap-743",
+    "name": "Bình nước thể thao Contigo giữ nhiệt 1L",
+    "slug": "binh-nuoc-the-thao-contigo-giu-nhiet-1l-743",
     "price": 876000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/binh-nuoc-the-thao-contigo-500ml-cao-cap-743.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/binh-nuoc-the-thao-contigo-500ml-cao-cap-743.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/binh-nuoc-the-thao-contigo-giu-nhiet-1l-743.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/binh-nuoc-the-thao-contigo-giu-nhiet-1l-743.webp",
     "description": "Bình nước thể thao giữ nhiệt hoặc nhựa an toàn. Nắp tiện lợi một tay. Dung tích phù hợp tập luyện. Dễ vệ sinh.",
     "brand": "Contigo",
     "sku": "CON-0743-CHI",
@@ -1947,9 +2044,9 @@
     "unit": "chiếc",
     "shortDescription": "Bình nước thể thao giữ nhiệt hoặc nhựa BPA free.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/binh-nuoc-the-thao-contigo-500ml-cao-cap-743-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/binh-nuoc-the-thao-contigo-500ml-cao-cap-743-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/binh-nuoc-the-thao-contigo-500ml-cao-cap-743-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/binh-nuoc-the-thao-contigo-giu-nhiet-1l-743-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/binh-nuoc-the-thao-contigo-giu-nhiet-1l-743-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/binh-nuoc-the-thao-contigo-giu-nhiet-1l-743-c.webp"
     ],
     "specifications": {
       "Dung tích": "500ml-1L",
@@ -1981,12 +2078,12 @@
   },
   {
     "id": "prod-744",
-    "name": "Áo thể thao Decathlon",
-    "slug": "ao-the-thao-decathlon-744",
+    "name": "Áo thể thao Decathlon nam",
+    "slug": "ao-the-thao-decathlon-nam-744",
     "price": 862000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/ao-the-thao-decathlon-744.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/ao-the-thao-decathlon-744.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/ao-the-thao-decathlon-nam-744.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/ao-the-thao-decathlon-nam-744.webp",
     "description": "Áo thể thao công nghệ thấm hút thoát mồ hôi. Co giãn 4 chiều. Form vừa hoặc ôm. Phù hợp tập luyện mọi môn.",
     "brand": "Decathlon",
     "sku": "DEC-0744-CHI",
@@ -1995,9 +2092,9 @@
     "unit": "chiếc",
     "shortDescription": "Áo thể thao thấm hút mồ hôi nhanh co giãn thoải mái.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/ao-the-thao-decathlon-744-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/ao-the-thao-decathlon-744-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/ao-the-thao-decathlon-744-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/ao-the-thao-decathlon-nam-744-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/ao-the-thao-decathlon-nam-744-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/ao-the-thao-decathlon-nam-744-c.webp"
     ],
     "specifications": {
       "Chất liệu": "Polyester / Co giãn",
@@ -2029,12 +2126,12 @@
   },
   {
     "id": "prod-745",
-    "name": "Vợt cầu lông / Tennis Lining",
-    "slug": "vot-cau-long-tennis-lining-745",
+    "name": "Vợt thể thao Victor tennis",
+    "slug": "vot-the-thao-victor-tennis-745",
     "price": 2290000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/vot-cau-long-tennis-lining-745.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/vot-cau-long-tennis-lining-745.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/vot-the-thao-victor-tennis-745.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/vot-the-thao-victor-tennis-745.webp",
     "description": "Vợt khung carbon hoặc hợp kim nhẹ. Cân bằng phù hợp nhiều lối đánh. Đã căng dây hoặc chưa. Phù hợp người mới đến nâng cao.",
     "brand": "Victor",
     "sku": "VIC-0745-CHI",
@@ -2043,9 +2140,9 @@
     "unit": "chiếc",
     "shortDescription": "Vợt cầu lông hoặc tennis khung carbon nhẹ linh hoạt.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/vot-cau-long-tennis-lining-745-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/vot-cau-long-tennis-lining-745-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/vot-cau-long-tennis-lining-745-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/vot-the-thao-victor-tennis-745-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/vot-the-thao-victor-tennis-745-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/vot-the-thao-victor-tennis-745-c.webp"
     ],
     "specifications": {
       "Môn": "Cầu lông / Tennis",
@@ -2078,12 +2175,12 @@
   },
   {
     "id": "prod-746",
-    "name": "Lều cắm trại Coleman 4 người phiên bản mới",
-    "slug": "leu-cam-trai-coleman-4-nguoi-phien-ban-moi-746",
+    "name": "Lều cắm trại Coleman chống nước",
+    "slug": "leu-cam-trai-coleman-chong-nuoc-746",
     "price": 2630000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/leu-cam-trai-coleman-4-nguoi-phien-ban-moi-746.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/leu-cam-trai-coleman-4-nguoi-phien-ban-moi-746.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/leu-cam-trai-coleman-chong-nuoc-746.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/leu-cam-trai-coleman-chong-nuoc-746.webp",
     "description": "Lều cắm trại chống nước tốt. Dựng nhanh. Có mái hiên. Thông gió. Túi đựng gọn nhẹ. Phù hợp dã ngoại gia đình.",
     "brand": "Coleman",
     "sku": "COL-0746-CHI",
@@ -2092,9 +2189,9 @@
     "unit": "chiếc",
     "shortDescription": "Lều cắm trại chống nước dễ dựng có mái hiên.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/leu-cam-trai-coleman-4-nguoi-phien-ban-moi-746-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/leu-cam-trai-coleman-4-nguoi-phien-ban-moi-746-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/leu-cam-trai-coleman-4-nguoi-phien-ban-moi-746-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/leu-cam-trai-coleman-chong-nuoc-746-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/leu-cam-trai-coleman-chong-nuoc-746-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/leu-cam-trai-coleman-chong-nuoc-746-c.webp"
     ],
     "specifications": {
       "Sức chứa": "2-4 người",
@@ -2126,12 +2223,12 @@
   },
   {
     "id": "prod-747",
-    "name": "Thảm picnic / Đệm ngồi Naturehike cao cấp",
-    "slug": "tham-picnic-dem-ngoi-naturehike-cao-cap-747",
+    "name": "Thảm picnic Coleman 2x2m",
+    "slug": "tham-picnic-coleman-2x2m-747",
     "price": 269000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/tham-picnic-dem-ngoi-naturehike-cao-cap-747.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/tham-picnic-dem-ngoi-naturehike-cao-cap-747.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/tham-picnic-coleman-2x2m-747.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/tham-picnic-coleman-2x2m-747.webp",
     "description": "Thảm picnic mặt trên mềm mặt dưới chống thấm. Gấp gọn thành túi. Kích thước đủ cho nhiều người. Dã ngoại biển công viên.",
     "brand": "Coleman",
     "sku": "COL-0747-CHI",
@@ -2140,9 +2237,9 @@
     "unit": "chiếc",
     "shortDescription": "Thảm picnic chống thấm gấp gọn mặt mềm.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-picnic-dem-ngoi-naturehike-cao-cap-747-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-picnic-dem-ngoi-naturehike-cao-cap-747-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-picnic-dem-ngoi-naturehike-cao-cap-747-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-picnic-coleman-2x2m-747-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-picnic-coleman-2x2m-747-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-picnic-coleman-2x2m-747-c.webp"
     ],
     "specifications": {
       "Kích thước": "150x200 đến 200x200cm",
@@ -2174,12 +2271,12 @@
   },
   {
     "id": "prod-748",
-    "name": "Đèn pin / Đèn đội đầu Decathlon limited",
-    "slug": "den-pin-den-doi-dau-decathlon-limited-748",
+    "name": "Đèn pin đội đầu Xiaomi sạc USB",
+    "slug": "den-pin-doi-dau-xiaomi-sac-usb-748",
     "price": 731000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/den-pin-den-doi-dau-decathlon-limited-748.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/den-pin-den-doi-dau-decathlon-limited-748.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/den-pin-doi-dau-xiaomi-sac-usb-748.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/den-pin-doi-dau-xiaomi-sac-usb-748.webp",
     "description": "Đèn pin hoặc đèn đội đầu LED độ sáng cao. Nhiều chế độ. Sạc USB. Chống nước. Pin lâu. Phù hợp dã ngoại sửa chữa.",
     "brand": "Xiaomi",
     "sku": "XIA-0748-CHI",
@@ -2188,9 +2285,9 @@
     "unit": "chiếc",
     "shortDescription": "Đèn pin hoặc đội đầu LED sáng sạc USB chống nước.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/den-pin-den-doi-dau-decathlon-limited-748-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/den-pin-den-doi-dau-decathlon-limited-748-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/den-pin-den-doi-dau-decathlon-limited-748-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/den-pin-doi-dau-xiaomi-sac-usb-748-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/den-pin-doi-dau-xiaomi-sac-usb-748-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/den-pin-doi-dau-xiaomi-sac-usb-748-c.webp"
     ],
     "specifications": {
       "Độ sáng": "200-1000 lumen",
@@ -2223,12 +2320,12 @@
   },
   {
     "id": "prod-749",
-    "name": "Bóng thể thao Molten chuyền Max",
-    "slug": "bong-the-thao-molten-chuyen-max-749",
+    "name": "Bóng thể thao Mikasa rổ size 7",
+    "slug": "bong-the-thao-mikasa-ro-size-7-749",
     "price": 498000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/bong-the-thao-molten-chuyen-max-749.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/bong-the-thao-molten-chuyen-max-749.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/bong-the-thao-mikasa-ro-size-7-749.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/bong-the-thao-mikasa-ro-size-7-749.webp",
     "description": "Bóng thể thao size chuẩn. Chất liệu da PU hoặc cao su bền. Độ nảy tốt. Phù hợp thi đấu và tập luyện.",
     "brand": "Mikasa",
     "sku": "MIK-0749-QUẢ",
@@ -2237,9 +2334,9 @@
     "unit": "quả",
     "shortDescription": "Bóng đá rổ chuyền size chuẩn thi đấu hoặc tập.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/bong-the-thao-molten-chuyen-max-749-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/bong-the-thao-molten-chuyen-max-749-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/bong-the-thao-molten-chuyen-max-749-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/bong-the-thao-mikasa-ro-size-7-749-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/bong-the-thao-mikasa-ro-size-7-749-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/bong-the-thao-mikasa-ro-size-7-749-c.webp"
     ],
     "specifications": {
       "Môn": "Đá / Rổ / Chuyền",
@@ -2271,12 +2368,12 @@
   },
   {
     "id": "prod-750",
-    "name": "Balo / Túi thể thao Naturehike",
-    "slug": "balo-tui-the-thao-naturehike-750",
+    "name": "Balo thể thao Decathlon 30L",
+    "slug": "balo-the-thao-decathlon-30l-750",
     "price": 1890000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/balo-tui-the-thao-naturehike-750.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/balo-tui-the-thao-naturehike-750.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/balo-the-thao-decathlon-30l-750.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/balo-the-thao-decathlon-30l-750.webp",
     "description": "Balo thể thao hoặc leo núi dung tích đa dạng. Đệm lưng đai hông. Chống nước nhẹ. Nhiều ngăn. Phù hợp gym dã ngoại.",
     "brand": "Decathlon",
     "sku": "DEC-0750-CHI",
@@ -2285,9 +2382,9 @@
     "unit": "chiếc",
     "shortDescription": "Balo thể thao hoặc leo núi nhiều ngăn chống nước.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/balo-tui-the-thao-naturehike-750-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/balo-tui-the-thao-naturehike-750-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/balo-tui-the-thao-naturehike-750-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/balo-the-thao-decathlon-30l-750-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/balo-the-thao-decathlon-30l-750-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/balo-the-thao-decathlon-30l-750-c.webp"
     ],
     "specifications": {
       "Dung tích": "20-50L",

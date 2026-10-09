@@ -1,12 +1,108 @@
 [
   {
+    "id": "prod-501",
+    "name": "Sofa Phú Mỹ góc da",
+    "slug": "sofa-phu-my-goc-da-501",
+    "price": 13940000,
+    "categoryId": "cat-5",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/sofa-phu-my-goc-da-501.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/sofa-phu-my-goc-da-501.webp",
+    "description": "Sofa thiết kế hiện đại. Khung gỗ hoặc kim loại chắc chắn. Đệm êm đàn hồi tốt. Bọc da công nghiệp hoặc nỉ dễ vệ sinh. Phù hợp nhiều không gian.",
+    "brand": "Phú Mỹ",
+    "sku": "PHU-0501-BỘ",
+    "originalPrice": 16490000,
+    "discountPercent": 15,
+    "unit": "bộ",
+    "shortDescription": "Sofa phòng khách êm ái khung chắc chắn nhiều kiểu dáng.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/sofa-phu-my-goc-da-501-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/sofa-phu-my-goc-da-501-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/sofa-phu-my-goc-da-501-c.webp"
+    ],
+    "specifications": {
+      "Kiểu": "Góc / Văng / Bed",
+      "Bọc": "Da CN / Nỉ",
+      "Khung": "Gỗ / Kim loại",
+      "Đệm": "Mút D30-D40"
+    },
+    "rating": {
+      "average": 4.0,
+      "count": 818
+    },
+    "stock": 249,
+    "soldCount": 599,
+    "weight": 55133,
+    "dimensions": {
+      "length": 224.2,
+      "width": 141.9,
+      "height": 76.9
+    },
+    "origin": "Việt Nam / Thái Lan / Trung Quốc",
+    "warranty": "12-24 tháng",
+    "tags": [
+      "sofa",
+      "phòng khách",
+      "nội thất",
+      "phu-my"
+    ],
+    "createdAt": "2026-05-23T00:00:00.000Z"
+  },
+  {
+    "id": "prod-502",
+    "name": "Bàn ăn Phố Xinh 6 ghế",
+    "slug": "ban-an-pho-xinh-6-ghe-502",
+    "price": 7080000,
+    "categoryId": "cat-5",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/ban-an-pho-xinh-6-ghe-502.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/ban-an-pho-xinh-6-ghe-502.webp",
+    "description": "Bộ bàn ăn mặt gỗ tự nhiên hoặc công nghiệp. Ghế bọc nệm êm. Thiết kế hiện đại hoặc cổ điển. Phù hợp gia đình.",
+    "brand": "Phố Xinh",
+    "sku": "PHO-0502-BỘ",
+    "originalPrice": 8670000,
+    "discountPercent": 18,
+    "unit": "bộ",
+    "shortDescription": "Bộ bàn ăn gỗ hoặc công nghiệp kèm ghế chắc chắn.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ban-an-pho-xinh-6-ghe-502-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ban-an-pho-xinh-6-ghe-502-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ban-an-pho-xinh-6-ghe-502-c.webp"
+    ],
+    "specifications": {
+      "Số ghế": "4-8",
+      "Chất liệu mặt": "Gỗ / CN",
+      "Chân": "Gỗ / Kim loại",
+      "Phong cách": "Hiện đại"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 35
+    },
+    "stock": 143,
+    "soldCount": 3942,
+    "weight": 46103,
+    "dimensions": {
+      "length": 149.2,
+      "width": 83.9,
+      "height": 70.9
+    },
+    "origin": "Việt Nam / Thái Lan",
+    "warranty": "12-24 tháng",
+    "tags": [
+      "bàn ăn",
+      "phòng ăn",
+      "nội thất",
+      "pho-xinh"
+    ],
+    "createdAt": "2026-04-30T00:00:00.000Z"
+  },
+  {
     "id": "prod-503",
-    "name": "Giường ngủ Index Living 1m4",
-    "slug": "giuong-ngu-index-living-1m4-503",
+    "name": "Giường ngủ Hòa Phát 1m8",
+    "slug": "giuong-ngu-hoa-phat-1m8-503",
     "price": 5960000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/giuong-ngu-index-living-1m4-503.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/giuong-ngu-index-living-1m4-503.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/giuong-ngu-hoa-phat-1m8-503.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/giuong-ngu-hoa-phat-1m8-503.webp",
     "description": "Giường ngủ kích thước đa dạng. Gỗ công nghiệp phủ melamine hoặc gỗ tự nhiên. Đầu giường bọc nệm. Thiết kế đơn giản hiện đại.",
     "brand": "Hòa Phát",
     "sku": "HOA-0503-CHI",
@@ -15,9 +111,9 @@
     "unit": "chiếc",
     "shortDescription": "Giường ngủ gỗ công nghiệp hoặc tự nhiên đầu giường bọc nệm.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/giuong-ngu-index-living-1m4-503-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/giuong-ngu-index-living-1m4-503-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/giuong-ngu-index-living-1m4-503-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/giuong-ngu-hoa-phat-1m8-503-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/giuong-ngu-hoa-phat-1m8-503-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/giuong-ngu-hoa-phat-1m8-503-c.webp"
     ],
     "specifications": {
       "Kích thước": "1m2-1m8",
@@ -49,12 +145,12 @@
   },
   {
     "id": "prod-504",
-    "name": "Tủ quần áo Hòa Phát 4 cánh",
-    "slug": "tu-quan-ao-hoa-phat-4-canh-504",
+    "name": "Tủ quần áo Duy Tân 4 cánh",
+    "slug": "tu-quan-ao-duy-tan-4-canh-504",
     "price": 8530000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/tu-quan-ao-hoa-phat-4-canh-504.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/tu-quan-ao-hoa-phat-4-canh-504.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/tu-quan-ao-duy-tan-4-canh-504.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/tu-quan-ao-duy-tan-4-canh-504.webp",
     "description": "Tủ quần áo cửa mở hoặc cửa lùa tiết kiệm không gian. Bên trong có treo kệ ngăn kéo. Gỗ công nghiệp phủ melamine bền đẹp.",
     "brand": "Duy Tân",
     "sku": "DUY-0504-CHI",
@@ -63,9 +159,9 @@
     "unit": "chiếc",
     "shortDescription": "Tủ quần áo cửa mở hoặc lùa nhiều ngăn tiện dụng.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tu-quan-ao-hoa-phat-4-canh-504-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tu-quan-ao-hoa-phat-4-canh-504-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tu-quan-ao-hoa-phat-4-canh-504-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tu-quan-ao-duy-tan-4-canh-504-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tu-quan-ao-duy-tan-4-canh-504-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tu-quan-ao-duy-tan-4-canh-504-c.webp"
     ],
     "specifications": {
       "Số cánh": "2-4",
@@ -97,12 +193,12 @@
   },
   {
     "id": "prod-505",
-    "name": "Đèn trang trí IKEA bàn",
-    "slug": "den-trang-tri-ikea-ban-505",
+    "name": "Đèn trang trí Điện Quang bàn",
+    "slug": "den-trang-tri-dien-quang-ban-505",
     "price": 355000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/den-trang-tri-ikea-ban-505.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/den-trang-tri-ikea-ban-505.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/den-trang-tri-dien-quang-ban-505.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/den-trang-tri-dien-quang-ban-505.webp",
     "description": "Đèn trang trí thiết kế đẹp. Ánh sáng dịu hoặc điều chỉnh được. Chất liệu gỗ kim loại vải. Phù hợp nhiều không gian.",
     "brand": "Điện Quang",
     "sku": "DIE-0505-CHI",
@@ -111,9 +207,9 @@
     "unit": "chiếc",
     "shortDescription": "Đèn trang trí nhiều kiểu dáng ánh sáng ấm hoặc LED.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/den-trang-tri-ikea-ban-505-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/den-trang-tri-ikea-ban-505-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/den-trang-tri-ikea-ban-505-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/den-trang-tri-dien-quang-ban-505-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/den-trang-tri-dien-quang-ban-505-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/den-trang-tri-dien-quang-ban-505-c.webp"
     ],
     "specifications": {
       "Loại": "Sàn / Bàn / Trần / Tường",
@@ -144,12 +240,12 @@
   },
   {
     "id": "prod-506",
-    "name": "Thảm trải sàn Unipax 160x230",
-    "slug": "tham-trai-san-unipax-160x230-506",
+    "name": "Thảm trải sàn Index Living lông ngắn",
+    "slug": "tham-trai-san-index-living-long-ngan-506",
     "price": 2460000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/tham-trai-san-unipax-160x230-506.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/tham-trai-san-unipax-160x230-506.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/tham-trai-san-index-living-long-ngan-506.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/tham-trai-san-index-living-long-ngan-506.webp",
     "description": "Thảm trải sàn chất liệu sợi tổng hợp hoặc tự nhiên. Đế chống trượt. Dễ vệ sinh. Nhiều kích thước và họa tiết.",
     "brand": "Index Living",
     "sku": "IND-0506-CHI",
@@ -158,9 +254,9 @@
     "unit": "chiếc",
     "shortDescription": "Thảm trải sàn lông ngắn hoặc dài chống trượt nhiều họa tiết.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tham-trai-san-unipax-160x230-506-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tham-trai-san-unipax-160x230-506-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tham-trai-san-unipax-160x230-506-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tham-trai-san-index-living-long-ngan-506-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tham-trai-san-index-living-long-ngan-506-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tham-trai-san-index-living-long-ngan-506-c.webp"
     ],
     "specifications": {
       "Kích thước": "Đa dạng",
@@ -192,12 +288,12 @@
   },
   {
     "id": "prod-507",
-    "name": "Kệ sách / Kệ trang trí IKEA Plus",
-    "slug": "ke-sach-ke-trang-tri-ikea-plus-507",
+    "name": "Kệ sách Duy Tân 5 tầng",
+    "slug": "ke-sach-duy-tan-5-tang-507",
     "price": 494000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/ke-sach-ke-trang-tri-ikea-plus-507.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/ke-sach-ke-trang-tri-ikea-plus-507.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/ke-sach-duy-tan-5-tang-507.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/ke-sach-duy-tan-5-tang-507.webp",
     "description": "Kệ sách hoặc kệ trang trí nhiều tầng. Gỗ công nghiệp hoặc kim loại. Chắc chắn dễ tự lắp. Phù hợp phòng làm việc phòng khách.",
     "brand": "Duy Tân",
     "sku": "DUY-0507-CHI",
@@ -206,9 +302,9 @@
     "unit": "chiếc",
     "shortDescription": "Kệ sách nhiều tầng chắc chắn dễ lắp đặt.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ke-sach-ke-trang-tri-ikea-plus-507-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ke-sach-ke-trang-tri-ikea-plus-507-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ke-sach-ke-trang-tri-ikea-plus-507-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ke-sach-duy-tan-5-tang-507-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ke-sach-duy-tan-5-tang-507-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ke-sach-duy-tan-5-tang-507-c.webp"
     ],
     "specifications": {
       "Số tầng": "3-6",
@@ -240,12 +336,12 @@
   },
   {
     "id": "prod-508",
-    "name": "Gương trang trí Home Decor",
-    "slug": "guong-trang-tri-home-decor-508",
+    "name": "Gương IKEA trang điểm",
+    "slug": "guong-ikea-trang-diem-508",
     "price": 481000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/guong-trang-tri-home-decor-508.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/guong-trang-tri-home-decor-508.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/guong-ikea-trang-diem-508.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/guong-ikea-trang-diem-508.webp",
     "description": "Gương soi toàn thân hoặc gương trang trí. Khung kim loại gỗ hoặc nhựa. Treo tường hoặc đứng. Phản chiếu rõ nét.",
     "brand": "IKEA",
     "sku": "IKE-0508-CHI",
@@ -254,9 +350,9 @@
     "unit": "chiếc",
     "shortDescription": "Gương toàn thân hoặc trang trí khung đẹp.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/guong-trang-tri-home-decor-508-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/guong-trang-tri-home-decor-508-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/guong-trang-tri-home-decor-508-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/guong-ikea-trang-diem-508-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/guong-ikea-trang-diem-508-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/guong-ikea-trang-diem-508-c.webp"
     ],
     "specifications": {
       "Loại": "Toàn thân / Trang trí",
@@ -287,12 +383,12 @@
   },
   {
     "id": "prod-509",
-    "name": "Rèm cửa Vải Đẹp",
-    "slug": "rem-cua-vai-dep-509",
+    "name": "Rèm cửa Unipax 1 lớp",
+    "slug": "rem-cua-unipax-1-lop-509",
     "price": 648000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/rem-cua-vai-dep-509.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/rem-cua-vai-dep-509.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/rem-cua-unipax-1-lop-509.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/rem-cua-unipax-1-lop-509.webp",
     "description": "Rèm cửa 1 hoặc 2 lớp cản sáng giảm nhiệt. Nhiều chất liệu và màu sắc. May theo kích thước cửa. Dễ lắp đặt.",
     "brand": "Unipax",
     "sku": "UNI-0509-BỘ",
@@ -301,9 +397,9 @@
     "unit": "bộ",
     "shortDescription": "Rèm cửa chống nắng 1-2 lớp nhiều màu sắc.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/rem-cua-vai-dep-509-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/rem-cua-vai-dep-509-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/rem-cua-vai-dep-509-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/rem-cua-unipax-1-lop-509-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/rem-cua-unipax-1-lop-509-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/rem-cua-unipax-1-lop-509-c.webp"
     ],
     "specifications": {
       "Loại": "1-2 lớp",
@@ -335,12 +431,12 @@
   },
   {
     "id": "prod-510",
-    "name": "Tranh / Đồ trang trí tường Home Decor",
-    "slug": "tranh-do-trang-tri-tuong-home-decor-510",
+    "name": "Tranh trang trí Art House canvas",
+    "slug": "tranh-trang-tri-art-house-canvas-510",
     "price": 452000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/tranh-do-trang-tri-tuong-home-decor-510.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/tranh-do-trang-tri-tuong-home-decor-510.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/tranh-trang-tri-art-house-canvas-510.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/tranh-trang-tri-art-house-canvas-510.webp",
     "description": "Tranh canvas đã căng khung hoặc đồ trang trí tường. Chủ đề đa dạng. Dễ treo. Tạo điểm nhấn cho không gian.",
     "brand": "Art House",
     "sku": "ART-0510-BỘ",
@@ -349,9 +445,9 @@
     "unit": "bộ",
     "shortDescription": "Tranh canvas hoặc đồ trang trí tường tạo điểm nhấn.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tranh-do-trang-tri-tuong-home-decor-510-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tranh-do-trang-tri-tuong-home-decor-510-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tranh-do-trang-tri-tuong-home-decor-510-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tranh-trang-tri-art-house-canvas-510-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tranh-trang-tri-art-house-canvas-510-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tranh-trang-tri-art-house-canvas-510-c.webp"
     ],
     "specifications": {
       "Loại": "Canvas / Metal / Gỗ",
@@ -383,12 +479,12 @@
   },
   {
     "id": "prod-511",
-    "name": "Sofa Duy Tân góc da",
-    "slug": "sofa-duy-tan-goc-da-511",
+    "name": "Sofa Duy Tân văng",
+    "slug": "sofa-duy-tan-vang-511",
     "price": 12970000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/sofa-duy-tan-goc-da-511.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/sofa-duy-tan-goc-da-511.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/sofa-duy-tan-vang-511.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/sofa-duy-tan-vang-511.webp",
     "description": "Sofa thiết kế hiện đại. Khung gỗ hoặc kim loại chắc chắn. Đệm êm đàn hồi tốt. Bọc da công nghiệp hoặc nỉ dễ vệ sinh. Phù hợp nhiều không gian.",
     "brand": "Duy Tân",
     "sku": "DUY-0511-BỘ",
@@ -397,9 +493,9 @@
     "unit": "bộ",
     "shortDescription": "Sofa phòng khách êm ái khung chắc chắn nhiều kiểu dáng.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/sofa-duy-tan-goc-da-511-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/sofa-duy-tan-goc-da-511-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/sofa-duy-tan-goc-da-511-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/sofa-duy-tan-vang-511-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/sofa-duy-tan-vang-511-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/sofa-duy-tan-vang-511-c.webp"
     ],
     "specifications": {
       "Kiểu": "Góc / Văng / Bed",
@@ -431,12 +527,12 @@
   },
   {
     "id": "prod-512",
-    "name": "Bàn ăn Duy Tân 4 ghế phiên bản mới",
-    "slug": "ban-an-duy-tan-4-ghe-phien-ban-moi-512",
+    "name": "Bàn ăn Hòa Phát 6 ghế",
+    "slug": "ban-an-hoa-phat-6-ghe-512",
     "price": 14950000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/ban-an-duy-tan-4-ghe-phien-ban-moi-512.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/ban-an-duy-tan-4-ghe-phien-ban-moi-512.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/ban-an-hoa-phat-6-ghe-512.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/ban-an-hoa-phat-6-ghe-512.webp",
     "description": "Bộ bàn ăn mặt gỗ tự nhiên hoặc công nghiệp. Ghế bọc nệm êm. Thiết kế hiện đại hoặc cổ điển. Phù hợp gia đình.",
     "brand": "Hòa Phát",
     "sku": "HOA-0512-BỘ",
@@ -445,9 +541,9 @@
     "unit": "bộ",
     "shortDescription": "Bộ bàn ăn gỗ hoặc công nghiệp kèm ghế chắc chắn.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ban-an-duy-tan-4-ghe-phien-ban-moi-512-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ban-an-duy-tan-4-ghe-phien-ban-moi-512-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ban-an-duy-tan-4-ghe-phien-ban-moi-512-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ban-an-hoa-phat-6-ghe-512-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ban-an-hoa-phat-6-ghe-512-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ban-an-hoa-phat-6-ghe-512-c.webp"
     ],
     "specifications": {
       "Số ghế": "4-8",
@@ -479,12 +575,12 @@
   },
   {
     "id": "prod-513",
-    "name": "Giường ngủ Index Living 1m4",
-    "slug": "giuong-ngu-index-living-1m4-513",
+    "name": "Giường ngủ Index Living 1m6",
+    "slug": "giuong-ngu-index-living-1m6-513",
     "price": 10630000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/giuong-ngu-index-living-1m4-513.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/giuong-ngu-index-living-1m4-513.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/giuong-ngu-index-living-1m6-513.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/giuong-ngu-index-living-1m6-513.webp",
     "description": "Giường ngủ kích thước đa dạng. Gỗ công nghiệp phủ melamine hoặc gỗ tự nhiên. Đầu giường bọc nệm. Thiết kế đơn giản hiện đại.",
     "brand": "Index Living",
     "sku": "IND-0513-CHI",
@@ -493,9 +589,9 @@
     "unit": "chiếc",
     "shortDescription": "Giường ngủ gỗ công nghiệp hoặc tự nhiên đầu giường bọc nệm.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/giuong-ngu-index-living-1m4-513-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/giuong-ngu-index-living-1m4-513-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/giuong-ngu-index-living-1m4-513-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/giuong-ngu-index-living-1m6-513-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/giuong-ngu-index-living-1m6-513-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/giuong-ngu-index-living-1m6-513-c.webp"
     ],
     "specifications": {
       "Kích thước": "1m2-1m8",
@@ -575,12 +671,12 @@
   },
   {
     "id": "prod-515",
-    "name": "Đèn trang trí Rạng Đông sàn",
-    "slug": "den-trang-tri-rang-dong-san-515",
+    "name": "Đèn trang trí Rạng Đông treo",
+    "slug": "den-trang-tri-rang-dong-treo-515",
     "price": 1390000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/den-trang-tri-rang-dong-san-515.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/den-trang-tri-rang-dong-san-515.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/den-trang-tri-rang-dong-treo-515.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/den-trang-tri-rang-dong-treo-515.webp",
     "description": "Đèn trang trí thiết kế đẹp. Ánh sáng dịu hoặc điều chỉnh được. Chất liệu gỗ kim loại vải. Phù hợp nhiều không gian.",
     "brand": "Rạng Đông",
     "sku": "RAN-0515-CHI",
@@ -589,9 +685,9 @@
     "unit": "chiếc",
     "shortDescription": "Đèn trang trí nhiều kiểu dáng ánh sáng ấm hoặc LED.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/den-trang-tri-rang-dong-san-515-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/den-trang-tri-rang-dong-san-515-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/den-trang-tri-rang-dong-san-515-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/den-trang-tri-rang-dong-treo-515-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/den-trang-tri-rang-dong-treo-515-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/den-trang-tri-rang-dong-treo-515-c.webp"
     ],
     "specifications": {
       "Loại": "Sàn / Bàn / Trần / Tường",
@@ -622,12 +718,12 @@
   },
   {
     "id": "prod-516",
-    "name": "Thảm trải sàn Unipax 160x230",
-    "slug": "tham-trai-san-unipax-160x230-516",
+    "name": "Thảm trải sàn IKEA 1.6x2.3m",
+    "slug": "tham-trai-san-ikea-16x23m-516",
     "price": 1510000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/tham-trai-san-unipax-160x230-516.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/tham-trai-san-unipax-160x230-516.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/tham-trai-san-ikea-16x23m-516.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/tham-trai-san-ikea-16x23m-516.webp",
     "description": "Thảm trải sàn chất liệu sợi tổng hợp hoặc tự nhiên. Đế chống trượt. Dễ vệ sinh. Nhiều kích thước và họa tiết.",
     "brand": "IKEA",
     "sku": "IKE-0516-CHI",
@@ -636,9 +732,9 @@
     "unit": "chiếc",
     "shortDescription": "Thảm trải sàn lông ngắn hoặc dài chống trượt nhiều họa tiết.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tham-trai-san-unipax-160x230-516-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tham-trai-san-unipax-160x230-516-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tham-trai-san-unipax-160x230-516-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tham-trai-san-ikea-16x23m-516-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tham-trai-san-ikea-16x23m-516-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tham-trai-san-ikea-16x23m-516-c.webp"
     ],
     "specifications": {
       "Kích thước": "Đa dạng",
@@ -670,12 +766,12 @@
   },
   {
     "id": "prod-517",
-    "name": "Kệ sách / Kệ trang trí Hòa Phát 2025",
-    "slug": "ke-sach-ke-trang-tri-hoa-phat-2025-517",
+    "name": "Kệ sách IKEA 4 tầng",
+    "slug": "ke-sach-ikea-4-tang-517",
     "price": 437000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/ke-sach-ke-trang-tri-hoa-phat-2025-517.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/ke-sach-ke-trang-tri-hoa-phat-2025-517.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/ke-sach-ikea-4-tang-517.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/ke-sach-ikea-4-tang-517.webp",
     "description": "Kệ sách hoặc kệ trang trí nhiều tầng. Gỗ công nghiệp hoặc kim loại. Chắc chắn dễ tự lắp. Phù hợp phòng làm việc phòng khách.",
     "brand": "IKEA",
     "sku": "IKE-0517-CHI",
@@ -684,9 +780,9 @@
     "unit": "chiếc",
     "shortDescription": "Kệ sách nhiều tầng chắc chắn dễ lắp đặt.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ke-sach-ke-trang-tri-hoa-phat-2025-517-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ke-sach-ke-trang-tri-hoa-phat-2025-517-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ke-sach-ke-trang-tri-hoa-phat-2025-517-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ke-sach-ikea-4-tang-517-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ke-sach-ikea-4-tang-517-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ke-sach-ikea-4-tang-517-c.webp"
     ],
     "specifications": {
       "Số tầng": "3-6",
@@ -718,12 +814,12 @@
   },
   {
     "id": "prod-518",
-    "name": "Gương trang trí Phố Xinh 2026",
-    "slug": "guong-trang-tri-pho-xinh-2026-518",
+    "name": "Gương IKEA treo tường",
+    "slug": "guong-ikea-treo-tuong-518",
     "price": 658000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/guong-trang-tri-pho-xinh-2026-518.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/guong-trang-tri-pho-xinh-2026-518.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/guong-ikea-treo-tuong-518.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/guong-ikea-treo-tuong-518.webp",
     "description": "Gương soi toàn thân hoặc gương trang trí. Khung kim loại gỗ hoặc nhựa. Treo tường hoặc đứng. Phản chiếu rõ nét.",
     "brand": "IKEA",
     "sku": "IKE-0518-CHI",
@@ -732,9 +828,9 @@
     "unit": "chiếc",
     "shortDescription": "Gương toàn thân hoặc trang trí khung đẹp.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/guong-trang-tri-pho-xinh-2026-518-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/guong-trang-tri-pho-xinh-2026-518-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/guong-trang-tri-pho-xinh-2026-518-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/guong-ikea-treo-tuong-518-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/guong-ikea-treo-tuong-518-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/guong-ikea-treo-tuong-518-c.webp"
     ],
     "specifications": {
       "Loại": "Toàn thân / Trang trí",
@@ -765,12 +861,12 @@
   },
   {
     "id": "prod-519",
-    "name": "Rèm cửa Vải Đẹp",
-    "slug": "rem-cua-vai-dep-519",
+    "name": "Rèm cửa Home Decor chống nắng",
+    "slug": "rem-cua-home-decor-chong-nang-519",
     "price": 1260000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/rem-cua-vai-dep-519.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/rem-cua-vai-dep-519.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/rem-cua-home-decor-chong-nang-519.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/rem-cua-home-decor-chong-nang-519.webp",
     "description": "Rèm cửa 1 hoặc 2 lớp cản sáng giảm nhiệt. Nhiều chất liệu và màu sắc. May theo kích thước cửa. Dễ lắp đặt.",
     "brand": "Home Decor",
     "sku": "HOM-0519-BỘ",
@@ -779,9 +875,9 @@
     "unit": "bộ",
     "shortDescription": "Rèm cửa chống nắng 1-2 lớp nhiều màu sắc.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/rem-cua-vai-dep-519-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/rem-cua-vai-dep-519-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/rem-cua-vai-dep-519-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/rem-cua-home-decor-chong-nang-519-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/rem-cua-home-decor-chong-nang-519-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/rem-cua-home-decor-chong-nang-519-c.webp"
     ],
     "specifications": {
       "Loại": "1-2 lớp",
@@ -813,12 +909,12 @@
   },
   {
     "id": "prod-520",
-    "name": "Tranh / Đồ trang trí tường Decor Home",
-    "slug": "tranh-do-trang-tri-tuong-decor-home-520",
+    "name": "Tranh trang trí IKEA set 3 bức",
+    "slug": "tranh-trang-tri-ikea-set-3-buc-520",
     "price": 754000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/tranh-do-trang-tri-tuong-decor-home-520.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/tranh-do-trang-tri-tuong-decor-home-520.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/tranh-trang-tri-ikea-set-3-buc-520.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/tranh-trang-tri-ikea-set-3-buc-520.webp",
     "description": "Tranh canvas đã căng khung hoặc đồ trang trí tường. Chủ đề đa dạng. Dễ treo. Tạo điểm nhấn cho không gian.",
     "brand": "IKEA",
     "sku": "IKE-0520-BỘ",
@@ -827,9 +923,9 @@
     "unit": "bộ",
     "shortDescription": "Tranh canvas hoặc đồ trang trí tường tạo điểm nhấn.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tranh-do-trang-tri-tuong-decor-home-520-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tranh-do-trang-tri-tuong-decor-home-520-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tranh-do-trang-tri-tuong-decor-home-520-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tranh-trang-tri-ikea-set-3-buc-520-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tranh-trang-tri-ikea-set-3-buc-520-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tranh-trang-tri-ikea-set-3-buc-520-c.webp"
     ],
     "specifications": {
       "Loại": "Canvas / Metal / Gỗ",
@@ -861,12 +957,12 @@
   },
   {
     "id": "prod-521",
-    "name": "Sofa Index Living góc nỉ cao cấp",
-    "slug": "sofa-index-living-goc-ni-cao-cap-521",
+    "name": "Sofa Ashley bed",
+    "slug": "sofa-ashley-bed-521",
     "price": 15540000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/sofa-index-living-goc-ni-cao-cap-521.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/sofa-index-living-goc-ni-cao-cap-521.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/sofa-ashley-bed-521.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/sofa-ashley-bed-521.webp",
     "description": "Sofa thiết kế hiện đại. Khung gỗ hoặc kim loại chắc chắn. Đệm êm đàn hồi tốt. Bọc da công nghiệp hoặc nỉ dễ vệ sinh. Phù hợp nhiều không gian.",
     "brand": "Ashley",
     "sku": "ASH-0521-BỘ",
@@ -875,9 +971,9 @@
     "unit": "bộ",
     "shortDescription": "Sofa phòng khách êm ái khung chắc chắn nhiều kiểu dáng.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/sofa-index-living-goc-ni-cao-cap-521-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/sofa-index-living-goc-ni-cao-cap-521-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/sofa-index-living-goc-ni-cao-cap-521-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/sofa-ashley-bed-521-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/sofa-ashley-bed-521-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/sofa-ashley-bed-521-c.webp"
     ],
     "specifications": {
       "Kiểu": "Góc / Văng / Bed",
@@ -909,12 +1005,12 @@
   },
   {
     "id": "prod-522",
-    "name": "Bàn ăn Index Living 4 ghế",
-    "slug": "ban-an-index-living-4-ghe-522",
+    "name": "Bàn ăn Index Living 6 ghế",
+    "slug": "ban-an-index-living-6-ghe-522",
     "price": 5540000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/ban-an-index-living-4-ghe-522.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/ban-an-index-living-4-ghe-522.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/ban-an-index-living-6-ghe-522.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/ban-an-index-living-6-ghe-522.webp",
     "description": "Bộ bàn ăn mặt gỗ tự nhiên hoặc công nghiệp. Ghế bọc nệm êm. Thiết kế hiện đại hoặc cổ điển. Phù hợp gia đình.",
     "brand": "Index Living",
     "sku": "IND-0522-BỘ",
@@ -923,9 +1019,9 @@
     "unit": "bộ",
     "shortDescription": "Bộ bàn ăn gỗ hoặc công nghiệp kèm ghế chắc chắn.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ban-an-index-living-4-ghe-522-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ban-an-index-living-4-ghe-522-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ban-an-index-living-4-ghe-522-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ban-an-index-living-6-ghe-522-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ban-an-index-living-6-ghe-522-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ban-an-index-living-6-ghe-522-c.webp"
     ],
     "specifications": {
       "Số ghế": "4-8",
@@ -957,12 +1053,12 @@
   },
   {
     "id": "prod-523",
-    "name": "Giường ngủ Phố Xinh 1m4",
-    "slug": "giuong-ngu-pho-xinh-1m4-523",
+    "name": "Giường ngủ Hòa Phát 1m8",
+    "slug": "giuong-ngu-hoa-phat-1m8-523",
     "price": 11650000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/giuong-ngu-pho-xinh-1m4-523.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/giuong-ngu-pho-xinh-1m4-523.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/giuong-ngu-hoa-phat-1m8-523.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/giuong-ngu-hoa-phat-1m8-523.webp",
     "description": "Giường ngủ kích thước đa dạng. Gỗ công nghiệp phủ melamine hoặc gỗ tự nhiên. Đầu giường bọc nệm. Thiết kế đơn giản hiện đại.",
     "brand": "Hòa Phát",
     "sku": "HOA-0523-CHI",
@@ -971,9 +1067,9 @@
     "unit": "chiếc",
     "shortDescription": "Giường ngủ gỗ công nghiệp hoặc tự nhiên đầu giường bọc nệm.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/giuong-ngu-pho-xinh-1m4-523-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/giuong-ngu-pho-xinh-1m4-523-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/giuong-ngu-pho-xinh-1m4-523-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/giuong-ngu-hoa-phat-1m8-523-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/giuong-ngu-hoa-phat-1m8-523-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/giuong-ngu-hoa-phat-1m8-523-c.webp"
     ],
     "specifications": {
       "Kích thước": "1m2-1m8",
@@ -1005,12 +1101,12 @@
   },
   {
     "id": "prod-524",
-    "name": "Tủ quần áo Hòa Phát 4 cánh",
-    "slug": "tu-quan-ao-hoa-phat-4-canh-524",
+    "name": "Tủ quần áo Hòa Phát cửa lùa",
+    "slug": "tu-quan-ao-hoa-phat-cua-lua-524",
     "price": 5290000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/tu-quan-ao-hoa-phat-4-canh-524.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/tu-quan-ao-hoa-phat-4-canh-524.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/tu-quan-ao-hoa-phat-cua-lua-524.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/tu-quan-ao-hoa-phat-cua-lua-524.webp",
     "description": "Tủ quần áo cửa mở hoặc cửa lùa tiết kiệm không gian. Bên trong có treo kệ ngăn kéo. Gỗ công nghiệp phủ melamine bền đẹp.",
     "brand": "Hòa Phát",
     "sku": "HOA-0524-CHI",
@@ -1019,9 +1115,9 @@
     "unit": "chiếc",
     "shortDescription": "Tủ quần áo cửa mở hoặc lùa nhiều ngăn tiện dụng.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tu-quan-ao-hoa-phat-4-canh-524-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tu-quan-ao-hoa-phat-4-canh-524-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tu-quan-ao-hoa-phat-4-canh-524-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tu-quan-ao-hoa-phat-cua-lua-524-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tu-quan-ao-hoa-phat-cua-lua-524-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tu-quan-ao-hoa-phat-cua-lua-524-c.webp"
     ],
     "specifications": {
       "Số cánh": "2-4",
@@ -1053,12 +1149,12 @@
   },
   {
     "id": "prod-525",
-    "name": "Đèn trang trí Philips trần Pro",
-    "slug": "den-trang-tri-philips-tran-pro-525",
+    "name": "Đèn trang trí Osram LED",
+    "slug": "den-trang-tri-osram-led-525",
     "price": 2420000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/den-trang-tri-philips-tran-pro-525.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/den-trang-tri-philips-tran-pro-525.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/den-trang-tri-osram-led-525.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/den-trang-tri-osram-led-525.webp",
     "description": "Đèn trang trí thiết kế đẹp. Ánh sáng dịu hoặc điều chỉnh được. Chất liệu gỗ kim loại vải. Phù hợp nhiều không gian.",
     "brand": "Osram",
     "sku": "OSR-0525-CHI",
@@ -1067,9 +1163,9 @@
     "unit": "chiếc",
     "shortDescription": "Đèn trang trí nhiều kiểu dáng ánh sáng ấm hoặc LED.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/den-trang-tri-philips-tran-pro-525-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/den-trang-tri-philips-tran-pro-525-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/den-trang-tri-philips-tran-pro-525-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/den-trang-tri-osram-led-525-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/den-trang-tri-osram-led-525-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/den-trang-tri-osram-led-525-c.webp"
     ],
     "specifications": {
       "Loại": "Sàn / Bàn / Trần / Tường",
@@ -1100,12 +1196,12 @@
   },
   {
     "id": "prod-526",
-    "name": "Thảm trải sàn IKEA 200x300 Plus",
-    "slug": "tham-trai-san-ikea-200x300-plus-526",
+    "name": "Thảm trải sàn Home Decor lông ngắn",
+    "slug": "tham-trai-san-home-decor-long-ngan-526",
     "price": 884000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/tham-trai-san-ikea-200x300-plus-526.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/tham-trai-san-ikea-200x300-plus-526.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/tham-trai-san-home-decor-long-ngan-526.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/tham-trai-san-home-decor-long-ngan-526.webp",
     "description": "Thảm trải sàn chất liệu sợi tổng hợp hoặc tự nhiên. Đế chống trượt. Dễ vệ sinh. Nhiều kích thước và họa tiết.",
     "brand": "Home Decor",
     "sku": "HOM-0526-CHI",
@@ -1114,9 +1210,9 @@
     "unit": "chiếc",
     "shortDescription": "Thảm trải sàn lông ngắn hoặc dài chống trượt nhiều họa tiết.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tham-trai-san-ikea-200x300-plus-526-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tham-trai-san-ikea-200x300-plus-526-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tham-trai-san-ikea-200x300-plus-526-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tham-trai-san-home-decor-long-ngan-526-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tham-trai-san-home-decor-long-ngan-526-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tham-trai-san-home-decor-long-ngan-526-c.webp"
     ],
     "specifications": {
       "Kích thước": "Đa dạng",
@@ -1148,12 +1244,12 @@
   },
   {
     "id": "prod-527",
-    "name": "Kệ sách / Kệ trang trí Hòa Phát",
-    "slug": "ke-sach-ke-trang-tri-hoa-phat-527",
+    "name": "Kệ sách Hòa Phát 3 tầng",
+    "slug": "ke-sach-hoa-phat-3-tang-527",
     "price": 834000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/ke-sach-ke-trang-tri-hoa-phat-527.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/ke-sach-ke-trang-tri-hoa-phat-527.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/ke-sach-hoa-phat-3-tang-527.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/ke-sach-hoa-phat-3-tang-527.webp",
     "description": "Kệ sách hoặc kệ trang trí nhiều tầng. Gỗ công nghiệp hoặc kim loại. Chắc chắn dễ tự lắp. Phù hợp phòng làm việc phòng khách.",
     "brand": "Hòa Phát",
     "sku": "HOA-0527-CHI",
@@ -1162,9 +1258,9 @@
     "unit": "chiếc",
     "shortDescription": "Kệ sách nhiều tầng chắc chắn dễ lắp đặt.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ke-sach-ke-trang-tri-hoa-phat-527-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ke-sach-ke-trang-tri-hoa-phat-527-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ke-sach-ke-trang-tri-hoa-phat-527-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ke-sach-hoa-phat-3-tang-527-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ke-sach-hoa-phat-3-tang-527-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ke-sach-hoa-phat-3-tang-527-c.webp"
     ],
     "specifications": {
       "Số tầng": "3-6",
@@ -1196,12 +1292,12 @@
   },
   {
     "id": "prod-528",
-    "name": "Gương trang trí Phố Xinh limited",
-    "slug": "guong-trang-tri-pho-xinh-limited-528",
+    "name": "Gương IKEA toàn thân",
+    "slug": "guong-ikea-toan-than-528",
     "price": 1870000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/guong-trang-tri-pho-xinh-limited-528.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/guong-trang-tri-pho-xinh-limited-528.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/guong-ikea-toan-than-528.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/guong-ikea-toan-than-528.webp",
     "description": "Gương soi toàn thân hoặc gương trang trí. Khung kim loại gỗ hoặc nhựa. Treo tường hoặc đứng. Phản chiếu rõ nét.",
     "brand": "IKEA",
     "sku": "IKE-0528-CHI",
@@ -1210,9 +1306,9 @@
     "unit": "chiếc",
     "shortDescription": "Gương toàn thân hoặc trang trí khung đẹp.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/guong-trang-tri-pho-xinh-limited-528-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/guong-trang-tri-pho-xinh-limited-528-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/guong-trang-tri-pho-xinh-limited-528-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/guong-ikea-toan-than-528-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/guong-ikea-toan-than-528-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/guong-ikea-toan-than-528-c.webp"
     ],
     "specifications": {
       "Loại": "Toàn thân / Trang trí",
@@ -1243,12 +1339,12 @@
   },
   {
     "id": "prod-529",
-    "name": "Rèm cửa Vải Đẹp",
-    "slug": "rem-cua-vai-dep-529",
+    "name": "Rèm cửa IKEA 2 lớp",
+    "slug": "rem-cua-ikea-2-lop-529",
     "price": 591000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/rem-cua-vai-dep-529.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/rem-cua-vai-dep-529.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/rem-cua-ikea-2-lop-529.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/rem-cua-ikea-2-lop-529.webp",
     "description": "Rèm cửa 1 hoặc 2 lớp cản sáng giảm nhiệt. Nhiều chất liệu và màu sắc. May theo kích thước cửa. Dễ lắp đặt.",
     "brand": "IKEA",
     "sku": "IKE-0529-BỘ",
@@ -1257,9 +1353,9 @@
     "unit": "bộ",
     "shortDescription": "Rèm cửa chống nắng 1-2 lớp nhiều màu sắc.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/rem-cua-vai-dep-529-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/rem-cua-vai-dep-529-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/rem-cua-vai-dep-529-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/rem-cua-ikea-2-lop-529-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/rem-cua-ikea-2-lop-529-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/rem-cua-ikea-2-lop-529-c.webp"
     ],
     "specifications": {
       "Loại": "1-2 lớp",
@@ -1291,12 +1387,12 @@
   },
   {
     "id": "prod-530",
-    "name": "Tranh / Đồ trang trí tường Decor Home",
-    "slug": "tranh-do-trang-tri-tuong-decor-home-530",
+    "name": "Tranh trang trí Decor Home phong cảnh",
+    "slug": "tranh-trang-tri-decor-home-phong-canh-530",
     "price": 647000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/tranh-do-trang-tri-tuong-decor-home-530.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/tranh-do-trang-tri-tuong-decor-home-530.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/tranh-trang-tri-decor-home-phong-canh-530.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/tranh-trang-tri-decor-home-phong-canh-530.webp",
     "description": "Tranh canvas đã căng khung hoặc đồ trang trí tường. Chủ đề đa dạng. Dễ treo. Tạo điểm nhấn cho không gian.",
     "brand": "Decor Home",
     "sku": "DEC-0530-BỘ",
@@ -1305,9 +1401,9 @@
     "unit": "bộ",
     "shortDescription": "Tranh canvas hoặc đồ trang trí tường tạo điểm nhấn.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tranh-do-trang-tri-tuong-decor-home-530-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tranh-do-trang-tri-tuong-decor-home-530-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tranh-do-trang-tri-tuong-decor-home-530-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tranh-trang-tri-decor-home-phong-canh-530-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tranh-trang-tri-decor-home-phong-canh-530-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tranh-trang-tri-decor-home-phong-canh-530-c.webp"
     ],
     "specifications": {
       "Loại": "Canvas / Metal / Gỗ",
@@ -1339,12 +1435,12 @@
   },
   {
     "id": "prod-531",
-    "name": "Sofa Hòa Phát bed sofa",
-    "slug": "sofa-hoa-phat-bed-sofa-531",
+    "name": "Sofa Hòa Phát góc",
+    "slug": "sofa-hoa-phat-goc-531",
     "price": 15130000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/sofa-hoa-phat-bed-sofa-531.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/sofa-hoa-phat-bed-sofa-531.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/sofa-hoa-phat-goc-531.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/sofa-hoa-phat-goc-531.webp",
     "description": "Sofa thiết kế hiện đại. Khung gỗ hoặc kim loại chắc chắn. Đệm êm đàn hồi tốt. Bọc da công nghiệp hoặc nỉ dễ vệ sinh. Phù hợp nhiều không gian.",
     "brand": "Hòa Phát",
     "sku": "HOA-0531-BỘ",
@@ -1353,9 +1449,9 @@
     "unit": "bộ",
     "shortDescription": "Sofa phòng khách êm ái khung chắc chắn nhiều kiểu dáng.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/sofa-hoa-phat-bed-sofa-531-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/sofa-hoa-phat-bed-sofa-531-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/sofa-hoa-phat-bed-sofa-531-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/sofa-hoa-phat-goc-531-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/sofa-hoa-phat-goc-531-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/sofa-hoa-phat-goc-531-c.webp"
     ],
     "specifications": {
       "Kiểu": "Góc / Văng / Bed",
@@ -1387,12 +1483,12 @@
   },
   {
     "id": "prod-532",
-    "name": "Bàn ăn Index Living 8 ghế",
-    "slug": "ban-an-index-living-8-ghe-532",
+    "name": "Bàn ăn AAA 6 ghế",
+    "slug": "ban-an-aaa-6-ghe-532",
     "price": 13510000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/ban-an-index-living-8-ghe-532.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/ban-an-index-living-8-ghe-532.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/ban-an-aaa-6-ghe-532.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/ban-an-aaa-6-ghe-532.webp",
     "description": "Bộ bàn ăn mặt gỗ tự nhiên hoặc công nghiệp. Ghế bọc nệm êm. Thiết kế hiện đại hoặc cổ điển. Phù hợp gia đình.",
     "brand": "AAA",
     "sku": "AAA-0532-BỘ",
@@ -1401,9 +1497,9 @@
     "unit": "bộ",
     "shortDescription": "Bộ bàn ăn gỗ hoặc công nghiệp kèm ghế chắc chắn.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ban-an-index-living-8-ghe-532-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ban-an-index-living-8-ghe-532-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ban-an-index-living-8-ghe-532-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ban-an-aaa-6-ghe-532-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ban-an-aaa-6-ghe-532-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ban-an-aaa-6-ghe-532-c.webp"
     ],
     "specifications": {
       "Số ghế": "4-8",
@@ -1435,12 +1531,12 @@
   },
   {
     "id": "prod-533",
-    "name": "Giường ngủ Hòa Phát 1m8 cao cấp",
-    "slug": "giuong-ngu-hoa-phat-1m8-cao-cap-533",
+    "name": "Giường ngủ AAA 1m4",
+    "slug": "giuong-ngu-aaa-1m4-533",
     "price": 5950000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/giuong-ngu-hoa-phat-1m8-cao-cap-533.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/giuong-ngu-hoa-phat-1m8-cao-cap-533.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/giuong-ngu-aaa-1m4-533.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/giuong-ngu-aaa-1m4-533.webp",
     "description": "Giường ngủ kích thước đa dạng. Gỗ công nghiệp phủ melamine hoặc gỗ tự nhiên. Đầu giường bọc nệm. Thiết kế đơn giản hiện đại.",
     "brand": "AAA",
     "sku": "AAA-0533-CHI",
@@ -1449,9 +1545,9 @@
     "unit": "chiếc",
     "shortDescription": "Giường ngủ gỗ công nghiệp hoặc tự nhiên đầu giường bọc nệm.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/giuong-ngu-hoa-phat-1m8-cao-cap-533-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/giuong-ngu-hoa-phat-1m8-cao-cap-533-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/giuong-ngu-hoa-phat-1m8-cao-cap-533-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/giuong-ngu-aaa-1m4-533-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/giuong-ngu-aaa-1m4-533-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/giuong-ngu-aaa-1m4-533-c.webp"
     ],
     "specifications": {
       "Kích thước": "1m2-1m8",
@@ -1483,12 +1579,12 @@
   },
   {
     "id": "prod-534",
-    "name": "Tủ quần áo Hòa Phát 2 cánh phiên bản mới",
-    "slug": "tu-quan-ao-hoa-phat-2-canh-phien-ban-moi-534",
+    "name": "Tủ quần áo Hòa Phát 4 cánh",
+    "slug": "tu-quan-ao-hoa-phat-4-canh-534",
     "price": 8840000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/tu-quan-ao-hoa-phat-2-canh-phien-ban-moi-534.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/tu-quan-ao-hoa-phat-2-canh-phien-ban-moi-534.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/tu-quan-ao-hoa-phat-4-canh-534.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/tu-quan-ao-hoa-phat-4-canh-534.webp",
     "description": "Tủ quần áo cửa mở hoặc cửa lùa tiết kiệm không gian. Bên trong có treo kệ ngăn kéo. Gỗ công nghiệp phủ melamine bền đẹp.",
     "brand": "Hòa Phát",
     "sku": "HOA-0534-CHI",
@@ -1497,9 +1593,9 @@
     "unit": "chiếc",
     "shortDescription": "Tủ quần áo cửa mở hoặc lùa nhiều ngăn tiện dụng.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tu-quan-ao-hoa-phat-2-canh-phien-ban-moi-534-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tu-quan-ao-hoa-phat-2-canh-phien-ban-moi-534-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tu-quan-ao-hoa-phat-2-canh-phien-ban-moi-534-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tu-quan-ao-hoa-phat-4-canh-534-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tu-quan-ao-hoa-phat-4-canh-534-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tu-quan-ao-hoa-phat-4-canh-534-c.webp"
     ],
     "specifications": {
       "Số cánh": "2-4",
@@ -1531,12 +1627,12 @@
   },
   {
     "id": "prod-535",
-    "name": "Đèn trang trí Osram tường",
-    "slug": "den-trang-tri-osram-tuong-535",
+    "name": "Đèn trang trí Osram bàn",
+    "slug": "den-trang-tri-osram-ban-535",
     "price": 564000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/den-trang-tri-osram-tuong-535.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/den-trang-tri-osram-tuong-535.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/den-trang-tri-osram-ban-535.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/den-trang-tri-osram-ban-535.webp",
     "description": "Đèn trang trí thiết kế đẹp. Ánh sáng dịu hoặc điều chỉnh được. Chất liệu gỗ kim loại vải. Phù hợp nhiều không gian.",
     "brand": "Osram",
     "sku": "OSR-0535-CHI",
@@ -1545,9 +1641,9 @@
     "unit": "chiếc",
     "shortDescription": "Đèn trang trí nhiều kiểu dáng ánh sáng ấm hoặc LED.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/den-trang-tri-osram-tuong-535-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/den-trang-tri-osram-tuong-535-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/den-trang-tri-osram-tuong-535-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/den-trang-tri-osram-ban-535-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/den-trang-tri-osram-ban-535-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/den-trang-tri-osram-ban-535-c.webp"
     ],
     "specifications": {
       "Loại": "Sàn / Bàn / Trần / Tường",
@@ -1578,12 +1674,12 @@
   },
   {
     "id": "prod-536",
-    "name": "Thảm trải sàn Home Decor 120x180",
-    "slug": "tham-trai-san-home-decor-120x180-536",
+    "name": "Thảm trải sàn Index Living 1.6x2.3m",
+    "slug": "tham-trai-san-index-living-16x23m-536",
     "price": 1280000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/tham-trai-san-home-decor-120x180-536.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/tham-trai-san-home-decor-120x180-536.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/tham-trai-san-index-living-16x23m-536.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/tham-trai-san-index-living-16x23m-536.webp",
     "description": "Thảm trải sàn chất liệu sợi tổng hợp hoặc tự nhiên. Đế chống trượt. Dễ vệ sinh. Nhiều kích thước và họa tiết.",
     "brand": "Index Living",
     "sku": "IND-0536-CHI",
@@ -1592,9 +1688,9 @@
     "unit": "chiếc",
     "shortDescription": "Thảm trải sàn lông ngắn hoặc dài chống trượt nhiều họa tiết.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tham-trai-san-home-decor-120x180-536-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tham-trai-san-home-decor-120x180-536-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tham-trai-san-home-decor-120x180-536-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tham-trai-san-index-living-16x23m-536-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tham-trai-san-index-living-16x23m-536-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tham-trai-san-index-living-16x23m-536-c.webp"
     ],
     "specifications": {
       "Kích thước": "Đa dạng",
@@ -1626,12 +1722,12 @@
   },
   {
     "id": "prod-537",
-    "name": "Kệ sách / Kệ trang trí Duy Tân 2025",
-    "slug": "ke-sach-ke-trang-tri-duy-tan-2025-537",
+    "name": "Kệ sách Duy Tân 5 tầng",
+    "slug": "ke-sach-duy-tan-5-tang-537",
     "price": 1900000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/ke-sach-ke-trang-tri-duy-tan-2025-537.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/ke-sach-ke-trang-tri-duy-tan-2025-537.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/ke-sach-duy-tan-5-tang-537.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/ke-sach-duy-tan-5-tang-537.webp",
     "description": "Kệ sách hoặc kệ trang trí nhiều tầng. Gỗ công nghiệp hoặc kim loại. Chắc chắn dễ tự lắp. Phù hợp phòng làm việc phòng khách.",
     "brand": "Duy Tân",
     "sku": "DUY-0537-CHI",
@@ -1640,9 +1736,9 @@
     "unit": "chiếc",
     "shortDescription": "Kệ sách nhiều tầng chắc chắn dễ lắp đặt.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ke-sach-ke-trang-tri-duy-tan-2025-537-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ke-sach-ke-trang-tri-duy-tan-2025-537-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ke-sach-ke-trang-tri-duy-tan-2025-537-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ke-sach-duy-tan-5-tang-537-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ke-sach-duy-tan-5-tang-537-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ke-sach-duy-tan-5-tang-537-c.webp"
     ],
     "specifications": {
       "Số tầng": "3-6",
@@ -1674,12 +1770,12 @@
   },
   {
     "id": "prod-538",
-    "name": "Gương trang trí Decor Home",
-    "slug": "guong-trang-tri-decor-home-538",
+    "name": "Gương Home Decor trang điểm",
+    "slug": "guong-home-decor-trang-diem-538",
     "price": 468000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/guong-trang-tri-decor-home-538.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/guong-trang-tri-decor-home-538.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/guong-home-decor-trang-diem-538.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/guong-home-decor-trang-diem-538.webp",
     "description": "Gương soi toàn thân hoặc gương trang trí. Khung kim loại gỗ hoặc nhựa. Treo tường hoặc đứng. Phản chiếu rõ nét.",
     "brand": "Home Decor",
     "sku": "HOM-0538-CHI",
@@ -1688,9 +1784,9 @@
     "unit": "chiếc",
     "shortDescription": "Gương toàn thân hoặc trang trí khung đẹp.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/guong-trang-tri-decor-home-538-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/guong-trang-tri-decor-home-538-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/guong-trang-tri-decor-home-538-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/guong-home-decor-trang-diem-538-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/guong-home-decor-trang-diem-538-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/guong-home-decor-trang-diem-538-c.webp"
     ],
     "specifications": {
       "Loại": "Toàn thân / Trang trí",
@@ -1721,12 +1817,12 @@
   },
   {
     "id": "prod-539",
-    "name": "Rèm cửa Vải Đẹp",
-    "slug": "rem-cua-vai-dep-539",
+    "name": "Rèm cửa Vải Đẹp 1 lớp",
+    "slug": "rem-cua-vai-dep-1-lop-539",
     "price": 1100000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/rem-cua-vai-dep-539.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/rem-cua-vai-dep-539.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/rem-cua-vai-dep-1-lop-539.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/rem-cua-vai-dep-1-lop-539.webp",
     "description": "Rèm cửa 1 hoặc 2 lớp cản sáng giảm nhiệt. Nhiều chất liệu và màu sắc. May theo kích thước cửa. Dễ lắp đặt.",
     "brand": "Vải Đẹp",
     "sku": "VAI-0539-BỘ",
@@ -1735,9 +1831,9 @@
     "unit": "bộ",
     "shortDescription": "Rèm cửa chống nắng 1-2 lớp nhiều màu sắc.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/rem-cua-vai-dep-539-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/rem-cua-vai-dep-539-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/rem-cua-vai-dep-539-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/rem-cua-vai-dep-1-lop-539-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/rem-cua-vai-dep-1-lop-539-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/rem-cua-vai-dep-1-lop-539-c.webp"
     ],
     "specifications": {
       "Loại": "1-2 lớp",
@@ -1769,12 +1865,12 @@
   },
   {
     "id": "prod-540",
-    "name": "Tranh / Đồ trang trí tường Home Decor",
-    "slug": "tranh-do-trang-tri-tuong-home-decor-540",
+    "name": "Tranh trang trí Decor Home canvas",
+    "slug": "tranh-trang-tri-decor-home-canvas-540",
     "price": 189000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/tranh-do-trang-tri-tuong-home-decor-540.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/tranh-do-trang-tri-tuong-home-decor-540.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/tranh-trang-tri-decor-home-canvas-540.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/tranh-trang-tri-decor-home-canvas-540.webp",
     "description": "Tranh canvas đã căng khung hoặc đồ trang trí tường. Chủ đề đa dạng. Dễ treo. Tạo điểm nhấn cho không gian.",
     "brand": "Decor Home",
     "sku": "DEC-0540-BỘ",
@@ -1783,9 +1879,9 @@
     "unit": "bộ",
     "shortDescription": "Tranh canvas hoặc đồ trang trí tường tạo điểm nhấn.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tranh-do-trang-tri-tuong-home-decor-540-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tranh-do-trang-tri-tuong-home-decor-540-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tranh-do-trang-tri-tuong-home-decor-540-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tranh-trang-tri-decor-home-canvas-540-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tranh-trang-tri-decor-home-canvas-540-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tranh-trang-tri-decor-home-canvas-540-c.webp"
     ],
     "specifications": {
       "Loại": "Canvas / Metal / Gỗ",
@@ -1817,12 +1913,12 @@
   },
   {
     "id": "prod-541",
-    "name": "Sofa Ashley góc nỉ",
-    "slug": "sofa-ashley-goc-ni-541",
+    "name": "Sofa Phú Mỹ văng",
+    "slug": "sofa-phu-my-vang-541",
     "price": 7960000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/sofa-ashley-goc-ni-541.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/sofa-ashley-goc-ni-541.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/sofa-phu-my-vang-541.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/sofa-phu-my-vang-541.webp",
     "description": "Sofa thiết kế hiện đại. Khung gỗ hoặc kim loại chắc chắn. Đệm êm đàn hồi tốt. Bọc da công nghiệp hoặc nỉ dễ vệ sinh. Phù hợp nhiều không gian.",
     "brand": "Phú Mỹ",
     "sku": "PHU-0541-BỘ",
@@ -1831,9 +1927,9 @@
     "unit": "bộ",
     "shortDescription": "Sofa phòng khách êm ái khung chắc chắn nhiều kiểu dáng.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/sofa-ashley-goc-ni-541-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/sofa-ashley-goc-ni-541-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/sofa-ashley-goc-ni-541-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/sofa-phu-my-vang-541-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/sofa-phu-my-vang-541-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/sofa-phu-my-vang-541-c.webp"
     ],
     "specifications": {
       "Kiểu": "Góc / Văng / Bed",
@@ -1913,12 +2009,12 @@
   },
   {
     "id": "prod-543",
-    "name": "Giường ngủ Phố Xinh 1m2",
-    "slug": "giuong-ngu-pho-xinh-1m2-543",
+    "name": "Giường ngủ Index Living 1m6",
+    "slug": "giuong-ngu-index-living-1m6-543",
     "price": 12600000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/giuong-ngu-pho-xinh-1m2-543.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/giuong-ngu-pho-xinh-1m2-543.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/giuong-ngu-index-living-1m6-543.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/giuong-ngu-index-living-1m6-543.webp",
     "description": "Giường ngủ kích thước đa dạng. Gỗ công nghiệp phủ melamine hoặc gỗ tự nhiên. Đầu giường bọc nệm. Thiết kế đơn giản hiện đại.",
     "brand": "Index Living",
     "sku": "IND-0543-CHI",
@@ -1927,9 +2023,9 @@
     "unit": "chiếc",
     "shortDescription": "Giường ngủ gỗ công nghiệp hoặc tự nhiên đầu giường bọc nệm.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/giuong-ngu-pho-xinh-1m2-543-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/giuong-ngu-pho-xinh-1m2-543-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/giuong-ngu-pho-xinh-1m2-543-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/giuong-ngu-index-living-1m6-543-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/giuong-ngu-index-living-1m6-543-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/giuong-ngu-index-living-1m6-543-c.webp"
     ],
     "specifications": {
       "Kích thước": "1m2-1m8",
@@ -1961,12 +2057,12 @@
   },
   {
     "id": "prod-544",
-    "name": "Tủ quần áo Phố Xinh 3 cánh Pro",
-    "slug": "tu-quan-ao-pho-xinh-3-canh-pro-544",
+    "name": "Tủ quần áo Phố Xinh 4 cánh",
+    "slug": "tu-quan-ao-pho-xinh-4-canh-544",
     "price": 9690000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/tu-quan-ao-pho-xinh-3-canh-pro-544.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/tu-quan-ao-pho-xinh-3-canh-pro-544.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/tu-quan-ao-pho-xinh-4-canh-544.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/tu-quan-ao-pho-xinh-4-canh-544.webp",
     "description": "Tủ quần áo cửa mở hoặc cửa lùa tiết kiệm không gian. Bên trong có treo kệ ngăn kéo. Gỗ công nghiệp phủ melamine bền đẹp.",
     "brand": "Phố Xinh",
     "sku": "PHO-0544-CHI",
@@ -1975,9 +2071,9 @@
     "unit": "chiếc",
     "shortDescription": "Tủ quần áo cửa mở hoặc lùa nhiều ngăn tiện dụng.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tu-quan-ao-pho-xinh-3-canh-pro-544-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tu-quan-ao-pho-xinh-3-canh-pro-544-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tu-quan-ao-pho-xinh-3-canh-pro-544-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tu-quan-ao-pho-xinh-4-canh-544-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tu-quan-ao-pho-xinh-4-canh-544-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tu-quan-ao-pho-xinh-4-canh-544-c.webp"
     ],
     "specifications": {
       "Số cánh": "2-4",
@@ -2009,12 +2105,12 @@
   },
   {
     "id": "prod-545",
-    "name": "Đèn trang trí Philips tường 2025",
-    "slug": "den-trang-tri-philips-tuong-2025-545",
+    "name": "Đèn trang trí IKEA đứng",
+    "slug": "den-trang-tri-ikea-dung-545",
     "price": 1630000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/den-trang-tri-philips-tuong-2025-545.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/den-trang-tri-philips-tuong-2025-545.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/den-trang-tri-ikea-dung-545.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/den-trang-tri-ikea-dung-545.webp",
     "description": "Đèn trang trí thiết kế đẹp. Ánh sáng dịu hoặc điều chỉnh được. Chất liệu gỗ kim loại vải. Phù hợp nhiều không gian.",
     "brand": "IKEA",
     "sku": "IKE-0545-CHI",
@@ -2023,9 +2119,9 @@
     "unit": "chiếc",
     "shortDescription": "Đèn trang trí nhiều kiểu dáng ánh sáng ấm hoặc LED.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/den-trang-tri-philips-tuong-2025-545-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/den-trang-tri-philips-tuong-2025-545-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/den-trang-tri-philips-tuong-2025-545-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/den-trang-tri-ikea-dung-545-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/den-trang-tri-ikea-dung-545-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/den-trang-tri-ikea-dung-545-c.webp"
     ],
     "specifications": {
       "Loại": "Sàn / Bàn / Trần / Tường",
@@ -2056,12 +2152,12 @@
   },
   {
     "id": "prod-546",
-    "name": "Thảm trải sàn Unipax 200x300",
-    "slug": "tham-trai-san-unipax-200x300-546",
+    "name": "Thảm trải sàn IKEA lông ngắn",
+    "slug": "tham-trai-san-ikea-long-ngan-546",
     "price": 1740000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/tham-trai-san-unipax-200x300-546.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/tham-trai-san-unipax-200x300-546.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/tham-trai-san-ikea-long-ngan-546.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/tham-trai-san-ikea-long-ngan-546.webp",
     "description": "Thảm trải sàn chất liệu sợi tổng hợp hoặc tự nhiên. Đế chống trượt. Dễ vệ sinh. Nhiều kích thước và họa tiết.",
     "brand": "IKEA",
     "sku": "IKE-0546-CHI",
@@ -2070,9 +2166,9 @@
     "unit": "chiếc",
     "shortDescription": "Thảm trải sàn lông ngắn hoặc dài chống trượt nhiều họa tiết.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tham-trai-san-unipax-200x300-546-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tham-trai-san-unipax-200x300-546-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tham-trai-san-unipax-200x300-546-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tham-trai-san-ikea-long-ngan-546-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tham-trai-san-ikea-long-ngan-546-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tham-trai-san-ikea-long-ngan-546-c.webp"
     ],
     "specifications": {
       "Kích thước": "Đa dạng",
@@ -2104,12 +2200,12 @@
   },
   {
     "id": "prod-547",
-    "name": "Kệ sách / Kệ trang trí IKEA Max",
-    "slug": "ke-sach-ke-trang-tri-ikea-max-547",
+    "name": "Kệ sách Duy Tân 4 tầng",
+    "slug": "ke-sach-duy-tan-4-tang-547",
     "price": 1490000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/ke-sach-ke-trang-tri-ikea-max-547.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/ke-sach-ke-trang-tri-ikea-max-547.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/ke-sach-duy-tan-4-tang-547.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/ke-sach-duy-tan-4-tang-547.webp",
     "description": "Kệ sách hoặc kệ trang trí nhiều tầng. Gỗ công nghiệp hoặc kim loại. Chắc chắn dễ tự lắp. Phù hợp phòng làm việc phòng khách.",
     "brand": "Duy Tân",
     "sku": "DUY-0547-CHI",
@@ -2118,9 +2214,9 @@
     "unit": "chiếc",
     "shortDescription": "Kệ sách nhiều tầng chắc chắn dễ lắp đặt.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ke-sach-ke-trang-tri-ikea-max-547-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ke-sach-ke-trang-tri-ikea-max-547-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ke-sach-ke-trang-tri-ikea-max-547-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ke-sach-duy-tan-4-tang-547-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ke-sach-duy-tan-4-tang-547-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ke-sach-duy-tan-4-tang-547-c.webp"
     ],
     "specifications": {
       "Số tầng": "3-6",
@@ -2152,12 +2248,12 @@
   },
   {
     "id": "prod-548",
-    "name": "Gương trang trí Phố Xinh",
-    "slug": "guong-trang-tri-pho-xinh-548",
+    "name": "Gương Decor Home treo tường",
+    "slug": "guong-decor-home-treo-tuong-548",
     "price": 1570000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/guong-trang-tri-pho-xinh-548.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/guong-trang-tri-pho-xinh-548.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/guong-decor-home-treo-tuong-548.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/guong-decor-home-treo-tuong-548.webp",
     "description": "Gương soi toàn thân hoặc gương trang trí. Khung kim loại gỗ hoặc nhựa. Treo tường hoặc đứng. Phản chiếu rõ nét.",
     "brand": "Decor Home",
     "sku": "DEC-0548-CHI",
@@ -2166,9 +2262,9 @@
     "unit": "chiếc",
     "shortDescription": "Gương toàn thân hoặc trang trí khung đẹp.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/guong-trang-tri-pho-xinh-548-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/guong-trang-tri-pho-xinh-548-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/guong-trang-tri-pho-xinh-548-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/guong-decor-home-treo-tuong-548-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/guong-decor-home-treo-tuong-548-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/guong-decor-home-treo-tuong-548-c.webp"
     ],
     "specifications": {
       "Loại": "Toàn thân / Trang trí",
@@ -2199,12 +2295,12 @@
   },
   {
     "id": "prod-549",
-    "name": "Rèm cửa IKEA",
-    "slug": "rem-cua-ikea-549",
+    "name": "Rèm cửa IKEA chống nắng",
+    "slug": "rem-cua-ikea-chong-nang-549",
     "price": 1380000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/rem-cua-ikea-549.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/rem-cua-ikea-549.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/rem-cua-ikea-chong-nang-549.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/rem-cua-ikea-chong-nang-549.webp",
     "description": "Rèm cửa 1 hoặc 2 lớp cản sáng giảm nhiệt. Nhiều chất liệu và màu sắc. May theo kích thước cửa. Dễ lắp đặt.",
     "brand": "IKEA",
     "sku": "IKE-0549-BỘ",
@@ -2213,9 +2309,9 @@
     "unit": "bộ",
     "shortDescription": "Rèm cửa chống nắng 1-2 lớp nhiều màu sắc.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/rem-cua-ikea-549-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/rem-cua-ikea-549-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/rem-cua-ikea-549-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/rem-cua-ikea-chong-nang-549-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/rem-cua-ikea-chong-nang-549-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/rem-cua-ikea-chong-nang-549-c.webp"
     ],
     "specifications": {
       "Loại": "1-2 lớp",
@@ -2247,12 +2343,12 @@
   },
   {
     "id": "prod-550",
-    "name": "Tranh / Đồ trang trí tường Decor Home",
-    "slug": "tranh-do-trang-tri-tuong-decor-home-550",
+    "name": "Tranh trang trí Art House set 3 bức",
+    "slug": "tranh-trang-tri-art-house-set-3-buc-550",
     "price": 518000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/tranh-do-trang-tri-tuong-decor-home-550.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/tranh-do-trang-tri-tuong-decor-home-550.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/tranh-trang-tri-art-house-set-3-buc-550.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/tranh-trang-tri-art-house-set-3-buc-550.webp",
     "description": "Tranh canvas đã căng khung hoặc đồ trang trí tường. Chủ đề đa dạng. Dễ treo. Tạo điểm nhấn cho không gian.",
     "brand": "Art House",
     "sku": "ART-0550-BỘ",
@@ -2261,9 +2357,9 @@
     "unit": "bộ",
     "shortDescription": "Tranh canvas hoặc đồ trang trí tường tạo điểm nhấn.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tranh-do-trang-tri-tuong-decor-home-550-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tranh-do-trang-tri-tuong-decor-home-550-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tranh-do-trang-tri-tuong-decor-home-550-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tranh-trang-tri-art-house-set-3-buc-550-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tranh-trang-tri-art-house-set-3-buc-550-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/tranh-trang-tri-art-house-set-3-buc-550-c.webp"
     ],
     "specifications": {
       "Loại": "Canvas / Metal / Gỗ",

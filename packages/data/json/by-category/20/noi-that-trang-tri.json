@@ -1,12 +1,12 @@
 [
   {
     "id": "prod-501",
-    "name": "Sofa Index Living góc da",
-    "slug": "sofa-index-living-goc-da-501",
+    "name": "Sofa Phú Mỹ góc da",
+    "slug": "sofa-phu-my-goc-da-501",
     "price": 13940000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/sofa-index-living-goc-da-501.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/sofa-index-living-goc-da-501.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/sofa-phu-my-goc-da-501.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/sofa-phu-my-goc-da-501.webp",
     "description": "Sofa thiết kế hiện đại. Khung gỗ hoặc kim loại chắc chắn. Đệm êm đàn hồi tốt. Bọc da công nghiệp hoặc nỉ dễ vệ sinh. Phù hợp nhiều không gian.",
     "brand": "Phú Mỹ",
     "sku": "PHU-0501-BỘ",
@@ -15,9 +15,9 @@
     "unit": "bộ",
     "shortDescription": "Sofa phòng khách êm ái khung chắc chắn nhiều kiểu dáng.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/sofa-index-living-goc-da-501-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/sofa-index-living-goc-da-501-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/sofa-index-living-goc-da-501-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/sofa-phu-my-goc-da-501-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/sofa-phu-my-goc-da-501-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/sofa-phu-my-goc-da-501-c.webp"
     ],
     "specifications": {
       "Kiểu": "Góc / Văng / Bed",
@@ -26,7 +26,7 @@
       "Đệm": "Mút D30-D40"
     },
     "rating": {
-      "average": 4,
+      "average": 4.0,
       "count": 818
     },
     "stock": 249,
@@ -49,12 +49,12 @@
   },
   {
     "id": "prod-502",
-    "name": "Bàn ăn Duy Tân 6 ghế",
-    "slug": "ban-an-duy-tan-6-ghe-502",
+    "name": "Bàn ăn Phố Xinh 6 ghế",
+    "slug": "ban-an-pho-xinh-6-ghe-502",
     "price": 7080000,
     "categoryId": "cat-5",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/ban-an-duy-tan-6-ghe-502.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/ban-an-duy-tan-6-ghe-502.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/noi-that-trang-tri/ban-an-pho-xinh-6-ghe-502.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/noi-that-trang-tri/ban-an-pho-xinh-6-ghe-502.webp",
     "description": "Bộ bàn ăn mặt gỗ tự nhiên hoặc công nghiệp. Ghế bọc nệm êm. Thiết kế hiện đại hoặc cổ điển. Phù hợp gia đình.",
     "brand": "Phố Xinh",
     "sku": "PHO-0502-BỘ",
@@ -63,9 +63,9 @@
     "unit": "bộ",
     "shortDescription": "Bộ bàn ăn gỗ hoặc công nghiệp kèm ghế chắc chắn.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ban-an-duy-tan-6-ghe-502-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ban-an-duy-tan-6-ghe-502-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ban-an-duy-tan-6-ghe-502-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ban-an-pho-xinh-6-ghe-502-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ban-an-pho-xinh-6-ghe-502-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/noi-that-trang-tri/ban-an-pho-xinh-6-ghe-502-c.webp"
     ],
     "specifications": {
       "Số ghế": "4-8",

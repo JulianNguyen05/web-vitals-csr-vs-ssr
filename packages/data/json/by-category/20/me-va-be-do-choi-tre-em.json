@@ -1,12 +1,12 @@
 [
   {
     "id": "prod-301",
-    "name": "Tã quần Bobby size XL limited",
-    "slug": "ta-quan-bobby-size-xl-limited-301",
+    "name": "Tã quần Molfix size M",
+    "slug": "ta-quan-molfix-size-m-301",
     "price": 265000,
     "categoryId": "cat-3",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/ta-quan-bobby-size-xl-limited-301.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/ta-quan-bobby-size-xl-limited-301.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/ta-quan-molfix-size-m-301.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/ta-quan-molfix-size-m-301.webp",
     "description": "Tã quần thấm hút vượt trội chống tràn hiệu quả. Lớp bề mặt mềm mại không kích ứng. Co giãn 4 chiều dễ mặc. Thoáng khí giữ da bé khô.",
     "brand": "Molfix",
     "sku": "MOL-0301-BỊC",
@@ -15,9 +15,9 @@
     "unit": "bịch",
     "shortDescription": "Tã quần siêu thấm chống tràn thoáng khí cho bé.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-bobby-size-xl-limited-301-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-bobby-size-xl-limited-301-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-bobby-size-xl-limited-301-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-molfix-size-m-301-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-molfix-size-m-301-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/ta-quan-molfix-size-m-301-c.webp"
     ],
     "specifications": {
       "Size": "M-XXL",
@@ -34,7 +34,7 @@
     "dimensions": {
       "length": 35.5,
       "width": 26.4,
-      "height": 18
+      "height": 18.0
     },
     "origin": "Việt Nam / Nhật Bản / Thái Lan",
     "warranty": "Đổi trả nếu lỗi NSX",
@@ -48,12 +48,12 @@
   },
   {
     "id": "prod-302",
-    "name": "Sữa bột Grow số 2",
-    "slug": "sua-bot-grow-so-2-302",
+    "name": "Sữa bột Enfamil A+ 3",
+    "slug": "sua-bot-enfamil-a-3-302",
     "price": 666000,
     "categoryId": "cat-3",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/sua-bot-grow-so-2-302.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/sua-bot-grow-so-2-302.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/me-va-be-do-choi-tre-em/sua-bot-enfamil-a-3-302.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/me-va-be-do-choi-tre-em/sua-bot-enfamil-a-3-302.webp",
     "description": "Sữa bột công thức gần sữa mẹ. Bổ sung DHA và dưỡng chất hỗ trợ phát triển trí não và thể chất. Dễ tiêu hóa. Hương vị dễ uống.",
     "brand": "Enfamil",
     "sku": "ENF-0302-HỘP",
@@ -62,9 +62,9 @@
     "unit": "hộp",
     "shortDescription": "Sữa bột dinh dưỡng cho trẻ nhỏ bổ sung DHA.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-grow-so-2-302-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-grow-so-2-302-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-grow-so-2-302-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-enfamil-a-3-302-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-enfamil-a-3-302-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/me-va-be-do-choi-tre-em/sua-bot-enfamil-a-3-302-c.webp"
     ],
     "specifications": {
       "Độ tuổi": "0-6 / 6-12 / 1-3 tuổi",

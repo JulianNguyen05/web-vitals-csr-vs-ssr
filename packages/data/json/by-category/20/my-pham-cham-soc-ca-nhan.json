@@ -1,12 +1,12 @@
 [
   {
     "id": "prod-401",
-    "name": "Serum CeraVe Retinol",
-    "slug": "serum-cerave-retinol-401",
+    "name": "Serum dưỡng da CeraVe Retinol",
+    "slug": "serum-duong-da-cerave-retinol-401",
     "price": 403000,
     "categoryId": "cat-4",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/my-pham-cham-soc-ca-nhan/serum-cerave-retinol-401.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/my-pham-cham-soc-ca-nhan/serum-cerave-retinol-401.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/my-pham-cham-soc-ca-nhan/serum-duong-da-cerave-retinol-401.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/my-pham-cham-soc-ca-nhan/serum-duong-da-cerave-retinol-401.webp",
     "description": "Serum công thức tập trung hoạt chất. Hỗ trợ làm sáng mờ thâm cấp ẩm hoặc trị mụn tùy loại. Phù hợp nhiều loại da. Sử dụng theo hướng dẫn.",
     "brand": "CeraVe",
     "sku": "CER-0401-CHA",
@@ -15,9 +15,9 @@
     "unit": "chai",
     "shortDescription": "Serum dưỡng da chuyên sâu cải thiện làn da.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/serum-cerave-retinol-401-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/serum-cerave-retinol-401-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/serum-cerave-retinol-401-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/serum-duong-da-cerave-retinol-401-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/serum-duong-da-cerave-retinol-401-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/serum-duong-da-cerave-retinol-401-c.webp"
     ],
     "specifications": {
       "Dung tích": "30ml",
@@ -34,7 +34,7 @@
     "weight": 42,
     "dimensions": {
       "length": 3.9,
-      "width": 4,
+      "width": 4.0,
       "height": 10.2
     },
     "origin": "Canada / Pháp / Hàn Quốc",
@@ -49,12 +49,12 @@
   },
   {
     "id": "prod-402",
-    "name": "Kem chống nắng Senka SPF50+ 2025",
-    "slug": "kem-chong-nang-senka-spf50-2025-402",
+    "name": "Kem chống nắng Biore SPF50+",
+    "slug": "kem-chong-nang-biore-spf50-402",
     "price": 552000,
     "categoryId": "cat-4",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/my-pham-cham-soc-ca-nhan/kem-chong-nang-senka-spf50-2025-402.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/my-pham-cham-soc-ca-nhan/kem-chong-nang-senka-spf50-2025-402.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/my-pham-cham-soc-ca-nhan/kem-chong-nang-biore-spf50-402.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/my-pham-cham-soc-ca-nhan/kem-chong-nang-biore-spf50-402.webp",
     "description": "Kem chống nắng bảo vệ cao SPF50+ PA++++. Công nghệ chống nước mồ hôi. Kết cấu mỏng nhẹ không gây nhờn. Có thể dùng làm lớp lót.",
     "brand": "Biore",
     "sku": "BIO-0402-CHA",
@@ -63,9 +63,9 @@
     "unit": "chai",
     "shortDescription": "Kem chống nắng SPF50+ PA++++ chống nước không nhờn.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/kem-chong-nang-senka-spf50-2025-402-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/kem-chong-nang-senka-spf50-2025-402-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/kem-chong-nang-senka-spf50-2025-402-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/kem-chong-nang-biore-spf50-402-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/kem-chong-nang-biore-spf50-402-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/my-pham-cham-soc-ca-nhan/kem-chong-nang-biore-spf50-402-c.webp"
     ],
     "specifications": {
       "SPF": "50+",

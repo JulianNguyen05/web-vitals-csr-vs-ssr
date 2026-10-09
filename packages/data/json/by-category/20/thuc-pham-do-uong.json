@@ -1,12 +1,12 @@
 [
   {
     "id": "prod-901",
-    "name": "Cà phê Trung Nguyên rang xay Mini",
-    "slug": "ca-phe-trung-nguyen-rang-xay-mini-901",
+    "name": "Cà phê Nescafe Gold",
+    "slug": "ca-phe-nescafe-gold-901",
     "price": 287000,
     "categoryId": "cat-9",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/thuc-pham-do-uong/ca-phe-trung-nguyen-rang-xay-mini-901.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/thuc-pham-do-uong/ca-phe-trung-nguyen-rang-xay-mini-901.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/thuc-pham-do-uong/ca-phe-nescafe-gold-901.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/thuc-pham-do-uong/ca-phe-nescafe-gold-901.webp",
     "description": "Cà phê chọn lọc rang theo công thức riêng. Hương vị đậm đà chua thanh hoặc đậm ngọt. Dạng rang xay hòa tan hoặc phin giấy tiện dụng.",
     "brand": "Nescafe",
     "sku": "NES-0901-GÓI",
@@ -15,9 +15,9 @@
     "unit": "gói/hộp",
     "shortDescription": "Cà phê rang xay hoặc hòa tan hương vị đậm đà.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/thuc-pham-do-uong/ca-phe-trung-nguyen-rang-xay-mini-901-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/thuc-pham-do-uong/ca-phe-trung-nguyen-rang-xay-mini-901-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/thuc-pham-do-uong/ca-phe-trung-nguyen-rang-xay-mini-901-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/thuc-pham-do-uong/ca-phe-nescafe-gold-901-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/thuc-pham-do-uong/ca-phe-nescafe-gold-901-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/thuc-pham-do-uong/ca-phe-nescafe-gold-901-c.webp"
     ],
     "specifications": {
       "Loại": "Rang xay / Hòa tan",
@@ -33,7 +33,7 @@
     "weight": 342,
     "dimensions": {
       "length": 14.8,
-      "width": 9,
+      "width": 9.0,
       "height": 5.5
     },
     "origin": "Việt Nam",
@@ -49,12 +49,12 @@
   },
   {
     "id": "prod-902",
-    "name": "Sữa tươi / Sữa chua Nestle",
-    "slug": "sua-tuoi-sua-chua-nestle-902",
+    "name": "Sữa sữa chua Nestle tươi 1L",
+    "slug": "sua-sua-chua-nestle-tuoi-1l-902",
     "price": 82200,
     "categoryId": "cat-9",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/thuc-pham-do-uong/sua-tuoi-sua-chua-nestle-902.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/thuc-pham-do-uong/sua-tuoi-sua-chua-nestle-902.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/thuc-pham-do-uong/sua-sua-chua-nestle-tuoi-1l-902.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/thuc-pham-do-uong/sua-sua-chua-nestle-tuoi-1l-902.webp",
     "description": "Sữa tươi 100% hoặc sữa chua men sống. Giàu canxi protein. Hỗ trợ tiêu hóa và phát triển. Nhiều hương vị. Tiện lợi dùng hàng ngày.",
     "brand": "Nestle",
     "sku": "NES-0902-HỘP",
@@ -63,9 +63,9 @@
     "unit": "hộp/lốc",
     "shortDescription": "Sữa tươi tiệt trùng hoặc sữa chua men sống dinh dưỡng.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/thuc-pham-do-uong/sua-tuoi-sua-chua-nestle-902-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/thuc-pham-do-uong/sua-tuoi-sua-chua-nestle-902-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/thuc-pham-do-uong/sua-tuoi-sua-chua-nestle-902-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/thuc-pham-do-uong/sua-sua-chua-nestle-tuoi-1l-902-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/thuc-pham-do-uong/sua-sua-chua-nestle-tuoi-1l-902-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/thuc-pham-do-uong/sua-sua-chua-nestle-tuoi-1l-902-c.webp"
     ],
     "specifications": {
       "Loại": "Sữa tươi / Sữa chua",

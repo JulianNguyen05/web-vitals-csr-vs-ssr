@@ -1,12 +1,12 @@
 [
   {
     "id": "prod-801",
-    "name": "Áo sơ mi Zara nữ công sở",
-    "slug": "ao-so-mi-zara-nu-cong-so-801",
+    "name": "Áo sơ mi Zara nam Oxford",
+    "slug": "ao-so-mi-zara-nam-oxford-801",
     "price": 698000,
     "categoryId": "cat-8",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/thoi-trang/ao-so-mi-zara-nu-cong-so-801.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/thoi-trang/ao-so-mi-zara-nu-cong-so-801.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/thoi-trang/ao-so-mi-zara-nam-oxford-801.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/thoi-trang/ao-so-mi-zara-nam-oxford-801.webp",
     "description": "Áo sơ mi chất liệu cotton Oxford lụa hoặc kate. Form regular hoặc slim. Dễ phối với quần âu jean. Phù hợp đi làm đi chơi.",
     "brand": "Zara",
     "sku": "ZAR-0801-CHI",
@@ -15,9 +15,9 @@
     "unit": "chiếc",
     "shortDescription": "Áo sơ mi chất liệu mềm form đẹp dễ phối.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/thoi-trang/ao-so-mi-zara-nu-cong-so-801-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/thoi-trang/ao-so-mi-zara-nu-cong-so-801-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/thoi-trang/ao-so-mi-zara-nu-cong-so-801-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/thoi-trang/ao-so-mi-zara-nam-oxford-801-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/thoi-trang/ao-so-mi-zara-nam-oxford-801-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/thoi-trang/ao-so-mi-zara-nam-oxford-801-c.webp"
     ],
     "specifications": {
       "Chất liệu": "Cotton / Lụa / Kate",
@@ -49,12 +49,12 @@
   },
   {
     "id": "prod-802",
-    "name": "Quần jeans Levi's slim",
-    "slug": "quan-jeans-levis-slim-802",
+    "name": "Quần jeans Uniqlo straight",
+    "slug": "quan-jeans-uniqlo-straight-802",
     "price": 510000,
     "categoryId": "cat-8",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/thoi-trang/quan-jeans-levis-slim-802.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/thoi-trang/quan-jeans-levis-slim-802.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/thoi-trang/quan-jeans-uniqlo-straight-802.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/thoi-trang/quan-jeans-uniqlo-straight-802.webp",
     "description": "Quần jeans denim co giãn. Nhiều form skinny slim regular. Màu xanh đen xám. Bền màu. Phù hợp mọi hoàn cảnh.",
     "brand": "Uniqlo",
     "sku": "UNI-0802-CHI",
@@ -63,9 +63,9 @@
     "unit": "chiếc",
     "shortDescription": "Quần jeans co giãn form đẹp nhiều màu.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/thoi-trang/quan-jeans-levis-slim-802-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/thoi-trang/quan-jeans-levis-slim-802-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/thoi-trang/quan-jeans-levis-slim-802-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/thoi-trang/quan-jeans-uniqlo-straight-802-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/thoi-trang/quan-jeans-uniqlo-straight-802-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/thoi-trang/quan-jeans-uniqlo-straight-802-c.webp"
     ],
     "specifications": {
       "Form": "Skinny / Slim / Regular / Wide",
@@ -82,7 +82,7 @@
     "weight": 473,
     "dimensions": {
       "length": 40.4,
-      "width": 30,
+      "width": 30.0,
       "height": 3.2
     },
     "origin": "Việt Nam / Trung Quốc / Bangladesh",

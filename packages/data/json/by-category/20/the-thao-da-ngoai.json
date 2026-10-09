@@ -1,12 +1,12 @@
 [
   {
     "id": "prod-701",
-    "name": "Giày thể thao Puma chạy bộ",
-    "slug": "giay-the-thao-puma-chay-bo-701",
+    "name": "Giày thể thao Adidas Runfalcon",
+    "slug": "giay-the-thao-adidas-runfalcon-701",
     "price": 673000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/giay-the-thao-puma-chay-bo-701.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/giay-the-thao-puma-chay-bo-701.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/giay-the-thao-adidas-runfalcon-701.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/giay-the-thao-adidas-runfalcon-701.webp",
     "description": "Giày thể thao đệm êm giảm chấn. Upper thoáng khí. Đế bám tốt. Phù hợp chạy bộ tập gym hoặc mang hàng ngày. Nhiều size màu.",
     "brand": "Adidas",
     "sku": "ADI-0701-ĐÔI",
@@ -15,9 +15,9 @@
     "unit": "đôi",
     "shortDescription": "Giày thể thao đệm êm nhẹ thoáng khí nhiều mục đích.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/giay-the-thao-puma-chay-bo-701-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/giay-the-thao-puma-chay-bo-701-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/giay-the-thao-puma-chay-bo-701-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/giay-the-thao-adidas-runfalcon-701-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/giay-the-thao-adidas-runfalcon-701-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/giay-the-thao-adidas-runfalcon-701-c.webp"
     ],
     "specifications": {
       "Loại": "Chạy / Training / Lifestyle",
@@ -49,12 +49,12 @@
   },
   {
     "id": "prod-702",
-    "name": "Thảm yoga / Thảm tập Decathlon Mini",
-    "slug": "tham-yoga-tham-tap-decathlon-mini-702",
+    "name": "Thảm yoga Xiaomi TPE 8mm",
+    "slug": "tham-yoga-xiaomi-tpe-8mm-702",
     "price": 628000,
     "categoryId": "cat-7",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/tham-yoga-tham-tap-decathlon-mini-702.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/tham-yoga-tham-tap-decathlon-mini-702.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/the-thao-da-ngoai/tham-yoga-xiaomi-tpe-8mm-702.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/the-thao-da-ngoai/tham-yoga-xiaomi-tpe-8mm-702.webp",
     "description": "Thảm yoga chất liệu TPE hoặc PVC cao cấp. Chống trượt tốt. Độ dày hỗ trợ khớp. Thân thiện môi trường. Kèm túi đựng.",
     "brand": "Xiaomi",
     "sku": "XIA-0702-CHI",
@@ -63,9 +63,9 @@
     "unit": "chiếc",
     "shortDescription": "Thảm yoga chống trượt dày hỗ trợ khớp thân thiện MT.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-yoga-tham-tap-decathlon-mini-702-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-yoga-tham-tap-decathlon-mini-702-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-yoga-tham-tap-decathlon-mini-702-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-yoga-xiaomi-tpe-8mm-702-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-yoga-xiaomi-tpe-8mm-702-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/the-thao-da-ngoai/tham-yoga-xiaomi-tpe-8mm-702-c.webp"
     ],
     "specifications": {
       "Chất liệu": "TPE / PVC",

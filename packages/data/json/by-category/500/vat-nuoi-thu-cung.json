@@ -1,12 +1,109 @@
 [
   {
+    "id": "prod-1001",
+    "name": "Thức ăn hạt Whiskas Indoor",
+    "slug": "thuc-an-hat-whiskas-indoor-1001",
+    "price": 680000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/thuc-an-hat-whiskas-indoor-1001.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/thuc-an-hat-whiskas-indoor-1001.webp",
+    "description": "Thức ăn hạt khô công thức cân bằng dinh dưỡng. Hỗ trợ tiêu hóa da lông và sức khỏe tổng thể. Nhiều size hạt phù hợp. Bao nhiều trọng lượng.",
+    "brand": "Whiskas",
+    "sku": "WHI-1001-BAO",
+    "originalPrice": 818000,
+    "discountPercent": 17,
+    "unit": "bao",
+    "shortDescription": "Thức ăn hạt khô dinh dưỡng cho chó mèo mọi lứa tuổi.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-hat-whiskas-indoor-1001-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-hat-whiskas-indoor-1001-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-hat-whiskas-indoor-1001-c.webp"
+    ],
+    "specifications": {
+      "Đối tượng": "Chó / Mèo",
+      "Lứa tuổi": "Con / Trưởng thành / Già",
+      "Trọng lượng": "400g-5kg",
+      "Dạng": "Hạt khô"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 705
+    },
+    "stock": 36,
+    "soldCount": 316,
+    "weight": 3400,
+    "dimensions": {
+      "length": 25.1,
+      "width": 16.3,
+      "height": 9.8
+    },
+    "origin": "Pháp / Thái Lan / Việt Nam",
+    "warranty": "Theo HSD",
+    "tags": [
+      "thức ăn",
+      "chó mèo",
+      "hạt khô",
+      "dinh dưỡng",
+      "whiskas"
+    ],
+    "createdAt": "2026-03-05T00:00:00.000Z"
+  },
+  {
+    "id": "prod-1002",
+    "name": "Cát vệ sinh mèo Cat's Best Original",
+    "slug": "cat-ve-sinh-meo-cats-best-original-1002",
+    "price": 134000,
+    "categoryId": "cat-10",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/cat-ve-sinh-meo-cats-best-original-1002.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/cat-ve-sinh-meo-cats-best-original-1002.webp",
+    "description": "Cát vệ sinh vón cục nhanh thấm hút cao. Khử mùi hiệu quả. Có loại gỗ hoặc đất sét. Thân thiện môi trường tùy loại.",
+    "brand": "Cat's Best",
+    "sku": "CAT-1002-BAO",
+    "originalPrice": 155000,
+    "discountPercent": 14,
+    "unit": "bao",
+    "shortDescription": "Cát vệ sinh mèo vón cục thấm hút khử mùi tốt.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/cat-ve-sinh-meo-cats-best-original-1002-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/cat-ve-sinh-meo-cats-best-original-1002-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/cat-ve-sinh-meo-cats-best-original-1002-c.webp"
+    ],
+    "specifications": {
+      "Loại": "Vón cục / Gỗ / Đất sét",
+      "Dung tích": "5-10L",
+      "Khử mùi": "Tốt",
+      "Xả được": "Tùy loại"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 882
+    },
+    "stock": 6,
+    "soldCount": 1324,
+    "weight": 5257,
+    "dimensions": {
+      "length": 40.9,
+      "width": 25.9,
+      "height": 14.7
+    },
+    "origin": "Đức / Thái Lan / Nhật Bản / Trung Quốc",
+    "warranty": "Đổi trả nếu lỗi",
+    "tags": [
+      "cát mèo",
+      "vệ sinh",
+      "khử mùi",
+      "cats-best"
+    ],
+    "createdAt": "2026-03-26T00:00:00.000Z"
+  },
+  {
     "id": "prod-1003",
-    "name": "Vòng cổ / Dây dắt mèo Chuchu Mini",
-    "slug": "vong-co-day-dat-meo-chuchu-mini-1003",
+    "name": "Vòng cổ dây dắt Chuchu Mini",
+    "slug": "vong-co-day-dat-chuchu-mini-1003",
     "price": 410000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/vong-co-day-dat-meo-chuchu-mini-1003.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/vong-co-day-dat-meo-chuchu-mini-1003.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/vong-co-day-dat-chuchu-mini-1003.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/vong-co-day-dat-chuchu-mini-1003.webp",
     "description": "Vòng cổ và dây dắt chất liệu nylon hoặc da. Điều chỉnh chu vi. Khóa an toàn. Nhiều màu size. Phù hợp đi dạo hàng ngày.",
     "brand": "Chuchu",
     "sku": "CHU-1003-BỘ",
@@ -15,9 +112,9 @@
     "unit": "bộ",
     "shortDescription": "Vòng cổ dây dắt chắc chắn điều chỉnh được.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-co-day-dat-meo-chuchu-mini-1003-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-co-day-dat-meo-chuchu-mini-1003-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-co-day-dat-meo-chuchu-mini-1003-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-co-day-dat-chuchu-mini-1003-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-co-day-dat-chuchu-mini-1003-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-co-day-dat-chuchu-mini-1003-c.webp"
     ],
     "specifications": {
       "Loại": "Vòng cổ + Dây dắt",
@@ -50,12 +147,12 @@
   },
   {
     "id": "prod-1004",
-    "name": "Đồ chơi chó Kong",
-    "slug": "do-choi-cho-kong-1004",
+    "name": "Đồ chơi Petstages Orb",
+    "slug": "do-choi-petstages-orb-1004",
     "price": 231000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/do-choi-cho-kong-1004.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/do-choi-cho-kong-1004.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/do-choi-petstages-orb-1004.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/do-choi-petstages-orb-1004.webp",
     "description": "Đồ chơi bóng cần câu lông vũ hoặc nhét treat. Kích thích bản năng. Giúp vận động và giảm stress. Chất liệu bền an toàn.",
     "brand": "Petstages",
     "sku": "PET-1004-CHI",
@@ -64,9 +161,9 @@
     "unit": "chiếc",
     "shortDescription": "Đồ chơi cho chó mèo kích thích vận động giảm stress.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/do-choi-cho-kong-1004-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/do-choi-cho-kong-1004-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/do-choi-cho-kong-1004-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/do-choi-petstages-orb-1004-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/do-choi-petstages-orb-1004-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/do-choi-petstages-orb-1004-c.webp"
     ],
     "specifications": {
       "Loại": "Bóng / Cần câu / Nhét treat",
@@ -97,12 +194,12 @@
   },
   {
     "id": "prod-1005",
-    "name": "Sữa tắm mèo 8in1 phiên bản mới",
-    "slug": "sua-tam-meo-8in1-phien-ban-moi-1005",
+    "name": "Sữa tắm Local 200ml",
+    "slug": "sua-tam-local-200ml-1005",
     "price": 138000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/sua-tam-meo-8in1-phien-ban-moi-1005.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/sua-tam-meo-8in1-phien-ban-moi-1005.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/sua-tam-local-200ml-1005.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/sua-tam-local-200ml-1005.webp",
     "description": "Sữa tắm chuyên dụng cho chó mèo. Làm sạch khử mùi. Dưỡng lông mềm mượt. pH cân bằng không khô da. Hương dịu.",
     "brand": "Local",
     "sku": "LOC-1005-CHA",
@@ -111,9 +208,9 @@
     "unit": "chai",
     "shortDescription": "Sữa tắm chó mèo khử mùi dưỡng lông pH cân bằng.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/sua-tam-meo-8in1-phien-ban-moi-1005-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/sua-tam-meo-8in1-phien-ban-moi-1005-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/sua-tam-meo-8in1-phien-ban-moi-1005-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/sua-tam-local-200ml-1005-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/sua-tam-local-200ml-1005-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/sua-tam-local-200ml-1005-c.webp"
     ],
     "specifications": {
       "Dung tích": "200-500ml",
@@ -145,12 +242,12 @@
   },
   {
     "id": "prod-1006",
-    "name": "Lồng / Nhà vệ sinh mèo Iris 2025",
-    "slug": "long-nha-ve-sinh-meo-iris-2025-1006",
+    "name": "Lồng nhà vệ sinh Local M",
+    "slug": "long-nha-ve-sinh-local-m-1006",
     "price": 1470000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/long-nha-ve-sinh-meo-iris-2025-1006.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/long-nha-ve-sinh-meo-iris-2025-1006.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/long-nha-ve-sinh-local-m-1006.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/long-nha-ve-sinh-local-m-1006.webp",
     "description": "Lồng vận chuyển thông khí khóa an toàn hoặc nhà vệ sinh có nắp. Dễ vệ sinh. Size phù hợp nhiều giống.",
     "brand": "Local",
     "sku": "LOC-1006-CHI",
@@ -159,9 +256,9 @@
     "unit": "chiếc",
     "shortDescription": "Lồng vận chuyển hoặc nhà vệ sinh tiện dụng an toàn.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/long-nha-ve-sinh-meo-iris-2025-1006-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/long-nha-ve-sinh-meo-iris-2025-1006-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/long-nha-ve-sinh-meo-iris-2025-1006-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/long-nha-ve-sinh-local-m-1006-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/long-nha-ve-sinh-local-m-1006-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/long-nha-ve-sinh-local-m-1006-c.webp"
     ],
     "specifications": {
       "Loại": "Lồng vận chuyển / Nhà vệ sinh",
@@ -193,12 +290,12 @@
   },
   {
     "id": "prod-1007",
-    "name": "Thức ăn ướt / Pate chó Royal Canin 2025",
-    "slug": "thuc-an-uot-pate-cho-royal-canin-2025-1007",
+    "name": "Thức ăn ướt pate Ciao White Meat",
+    "slug": "thuc-an-uot-pate-ciao-white-meat-1007",
     "price": 112000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/thuc-an-uot-pate-cho-royal-canin-2025-1007.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/thuc-an-uot-pate-cho-royal-canin-2025-1007.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/thuc-an-uot-pate-ciao-white-meat-1007.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/thuc-an-uot-pate-ciao-white-meat-1007.webp",
     "description": "Thức ăn ướt hoặc pate mềm dễ ăn. Nhiều hương vị. Bổ sung dưỡng chất. Có thể trộn hạt hoặc cho ăn riêng. Vỉ tiện dụng.",
     "brand": "Ciao",
     "sku": "CIA-1007-VỈ/",
@@ -207,9 +304,9 @@
     "unit": "vỉ/hộp",
     "shortDescription": "Pate thức ăn ướt thơm ngon bổ sung dưỡng chất.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-uot-pate-cho-royal-canin-2025-1007-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-uot-pate-cho-royal-canin-2025-1007-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-uot-pate-cho-royal-canin-2025-1007-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-uot-pate-ciao-white-meat-1007-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-uot-pate-ciao-white-meat-1007-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-uot-pate-ciao-white-meat-1007-c.webp"
     ],
     "specifications": {
       "Đối tượng": "Chó / Mèo",
@@ -241,12 +338,12 @@
   },
   {
     "id": "prod-1008",
-    "name": "Bàn cào móng / Trụ cào Petstages",
-    "slug": "ban-cao-mong-tru-cao-petstages-1008",
+    "name": "Bàn cào móng trụ cào Catit Senses 2.0",
+    "slug": "ban-cao-mong-tru-cao-catit-senses-20-1008",
     "price": 704000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-petstages-1008.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-petstages-1008.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-catit-senses-20-1008.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-catit-senses-20-1008.webp",
     "description": "Bàn cào móng hoặc trụ cào cói. Giúp mèo mài móng tự nhiên. Bảo vệ đồ đạc. Đế chắc. Nhiều kích thước hình dáng.",
     "brand": "Catit",
     "sku": "CAT-1008-CHI",
@@ -255,9 +352,9 @@
     "unit": "chiếc",
     "shortDescription": "Bàn cào móng hoặc trụ cào bảo vệ nội thất.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-petstages-1008-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-petstages-1008-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-petstages-1008-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-catit-senses-20-1008-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-catit-senses-20-1008-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-catit-senses-20-1008-c.webp"
     ],
     "specifications": {
       "Loại": "Bàn / Trụ / Cây",
@@ -289,12 +386,12 @@
   },
   {
     "id": "prod-1009",
-    "name": "Vòng chống ve rận / Thuốc Local cao cấp",
-    "slug": "vong-chong-ve-ran-thuoc-local-cao-cap-1009",
+    "name": "Vòng chống ve rận thuốc Advocate Cat",
+    "slug": "vong-chong-ve-ran-thuoc-advocate-cat-1009",
     "price": 464000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-local-cao-cap-1009.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-local-cao-cap-1009.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-advocate-cat-1009.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-advocate-cat-1009.webp",
     "description": "Vòng cổ chống ve rận hoặc thuốc nhỏ gáy. Bảo vệ dài ngày. Chống nước. An toàn khi dùng đúng hướng dẫn. Phù hợp chó mèo.",
     "brand": "Advocate",
     "sku": "ADV-1009-HỘP",
@@ -303,9 +400,9 @@
     "unit": "hộp/chiếc",
     "shortDescription": "Vòng cổ hoặc thuốc nhỏ gáy chống ve rận hiệu quả dài.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-local-cao-cap-1009-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-local-cao-cap-1009-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-local-cao-cap-1009-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-advocate-cat-1009-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-advocate-cat-1009-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-advocate-cat-1009-c.webp"
     ],
     "specifications": {
       "Loại": "Vòng cổ / Nhỏ gáy",
@@ -337,12 +434,12 @@
   },
   {
     "id": "prod-1010",
-    "name": "Bát ăn / Phụ kiện mèo Catit",
-    "slug": "bat-an-phu-kien-meo-catit-1010",
+    "name": "Bát ăn phụ kiện Local chống trượt",
+    "slug": "bat-an-phu-kien-local-chong-truot-1010",
     "price": 167000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/bat-an-phu-kien-meo-catit-1010.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/bat-an-phu-kien-meo-catit-1010.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/bat-an-phu-kien-local-chong-truot-1010.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/bat-an-phu-kien-local-chong-truot-1010.webp",
     "description": "Bát ăn uống đôi hoặc đơn. Inox 304 hoặc nhựa an toàn. Đế chống trượt. Dễ vệ sinh. Size phù hợp nhiều giống.",
     "brand": "Local",
     "sku": "LOC-1010-BỘ",
@@ -351,9 +448,9 @@
     "unit": "bộ",
     "shortDescription": "Bát ăn uống inox hoặc nhựa đế chống trượt.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/bat-an-phu-kien-meo-catit-1010-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/bat-an-phu-kien-meo-catit-1010-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/bat-an-phu-kien-meo-catit-1010-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/bat-an-phu-kien-local-chong-truot-1010-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/bat-an-phu-kien-local-chong-truot-1010-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/bat-an-phu-kien-local-chong-truot-1010-c.webp"
     ],
     "specifications": {
       "Loại": "Bát đôi / Đơn",
@@ -385,12 +482,12 @@
   },
   {
     "id": "prod-1011",
-    "name": "Thức ăn hạt mèo Me-O",
-    "slug": "thuc-an-hat-meo-me-o-1011",
+    "name": "Thức ăn hạt Me-O Adult",
+    "slug": "thuc-an-hat-me-o-adult-1011",
     "price": 94900,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/thuc-an-hat-meo-me-o-1011.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/thuc-an-hat-meo-me-o-1011.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/thuc-an-hat-me-o-adult-1011.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/thuc-an-hat-me-o-adult-1011.webp",
     "description": "Thức ăn hạt khô công thức cân bằng dinh dưỡng. Hỗ trợ tiêu hóa da lông và sức khỏe tổng thể. Nhiều size hạt phù hợp. Bao nhiều trọng lượng.",
     "brand": "Me-O",
     "sku": "ME--1011-BAO",
@@ -399,9 +496,9 @@
     "unit": "bao",
     "shortDescription": "Thức ăn hạt khô dinh dưỡng cho chó mèo mọi lứa tuổi.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-hat-meo-me-o-1011-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-hat-meo-me-o-1011-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-hat-meo-me-o-1011-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-hat-me-o-adult-1011-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-hat-me-o-adult-1011-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-hat-me-o-adult-1011-c.webp"
     ],
     "specifications": {
       "Đối tượng": "Chó / Mèo",
@@ -434,12 +531,12 @@
   },
   {
     "id": "prod-1012",
-    "name": "Cát vệ sinh mèo Catsan",
-    "slug": "cat-ve-sinh-meo-catsan-1012",
+    "name": "Cát vệ sinh mèo Cat's Best Smart Pellets",
+    "slug": "cat-ve-sinh-meo-cats-best-smart-pellets-1012",
     "price": 113000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/cat-ve-sinh-meo-catsan-1012.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/cat-ve-sinh-meo-catsan-1012.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/cat-ve-sinh-meo-cats-best-smart-pellets-1012.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/cat-ve-sinh-meo-cats-best-smart-pellets-1012.webp",
     "description": "Cát vệ sinh vón cục nhanh thấm hút cao. Khử mùi hiệu quả. Có loại gỗ hoặc đất sét. Thân thiện môi trường tùy loại.",
     "brand": "Cat's Best",
     "sku": "CAT-1012-BAO",
@@ -448,9 +545,9 @@
     "unit": "bao",
     "shortDescription": "Cát vệ sinh mèo vón cục thấm hút khử mùi tốt.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/cat-ve-sinh-meo-catsan-1012-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/cat-ve-sinh-meo-catsan-1012-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/cat-ve-sinh-meo-catsan-1012-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/cat-ve-sinh-meo-cats-best-smart-pellets-1012-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/cat-ve-sinh-meo-cats-best-smart-pellets-1012-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/cat-ve-sinh-meo-cats-best-smart-pellets-1012-c.webp"
     ],
     "specifications": {
       "Loại": "Vón cục / Gỗ / Đất sét",
@@ -482,12 +579,12 @@
   },
   {
     "id": "prod-1013",
-    "name": "Vòng cổ / Dây dắt mèo Local limited",
-    "slug": "vong-co-day-dat-meo-local-limited-1013",
+    "name": "Vòng cổ dây dắt Petkit Go",
+    "slug": "vong-co-day-dat-petkit-go-1013",
     "price": 274000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/vong-co-day-dat-meo-local-limited-1013.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/vong-co-day-dat-meo-local-limited-1013.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/vong-co-day-dat-petkit-go-1013.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/vong-co-day-dat-petkit-go-1013.webp",
     "description": "Vòng cổ và dây dắt chất liệu nylon hoặc da. Điều chỉnh chu vi. Khóa an toàn. Nhiều màu size. Phù hợp đi dạo hàng ngày.",
     "brand": "Petkit",
     "sku": "PET-1013-BỘ",
@@ -496,9 +593,9 @@
     "unit": "bộ",
     "shortDescription": "Vòng cổ dây dắt chắc chắn điều chỉnh được.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-co-day-dat-meo-local-limited-1013-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-co-day-dat-meo-local-limited-1013-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-co-day-dat-meo-local-limited-1013-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-co-day-dat-petkit-go-1013-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-co-day-dat-petkit-go-1013-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-co-day-dat-petkit-go-1013-c.webp"
     ],
     "specifications": {
       "Loại": "Vòng cổ + Dây dắt",
@@ -531,12 +628,12 @@
   },
   {
     "id": "prod-1014",
-    "name": "Đồ chơi mèo Chuckit",
-    "slug": "do-choi-meo-chuckit-1014",
+    "name": "Đồ chơi Local bóng",
+    "slug": "do-choi-local-bong-1014",
     "price": 232000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/do-choi-meo-chuckit-1014.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/do-choi-meo-chuckit-1014.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/do-choi-local-bong-1014.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/do-choi-local-bong-1014.webp",
     "description": "Đồ chơi bóng cần câu lông vũ hoặc nhét treat. Kích thích bản năng. Giúp vận động và giảm stress. Chất liệu bền an toàn.",
     "brand": "Local",
     "sku": "LOC-1014-CHI",
@@ -545,9 +642,9 @@
     "unit": "chiếc",
     "shortDescription": "Đồ chơi cho chó mèo kích thích vận động giảm stress.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/do-choi-meo-chuckit-1014-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/do-choi-meo-chuckit-1014-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/do-choi-meo-chuckit-1014-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/do-choi-local-bong-1014-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/do-choi-local-bong-1014-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/do-choi-local-bong-1014-c.webp"
     ],
     "specifications": {
       "Loại": "Bóng / Cần câu / Nhét treat",
@@ -578,12 +675,12 @@
   },
   {
     "id": "prod-1015",
-    "name": "Sữa tắm mèo Bio-Derm",
-    "slug": "sua-tam-meo-bio-derm-1015",
+    "name": "Sữa tắm Local 500ml",
+    "slug": "sua-tam-local-500ml-1015",
     "price": 73800,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/sua-tam-meo-bio-derm-1015.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/sua-tam-meo-bio-derm-1015.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/sua-tam-local-500ml-1015.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/sua-tam-local-500ml-1015.webp",
     "description": "Sữa tắm chuyên dụng cho chó mèo. Làm sạch khử mùi. Dưỡng lông mềm mượt. pH cân bằng không khô da. Hương dịu.",
     "brand": "Local",
     "sku": "LOC-1015-CHA",
@@ -592,9 +689,9 @@
     "unit": "chai",
     "shortDescription": "Sữa tắm chó mèo khử mùi dưỡng lông pH cân bằng.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/sua-tam-meo-bio-derm-1015-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/sua-tam-meo-bio-derm-1015-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/sua-tam-meo-bio-derm-1015-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/sua-tam-local-500ml-1015-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/sua-tam-local-500ml-1015-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/sua-tam-local-500ml-1015-c.webp"
     ],
     "specifications": {
       "Dung tích": "200-500ml",
@@ -626,12 +723,12 @@
   },
   {
     "id": "prod-1016",
-    "name": "Lồng / Nhà vệ sinh chó Iris",
-    "slug": "long-nha-ve-sinh-cho-iris-1016",
+    "name": "Lồng nhà vệ sinh Local L",
+    "slug": "long-nha-ve-sinh-local-l-1016",
     "price": 311000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/long-nha-ve-sinh-cho-iris-1016.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/long-nha-ve-sinh-cho-iris-1016.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/long-nha-ve-sinh-local-l-1016.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/long-nha-ve-sinh-local-l-1016.webp",
     "description": "Lồng vận chuyển thông khí khóa an toàn hoặc nhà vệ sinh có nắp. Dễ vệ sinh. Size phù hợp nhiều giống.",
     "brand": "Local",
     "sku": "LOC-1016-CHI",
@@ -640,9 +737,9 @@
     "unit": "chiếc",
     "shortDescription": "Lồng vận chuyển hoặc nhà vệ sinh tiện dụng an toàn.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/long-nha-ve-sinh-cho-iris-1016-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/long-nha-ve-sinh-cho-iris-1016-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/long-nha-ve-sinh-cho-iris-1016-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/long-nha-ve-sinh-local-l-1016-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/long-nha-ve-sinh-local-l-1016-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/long-nha-ve-sinh-local-l-1016-c.webp"
     ],
     "specifications": {
       "Loại": "Lồng vận chuyển / Nhà vệ sinh",
@@ -674,12 +771,12 @@
   },
   {
     "id": "prod-1017",
-    "name": "Thức ăn ướt / Pate mèo Pedigree Mini",
-    "slug": "thuc-an-uot-pate-meo-pedigree-mini-1017",
+    "name": "Thức ăn ướt pate Whiskas Jelly",
+    "slug": "thuc-an-uot-pate-whiskas-jelly-1017",
     "price": 49200,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/thuc-an-uot-pate-meo-pedigree-mini-1017.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/thuc-an-uot-pate-meo-pedigree-mini-1017.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/thuc-an-uot-pate-whiskas-jelly-1017.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/thuc-an-uot-pate-whiskas-jelly-1017.webp",
     "description": "Thức ăn ướt hoặc pate mềm dễ ăn. Nhiều hương vị. Bổ sung dưỡng chất. Có thể trộn hạt hoặc cho ăn riêng. Vỉ tiện dụng.",
     "brand": "Whiskas",
     "sku": "WHI-1017-VỈ/",
@@ -688,9 +785,9 @@
     "unit": "vỉ/hộp",
     "shortDescription": "Pate thức ăn ướt thơm ngon bổ sung dưỡng chất.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-uot-pate-meo-pedigree-mini-1017-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-uot-pate-meo-pedigree-mini-1017-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-uot-pate-meo-pedigree-mini-1017-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-uot-pate-whiskas-jelly-1017-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-uot-pate-whiskas-jelly-1017-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-uot-pate-whiskas-jelly-1017-c.webp"
     ],
     "specifications": {
       "Đối tượng": "Chó / Mèo",
@@ -722,12 +819,12 @@
   },
   {
     "id": "prod-1018",
-    "name": "Bàn cào móng / Trụ cào Cat Tree",
-    "slug": "ban-cao-mong-tru-cao-cat-tree-1018",
+    "name": "Bàn cào móng trụ cào Catit Vesper",
+    "slug": "ban-cao-mong-tru-cao-catit-vesper-1018",
     "price": 102000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-cat-tree-1018.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-cat-tree-1018.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-catit-vesper-1018.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-catit-vesper-1018.webp",
     "description": "Bàn cào móng hoặc trụ cào cói. Giúp mèo mài móng tự nhiên. Bảo vệ đồ đạc. Đế chắc. Nhiều kích thước hình dáng.",
     "brand": "Catit",
     "sku": "CAT-1018-CHI",
@@ -736,9 +833,9 @@
     "unit": "chiếc",
     "shortDescription": "Bàn cào móng hoặc trụ cào bảo vệ nội thất.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-cat-tree-1018-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-cat-tree-1018-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-cat-tree-1018-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-catit-vesper-1018-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-catit-vesper-1018-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-catit-vesper-1018-c.webp"
     ],
     "specifications": {
       "Loại": "Bàn / Trụ / Cây",
@@ -770,12 +867,12 @@
   },
   {
     "id": "prod-1019",
-    "name": "Vòng chống ve rận / Thuốc Frontline Pro",
-    "slug": "vong-chong-ve-ran-thuoc-frontline-pro-1019",
+    "name": "Vòng chống ve rận thuốc Frontline vòng cổ",
+    "slug": "vong-chong-ve-ran-thuoc-frontline-vong-co-1019",
     "price": 561000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-frontline-pro-1019.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-frontline-pro-1019.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-frontline-vong-co-1019.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-frontline-vong-co-1019.webp",
     "description": "Vòng cổ chống ve rận hoặc thuốc nhỏ gáy. Bảo vệ dài ngày. Chống nước. An toàn khi dùng đúng hướng dẫn. Phù hợp chó mèo.",
     "brand": "Frontline",
     "sku": "FRO-1019-HỘP",
@@ -784,9 +881,9 @@
     "unit": "hộp/chiếc",
     "shortDescription": "Vòng cổ hoặc thuốc nhỏ gáy chống ve rận hiệu quả dài.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-frontline-pro-1019-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-frontline-pro-1019-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-frontline-pro-1019-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-frontline-vong-co-1019-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-frontline-vong-co-1019-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-frontline-vong-co-1019-c.webp"
     ],
     "specifications": {
       "Loại": "Vòng cổ / Nhỏ gáy",
@@ -818,12 +915,12 @@
   },
   {
     "id": "prod-1020",
-    "name": "Bát ăn / Phụ kiện chó Catit",
-    "slug": "bat-an-phu-kien-cho-catit-1020",
+    "name": "Bát ăn phụ kiện Local đôi inox",
+    "slug": "bat-an-phu-kien-local-doi-inox-1020",
     "price": 38600,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/bat-an-phu-kien-cho-catit-1020.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/bat-an-phu-kien-cho-catit-1020.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/bat-an-phu-kien-local-doi-inox-1020.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/bat-an-phu-kien-local-doi-inox-1020.webp",
     "description": "Bát ăn uống đôi hoặc đơn. Inox 304 hoặc nhựa an toàn. Đế chống trượt. Dễ vệ sinh. Size phù hợp nhiều giống.",
     "brand": "Local",
     "sku": "LOC-1020-BỘ",
@@ -832,9 +929,9 @@
     "unit": "bộ",
     "shortDescription": "Bát ăn uống inox hoặc nhựa đế chống trượt.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/bat-an-phu-kien-cho-catit-1020-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/bat-an-phu-kien-cho-catit-1020-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/bat-an-phu-kien-cho-catit-1020-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/bat-an-phu-kien-local-doi-inox-1020-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/bat-an-phu-kien-local-doi-inox-1020-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/bat-an-phu-kien-local-doi-inox-1020-c.webp"
     ],
     "specifications": {
       "Loại": "Bát đôi / Đơn",
@@ -866,12 +963,12 @@
   },
   {
     "id": "prod-1021",
-    "name": "Thức ăn hạt chó Pedigree Mini",
-    "slug": "thuc-an-hat-cho-pedigree-mini-1021",
+    "name": "Thức ăn hạt Me-O Kitten",
+    "slug": "thuc-an-hat-me-o-kitten-1021",
     "price": 450000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/thuc-an-hat-cho-pedigree-mini-1021.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/thuc-an-hat-cho-pedigree-mini-1021.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/thuc-an-hat-me-o-kitten-1021.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/thuc-an-hat-me-o-kitten-1021.webp",
     "description": "Thức ăn hạt khô công thức cân bằng dinh dưỡng. Hỗ trợ tiêu hóa da lông và sức khỏe tổng thể. Nhiều size hạt phù hợp. Bao nhiều trọng lượng.",
     "brand": "Me-O",
     "sku": "ME--1021-BAO",
@@ -880,9 +977,9 @@
     "unit": "bao",
     "shortDescription": "Thức ăn hạt khô dinh dưỡng cho chó mèo mọi lứa tuổi.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-hat-cho-pedigree-mini-1021-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-hat-cho-pedigree-mini-1021-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-hat-cho-pedigree-mini-1021-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-hat-me-o-kitten-1021-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-hat-me-o-kitten-1021-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-hat-me-o-kitten-1021-c.webp"
     ],
     "specifications": {
       "Đối tượng": "Chó / Mèo",
@@ -915,12 +1012,12 @@
   },
   {
     "id": "prod-1022",
-    "name": "Cát vệ sinh mèo Me-O",
-    "slug": "cat-ve-sinh-meo-me-o-1022",
+    "name": "Cát vệ sinh mèo Cature vón cục 10L",
+    "slug": "cat-ve-sinh-meo-cature-von-cuc-10l-1022",
     "price": 174000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/cat-ve-sinh-meo-me-o-1022.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/cat-ve-sinh-meo-me-o-1022.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/cat-ve-sinh-meo-cature-von-cuc-10l-1022.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/cat-ve-sinh-meo-cature-von-cuc-10l-1022.webp",
     "description": "Cát vệ sinh vón cục nhanh thấm hút cao. Khử mùi hiệu quả. Có loại gỗ hoặc đất sét. Thân thiện môi trường tùy loại.",
     "brand": "Cature",
     "sku": "CAT-1022-BAO",
@@ -929,9 +1026,9 @@
     "unit": "bao",
     "shortDescription": "Cát vệ sinh mèo vón cục thấm hút khử mùi tốt.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/cat-ve-sinh-meo-me-o-1022-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/cat-ve-sinh-meo-me-o-1022-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/cat-ve-sinh-meo-me-o-1022-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/cat-ve-sinh-meo-cature-von-cuc-10l-1022-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/cat-ve-sinh-meo-cature-von-cuc-10l-1022-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/cat-ve-sinh-meo-cature-von-cuc-10l-1022-c.webp"
     ],
     "specifications": {
       "Loại": "Vón cục / Gỗ / Đất sét",
@@ -963,12 +1060,12 @@
   },
   {
     "id": "prod-1023",
-    "name": "Vòng cổ / Dây dắt chó Flexi",
-    "slug": "vong-co-day-dat-cho-flexi-1023",
+    "name": "Vòng cổ dây dắt Paw Nylon 1.5m",
+    "slug": "vong-co-day-dat-paw-nylon-15m-1023",
     "price": 271000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/vong-co-day-dat-cho-flexi-1023.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/vong-co-day-dat-cho-flexi-1023.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/vong-co-day-dat-paw-nylon-15m-1023.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/vong-co-day-dat-paw-nylon-15m-1023.webp",
     "description": "Vòng cổ và dây dắt chất liệu nylon hoặc da. Điều chỉnh chu vi. Khóa an toàn. Nhiều màu size. Phù hợp đi dạo hàng ngày.",
     "brand": "Paw",
     "sku": "PAW-1023-BỘ",
@@ -977,9 +1074,9 @@
     "unit": "bộ",
     "shortDescription": "Vòng cổ dây dắt chắc chắn điều chỉnh được.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-co-day-dat-cho-flexi-1023-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-co-day-dat-cho-flexi-1023-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-co-day-dat-cho-flexi-1023-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-co-day-dat-paw-nylon-15m-1023-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-co-day-dat-paw-nylon-15m-1023-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-co-day-dat-paw-nylon-15m-1023-c.webp"
     ],
     "specifications": {
       "Loại": "Vòng cổ + Dây dắt",
@@ -1012,12 +1109,12 @@
   },
   {
     "id": "prod-1024",
-    "name": "Đồ chơi chó Kong",
-    "slug": "do-choi-cho-kong-1024",
+    "name": "Đồ chơi Petstages Cat Tracks",
+    "slug": "do-choi-petstages-cat-tracks-1024",
     "price": 88000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/do-choi-cho-kong-1024.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/do-choi-cho-kong-1024.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/do-choi-petstages-cat-tracks-1024.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/do-choi-petstages-cat-tracks-1024.webp",
     "description": "Đồ chơi bóng cần câu lông vũ hoặc nhét treat. Kích thích bản năng. Giúp vận động và giảm stress. Chất liệu bền an toàn.",
     "brand": "Petstages",
     "sku": "PET-1024-CHI",
@@ -1026,9 +1123,9 @@
     "unit": "chiếc",
     "shortDescription": "Đồ chơi cho chó mèo kích thích vận động giảm stress.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/do-choi-cho-kong-1024-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/do-choi-cho-kong-1024-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/do-choi-cho-kong-1024-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/do-choi-petstages-cat-tracks-1024-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/do-choi-petstages-cat-tracks-1024-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/do-choi-petstages-cat-tracks-1024-c.webp"
     ],
     "specifications": {
       "Loại": "Bóng / Cần câu / Nhét treat",
@@ -1059,12 +1156,12 @@
   },
   {
     "id": "prod-1025",
-    "name": "Sữa tắm chó Bio-Derm",
-    "slug": "sua-tam-cho-bio-derm-1025",
+    "name": "Sữa tắm 8in1 Nature's Miracle",
+    "slug": "sua-tam-8in1-natures-miracle-1025",
     "price": 85500,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/sua-tam-cho-bio-derm-1025.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/sua-tam-cho-bio-derm-1025.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/sua-tam-8in1-natures-miracle-1025.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/sua-tam-8in1-natures-miracle-1025.webp",
     "description": "Sữa tắm chuyên dụng cho chó mèo. Làm sạch khử mùi. Dưỡng lông mềm mượt. pH cân bằng không khô da. Hương dịu.",
     "brand": "8in1",
     "sku": "8IN-1025-CHA",
@@ -1073,9 +1170,9 @@
     "unit": "chai",
     "shortDescription": "Sữa tắm chó mèo khử mùi dưỡng lông pH cân bằng.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/sua-tam-cho-bio-derm-1025-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/sua-tam-cho-bio-derm-1025-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/sua-tam-cho-bio-derm-1025-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/sua-tam-8in1-natures-miracle-1025-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/sua-tam-8in1-natures-miracle-1025-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/sua-tam-8in1-natures-miracle-1025-c.webp"
     ],
     "specifications": {
       "Dung tích": "200-500ml",
@@ -1107,12 +1204,12 @@
   },
   {
     "id": "prod-1026",
-    "name": "Lồng / Nhà vệ sinh chó Local",
-    "slug": "long-nha-ve-sinh-cho-local-1026",
+    "name": "Lồng nhà vệ sinh Local S",
+    "slug": "long-nha-ve-sinh-local-s-1026",
     "price": 725000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/long-nha-ve-sinh-cho-local-1026.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/long-nha-ve-sinh-cho-local-1026.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/long-nha-ve-sinh-local-s-1026.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/long-nha-ve-sinh-local-s-1026.webp",
     "description": "Lồng vận chuyển thông khí khóa an toàn hoặc nhà vệ sinh có nắp. Dễ vệ sinh. Size phù hợp nhiều giống.",
     "brand": "Local",
     "sku": "LOC-1026-CHI",
@@ -1121,9 +1218,9 @@
     "unit": "chiếc",
     "shortDescription": "Lồng vận chuyển hoặc nhà vệ sinh tiện dụng an toàn.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/long-nha-ve-sinh-cho-local-1026-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/long-nha-ve-sinh-cho-local-1026-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/long-nha-ve-sinh-cho-local-1026-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/long-nha-ve-sinh-local-s-1026-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/long-nha-ve-sinh-local-s-1026-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/long-nha-ve-sinh-local-s-1026-c.webp"
     ],
     "specifications": {
       "Loại": "Lồng vận chuyển / Nhà vệ sinh",
@@ -1155,12 +1252,12 @@
   },
   {
     "id": "prod-1027",
-    "name": "Thức ăn ướt / Pate chó Me-O Max",
-    "slug": "thuc-an-uot-pate-cho-me-o-max-1027",
+    "name": "Thức ăn ướt pate Pedigree Pouch Adult",
+    "slug": "thuc-an-uot-pate-pedigree-pouch-adult-1027",
     "price": 51000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/thuc-an-uot-pate-cho-me-o-max-1027.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/thuc-an-uot-pate-cho-me-o-max-1027.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/thuc-an-uot-pate-pedigree-pouch-adult-1027.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/thuc-an-uot-pate-pedigree-pouch-adult-1027.webp",
     "description": "Thức ăn ướt hoặc pate mềm dễ ăn. Nhiều hương vị. Bổ sung dưỡng chất. Có thể trộn hạt hoặc cho ăn riêng. Vỉ tiện dụng.",
     "brand": "Pedigree",
     "sku": "PED-1027-VỈ/",
@@ -1169,9 +1266,9 @@
     "unit": "vỉ/hộp",
     "shortDescription": "Pate thức ăn ướt thơm ngon bổ sung dưỡng chất.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-uot-pate-cho-me-o-max-1027-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-uot-pate-cho-me-o-max-1027-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-uot-pate-cho-me-o-max-1027-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-uot-pate-pedigree-pouch-adult-1027-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-uot-pate-pedigree-pouch-adult-1027-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-uot-pate-pedigree-pouch-adult-1027-c.webp"
     ],
     "specifications": {
       "Đối tượng": "Chó / Mèo",
@@ -1203,12 +1300,12 @@
   },
   {
     "id": "prod-1028",
-    "name": "Bàn cào móng / Trụ cào Local",
-    "slug": "ban-cao-mong-tru-cao-local-1028",
+    "name": "Bàn cào móng trụ cào Catit Tree",
+    "slug": "ban-cao-mong-tru-cao-catit-tree-1028",
     "price": 705000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-local-1028.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-local-1028.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-catit-tree-1028.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-catit-tree-1028.webp",
     "description": "Bàn cào móng hoặc trụ cào cói. Giúp mèo mài móng tự nhiên. Bảo vệ đồ đạc. Đế chắc. Nhiều kích thước hình dáng.",
     "brand": "Catit",
     "sku": "CAT-1028-CHI",
@@ -1217,9 +1314,9 @@
     "unit": "chiếc",
     "shortDescription": "Bàn cào móng hoặc trụ cào bảo vệ nội thất.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-local-1028-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-local-1028-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-local-1028-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-catit-tree-1028-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-catit-tree-1028-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-catit-tree-1028-c.webp"
     ],
     "specifications": {
       "Loại": "Bàn / Trụ / Cây",
@@ -1251,12 +1348,12 @@
   },
   {
     "id": "prod-1029",
-    "name": "Vòng chống ve rận / Thuốc Advocate",
-    "slug": "vong-chong-ve-ran-thuoc-advocate-1029",
+    "name": "Vòng chống ve rận thuốc Local 1 tháng",
+    "slug": "vong-chong-ve-ran-thuoc-local-1-thang-1029",
     "price": 310000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-advocate-1029.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-advocate-1029.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-local-1-thang-1029.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-local-1-thang-1029.webp",
     "description": "Vòng cổ chống ve rận hoặc thuốc nhỏ gáy. Bảo vệ dài ngày. Chống nước. An toàn khi dùng đúng hướng dẫn. Phù hợp chó mèo.",
     "brand": "Local",
     "sku": "LOC-1029-HỘP",
@@ -1265,9 +1362,9 @@
     "unit": "hộp/chiếc",
     "shortDescription": "Vòng cổ hoặc thuốc nhỏ gáy chống ve rận hiệu quả dài.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-advocate-1029-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-advocate-1029-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-advocate-1029-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-local-1-thang-1029-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-local-1-thang-1029-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-local-1-thang-1029-c.webp"
     ],
     "specifications": {
       "Loại": "Vòng cổ / Nhỏ gáy",
@@ -1299,12 +1396,12 @@
   },
   {
     "id": "prod-1030",
-    "name": "Bát ăn / Phụ kiện chó Petkit",
-    "slug": "bat-an-phu-kien-cho-petkit-1030",
+    "name": "Bát ăn phụ kiện Local đơn",
+    "slug": "bat-an-phu-kien-local-don-1030",
     "price": 313000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/bat-an-phu-kien-cho-petkit-1030.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/bat-an-phu-kien-cho-petkit-1030.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/bat-an-phu-kien-local-don-1030.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/bat-an-phu-kien-local-don-1030.webp",
     "description": "Bát ăn uống đôi hoặc đơn. Inox 304 hoặc nhựa an toàn. Đế chống trượt. Dễ vệ sinh. Size phù hợp nhiều giống.",
     "brand": "Local",
     "sku": "LOC-1030-BỘ",
@@ -1313,9 +1410,9 @@
     "unit": "bộ",
     "shortDescription": "Bát ăn uống inox hoặc nhựa đế chống trượt.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/bat-an-phu-kien-cho-petkit-1030-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/bat-an-phu-kien-cho-petkit-1030-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/bat-an-phu-kien-cho-petkit-1030-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/bat-an-phu-kien-local-don-1030-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/bat-an-phu-kien-local-don-1030-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/bat-an-phu-kien-local-don-1030-c.webp"
     ],
     "specifications": {
       "Loại": "Bát đôi / Đơn",
@@ -1347,12 +1444,12 @@
   },
   {
     "id": "prod-1031",
-    "name": "Thức ăn hạt mèo SmartHeart",
-    "slug": "thuc-an-hat-meo-smartheart-1031",
+    "name": "Thức ăn hạt Royal Canin Kitten",
+    "slug": "thuc-an-hat-royal-canin-kitten-1031",
     "price": 363000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/thuc-an-hat-meo-smartheart-1031.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/thuc-an-hat-meo-smartheart-1031.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/thuc-an-hat-royal-canin-kitten-1031.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/thuc-an-hat-royal-canin-kitten-1031.webp",
     "description": "Thức ăn hạt khô công thức cân bằng dinh dưỡng. Hỗ trợ tiêu hóa da lông và sức khỏe tổng thể. Nhiều size hạt phù hợp. Bao nhiều trọng lượng.",
     "brand": "Royal Canin",
     "sku": "ROY-1031-BAO",
@@ -1361,9 +1458,9 @@
     "unit": "bao",
     "shortDescription": "Thức ăn hạt khô dinh dưỡng cho chó mèo mọi lứa tuổi.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-hat-meo-smartheart-1031-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-hat-meo-smartheart-1031-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-hat-meo-smartheart-1031-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-hat-royal-canin-kitten-1031-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-hat-royal-canin-kitten-1031-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-hat-royal-canin-kitten-1031-c.webp"
     ],
     "specifications": {
       "Đối tượng": "Chó / Mèo",
@@ -1396,12 +1493,12 @@
   },
   {
     "id": "prod-1032",
-    "name": "Cát vệ sinh mèo Catsan cao cấp",
-    "slug": "cat-ve-sinh-meo-catsan-cao-cap-1032",
+    "name": "Cát vệ sinh mèo Unicharm DeoToilet",
+    "slug": "cat-ve-sinh-meo-unicharm-deotoilet-1032",
     "price": 165000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/cat-ve-sinh-meo-catsan-cao-cap-1032.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/cat-ve-sinh-meo-catsan-cao-cap-1032.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/cat-ve-sinh-meo-unicharm-deotoilet-1032.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/cat-ve-sinh-meo-unicharm-deotoilet-1032.webp",
     "description": "Cát vệ sinh vón cục nhanh thấm hút cao. Khử mùi hiệu quả. Có loại gỗ hoặc đất sét. Thân thiện môi trường tùy loại.",
     "brand": "Unicharm",
     "sku": "UNI-1032-BAO",
@@ -1410,9 +1507,9 @@
     "unit": "bao",
     "shortDescription": "Cát vệ sinh mèo vón cục thấm hút khử mùi tốt.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/cat-ve-sinh-meo-catsan-cao-cap-1032-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/cat-ve-sinh-meo-catsan-cao-cap-1032-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/cat-ve-sinh-meo-catsan-cao-cap-1032-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/cat-ve-sinh-meo-unicharm-deotoilet-1032-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/cat-ve-sinh-meo-unicharm-deotoilet-1032-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/cat-ve-sinh-meo-unicharm-deotoilet-1032-c.webp"
     ],
     "specifications": {
       "Loại": "Vón cục / Gỗ / Đất sét",
@@ -1444,12 +1541,12 @@
   },
   {
     "id": "prod-1033",
-    "name": "Vòng cổ / Dây dắt mèo Chuchu Plus",
-    "slug": "vong-co-day-dat-meo-chuchu-plus-1033",
+    "name": "Vòng cổ dây dắt Flexi New Classic M",
+    "slug": "vong-co-day-dat-flexi-new-classic-m-1033",
     "price": 393000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/vong-co-day-dat-meo-chuchu-plus-1033.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/vong-co-day-dat-meo-chuchu-plus-1033.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/vong-co-day-dat-flexi-new-classic-m-1033.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/vong-co-day-dat-flexi-new-classic-m-1033.webp",
     "description": "Vòng cổ và dây dắt chất liệu nylon hoặc da. Điều chỉnh chu vi. Khóa an toàn. Nhiều màu size. Phù hợp đi dạo hàng ngày.",
     "brand": "Flexi",
     "sku": "FLE-1033-BỘ",
@@ -1458,9 +1555,9 @@
     "unit": "bộ",
     "shortDescription": "Vòng cổ dây dắt chắc chắn điều chỉnh được.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-co-day-dat-meo-chuchu-plus-1033-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-co-day-dat-meo-chuchu-plus-1033-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-co-day-dat-meo-chuchu-plus-1033-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-co-day-dat-flexi-new-classic-m-1033-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-co-day-dat-flexi-new-classic-m-1033-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-co-day-dat-flexi-new-classic-m-1033-c.webp"
     ],
     "specifications": {
       "Loại": "Vòng cổ + Dây dắt",
@@ -1493,12 +1590,12 @@
   },
   {
     "id": "prod-1034",
-    "name": "Đồ chơi mèo Local",
-    "slug": "do-choi-meo-local-1034",
+    "name": "Đồ chơi Local nhét treat",
+    "slug": "do-choi-local-nhet-treat-1034",
     "price": 117000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/do-choi-meo-local-1034.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/do-choi-meo-local-1034.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/do-choi-local-nhet-treat-1034.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/do-choi-local-nhet-treat-1034.webp",
     "description": "Đồ chơi bóng cần câu lông vũ hoặc nhét treat. Kích thích bản năng. Giúp vận động và giảm stress. Chất liệu bền an toàn.",
     "brand": "Local",
     "sku": "LOC-1034-CHI",
@@ -1507,9 +1604,9 @@
     "unit": "chiếc",
     "shortDescription": "Đồ chơi cho chó mèo kích thích vận động giảm stress.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/do-choi-meo-local-1034-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/do-choi-meo-local-1034-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/do-choi-meo-local-1034-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/do-choi-local-nhet-treat-1034-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/do-choi-local-nhet-treat-1034-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/do-choi-local-nhet-treat-1034-c.webp"
     ],
     "specifications": {
       "Loại": "Bóng / Cần câu / Nhét treat",
@@ -1540,12 +1637,12 @@
   },
   {
     "id": "prod-1035",
-    "name": "Sữa tắm mèo Jerhigh",
-    "slug": "sua-tam-meo-jerhigh-1035",
+    "name": "Sữa tắm 8in1 Nature's Miracle",
+    "slug": "sua-tam-8in1-natures-miracle-1035",
     "price": 165000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/sua-tam-meo-jerhigh-1035.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/sua-tam-meo-jerhigh-1035.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/sua-tam-8in1-natures-miracle-1035.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/sua-tam-8in1-natures-miracle-1035.webp",
     "description": "Sữa tắm chuyên dụng cho chó mèo. Làm sạch khử mùi. Dưỡng lông mềm mượt. pH cân bằng không khô da. Hương dịu.",
     "brand": "8in1",
     "sku": "8IN-1035-CHA",
@@ -1554,9 +1651,9 @@
     "unit": "chai",
     "shortDescription": "Sữa tắm chó mèo khử mùi dưỡng lông pH cân bằng.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/sua-tam-meo-jerhigh-1035-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/sua-tam-meo-jerhigh-1035-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/sua-tam-meo-jerhigh-1035-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/sua-tam-8in1-natures-miracle-1035-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/sua-tam-8in1-natures-miracle-1035-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/sua-tam-8in1-natures-miracle-1035-c.webp"
     ],
     "specifications": {
       "Dung tích": "200-500ml",
@@ -1588,12 +1685,12 @@
   },
   {
     "id": "prod-1036",
-    "name": "Lồng / Nhà vệ sinh chó Local limited",
-    "slug": "long-nha-ve-sinh-cho-local-limited-1036",
+    "name": "Lồng nhà vệ sinh Cat Litter Box M",
+    "slug": "long-nha-ve-sinh-cat-litter-box-m-1036",
     "price": 1340000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/long-nha-ve-sinh-cho-local-limited-1036.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/long-nha-ve-sinh-cho-local-limited-1036.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/long-nha-ve-sinh-cat-litter-box-m-1036.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/long-nha-ve-sinh-cat-litter-box-m-1036.webp",
     "description": "Lồng vận chuyển thông khí khóa an toàn hoặc nhà vệ sinh có nắp. Dễ vệ sinh. Size phù hợp nhiều giống.",
     "brand": "Cat Litter Box",
     "sku": "CAT-1036-CHI",
@@ -1602,9 +1699,9 @@
     "unit": "chiếc",
     "shortDescription": "Lồng vận chuyển hoặc nhà vệ sinh tiện dụng an toàn.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/long-nha-ve-sinh-cho-local-limited-1036-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/long-nha-ve-sinh-cho-local-limited-1036-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/long-nha-ve-sinh-cho-local-limited-1036-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/long-nha-ve-sinh-cat-litter-box-m-1036-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/long-nha-ve-sinh-cat-litter-box-m-1036-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/long-nha-ve-sinh-cat-litter-box-m-1036-c.webp"
     ],
     "specifications": {
       "Loại": "Lồng vận chuyển / Nhà vệ sinh",
@@ -1636,12 +1733,12 @@
   },
   {
     "id": "prod-1037",
-    "name": "Thức ăn ướt / Pate chó Pedigree",
-    "slug": "thuc-an-uot-pate-cho-pedigree-1037",
+    "name": "Thức ăn ướt pate Pedigree Pouch Adult",
+    "slug": "thuc-an-uot-pate-pedigree-pouch-adult-1037",
     "price": 38000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/thuc-an-uot-pate-cho-pedigree-1037.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/thuc-an-uot-pate-cho-pedigree-1037.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/thuc-an-uot-pate-pedigree-pouch-adult-1037.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/thuc-an-uot-pate-pedigree-pouch-adult-1037.webp",
     "description": "Thức ăn ướt hoặc pate mềm dễ ăn. Nhiều hương vị. Bổ sung dưỡng chất. Có thể trộn hạt hoặc cho ăn riêng. Vỉ tiện dụng.",
     "brand": "Pedigree",
     "sku": "PED-1037-VỈ/",
@@ -1650,9 +1747,9 @@
     "unit": "vỉ/hộp",
     "shortDescription": "Pate thức ăn ướt thơm ngon bổ sung dưỡng chất.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-uot-pate-cho-pedigree-1037-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-uot-pate-cho-pedigree-1037-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-uot-pate-cho-pedigree-1037-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-uot-pate-pedigree-pouch-adult-1037-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-uot-pate-pedigree-pouch-adult-1037-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-uot-pate-pedigree-pouch-adult-1037-c.webp"
     ],
     "specifications": {
       "Đối tượng": "Chó / Mèo",
@@ -1684,12 +1781,12 @@
   },
   {
     "id": "prod-1038",
-    "name": "Bàn cào móng / Trụ cào Petstages",
-    "slug": "ban-cao-mong-tru-cao-petstages-1038",
+    "name": "Bàn cào móng trụ cào Catit Senses 2.0",
+    "slug": "ban-cao-mong-tru-cao-catit-senses-20-1038",
     "price": 343000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-petstages-1038.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-petstages-1038.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-catit-senses-20-1038.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-catit-senses-20-1038.webp",
     "description": "Bàn cào móng hoặc trụ cào cói. Giúp mèo mài móng tự nhiên. Bảo vệ đồ đạc. Đế chắc. Nhiều kích thước hình dáng.",
     "brand": "Catit",
     "sku": "CAT-1038-CHI",
@@ -1698,9 +1795,9 @@
     "unit": "chiếc",
     "shortDescription": "Bàn cào móng hoặc trụ cào bảo vệ nội thất.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-petstages-1038-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-petstages-1038-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-petstages-1038-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-catit-senses-20-1038-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-catit-senses-20-1038-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-catit-senses-20-1038-c.webp"
     ],
     "specifications": {
       "Loại": "Bàn / Trụ / Cây",
@@ -1732,12 +1829,12 @@
   },
   {
     "id": "prod-1039",
-    "name": "Vòng chống ve rận / Thuốc Frontline",
-    "slug": "vong-chong-ve-ran-thuoc-frontline-1039",
+    "name": "Vòng chống ve rận thuốc Local 3 tháng",
+    "slug": "vong-chong-ve-ran-thuoc-local-3-thang-1039",
     "price": 634000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-frontline-1039.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-frontline-1039.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-local-3-thang-1039.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-local-3-thang-1039.webp",
     "description": "Vòng cổ chống ve rận hoặc thuốc nhỏ gáy. Bảo vệ dài ngày. Chống nước. An toàn khi dùng đúng hướng dẫn. Phù hợp chó mèo.",
     "brand": "Local",
     "sku": "LOC-1039-HỘP",
@@ -1746,9 +1843,9 @@
     "unit": "hộp/chiếc",
     "shortDescription": "Vòng cổ hoặc thuốc nhỏ gáy chống ve rận hiệu quả dài.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-frontline-1039-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-frontline-1039-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-frontline-1039-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-local-3-thang-1039-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-local-3-thang-1039-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-local-3-thang-1039-c.webp"
     ],
     "specifications": {
       "Loại": "Vòng cổ / Nhỏ gáy",
@@ -1780,12 +1877,12 @@
   },
   {
     "id": "prod-1040",
-    "name": "Bát ăn / Phụ kiện mèo Pet Bowl",
-    "slug": "bat-an-phu-kien-meo-pet-bowl-1040",
+    "name": "Bát ăn phụ kiện Catit Flower Fountain",
+    "slug": "bat-an-phu-kien-catit-flower-fountain-1040",
     "price": 66300,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/bat-an-phu-kien-meo-pet-bowl-1040.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/bat-an-phu-kien-meo-pet-bowl-1040.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/bat-an-phu-kien-catit-flower-fountain-1040.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/bat-an-phu-kien-catit-flower-fountain-1040.webp",
     "description": "Bát ăn uống đôi hoặc đơn. Inox 304 hoặc nhựa an toàn. Đế chống trượt. Dễ vệ sinh. Size phù hợp nhiều giống.",
     "brand": "Catit",
     "sku": "CAT-1040-BỘ",
@@ -1794,9 +1891,9 @@
     "unit": "bộ",
     "shortDescription": "Bát ăn uống inox hoặc nhựa đế chống trượt.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/bat-an-phu-kien-meo-pet-bowl-1040-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/bat-an-phu-kien-meo-pet-bowl-1040-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/bat-an-phu-kien-meo-pet-bowl-1040-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/bat-an-phu-kien-catit-flower-fountain-1040-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/bat-an-phu-kien-catit-flower-fountain-1040-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/bat-an-phu-kien-catit-flower-fountain-1040-c.webp"
     ],
     "specifications": {
       "Loại": "Bát đôi / Đơn",
@@ -1828,12 +1925,12 @@
   },
   {
     "id": "prod-1041",
-    "name": "Thức ăn hạt chó Me-O Pro",
-    "slug": "thuc-an-hat-cho-me-o-pro-1041",
+    "name": "Thức ăn hạt SmartHeart Adult",
+    "slug": "thuc-an-hat-smartheart-adult-1041",
     "price": 182000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/thuc-an-hat-cho-me-o-pro-1041.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/thuc-an-hat-cho-me-o-pro-1041.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/thuc-an-hat-smartheart-adult-1041.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/thuc-an-hat-smartheart-adult-1041.webp",
     "description": "Thức ăn hạt khô công thức cân bằng dinh dưỡng. Hỗ trợ tiêu hóa da lông và sức khỏe tổng thể. Nhiều size hạt phù hợp. Bao nhiều trọng lượng.",
     "brand": "SmartHeart",
     "sku": "SMA-1041-BAO",
@@ -1842,9 +1939,9 @@
     "unit": "bao",
     "shortDescription": "Thức ăn hạt khô dinh dưỡng cho chó mèo mọi lứa tuổi.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-hat-cho-me-o-pro-1041-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-hat-cho-me-o-pro-1041-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-hat-cho-me-o-pro-1041-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-hat-smartheart-adult-1041-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-hat-smartheart-adult-1041-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-hat-smartheart-adult-1041-c.webp"
     ],
     "specifications": {
       "Đối tượng": "Chó / Mèo",
@@ -1877,12 +1974,12 @@
   },
   {
     "id": "prod-1042",
-    "name": "Cát vệ sinh mèo Cat's Best",
-    "slug": "cat-ve-sinh-meo-cats-best-1042",
+    "name": "Cát vệ sinh mèo Cature vón cục 10L",
+    "slug": "cat-ve-sinh-meo-cature-von-cuc-10l-1042",
     "price": 286000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/cat-ve-sinh-meo-cats-best-1042.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/cat-ve-sinh-meo-cats-best-1042.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/cat-ve-sinh-meo-cature-von-cuc-10l-1042.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/cat-ve-sinh-meo-cature-von-cuc-10l-1042.webp",
     "description": "Cát vệ sinh vón cục nhanh thấm hút cao. Khử mùi hiệu quả. Có loại gỗ hoặc đất sét. Thân thiện môi trường tùy loại.",
     "brand": "Cature",
     "sku": "CAT-1042-BAO",
@@ -1891,9 +1988,9 @@
     "unit": "bao",
     "shortDescription": "Cát vệ sinh mèo vón cục thấm hút khử mùi tốt.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/cat-ve-sinh-meo-cats-best-1042-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/cat-ve-sinh-meo-cats-best-1042-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/cat-ve-sinh-meo-cats-best-1042-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/cat-ve-sinh-meo-cature-von-cuc-10l-1042-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/cat-ve-sinh-meo-cature-von-cuc-10l-1042-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/cat-ve-sinh-meo-cature-von-cuc-10l-1042-c.webp"
     ],
     "specifications": {
       "Loại": "Vón cục / Gỗ / Đất sét",
@@ -1925,12 +2022,12 @@
   },
   {
     "id": "prod-1043",
-    "name": "Vòng cổ / Dây dắt chó Flexi Pro",
-    "slug": "vong-co-day-dat-cho-flexi-pro-1043",
+    "name": "Vòng cổ dây dắt Flexi Comfort",
+    "slug": "vong-co-day-dat-flexi-comfort-1043",
     "price": 161000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/vong-co-day-dat-cho-flexi-pro-1043.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/vong-co-day-dat-cho-flexi-pro-1043.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/vong-co-day-dat-flexi-comfort-1043.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/vong-co-day-dat-flexi-comfort-1043.webp",
     "description": "Vòng cổ và dây dắt chất liệu nylon hoặc da. Điều chỉnh chu vi. Khóa an toàn. Nhiều màu size. Phù hợp đi dạo hàng ngày.",
     "brand": "Flexi",
     "sku": "FLE-1043-BỘ",
@@ -1939,9 +2036,9 @@
     "unit": "bộ",
     "shortDescription": "Vòng cổ dây dắt chắc chắn điều chỉnh được.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-co-day-dat-cho-flexi-pro-1043-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-co-day-dat-cho-flexi-pro-1043-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-co-day-dat-cho-flexi-pro-1043-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-co-day-dat-flexi-comfort-1043-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-co-day-dat-flexi-comfort-1043-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-co-day-dat-flexi-comfort-1043-c.webp"
     ],
     "specifications": {
       "Loại": "Vòng cổ + Dây dắt",
@@ -1974,12 +2071,12 @@
   },
   {
     "id": "prod-1044",
-    "name": "Đồ chơi mèo Local phiên bản mới",
-    "slug": "do-choi-meo-local-phien-ban-moi-1044",
+    "name": "Đồ chơi Petstages Dental Chew",
+    "slug": "do-choi-petstages-dental-chew-1044",
     "price": 188000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/do-choi-meo-local-phien-ban-moi-1044.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/do-choi-meo-local-phien-ban-moi-1044.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/do-choi-petstages-dental-chew-1044.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/do-choi-petstages-dental-chew-1044.webp",
     "description": "Đồ chơi bóng cần câu lông vũ hoặc nhét treat. Kích thích bản năng. Giúp vận động và giảm stress. Chất liệu bền an toàn.",
     "brand": "Petstages",
     "sku": "PET-1044-CHI",
@@ -1988,9 +2085,9 @@
     "unit": "chiếc",
     "shortDescription": "Đồ chơi cho chó mèo kích thích vận động giảm stress.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/do-choi-meo-local-phien-ban-moi-1044-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/do-choi-meo-local-phien-ban-moi-1044-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/do-choi-meo-local-phien-ban-moi-1044-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/do-choi-petstages-dental-chew-1044-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/do-choi-petstages-dental-chew-1044-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/do-choi-petstages-dental-chew-1044-c.webp"
     ],
     "specifications": {
       "Loại": "Bóng / Cần câu / Nhét treat",
@@ -2021,12 +2118,12 @@
   },
   {
     "id": "prod-1045",
-    "name": "Sữa tắm mèo Local",
-    "slug": "sua-tam-meo-local-1045",
+    "name": "Sữa tắm Sunsilky Bio-Derm",
+    "slug": "sua-tam-sunsilky-bio-derm-1045",
     "price": 145000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/sua-tam-meo-local-1045.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/sua-tam-meo-local-1045.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/sua-tam-sunsilky-bio-derm-1045.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/sua-tam-sunsilky-bio-derm-1045.webp",
     "description": "Sữa tắm chuyên dụng cho chó mèo. Làm sạch khử mùi. Dưỡng lông mềm mượt. pH cân bằng không khô da. Hương dịu.",
     "brand": "Sunsilky",
     "sku": "SUN-1045-CHA",
@@ -2035,9 +2132,9 @@
     "unit": "chai",
     "shortDescription": "Sữa tắm chó mèo khử mùi dưỡng lông pH cân bằng.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/sua-tam-meo-local-1045-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/sua-tam-meo-local-1045-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/sua-tam-meo-local-1045-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/sua-tam-sunsilky-bio-derm-1045-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/sua-tam-sunsilky-bio-derm-1045-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/sua-tam-sunsilky-bio-derm-1045-c.webp"
     ],
     "specifications": {
       "Dung tích": "200-500ml",
@@ -2069,12 +2166,12 @@
   },
   {
     "id": "prod-1046",
-    "name": "Lồng / Nhà vệ sinh mèo Petkit Max",
-    "slug": "long-nha-ve-sinh-meo-petkit-max-1046",
+    "name": "Lồng nhà vệ sinh Pet Cargo Cabin",
+    "slug": "long-nha-ve-sinh-pet-cargo-cabin-1046",
     "price": 285000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/long-nha-ve-sinh-meo-petkit-max-1046.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/long-nha-ve-sinh-meo-petkit-max-1046.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/long-nha-ve-sinh-pet-cargo-cabin-1046.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/long-nha-ve-sinh-pet-cargo-cabin-1046.webp",
     "description": "Lồng vận chuyển thông khí khóa an toàn hoặc nhà vệ sinh có nắp. Dễ vệ sinh. Size phù hợp nhiều giống.",
     "brand": "Pet Cargo",
     "sku": "PET-1046-CHI",
@@ -2083,9 +2180,9 @@
     "unit": "chiếc",
     "shortDescription": "Lồng vận chuyển hoặc nhà vệ sinh tiện dụng an toàn.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/long-nha-ve-sinh-meo-petkit-max-1046-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/long-nha-ve-sinh-meo-petkit-max-1046-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/long-nha-ve-sinh-meo-petkit-max-1046-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/long-nha-ve-sinh-pet-cargo-cabin-1046-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/long-nha-ve-sinh-pet-cargo-cabin-1046-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/long-nha-ve-sinh-pet-cargo-cabin-1046-c.webp"
     ],
     "specifications": {
       "Loại": "Lồng vận chuyển / Nhà vệ sinh",
@@ -2117,12 +2214,12 @@
   },
   {
     "id": "prod-1047",
-    "name": "Thức ăn ướt / Pate mèo Me-O",
-    "slug": "thuc-an-uot-pate-meo-me-o-1047",
+    "name": "Thức ăn ướt pate Whiskas Jelly",
+    "slug": "thuc-an-uot-pate-whiskas-jelly-1047",
     "price": 113000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/thuc-an-uot-pate-meo-me-o-1047.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/thuc-an-uot-pate-meo-me-o-1047.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/thuc-an-uot-pate-whiskas-jelly-1047.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/thuc-an-uot-pate-whiskas-jelly-1047.webp",
     "description": "Thức ăn ướt hoặc pate mềm dễ ăn. Nhiều hương vị. Bổ sung dưỡng chất. Có thể trộn hạt hoặc cho ăn riêng. Vỉ tiện dụng.",
     "brand": "Whiskas",
     "sku": "WHI-1047-VỈ/",
@@ -2131,9 +2228,9 @@
     "unit": "vỉ/hộp",
     "shortDescription": "Pate thức ăn ướt thơm ngon bổ sung dưỡng chất.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-uot-pate-meo-me-o-1047-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-uot-pate-meo-me-o-1047-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-uot-pate-meo-me-o-1047-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-uot-pate-whiskas-jelly-1047-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-uot-pate-whiskas-jelly-1047-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/thuc-an-uot-pate-whiskas-jelly-1047-c.webp"
     ],
     "specifications": {
       "Đối tượng": "Chó / Mèo",
@@ -2165,12 +2262,12 @@
   },
   {
     "id": "prod-1048",
-    "name": "Bàn cào móng / Trụ cào Cat Tree 2025",
-    "slug": "ban-cao-mong-tru-cao-cat-tree-2025-1048",
+    "name": "Bàn cào móng trụ cào Cat Tree bàn ngang",
+    "slug": "ban-cao-mong-tru-cao-cat-tree-ban-ngang-1048",
     "price": 148000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-cat-tree-2025-1048.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-cat-tree-2025-1048.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-cat-tree-ban-ngang-1048.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-cat-tree-ban-ngang-1048.webp",
     "description": "Bàn cào móng hoặc trụ cào cói. Giúp mèo mài móng tự nhiên. Bảo vệ đồ đạc. Đế chắc. Nhiều kích thước hình dáng.",
     "brand": "Cat Tree",
     "sku": "CAT-1048-CHI",
@@ -2179,9 +2276,9 @@
     "unit": "chiếc",
     "shortDescription": "Bàn cào móng hoặc trụ cào bảo vệ nội thất.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-cat-tree-2025-1048-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-cat-tree-2025-1048-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-cat-tree-2025-1048-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-cat-tree-ban-ngang-1048-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-cat-tree-ban-ngang-1048-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/ban-cao-mong-tru-cao-cat-tree-ban-ngang-1048-c.webp"
     ],
     "specifications": {
       "Loại": "Bàn / Trụ / Cây",
@@ -2213,12 +2310,12 @@
   },
   {
     "id": "prod-1049",
-    "name": "Vòng chống ve rận / Thuốc Local 2026",
-    "slug": "vong-chong-ve-ran-thuoc-local-2026-1049",
+    "name": "Vòng chống ve rận thuốc Bravecto Plus",
+    "slug": "vong-chong-ve-ran-thuoc-bravecto-plus-1049",
     "price": 380000,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-local-2026-1049.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-local-2026-1049.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-bravecto-plus-1049.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-bravecto-plus-1049.webp",
     "description": "Vòng cổ chống ve rận hoặc thuốc nhỏ gáy. Bảo vệ dài ngày. Chống nước. An toàn khi dùng đúng hướng dẫn. Phù hợp chó mèo.",
     "brand": "Bravecto",
     "sku": "BRA-1049-HỘP",
@@ -2227,9 +2324,9 @@
     "unit": "hộp/chiếc",
     "shortDescription": "Vòng cổ hoặc thuốc nhỏ gáy chống ve rận hiệu quả dài.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-local-2026-1049-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-local-2026-1049-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-local-2026-1049-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-bravecto-plus-1049-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-bravecto-plus-1049-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/vong-chong-ve-ran-thuoc-bravecto-plus-1049-c.webp"
     ],
     "specifications": {
       "Loại": "Vòng cổ / Nhỏ gáy",
@@ -2261,12 +2358,12 @@
   },
   {
     "id": "prod-1050",
-    "name": "Bát ăn / Phụ kiện mèo Local",
-    "slug": "bat-an-phu-kien-meo-local-1050",
+    "name": "Bát ăn phụ kiện Catit Pixi",
+    "slug": "bat-an-phu-kien-catit-pixi-1050",
     "price": 86500,
     "categoryId": "cat-10",
-    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/bat-an-phu-kien-meo-local-1050.webp",
-    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/bat-an-phu-kien-meo-local-1050.webp",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/vat-nuoi-thu-cung/bat-an-phu-kien-catit-pixi-1050.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/vat-nuoi-thu-cung/bat-an-phu-kien-catit-pixi-1050.webp",
     "description": "Bát ăn uống đôi hoặc đơn. Inox 304 hoặc nhựa an toàn. Đế chống trượt. Dễ vệ sinh. Size phù hợp nhiều giống.",
     "brand": "Catit",
     "sku": "CAT-1050-BỘ",
@@ -2275,9 +2372,9 @@
     "unit": "bộ",
     "shortDescription": "Bát ăn uống inox hoặc nhựa đế chống trượt.",
     "gallery": [
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/bat-an-phu-kien-meo-local-1050-a.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/bat-an-phu-kien-meo-local-1050-b.webp",
-      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/bat-an-phu-kien-meo-local-1050-c.webp"
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/bat-an-phu-kien-catit-pixi-1050-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/bat-an-phu-kien-catit-pixi-1050-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/vat-nuoi-thu-cung/bat-an-phu-kien-catit-pixi-1050-c.webp"
     ],
     "specifications": {
       "Loại": "Bát đôi / Đơn",
