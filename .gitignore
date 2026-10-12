@@ -4,6 +4,7 @@ dist
 .turbo
 .env
 .env.local
+*.webp
 
 # Generated helper files
 gather-code.mjs
