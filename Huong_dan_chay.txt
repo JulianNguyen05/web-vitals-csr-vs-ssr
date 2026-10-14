@@ -1,0 +1,67 @@
+HƯỚNG DẪN CHẠY DỰ ÁN web-vitals-csr-vs-ssr
+=============================================
+
+Chạy tất cả lệnh dưới đây ở THƯ MỤC GỐC của dự án (nơi có pnpm-workspace.yaml).
+
+1. CÀI ĐẶT (làm 1 lần, hoặc khi đổi dependency)
+-----------------------------------------------
+    pnpm install
+
+2. CHẠY DEV
+-----------
+    pnpm dev          # chạy cả 2 app song song
+    pnpm dev:csr      # chỉ app-csr (React + Vite)  -> http://localhost:5173
+    pnpm dev:ssr      # chỉ app-ssr (Next.js)       -> http://localhost:3001
+
+LƯU Ý: `pnpm dev` KHÔNG còn tự chạy sync nữa (đã bỏ "predev").
+Nó chỉ bật 2 app, không xử lý lại ảnh, không upload R2, không ghi đè JSON.
+
+3. KHI NÀO CẦN CHẠY `pnpm sync`
+-------------------------------
+Chỉ chạy khi bạn thay đổi ảnh gốc trong packages/data/assets/raw
+hoặc thay đổi dữ liệu sản phẩm:
+
+    pnpm sync
+
+`sync` chạy lần lượt:
+    process-images  ->  XÓA SẠCH assets/processed rồi resize lại toàn bộ ảnh (sharp)
+    upload-r2       ->  đẩy ảnh lên Cloudflare R2
+    update-urls     ->  ghi lại URL ảnh vào json/by-category/<số lượng>/*.json
+    merge           ->  tạo lại products-<số lượng>.json
+    validate        ->  kiểm tra schema
+
+Cần có file packages/data/.env (copy từ ".env example") với thông tin R2.
+Quá trình này chậm vì xử lý hàng nghìn ảnh, đừng chạy mỗi lần dev.
+
+Có thể chạy từng bước riêng khi cần:
+    pnpm --filter @repo/data run process-images
+    pnpm --filter @repo/data run upload-r2
+    pnpm --filter @repo/data run update-urls
+    pnpm --filter @repo/data run merge
+    pnpm validate
+
+4. BUILD / PRODUCTION (khi đo Core Web Vitals)
+----------------------------------------------
+    pnpm build
+    pnpm --filter app-csr run preview     # CSR bản build
+    pnpm --filter app-ssr run start       # SSR bản build -> http://localhost:3001
+
+Nên đo trên bản build, không đo trên bản dev.
+
+5. ĐỔI SỐ LƯỢNG SẢN PHẨM (20 | 500 | 2000)
+------------------------------------------
+Sửa DÒNG IMPORT trong packages/data/index.ts:
+    import productsJson from "./json/products-2000.json";
+
+CHÚ Ý: script update-urls mặc định chỉ xử lý bộ "20" nếu không truyền tham số.
+Muốn cập nhật bộ khác, chạy tay:
+    pnpm --filter @repo/data exec node scripts/update-urls.mjs 2000
+    pnpm --filter @repo/data run merge
+Hãy kiểm tra thêm merge.mjs xem nó đọc bộ số lượng nào.
+
+6. GHI CHÚ VỀ THAY ĐỔI package.json
+-----------------------------------
+- Bỏ "predev": "pnpm run sync" để dev không tự xử lý lại ảnh.
+- Chuyển "validate" và "build" vào trong "scripts" (trước đây nằm ngoài
+  nên lệnh `pnpm validate` và `pnpm build` không hoạt động).
+- Thêm "dev:csr" và "dev:ssr" để chạy riêng từng app.

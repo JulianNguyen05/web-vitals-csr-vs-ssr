@@ -5,8 +5,11 @@
   "main": "index.js",
   "scripts": {
     "sync": "pnpm --filter \"./packages/data\" run sync",
-    "predev": "pnpm run sync",
+    "validate": "pnpm --filter @repo/data run validate",
     "dev": "pnpm -r --parallel --if-present run dev",
+    "dev:csr": "pnpm --filter app-csr run dev",
+    "dev:ssr": "pnpm --filter app-ssr run dev",
+    "build": "pnpm -r --if-present run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -19,7 +22,5 @@
       "onFail": "download"
     }
   },
-  "type": "module",
-  "validate": "pnpm --filter @repo/data run validate",
-  "build": "pnpm -r --if-present run build"
+  "type": "module"
 }

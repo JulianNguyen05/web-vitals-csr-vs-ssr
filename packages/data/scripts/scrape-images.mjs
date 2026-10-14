@@ -40,6 +40,8 @@ const DRY = args.includes('--dry');
 const LIMIT = getArg('limit') ? Number(getArg('limit')) : Infinity;
 const ONLY_CATEGORY = getArg('category');
 const QUERIES = args.includes('--queries'); // in danh sách từ khoá sẽ dùng rồi thoát
+const VERIFY = args.includes('--verify'); // quét assets/raw tìm file hỏng / không đọc được bằng sharp
+const DELETE_BAD = args.includes('--delete'); // dùng kèm --verify: xoá file hỏng để lần chạy sau tải lại
 const CLEAN = args.includes('--clean'); // xoá các ảnh do script này đã tải (theo manifest)
 
 // Từ khoá tiếng Anh dự phòng theo category (Pixabay tìm tiếng Việt không dấu rất tệ -> ra ảnh sai hoàn toàn)
@@ -151,13 +153,54 @@ async function download(url, destPath) {
   const type = res.headers.get('content-type') || '';
   if (!type.startsWith('image/')) throw new Error(`Không phải ảnh: ${type}`);
   const buf = Buffer.from(await res.arrayBuffer());
+  const sharp = await getSharp();
+  await sharp(buf).metadata(); // ném lỗi nếu không phải ảnh hợp lệ -> không ghi file hỏng xuống đĩa
   const tmp = `${destPath}.part`;
   await fs.writeFile(tmp, buf);
   await fs.rename(tmp, destPath); // tránh file dở dang nếu bị ngắt giữa chừng
 }
 
+// ---------- Kiểm tra ảnh hỏng ----------
+const IMG_EXT = /\.(jpe?g|png|webp)$/i;
+async function getSharp() {
+  return (await import('sharp')).default;
+}
+
+if (VERIFY) {
+  const sharp = await getSharp();
+  const bad = [];
+  let total = 0;
+  for (const entry of await fs.readdir(RAW_DIR, { withFileTypes: true })) {
+    if (!entry.isDirectory()) continue;
+    for (const f of await fs.readdir(path.join(RAW_DIR, entry.name))) {
+      if (!IMG_EXT.test(f)) continue;
+      const full = path.join(RAW_DIR, entry.name, f);
+      total++;
+      try {
+        const size = (await fs.stat(full)).size;
+        if (size === 0) throw new Error('file rỗng (0 byte)');
+        await sharp(full).metadata();
+      } catch (err) {
+        const size = (await fs.stat(full).catch(() => ({ size: 0 }))).size;
+        bad.push({ file: `${entry.name}/${f}`, 'KB': (size / 1024).toFixed(1), lỗi: err.message });
+      }
+    }
+  }
+  console.log(`Đã quét ${total} ảnh, ${bad.length} file hỏng.`);
+  if (bad.length) {
+    console.table(bad);
+    if (DELETE_BAD) {
+      for (const b of bad) await fs.rm(path.join(RAW_DIR, b.file), { force: true });
+      console.log('Đã xoá. Chạy lại script (không cờ) để tải bù.');
+    } else {
+      console.log('Thêm --delete để xoá các file này, rồi chạy lại script để tải bù.');
+    }
+  }
+  process.exit(0);
+}
+
 // ---------- Lập kế hoạch ----------
-if (!DRY && !QUERIES && !CLEAN && !API_KEY) {
+if (!DRY && !QUERIES && !CLEAN && !VERIFY && !API_KEY) {
   console.error('Thiếu PIXABAY_API_KEY. Thêm vào .env rồi chạy: node --env-file=.env scripts/scrape-images.mjs');
   process.exit(1);
 }
@@ -237,11 +280,23 @@ async function runTask(t) {
   if (pool.length === 0) pool = await getPool(t.fallback);
   if (pool.length === 0) throw new Error(`Không có kết quả cho "${t.query}"`);
 
-  const url = pool[t.photoIndex % pool.length];
   const dir = path.join(RAW_DIR, t.cat);
   await fs.mkdir(dir, { recursive: true });
-  await download(url, path.join(dir, `${t.base}.jpg`));
-  manifest.push(`${t.cat}/${t.base}.jpg`);
+
+  // Ảnh trong pool có thể hỏng / không đọc được -> thử ảnh kế tiếp (tối đa 5 ứng viên)
+  let lastErr;
+  for (let k = 0; k < Math.min(5, pool.length); k++) {
+    const url = pool[(t.photoIndex + k * SUFFIXES.length) % pool.length];
+    try {
+      await download(url, path.join(dir, `${t.base}.jpg`));
+      manifest.push(`${t.cat}/${t.base}.jpg`);
+      return;
+    } catch (err) {
+      lastErr = err;
+      console.warn(`  ảnh lỗi (${err.message}), thử ảnh khác cho ${t.base}`);
+    }
+  }
+  throw lastErr;
 }
 
 async function worker() {

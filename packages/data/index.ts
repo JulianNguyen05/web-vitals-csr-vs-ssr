@@ -2,7 +2,7 @@ import type { Category, Product } from "@repo/types";
 import categoriesJson from "./json/categories.json";
 // Đổi ngưỡng dữ liệu (20 | 500 | 2000): chỉ sửa DÒNG IMPORT NÀY.
 // Chỉ file được import mới vào bundle, nên không phình bundle ở các ngưỡng còn lại.
-import productsJson from "./json/products-20.json";
+import productsJson from "./json/products-2000.json";
 
 export const categories: Category[] = categoriesJson;
 
