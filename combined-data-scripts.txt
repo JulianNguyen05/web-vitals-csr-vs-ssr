@@ -1,0 +1,335 @@
+# TỔNG HỢP DỮ LIỆU CÁC FILE CẦN GỬI (16:48:58 12/10/2026)
+
+
+// ======================================================================
+// 📄 FILE: package.json
+// ======================================================================
+
+{
+  "name": "web-vitals-csr-vs-ssr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sync": "pnpm --filter \"./packages/data\" run sync",
+    "predev": "pnpm run sync",
+    "dev": "pnpm -r --parallel --if-present run dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "^12.3.4",
+      "onFail": "download"
+    }
+  },
+  "type": "module",
+  "validate": "pnpm --filter @repo/data run validate",
+  "build": "pnpm -r --if-present run build"
+}
+
+// ======================================================================
+// 📄 FILE: packages/data/package.json
+// ======================================================================
+
+{
+  "name": "@repo/data",
+  "version": "0.0.0",
+  "private": true,
+  "main": "index.ts",
+  "types": "index.ts",
+  "scripts": {
+    "generate": "node scripts/generate.mjs",
+    "merge": "node scripts/merge.mjs",
+    "process-images": "node scripts/process-images.mjs",
+    "upload-r2": "node scripts/upload-r2.mjs",
+    "prune-r2": "node scripts/upload-r2.mjs --prune",
+    "update-urls": "node scripts/update-urls.mjs",
+    "validate": "node scripts/validate.mjs",
+    "sync": "pnpm process-images && pnpm upload-r2 && pnpm update-urls && pnpm merge && pnpm validate"
+  },
+  "dependencies": {
+    "@repo/types": "workspace:*"
+  },
+  "devDependencies": {
+    "@aws-sdk/client-s3": "^3.1136.0",
+    "@faker-js/faker": "^8.4.1",
+    "dotenv": "^18.0.1",
+    "sharp": "^0.35.4"
+  }
+}
+
+// ======================================================================
+// 📄 FILE: packages/data/scripts/process-images.mjs
+// ======================================================================
+
+// scripts/process-images.mjs
+//
+// Đọc ảnh gốc trong assets/raw/<slug-ngành>/ và xuất WebP vào assets/processed/:
+//   <slug>.jpg         -> thumb/<ngành>/<slug>.webp   (400x400)
+//                      -> detail/<ngành>/<slug>.webp  (800x800)
+//   <slug>-a|b|c.jpg   -> gallery/<ngành>/<slug>-a.webp (800x800)
+//   ảnh nằm thẳng trong raw/ (vd no-image-icon.jpg) -> misc/<tên>.webp (tối đa 400px)
+//
+// Mọi ảnh dùng CÙNG một bộ tham số (kích thước, chất lượng) để không làm lệch số đo.
+// Cách chạy (từ packages/data): node scripts/process-images.mjs
+
+import sharp from "sharp";
+import { readdirSync, mkdirSync, rmSync, statSync, existsSync } from "node:fs";
+import path from "node:path";
+import { fileURLToPath } from "node:url";
+
+const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
+const RAW = path.join(ROOT, "assets", "raw");
+const OUT = path.join(ROOT, "assets", "processed");
+
+const QUALITY = 80;
+const SIZE = { thumb: 400, detail: 800, gallery: 800 };
+const IMG_EXT = /\.(jpe?g|png|webp)$/i;
+const GALLERY_RE = /-\d+-[abc]$/; // slug luôn kết thúc bằng id số, nên -<id>-a/b/c là ảnh gallery
+
+let totalIn = 0;
+let totalOut = 0;
+let count = 0;
+const warnings = [];
+
+async function toWebp(src, dest, size, fit = "cover") {
+  mkdirSync(path.dirname(dest), { recursive: true });
+
+  const meta = await sharp(src).metadata();
+  if (fit === "cover" && Math.min(meta.width ?? 0, meta.height ?? 0) < size) {
+    warnings.push(`${path.relative(RAW, src)}: ảnh gốc ${meta.width}x${meta.height} nhỏ hơn ${size}px, sẽ bị phóng to`);
+  }
+
+  const pipeline = sharp(src).rotate(); // tôn trọng hướng EXIF
+  const resized =
+    fit === "cover"
+      ? pipeline.resize(size, size, { fit: "cover", position: "centre" })
+      : pipeline.resize(size, size, { fit: "inside", withoutEnlargement: true });
+
+  const info = await resized.webp({ quality: QUALITY }).toFile(dest);
+  totalIn += statSync(src).size;
+  totalOut += info.size;
+  count++;
+  console.log(`  ✓ ${path.relative(OUT, dest).split(path.sep).join("/")}  (${(info.size / 1024).toFixed(1)} KB)`);
+}
+
+async function main() {
+  if (!existsSync(RAW)) {
+    console.error(`Không thấy thư mục ${RAW}`);
+    process.exit(1);
+  }
+
+  rmSync(OUT, { recursive: true, force: true }); // xuất lại từ đầu cho sạch
+  const entries = readdirSync(RAW, { withFileTypes: true });
+
+  for (const entry of entries) {
+    // Ảnh nằm thẳng trong raw/ (ảnh dự phòng, icon...)
+    if (entry.isFile() && IMG_EXT.test(entry.name)) {
+      const stem = path.parse(entry.name).name;
+      await toWebp(path.join(RAW, entry.name), path.join(OUT, "misc", `${stem}.webp`), SIZE.thumb, "inside");
+      continue;
+    }
+    if (!entry.isDirectory()) continue;
+
+    const category = entry.name;
+    console.log(`\n[${category}]`);
+    const files = readdirSync(path.join(RAW, category)).filter((f) => IMG_EXT.test(f)).sort();
+
+    for (const file of files) {
+      const src = path.join(RAW, category, file);
+      const stem = path.parse(file).name;
+
+      if (GALLERY_RE.test(stem)) {
+        await toWebp(src, path.join(OUT, "gallery", category, `${stem}.webp`), SIZE.gallery);
+      } else {
+        await toWebp(src, path.join(OUT, "thumb", category, `${stem}.webp`), SIZE.thumb);
+        await toWebp(src, path.join(OUT, "detail", category, `${stem}.webp`), SIZE.detail);
+      }
+    }
+  }
+
+  console.log(`\nXong: ${count} file WebP, ${(totalIn / 1048576).toFixed(1)} MB gốc -> ${(totalOut / 1048576).toFixed(1)} MB`);
+  if (warnings.length) {
+    console.log("\nCảnh báo:");
+    warnings.forEach((w) => console.log("  ! " + w));
+  }
+}
+
+main().catch((err) => {
+  console.error(err);
+  process.exit(1);
+});
+
+
+// ======================================================================
+// 📄 FILE: packages/data/index.ts
+// ======================================================================
+
+import type { Category, Product } from "@repo/types";
+import categoriesJson from "./json/categories.json";
+// Đổi ngưỡng dữ liệu (20 | 500 | 2000): chỉ sửa DÒNG IMPORT NÀY.
+// Chỉ file được import mới vào bundle, nên không phình bundle ở các ngưỡng còn lại.
+import productsJson from "./json/products-20.json";
+
+export const categories: Category[] = categoriesJson;
+
+// Ranh giới kiểu duy nhất. Schema đã được scripts/validate.mjs kiểm tra
+// (chạy trong `pnpm sync` / `pnpm validate`), nên cast này an toàn.
+export const products = productsJson as unknown as Product[];
+
+// ======================================================================
+// 📄 FILE: apps/app-csr/package.json
+// ======================================================================
+
+{
+  "name": "app-csr",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@repo/cart-store": "workspace:*",
+    "@repo/data": "workspace:*",
+    "@repo/types": "workspace:*",
+    "@repo/ui": "workspace:*",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-router-dom": "^7.0.0",
+    "web-vitals": "^4.2.3",
+    "zustand": "^4.5.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.43",
+    "@types/react": "18.3.4",
+    "@types/react-dom": "18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^9.9.0",
+    "postcss": "^8.4.41",
+    "tailwindcss": "^3.4.9",
+    "typescript": "^5.5.4",
+    "vite": "^5.4.2"
+  }
+}
+
+// ======================================================================
+// 📄 FILE: apps/app-ssr/package.json
+// ======================================================================
+
+{
+  "name": "app-ssr",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3001",
+    "build": "next build",
+    "start": "next start -p 3001",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.15",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "zustand": "^4.5.4",
+    "web-vitals": "^4.2.3",
+    "@repo/types": "workspace:*",
+    "@repo/data": "workspace:*",
+    "@repo/cart-store": "workspace:*",
+    "@repo/ui": "workspace:*"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "18.3.4",
+    "@types/react-dom": "18.3.0",
+    "typescript": "^5.5.4",
+    "tailwindcss": "3.4.9",
+    "postcss": "8.4.41",
+    "autoprefixer": "10.4.20",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.15"
+  }
+}
+
+// ======================================================================
+// 📄 FILE: packages/data/scripts/update-urls.mjs
+// ======================================================================
+
+// scripts/update-urls.mjs
+//
+// Đổi thumbUrl / detailUrl / gallery trong json/by-category/<số lượng>/*.json
+// từ picsum.photos sang URL ảnh trên R2. URL được tính từ `slug` của từng sản phẩm
+// và tên file JSON (= slug ngành), nên chạy lại nhiều lần vẫn cho cùng kết quả.
+//
+//   thumbUrl  -> ${R2_PUBLIC_BASE}/thumb/<ngành>/<slug>.webp
+//   detailUrl -> ${R2_PUBLIC_BASE}/detail/<ngành>/<slug>.webp
+//   gallery   -> ${R2_PUBLIC_BASE}/gallery/<ngành>/<slug>-a.webp, -b, -c ...
+//
+// Cách chạy (từ packages/data): node scripts/update-urls.mjs [số lượng]   (mặc định 20)
+// Sau đó chạy lại merge để tạo lại products-<số lượng>.json.
+
+import dotenv from "dotenv";
+import { readdirSync, readFileSync, writeFileSync, existsSync } from "node:fs";
+import path from "node:path";
+import { fileURLToPath } from "node:url";
+
+const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
+dotenv.config({ path: path.join(ROOT, ".env") });
+
+const BASE = (process.env.R2_PUBLIC_BASE || "").replace(/\/+$/, "");
+if (!BASE) {
+  console.error("Thiếu R2_PUBLIC_BASE trong .env (vd https://pub-xxxxxxxx.r2.dev)");
+  process.exit(1);
+}
+
+const count = process.argv[2] || "20";
+const dir = path.join(ROOT, "json", "by-category", count);
+if (!existsSync(dir)) {
+  console.error(`Không thấy thư mục ${dir}`);
+  process.exit(1);
+}
+
+const PROCESSED = path.join(ROOT, "assets", "processed");
+const SUFFIX = ["a", "b", "c", "d", "e"];
+const missing = [];
+let updated = 0;
+
+function check(rel) {
+  if (existsSync(PROCESSED) && !existsSync(path.join(PROCESSED, rel))) missing.push(rel);
+}
+
+for (const file of readdirSync(dir).filter((f) => f.endsWith(".json"))) {
+  const category = path.parse(file).name;
+  const filePath = path.join(dir, file);
+  const products = JSON.parse(readFileSync(filePath, "utf8"));
+
+  for (const p of products) {
+    const thumb = `thumb/${category}/${p.slug}.webp`;
+    const detail = `detail/${category}/${p.slug}.webp`;
+    const gallery = (p.gallery ?? []).map((_, i) => `gallery/${category}/${p.slug}-${SUFFIX[i]}.webp`);
+
+    [thumb, detail, ...gallery].forEach(check);
+
+    p.thumbUrl = `${BASE}/${thumb}`;
+    p.detailUrl = `${BASE}/${detail}`;
+    p.gallery = gallery.map((g) => `${BASE}/${g}`);
+    updated++;
+  }
+
+  writeFileSync(filePath, JSON.stringify(products, null, 2) + "\n");
+  console.log(`✓ ${file} (${products.length} sản phẩm)`);
+}
+
+console.log(`\nĐã cập nhật ${updated} sản phẩm trong by-category/${count}. Nhớ chạy lại merge.`);
+if (missing.length) {
+  console.log("\nCảnh báo - chưa có ảnh đã xử lý cho các URL sau:");
+  missing.forEach((m) => console.log("  ! " + m));
+}
+

@@ -1,0 +1,4 @@
+huong dan chay file scrape-images.mjs
+  1. node --env-file=.env scripts/scrape-images.mjs --dry để xem kế hoạch.
+  2. node --env-file=.env scripts/scrape-images.mjs --limit 20 để tải thử rồi xem ảnh có hợp loại sản phẩm không.
+  3. node --env-file=.env scripts/scrape-images.mjs để tải hết phần còn thiếu.
