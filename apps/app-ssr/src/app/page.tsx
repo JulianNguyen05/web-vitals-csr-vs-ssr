@@ -7,9 +7,18 @@ export const dynamic = "force-dynamic";
 export default function ProductListPage() {
   return (
     <ProductGrid count={products.length}>
-      {products.map((p) => (
-        <Link key={p.id} href={`/products/${p.id}`} className="block h-full">
-          <ProductCard product={p} actions={<AddToCartButton productId={p.id} />} />
+      {products.map((p, i) => (
+        <Link
+          key={p.id}
+          href={`/products/${p.id}`}
+          prefetch={false}
+          className="block h-full"
+        >
+          <ProductCard
+            product={p}
+            priority={i < 8}
+            actions={<AddToCartButton productId={p.id} />}
+          />
         </Link>
       ))}
     </ProductGrid>

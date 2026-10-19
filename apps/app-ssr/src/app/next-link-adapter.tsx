@@ -11,7 +11,7 @@ export function NextLinkAdapter({
   children: ReactNode;
 }) {
   return (
-    <Link href={href} className={className}>
+    <Link href={href} prefetch={false} className={className}>
       {children}
     </Link>
   );

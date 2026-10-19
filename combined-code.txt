@@ -1,0 +1,2086 @@
+# TỔNG HỢP NỘI DUNG FILE DỰ ÁN (17:17:16 19/10/2026)
+
+
+// ======================================================================
+// 📄 FILE: package.json
+// ======================================================================
+
+{
+  "name": "web-vitals-csr-vs-ssr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sync": "pnpm --filter \"./packages/data\" run sync",
+    "validate": "pnpm --filter @repo/data run validate",
+    "dev": "pnpm -r --parallel --if-present run dev",
+    "dev:csr": "pnpm --filter app-csr run dev",
+    "dev:ssr": "pnpm --filter app-ssr run dev",
+    "build": "pnpm -r --if-present run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "^12.3.4",
+      "onFail": "download"
+    }
+  },
+  "type": "module"
+}
+
+// ======================================================================
+// 📄 FILE: pnpm-workspace.yaml
+// ======================================================================
+
+packages:
+  - "apps/*"
+  - "packages/*"
+allowBuilds:
+  esbuild: false
+  unrs-resolver: false
+
+
+// ======================================================================
+// 📄 FILE: README.md
+// ======================================================================
+
+# web-vitals-csr-vs-ssr
+
+Ứng dụng mẫu mô phỏng giao dịch thương mại điện tử **T&Q Mart**, triển khai song song 2 phiên bản độc lập để đo và so sánh **Core Web Vitals**:
+
+- `app-csr` — Client-Side Rendering, React.js 18 + Vite + React Router v7
+- `app-ssr` — Server-Side Rendering, Next.js 14 (App Router)
+
+Nguyên tắc cốt lõi: **kiến trúc kết xuất là biến số khác biệt duy nhất** giữa 2 phiên bản. Mọi thành phần khác (giao diện, luồng nghiệp vụ, dữ liệu, mức tối ưu code) phải đồng nhất tuyệt đối để đảm bảo tính hợp lệ của thực nghiệm đo lường.
+
+## Cấu trúc monorepo
+
+```
+apps/
+  app-csr/      React SPA (Vite), static hosting
+  app-ssr/      Next.js App Router, force-dynamic mọi route
+packages/
+  config/       ESLint, Prettier, Tailwind config dùng chung
+  types/        Product, Category, CartItem (TypeScript)
+  data/         JSON mock 3 ngưỡng: 20 / 500 / 2000 sản phẩm
+  cart-store/   Zustand + persist — logic giỏ hàng viết 1 lần
+  ui/           Component thuần (Button, ProductCard, CartDrawer...)
+```
+
+## Yêu cầu môi trường
+
+- Node.js ≥ 18
+- pnpm (`corepack enable && corepack prepare pnpm@latest --activate`)
+
+## Cài đặt
+
+```powershell
+pnpm install
+```
+
+Chạy ở thư mục gốc — pnpm sẽ tự link tất cả package trong `packages/` vào 2 app qua `workspace:*`.
+
+## Chạy ứng dụng
+
+**CSR (React + Vite)** — cổng cố định `5180`:
+
+```powershell
+cd apps/app-csr
+pnpm dev
+```
+→ http://localhost:5180
+
+**SSR (Next.js)** — cổng cố định `3001`:
+
+```powershell
+cd apps/app-ssr
+pnpm dev
+```
+→ http://localhost:3001
+
+Có thể chạy song song 2 terminal để đối chiếu trực tiếp giữa 2 phiên bản.
+
+## Regenerate dữ liệu mock
+
+```powershell
+cd packages/data
+pnpm generate
+```
+
+Ghi đè `products-20.json`, `products-500.json`, `products-2000.json`, `categories.json`. Ảnh sản phẩm hiện dùng `picsum.photos` (seed theo ID, cố định giữa các lần load) — **cần thay bằng ảnh thật trên Cloudflare R2 trước khi đo Web Vitals chính thức**, vì độ trễ mạng của dịch vụ ngoài sẽ lẫn vào kết quả đo LCP.
+
+---
+
+## Quy tắc khi nâng cấp giao diện / tính năng
+
+### Nguyên tắc chốt
+
+> Nếu đổi **cách một thứ trông ra sao hoặc hoạt động ra sao** → sửa trong `packages/`.
+> Nếu chỉ đổi **cách một route được khai báo/gọi ra** → sửa ở `apps/`, và phải làm y hệt ở cả `app-csr` lẫn `app-ssr`.
+
+### Việc luôn làm ở `packages/` (viết 1 lần, cả 2 app tự nhận)
+
+| Loại thay đổi | Package |
+|---|---|
+| Component giao diện (mới hoặc sửa) | `packages/ui` |
+| Logic giỏ hàng, tính toán, state dùng chung | `packages/cart-store` |
+| Màu sắc, spacing, breakpoint, font | `packages/config/tailwind.config.js` |
+| Định nghĩa kiểu dữ liệu mới | `packages/types` |
+
+**Không** viết component hoặc logic nghiệp vụ riêng lẻ trong `apps/app-csr` hoặc `apps/app-ssr`. Nếu 2 app cần cùng một hành vi, hành vi đó thuộc về `packages/`.
+
+### Việc bắt buộc phải đụng ở `apps/` (không tránh được)
+
+- **Khai báo route mới** — mỗi app dùng cơ chế routing khác nhau:
+  - `app-csr`: thêm `<Route>` trong `src/App.tsx` (React Router)
+  - `app-ssr`: thêm thư mục + `page.tsx` trong `src/app/` (file-based routing)
+
+  Thêm 1 trang mới nghĩa là phải tạo route ở **cả 2 nơi**, nhưng nội dung bên trong chỉ gọi component từ `packages/ui` — không viết lại logic.
+
+- **Server/Client Component split (chỉ ở `app-ssr`)** — Next.js Server Component không truyền được callback (hàm) xuống props. Component nào cần tương tác (`onClick`, đọc `localStorage`, dùng `useCartStore`) phải tách thành Client Component riêng (`"use client"`) trong `apps/app-ssr`, giữ Server Component chỉ để đọc dữ liệu tĩnh. Component UI thật bên trong vẫn import từ `packages/ui`.
+
+### Checklist trước khi coi một thay đổi UI/tính năng là "xong"
+
+- [ ] Sửa ở `packages/`, không sửa trùng lặp ở từng `apps/`
+- [ ] Nếu thêm route mới: đã tạo ở cả `app-csr` và `app-ssr`, path giống hệt nhau (vd. `/products/:id` ↔ `/products/[id]`)
+- [ ] Ảnh mới (nếu có) dùng đúng 2 kích thước chuẩn: thumb 400×400, detail 800×800, định dạng WebP, khai báo cứng `width`/`height`, `loading="lazy"` cho ảnh ngoài khung nhìn đầu — tránh lệch chỉ số CLS
+- [ ] Không dùng `next/image` hay thư viện tối ưu ảnh runtime — chỉ `<img>` thuần ở cả 2 bên, tránh lệch lợi thế LCP
+- [ ] Không gọi API mạng để lấy dữ liệu sản phẩm — chỉ import JSON tĩnh từ `packages/data`
+- [ ] Giỏ hàng chỉ lưu `localStorage` qua `packages/cart-store` — không thêm API call lưu giỏ hàng về server
+- [ ] Đã mở song song `localhost:5180` và `localhost:3001`, đối chiếu bằng mắt: layout, spacing, ảnh, giá tiền phải giống hệt nhau
+- [ ] Kiểm tra Console ở `app-ssr` không có warning "Hydration failed" sau khi đổi
+
+### Vì sao các quy tắc này tồn tại
+
+Toàn bộ ràng buộc trên đến từ nguyên tắc kiểm soát biến số của SAD/SRS: nếu 2 phiên bản lệch nhau ở bất kỳ điểm nào ngoài tầng kết xuất (CSR vs SSR), sự khác biệt về Web Vitals đo được sẽ không còn phản ánh đúng bản chất kiến trúc — làm sai lệch toàn bộ kết luận nghiên cứu.
+
+
+// ======================================================================
+// 📄 FILE: apps/app-csr/package.json
+// ======================================================================
+
+{
+  "name": "app-csr",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@repo/cart-store": "workspace:*",
+    "@repo/data": "workspace:*",
+    "@repo/types": "workspace:*",
+    "@repo/ui": "workspace:*",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-router-dom": "^7.0.0",
+    "web-vitals": "^4.2.3",
+    "zustand": "^4.5.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.43",
+    "@types/react": "18.3.4",
+    "@types/react-dom": "18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^9.9.0",
+    "postcss": "^8.4.41",
+    "tailwindcss": "^3.4.9",
+    "typescript": "^5.5.4",
+    "vite": "^5.4.2"
+  }
+}
+
+// ======================================================================
+// 📄 FILE: apps/app-csr/vite.config.ts
+// ======================================================================
+
+import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
+
+export default defineConfig({
+  plugins: [react()],
+  server: {
+    port: 5180,
+    strictPort: true,
+  },
+})
+
+// ======================================================================
+// 📄 FILE: apps/app-csr/postcss.config.js
+// ======================================================================
+
+export default {
+  plugins: {
+    tailwindcss: { config: "../../packages/config/tailwind.config.js" },
+    autoprefixer: {},
+  },
+};
+
+// ======================================================================
+// 📄 FILE: apps/app-csr/index.html
+// ======================================================================
+
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>T&amp;Q Mart (CSR)</title>
+    <meta name="description" content="Ứng dụng mẫu mô phỏng giao dịch thương mại điện tử T&amp;Q Mart" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
+
+// ======================================================================
+// 📄 FILE: apps/app-csr/tsconfig.json
+// ======================================================================
+
+{
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ]
+}
+
+
+// ======================================================================
+// 📄 FILE: apps/app-csr/tsconfig.app.json
+// ======================================================================
+
+{
+  "compilerOptions": {
+    "tsBuildInfoFile": "./node_modules/.tmp/tsconfig.app.tsbuildinfo",
+    "target": "es2023",
+    "lib": ["ES2023", "DOM"],
+    "module": "esnext",
+    "types": ["vite/client"],
+    "allowArbitraryExtensions": true,
+    "skipLibCheck": true,
+    "strict": true,
+
+    /* Bundler mode */
+    "moduleResolution": "bundler",
+    "allowImportingTsExtensions": true,
+    "verbatimModuleSyntax": true,
+    "moduleDetection": "force",
+    "noEmit": true,
+    "jsx": "react-jsx",
+
+    /* Linting */
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "erasableSyntaxOnly": true,
+    "noFallthroughCasesInSwitch": true
+  },
+  "include": ["src"]
+}
+
+
+// ======================================================================
+// 📄 FILE: apps/app-csr/tsconfig.node.json
+// ======================================================================
+
+{
+  "compilerOptions": {
+    "tsBuildInfoFile": "./node_modules/.tmp/tsconfig.node.tsbuildinfo",
+    "target": "es2023",
+    "lib": ["ES2023"],
+    "types": ["node"],
+    "skipLibCheck": true,
+
+    /* Bundler mode */
+    "module": "nodenext",
+    "allowImportingTsExtensions": true,
+    "verbatimModuleSyntax": true,
+    "moduleDetection": "force",
+    "noEmit": true,
+
+    /* Linting */
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "erasableSyntaxOnly": true,
+    "noFallthroughCasesInSwitch": true
+  },
+  "include": ["vite.config.ts"]
+}
+
+
+// ======================================================================
+// 📄 FILE: apps/app-csr/src/main.tsx
+// ======================================================================
+
+import { StrictMode } from "react";
+import { createRoot } from "react-dom/client";
+import { BrowserRouter } from "react-router-dom";
+import App from "./App";
+import "./index.css";
+
+createRoot(document.getElementById("root")!).render(
+  <StrictMode>
+    <BrowserRouter>
+      <App />
+    </BrowserRouter>
+  </StrictMode>
+);
+
+// ======================================================================
+// 📄 FILE: apps/app-csr/src/App.tsx
+// ======================================================================
+
+import { Routes, Route } from "react-router-dom";
+import { ProductListPage } from "./pages/ProductListPage";
+import { ProductDetailPage } from "./pages/ProductDetailPage";
+import { CartPage } from "./pages/CartPage";
+import { useCartStore } from "@repo/cart-store";
+import { SiteHeader } from "@repo/ui";
+import { RouterLink } from "./components/RouterLink";
+
+function App() {
+  const totalQuantity = useCartStore((s) => s.getTotalQuantity());
+
+  return (
+    <div className="min-h-screen bg-surface">
+      <SiteHeader
+        storeLabel="T&Q Mart (CSR)"
+        cartQuantity={totalQuantity}
+        LinkComponent={RouterLink}
+      />
+      <main className="mx-auto max-w-7xl px-4 py-6 sm:px-6">
+        <Routes>
+          <Route path="/" element={<ProductListPage />} />
+          <Route path="/products/:id" element={<ProductDetailPage />} />
+          <Route path="/cart" element={<CartPage />} />
+        </Routes>
+      </main>
+    </div>
+  );
+}
+
+export default App;
+
+
+// ======================================================================
+// 📄 FILE: apps/app-csr/src/index.css
+// ======================================================================
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-surface text-foreground font-sans antialiased;
+}
+
+
+// ======================================================================
+// 📄 FILE: apps/app-csr/src/components/RouterLink.tsx
+// ======================================================================
+
+import type { ReactNode } from "react";
+import { Link } from "react-router-dom";
+
+export function RouterLink({
+  href,
+  className,
+  children,
+}: {
+  href: string;
+  className?: string;
+  children: ReactNode;
+}) {
+  return (
+    <Link to={href} className={className}>
+      {children}
+    </Link>
+  );
+}
+
+// ======================================================================
+// 📄 FILE: apps/app-csr/src/pages/CartPage.tsx
+// ======================================================================
+
+import { CartPageView } from "@repo/ui";
+import { useCartStore, selectCartTotal } from "@repo/cart-store";
+import { products } from "@repo/data";
+import { RouterLink } from "../components/RouterLink";
+
+export function CartPage() {
+  const items = useCartStore((s) => s.items);
+  const updateQuantity = useCartStore((s) => s.updateQuantity);
+  const removeItem = useCartStore((s) => s.removeItem);
+  const total = selectCartTotal(items, products);
+
+  return (
+    <CartPageView
+      items={items}
+      products={products}
+      total={total}
+      onUpdateQuantity={updateQuantity}
+      onRemove={removeItem}
+      LinkComponent={RouterLink}
+    />
+  );
+}
+
+// ======================================================================
+// 📄 FILE: apps/app-csr/src/pages/ProductDetailPage.tsx
+// ======================================================================
+
+import { useParams } from "react-router-dom";
+import { ProductDetailView, AddToCartButton } from "@repo/ui";
+import { products } from "@repo/data";
+
+export function ProductDetailPage() {
+  const { id } = useParams();
+  const product = products.find((p) => p.id === id);
+
+  if (!product) return <div className="p-4">Không tìm thấy sản phẩm.</div>;
+
+  return (
+    <ProductDetailView
+      product={product}
+      cartAction={<AddToCartButton productId={product.id} variant="detail" />}
+    />
+  );
+}
+
+
+// ======================================================================
+// 📄 FILE: apps/app-csr/src/pages/ProductListPage.tsx
+// ======================================================================
+
+import { ProductCard, ProductGrid, AddToCartButton } from "@repo/ui";
+import { products } from "@repo/data";
+import { Link } from "react-router-dom";
+
+export function ProductListPage() {
+  return (
+    <ProductGrid count={products.length}>
+      {products.map((p) => (
+        <Link key={p.id} to={`/products/${p.id}`} className="block h-full">
+          <ProductCard product={p} actions={<AddToCartButton productId={p.id} />} />
+        </Link>
+      ))}
+    </ProductGrid>
+  );
+}
+
+
+// ======================================================================
+// 📄 FILE: apps/app-ssr/package.json
+// ======================================================================
+
+{
+  "name": "app-ssr",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3001",
+    "build": "next build",
+    "start": "next start -p 3001",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.15",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "zustand": "^4.5.4",
+    "web-vitals": "^4.2.3",
+    "@repo/types": "workspace:*",
+    "@repo/data": "workspace:*",
+    "@repo/cart-store": "workspace:*",
+    "@repo/ui": "workspace:*"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "18.3.4",
+    "@types/react-dom": "18.3.0",
+    "typescript": "^5.5.4",
+    "tailwindcss": "3.4.9",
+    "postcss": "8.4.41",
+    "autoprefixer": "10.4.20",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.15"
+  }
+}
+
+// ======================================================================
+// 📄 FILE: apps/app-ssr/next.config.mjs
+// ======================================================================
+
+/** @type {import('next').NextConfig} */
+const nextConfig = {};
+
+export default nextConfig;
+
+// ======================================================================
+// 📄 FILE: apps/app-ssr/postcss.config.mjs
+// ======================================================================
+
+export default {
+  plugins: {
+    tailwindcss: { config: "../../packages/config/tailwind.config.js" },
+    autoprefixer: {},
+  },
+};
+
+// ======================================================================
+// 📄 FILE: apps/app-ssr/tsconfig.json
+// ======================================================================
+
+{
+  "compilerOptions": {
+    "target": "ES2017",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "paths": {
+      "@/*": [
+        "./src/*"
+      ]
+    }
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts",
+    ".next/dev/types/**/*.ts",
+    "**/*.mts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
+
+
+// ======================================================================
+// 📄 FILE: apps/app-ssr/src/app/layout.tsx
+// ======================================================================
+
+import type { Metadata } from "next";
+import "./globals.css";
+import { Nav } from "./nav";
+
+export const metadata: Metadata = {
+  title: "T&Q Mart (SSR)",
+  description: "Ứng dụng mẫu mô phỏng giao dịch thương mại điện tử T&Q Mart",
+};
+
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
+  return (
+    <html lang="vi">
+      <body>
+        <div className="min-h-screen bg-surface">
+          <Nav />
+          <main className="mx-auto max-w-7xl px-4 py-6 sm:px-6">
+            {children}
+          </main>
+        </div>
+      </body>
+    </html>
+  );
+}
+
+
+// ======================================================================
+// 📄 FILE: apps/app-ssr/src/app/page.tsx
+// ======================================================================
+
+import { ProductCard, ProductGrid, AddToCartButton } from "@repo/ui";
+import { products } from "@repo/data";
+import Link from "next/link";
+
+export const dynamic = "force-dynamic";
+
+export default function ProductListPage() {
+  return (
+    <ProductGrid count={products.length}>
+      {products.map((p) => (
+        <Link key={p.id} href={`/products/${p.id}`} className="block h-full">
+          <ProductCard product={p} actions={<AddToCartButton productId={p.id} />} />
+        </Link>
+      ))}
+    </ProductGrid>
+  );
+}
+
+
+// ======================================================================
+// 📄 FILE: apps/app-ssr/src/app/nav.tsx
+// ======================================================================
+
+"use client";
+
+import { useCartStore } from "@repo/cart-store";
+import { useEffect, useState } from "react";
+import { SiteHeader } from "@repo/ui";
+import { NextLinkAdapter } from "./next-link-adapter";
+
+export function Nav() {
+  const totalQuantity = useCartStore((s) => s.getTotalQuantity());
+  const [mounted, setMounted] = useState(false);
+
+  useEffect(() => setMounted(true), []);
+
+  return (
+    <SiteHeader
+      storeLabel="T&Q Mart (SSR)"
+      cartQuantity={mounted ? totalQuantity : 0}
+      LinkComponent={NextLinkAdapter}
+    />
+  );
+}
+
+
+// ======================================================================
+// 📄 FILE: apps/app-ssr/src/app/next-link-adapter.tsx
+// ======================================================================
+
+import Link from "next/link";
+import type { ReactNode } from "react";
+
+export function NextLinkAdapter({
+  href,
+  className,
+  children,
+}: {
+  href: string;
+  className?: string;
+  children: ReactNode;
+}) {
+  return (
+    <Link href={href} className={className}>
+      {children}
+    </Link>
+  );
+}
+
+// ======================================================================
+// 📄 FILE: apps/app-ssr/src/app/globals.css
+// ======================================================================
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-surface text-foreground font-sans antialiased;
+}
+
+
+// ======================================================================
+// 📄 FILE: apps/app-ssr/src/app/cart/page.tsx
+// ======================================================================
+
+"use client";
+
+import { CartPageView } from "@repo/ui";
+import { useCartStore, selectCartTotal } from "@repo/cart-store";
+import { products } from "@repo/data";
+import { useEffect, useState } from "react";
+import { NextLinkAdapter } from "../next-link-adapter";
+
+export default function CartPage() {
+  const items = useCartStore((s) => s.items);
+  const updateQuantity = useCartStore((s) => s.updateQuantity);
+  const removeItem = useCartStore((s) => s.removeItem);
+  const [mounted, setMounted] = useState(false);
+
+  useEffect(() => setMounted(true), []);
+
+  const total = selectCartTotal(items, products);
+
+  if (!mounted) return <div className="p-4">Đang tải giỏ hàng...</div>;
+
+  return (
+    <CartPageView
+      items={items}
+      products={products}
+      total={total}
+      onUpdateQuantity={updateQuantity}
+      onRemove={removeItem}
+      LinkComponent={NextLinkAdapter}
+    />
+  );
+}
+
+// ======================================================================
+// 📄 FILE: apps/app-ssr/src/app/products/[id]/page.tsx
+// ======================================================================
+
+import { products } from "@repo/data";
+import { notFound } from "next/navigation";
+import { ProductDetailView, AddToCartButton } from "@repo/ui";
+
+export const dynamic = "force-dynamic";
+
+export default function ProductDetailPage({
+  params,
+}: {
+  params: { id: string };
+}) {
+  const product = products.find((p) => p.id === params.id);
+  if (!product) notFound();
+
+  return (
+    <ProductDetailView
+      product={product}
+      cartAction={<AddToCartButton productId={product.id} variant="detail" />}
+    />
+  );
+}
+
+
+// ======================================================================
+// 📄 FILE: packages/ui/package.json
+// ======================================================================
+
+{
+  "name": "@repo/ui",
+  "version": "0.0.0",
+  "private": true,
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "peerDependencies": {
+    "react": "^18.3.1"
+  },
+  "dependencies": {
+    "@repo/types": "workspace:*",
+    "lucide-react": "^0.436.0",
+    "@repo/cart-store": "workspace:*"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.4",
+    "typescript": "^5.5.4"
+  }
+}
+
+// ======================================================================
+// 📄 FILE: packages/ui/src/AddToCartButton.tsx
+// ======================================================================
+
+"use client";
+
+import { useEffect, useRef, useState } from "react";
+import type { MouseEvent } from "react";
+import { Check, Minus, Plus, ShoppingCart } from "lucide-react";
+import { useCartStore } from "@repo/cart-store";
+
+interface AddToCartButtonProps {
+  productId: string;
+  /** "compact": nút nhỏ trong thẻ sản phẩm. "detail": nút lớn kèm bộ chọn số lượng. */
+  variant?: "compact" | "detail";
+}
+
+export function AddToCartButton({
+  productId,
+  variant = "compact",
+}: AddToCartButtonProps) {
+  const addItem = useCartStore((s) => s.addItem);
+  const [quantity, setQuantity] = useState(1);
+  const [added, setAdded] = useState(false);
+  const timer = useRef<ReturnType<typeof setTimeout>>();
+
+  useEffect(() => () => clearTimeout(timer.current), []);
+
+  const flash = () => {
+    setAdded(true);
+    clearTimeout(timer.current);
+    timer.current = setTimeout(() => setAdded(false), 1500);
+  };
+
+  if (variant === "detail") {
+    return (
+      <div className="flex flex-wrap items-center gap-3">
+        <div className="inline-flex h-12 items-center overflow-hidden rounded-xl border border-border">
+          <button
+            type="button"
+            onClick={() => setQuantity((q) => Math.max(1, q - 1))}
+            aria-label="Giảm số lượng"
+            className="flex h-full w-11 items-center justify-center text-foreground transition-colors hover:bg-surface"
+          >
+            <Minus className="h-4 w-4" />
+          </button>
+          <span className="w-10 text-center font-semibold text-foreground">
+            {quantity}
+          </span>
+          <button
+            type="button"
+            onClick={() => setQuantity((q) => Math.min(99, q + 1))}
+            aria-label="Tăng số lượng"
+            className="flex h-full w-11 items-center justify-center text-foreground transition-colors hover:bg-surface"
+          >
+            <Plus className="h-4 w-4" />
+          </button>
+        </div>
+        <button
+          type="button"
+          onClick={() => {
+            addItem(productId, quantity);
+            flash();
+          }}
+          className="flex h-12 min-w-[200px] flex-1 items-center justify-center gap-2 rounded-xl bg-accent px-6 font-semibold text-white transition-colors hover:bg-accent-dark"
+        >
+          {added ? (
+            <>
+              <Check className="h-5 w-5" /> Đã thêm vào giỏ
+            </>
+          ) : (
+            <>
+              <ShoppingCart className="h-5 w-5" /> Thêm vào giỏ hàng
+            </>
+          )}
+        </button>
+      </div>
+    );
+  }
+
+  const handleClick = (e: MouseEvent<HTMLButtonElement>) => {
+    // Nút nằm bên trong <Link> của thẻ sản phẩm: chặn điều hướng khi bấm thêm giỏ.
+    e.preventDefault();
+    e.stopPropagation();
+    addItem(productId);
+    flash();
+  };
+
+  return (
+    <button
+      type="button"
+      onClick={handleClick}
+      className={`flex w-full items-center justify-center gap-1.5 rounded-xl px-3 py-2 text-sm font-semibold transition-colors ${
+        added
+          ? "bg-accent text-white"
+          : "bg-accent-light text-accent-dark hover:bg-accent hover:text-white"
+      }`}
+    >
+      {added ? (
+        <>
+          <Check className="h-4 w-4" /> Đã thêm
+        </>
+      ) : (
+        <>
+          <ShoppingCart className="h-4 w-4" /> Thêm vào giỏ
+        </>
+      )}
+    </button>
+  );
+}
+
+
+// ======================================================================
+// 📄 FILE: packages/ui/src/Button.tsx
+// ======================================================================
+
+import type { ButtonHTMLAttributes, ReactNode } from "react";
+
+interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
+  children: ReactNode;
+  variant?: "primary" | "secondary";
+}
+
+export function Button({ children, variant = "primary", className = "", ...props }: ButtonProps) {
+  const base =
+    "inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded-xl font-semibold transition-colors disabled:opacity-50 disabled:cursor-not-allowed disabled:pointer-events-none";
+  const variants = {
+    primary: "bg-accent text-white hover:bg-accent-dark",
+    secondary: "bg-background text-foreground border border-border hover:bg-surface",
+  };
+  return (
+    <button className={`${base} ${variants[variant]} ${className}`} {...props}>
+      {children}
+    </button>
+  );
+}
+
+
+// ======================================================================
+// 📄 FILE: packages/ui/src/CartPageView.tsx
+// ======================================================================
+
+import type { CartItem, Product } from "@repo/types";
+import { ArrowLeft, Minus, Plus, ShoppingCart, Trash2 } from "lucide-react";
+import { Button } from "./Button";
+import type { LinkComponentType } from "./types";
+
+interface CartPageViewProps {
+  items: CartItem[];
+  products: Product[];
+  total: number;
+  LinkComponent: LinkComponentType;
+  onUpdateQuantity: (productId: string, quantity: number) => void;
+  onRemove: (productId: string) => void;
+}
+
+export function CartPageView({
+  items,
+  products,
+  total,
+  LinkComponent,
+  onUpdateQuantity,
+  onRemove,
+}: CartPageViewProps) {
+  const productMap = new Map(products.map((p) => [p.id, p]));
+  const itemCount = items.reduce((sum, i) => sum + i.quantity, 0);
+
+  if (items.length === 0) {
+    return (
+      <div className="mx-auto flex max-w-2xl flex-col items-center gap-4 px-4 py-20 text-center">
+        <div className="flex h-24 w-24 items-center justify-center rounded-full bg-accent-light">
+          <ShoppingCart className="h-10 w-10 text-accent" strokeWidth={1.5} />
+        </div>
+        <h1 className="text-xl font-bold text-foreground">
+          Giỏ hàng của bạn đang trống
+        </h1>
+        <p className="text-sm text-muted">
+          Hãy khám phá sản phẩm và thêm vào giỏ hàng để bắt đầu mua sắm.
+        </p>
+        <LinkComponent
+          href="/"
+          className="mt-2 inline-flex items-center justify-center rounded-xl bg-accent px-6 py-2.5 font-semibold text-white transition-colors hover:bg-accent-dark"
+        >
+          Tiếp tục mua sắm
+        </LinkComponent>
+      </div>
+    );
+  }
+
+  return (
+    <div className="pb-8">
+      <div className="mb-6 flex items-center justify-between">
+        <h1 className="text-xl font-bold text-foreground sm:text-2xl">
+          Giỏ hàng
+          <span className="ml-2 align-middle text-base font-normal text-muted">
+            ({itemCount} sản phẩm)
+          </span>
+        </h1>
+
+        <LinkComponent
+          href="/"
+          className="hidden items-center gap-1 text-sm font-medium text-accent transition-colors hover:text-accent-dark sm:flex"
+        >
+          <ArrowLeft className="h-4 w-4" />
+          Tiếp tục mua sắm
+        </LinkComponent>
+      </div>
+
+      <div className="grid grid-cols-1 items-start gap-6 lg:grid-cols-3 lg:gap-8">
+        <div className="flex flex-col gap-3 lg:col-span-2">
+          {items.map((item) => {
+            const product = productMap.get(item.productId);
+            if (!product) return null;
+            const lineTotal = product.price * item.quantity;
+
+            return (
+              <div
+                key={item.productId}
+                className="flex gap-3 rounded-card border border-border bg-background p-3 shadow-card sm:gap-4 sm:p-4"
+              >
+                <img
+                  src={product.thumbUrl}
+                  alt={product.name}
+                  width={96}
+                  height={96}
+                  className="h-20 w-20 flex-shrink-0 rounded-xl bg-surface object-cover sm:h-24 sm:w-24"
+                />
+
+                <div className="flex min-w-0 flex-1 flex-col justify-between gap-3">
+                  <div className="flex items-start justify-between gap-2">
+                    <div className="min-w-0">
+                      <LinkComponent
+                        href={`/products/${product.id}`}
+                        className="line-clamp-2 font-medium text-foreground transition-colors hover:text-accent"
+                      >
+                        {product.name}
+                      </LinkComponent>
+                      <p className="mt-1 text-sm text-muted">
+                        {product.price.toLocaleString("vi-VN")}₫ / sản phẩm
+                      </p>
+                    </div>
+                    <button
+                      onClick={() => onRemove(item.productId)}
+                      aria-label={`Xoá ${product.name} khỏi giỏ hàng`}
+                      className="shrink-0 rounded-lg p-2 text-muted transition-colors hover:bg-surface hover:text-sale"
+                    >
+                      <Trash2 className="h-4 w-4" />
+                    </button>
+                  </div>
+
+                  <div className="flex items-center justify-between">
+                    <div className="inline-flex items-center overflow-hidden rounded-xl border border-border">
+                      <button
+                        onClick={() =>
+                          onUpdateQuantity(item.productId, item.quantity - 1)
+                        }
+                        aria-label="Giảm số lượng"
+                        className="flex h-9 w-9 items-center justify-center text-foreground transition-colors hover:bg-surface"
+                      >
+                        <Minus className="h-3.5 w-3.5" />
+                      </button>
+                      <span className="w-10 text-center text-sm font-semibold text-foreground">
+                        {item.quantity}
+                      </span>
+                      <button
+                        onClick={() =>
+                          onUpdateQuantity(item.productId, item.quantity + 1)
+                        }
+                        aria-label="Tăng số lượng"
+                        className="flex h-9 w-9 items-center justify-center text-foreground transition-colors hover:bg-surface"
+                      >
+                        <Plus className="h-3.5 w-3.5" />
+                      </button>
+                    </div>
+                    <p className="font-bold text-foreground">
+                      {lineTotal.toLocaleString("vi-VN")}₫
+                    </p>
+                  </div>
+                </div>
+              </div>
+            );
+          })}
+        </div>
+
+        <div className="lg:col-span-1">
+          <div className="rounded-card border border-border bg-background p-5 shadow-card sm:p-6 lg:sticky lg:top-24">
+            <h2 className="mb-4 text-lg font-bold text-foreground">
+              Tóm tắt đơn hàng
+            </h2>
+            <div className="flex justify-between text-sm text-muted">
+              <span>Tạm tính ({itemCount} sản phẩm)</span>
+              <span className="font-medium text-foreground">
+                {total.toLocaleString("vi-VN")}₫
+              </span>
+            </div>
+            <div className="my-4 border-t border-border" />
+            <div className="flex items-baseline justify-between">
+              <span className="font-semibold text-foreground">Tổng cộng</span>
+              <span className="text-2xl font-bold text-accent-dark">
+                {total.toLocaleString("vi-VN")}₫
+              </span>
+            </div>
+            <Button variant="primary" className="mt-6 w-full" disabled>
+              Tiến hành thanh toán
+            </Button>
+            <p className="mt-3 text-center text-xs text-muted">
+              Bản mô phỏng — không xử lý thanh toán thực tế.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+
+// ======================================================================
+// 📄 FILE: packages/ui/src/ProductCard.tsx
+// ======================================================================
+
+import type { ReactNode } from "react";
+import { Star } from "lucide-react";
+import type { Product } from "@repo/types";
+
+interface ProductCardProps {
+  product: Product;
+  actions?: ReactNode;
+}
+
+export function ProductCard({ product, actions }: ProductCardProps) {
+  const hasDiscount = Boolean(product.discountPercent && product.originalPrice);
+
+  return (
+    <article className="group flex h-full flex-col overflow-hidden rounded-card border border-border bg-background shadow-card transition duration-200 hover:shadow-card-hover motion-safe:hover:-translate-y-0.5">
+      <div className="relative overflow-hidden bg-surface">
+        <img
+          src={product.thumbUrl}
+          alt={product.name}
+          width={400}
+          height={400}
+          loading="lazy"
+          className="aspect-square w-full object-cover transition-transform duration-300 motion-safe:group-hover:scale-105"
+        />
+        {hasDiscount && (
+          <span className="absolute left-2.5 top-2.5 rounded-full bg-sale px-2 py-0.5 text-[11px] font-bold text-white">
+            -{product.discountPercent}%
+          </span>
+        )}
+      </div>
+
+      <div className="flex flex-1 flex-col gap-1.5 p-3.5">
+        {product.brand && (
+          <span className="text-[11px] font-medium uppercase tracking-wider text-muted">
+            {product.brand}
+          </span>
+        )}
+        <h3 className="line-clamp-2 min-h-[2.5rem] text-sm font-medium leading-5 text-foreground">
+          {product.name}
+        </h3>
+
+        {product.rating && (
+          <div className="flex flex-wrap items-center gap-x-1 text-xs text-muted">
+            <Star
+              className="h-3.5 w-3.5 fill-amber-400 text-amber-400"
+              aria-hidden="true"
+            />
+            <span className="font-medium text-foreground">
+              {product.rating.average.toFixed(1)}
+            </span>
+            <span>({product.rating.count})</span>
+            {typeof product.soldCount === "number" && (
+              <span>· Đã bán {product.soldCount.toLocaleString("vi-VN")}</span>
+            )}
+          </div>
+        )}
+
+        <div className="mt-auto flex flex-wrap items-baseline gap-x-2 pt-1">
+          <p className="text-lg font-bold text-accent-dark">
+            {product.price.toLocaleString("vi-VN")}₫
+          </p>
+          {hasDiscount && (
+            <p className="text-xs text-muted line-through">
+              {product.originalPrice!.toLocaleString("vi-VN")}₫
+            </p>
+          )}
+        </div>
+
+        {actions && <div className="pt-2">{actions}</div>}
+      </div>
+    </article>
+  );
+}
+
+
+// ======================================================================
+// 📄 FILE: packages/ui/src/ProductDetailView.tsx
+// ======================================================================
+
+import type { ReactNode } from "react";
+import { MapPin, ShieldCheck, Star } from "lucide-react";
+import type { Product } from "@repo/types";
+import { ProductGallery } from "./ProductGallery";
+
+interface ProductDetailViewProps {
+  product: Product;
+  /**
+   *Cả hai app truyền <AddToCartButton variant="detail" /> từ @repo/ui
+   */
+  cartAction: ReactNode;
+}
+
+export function ProductDetailView({
+  product,
+  cartAction,
+}: ProductDetailViewProps) {
+  const hasDiscount = Boolean(product.discountPercent && product.originalPrice);
+  const saved = hasDiscount ? product.originalPrice! - product.price : 0;
+  const specs = product.specifications
+    ? Object.entries(product.specifications)
+    : [];
+  const showFullDescriptionBlock =
+    Boolean(product.shortDescription) && Boolean(product.description);
+
+  return (
+    <div className="pb-8">
+      <div className="grid gap-6 rounded-card border border-border bg-background p-4 shadow-card sm:p-6 md:grid-cols-2 lg:gap-10 lg:p-8">
+        <ProductGallery
+          name={product.name}
+          mainUrl={product.detailUrl}
+          gallery={product.gallery ?? []}
+        />
+
+        <div className="flex flex-col">
+          {product.brand && (
+            <p className="text-xs font-semibold uppercase tracking-wider text-accent">
+              {product.brand}
+            </p>
+          )}
+
+          <h1 className="mt-1 text-2xl font-bold leading-tight text-foreground lg:text-3xl">
+            {product.name}
+          </h1>
+
+          {product.rating && (
+            <div className="mt-2 flex flex-wrap items-center gap-x-2 text-sm text-muted">
+              <Star
+                className="h-4 w-4 fill-amber-400 text-amber-400"
+                aria-hidden="true"
+              />
+              <span className="font-semibold text-foreground">
+                {product.rating.average.toFixed(1)}
+              </span>
+              <span>({product.rating.count} đánh giá)</span>
+              {typeof product.soldCount === "number" && (
+                <span>· Đã bán {product.soldCount.toLocaleString("vi-VN")}</span>
+              )}
+            </div>
+          )}
+
+          <div className="mt-4 rounded-xl bg-surface p-4">
+            <div className="flex flex-wrap items-baseline gap-x-3 gap-y-1">
+              <p className="text-3xl font-bold text-foreground">
+                {product.price.toLocaleString("vi-VN")}₫
+              </p>
+              {hasDiscount && (
+                <>
+                  <p className="text-base text-muted line-through">
+                    {product.originalPrice!.toLocaleString("vi-VN")}₫
+                  </p>
+                  <span className="rounded-full bg-sale px-2 py-0.5 text-xs font-bold text-white">
+                    -{product.discountPercent}%
+                  </span>
+                </>
+              )}
+              {product.unit && (
+                <span className="text-sm text-muted">/ {product.unit}</span>
+              )}
+            </div>
+            {hasDiscount && (
+              <p className="mt-1 text-sm font-medium text-accent-dark">
+                Tiết kiệm {saved.toLocaleString("vi-VN")}₫
+              </p>
+            )}
+          </div>
+
+          {typeof product.stock === "number" && (
+            <p className="mt-3 flex items-center gap-2 text-sm">
+              <span
+                aria-hidden="true"
+                className={`h-2 w-2 rounded-full ${
+                  product.stock === 0
+                    ? "bg-sale"
+                    : product.stock <= 10
+                      ? "bg-amber-500"
+                      : "bg-accent"
+                }`}
+              />
+              <span className="text-muted">
+                {product.stock === 0
+                  ? "Tạm hết hàng"
+                  : product.stock <= 10
+                    ? `Chỉ còn ${product.stock} sản phẩm`
+                    : `Còn ${product.stock} sản phẩm`}
+              </span>
+            </p>
+          )}
+
+          <p className="mt-4 leading-relaxed text-muted">
+            {product.shortDescription ?? product.description}
+          </p>
+
+          <div className="mt-6">{cartAction}</div>
+
+          {(product.warranty || product.origin) && (
+            <dl className="mt-6 grid gap-3 sm:grid-cols-2">
+              {product.warranty && (
+                <div className="flex items-start gap-2.5 rounded-xl border border-border p-3">
+                  <ShieldCheck
+                    className="mt-0.5 h-5 w-5 shrink-0 text-accent"
+                    aria-hidden="true"
+                  />
+                  <div>
+                    <dt className="text-xs text-muted">Bảo hành</dt>
+                    <dd className="text-sm font-medium text-foreground">
+                      {product.warranty}
+                    </dd>
+                  </div>
+                </div>
+              )}
+              {product.origin && (
+                <div className="flex items-start gap-2.5 rounded-xl border border-border p-3">
+                  <MapPin
+                    className="mt-0.5 h-5 w-5 shrink-0 text-accent"
+                    aria-hidden="true"
+                  />
+                  <div>
+                    <dt className="text-xs text-muted">Xuất xứ</dt>
+                    <dd className="text-sm font-medium text-foreground">
+                      {product.origin}
+                    </dd>
+                  </div>
+                </div>
+              )}
+            </dl>
+          )}
+
+          {product.tags && product.tags.length > 0 && (
+            <div className="mt-5 flex flex-wrap gap-2">
+              {product.tags.map((tag) => (
+                <span
+                  key={tag}
+                  className="rounded-full bg-surface px-3 py-1 text-xs text-muted"
+                >
+                  #{tag}
+                </span>
+              ))}
+            </div>
+          )}
+        </div>
+      </div>
+
+      {(specs.length > 0 || showFullDescriptionBlock) && (
+        <div className="mt-6 space-y-6">
+          {specs.length > 0 && (
+            <section className="rounded-card border border-border bg-background p-5 shadow-card sm:p-6">
+              <h2 className="mb-3 text-lg font-bold text-foreground">
+                Thông số kỹ thuật
+              </h2>
+              <dl className="overflow-hidden rounded-xl border border-border text-sm">
+                {specs.map(([label, value]) => (
+                  <div
+                    key={label}
+                    className="grid grid-cols-[2fr_3fr] gap-4 px-4 py-2.5 odd:bg-surface"
+                  >
+                    <dt className="text-muted">{label}</dt>
+                    <dd className="text-foreground">{value}</dd>
+                  </div>
+                ))}
+              </dl>
+            </section>
+          )}
+
+          {showFullDescriptionBlock && (
+            <section className="rounded-card border border-border bg-background p-5 shadow-card sm:p-6">
+              <h2 className="mb-3 text-lg font-bold text-foreground">
+                Mô tả sản phẩm
+              </h2>
+              <p className="whitespace-pre-line leading-relaxed text-muted">
+                {product.description}
+              </p>
+            </section>
+          )}
+        </div>
+      )}
+    </div>
+  );
+}
+
+
+// ======================================================================
+// 📄 FILE: packages/ui/src/ProductGallery.tsx
+// ======================================================================
+
+"use client";
+
+import { useState } from "react";
+
+interface ProductGalleryProps {
+  name: string;
+  mainUrl: string;
+  gallery: string[];
+}
+
+export function ProductGallery({ name, mainUrl, gallery }: ProductGalleryProps) {
+  const images = [mainUrl, ...gallery];
+  const [active, setActive] = useState(0);
+
+  return (
+    <div className="flex flex-col gap-3">
+      <div className="overflow-hidden rounded-card border border-border bg-surface">
+        <img
+          src={images[active]}
+          alt={active === 0 ? name : `${name} - ảnh ${active + 1}`}
+          width={800}
+          height={800}
+          className="aspect-square w-full object-cover"
+        />
+      </div>
+
+      {images.length > 1 && (
+        <div className="flex gap-2 overflow-x-auto pb-1">
+          {images.map((url, i) => (
+            <button
+              key={url}
+              type="button"
+              onClick={() => setActive(i)}
+              aria-label={`Xem ảnh ${i + 1}`}
+              aria-current={i === active}
+              className={`h-16 w-16 shrink-0 overflow-hidden rounded-lg border-2 bg-surface transition-colors sm:h-20 sm:w-20 ${
+                i === active
+                  ? "border-accent"
+                  : "border-transparent hover:border-border"
+              }`}
+            >
+              <img
+                src={url}
+                alt=""
+                width={120}
+                height={120}
+                loading="lazy"
+                className="h-full w-full object-cover"
+              />
+            </button>
+          ))}
+        </div>
+      )}
+    </div>
+  );
+}
+
+
+// ======================================================================
+// 📄 FILE: packages/ui/src/ProductGrid.tsx
+// ======================================================================
+
+import type { ReactNode } from "react";
+
+interface ProductGridProps {
+  title?: string;
+  count?: number;
+  children: ReactNode;
+}
+
+export function ProductGrid({
+  title = "Tất cả sản phẩm",
+  count,
+  children,
+}: ProductGridProps) {
+  return (
+    <section aria-labelledby="product-grid-title" className="pb-8">
+      <div className="mb-5 flex items-baseline justify-between gap-4">
+        <h1
+          id="product-grid-title"
+          className="text-xl font-bold text-foreground sm:text-2xl"
+        >
+          {title}
+        </h1>
+        {typeof count === "number" && (
+          <p className="text-sm text-muted">
+            {count.toLocaleString("vi-VN")} sản phẩm
+          </p>
+        )}
+      </div>
+      <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 sm:gap-4 lg:grid-cols-4 lg:gap-5 xl:grid-cols-5">
+        {children}
+      </div>
+    </section>
+  );
+}
+
+
+// ======================================================================
+// 📄 FILE: packages/ui/src/SiteHeader.tsx
+// ======================================================================
+
+import { ShoppingCart } from "lucide-react";
+import type { LinkComponentType } from "./types";
+
+interface SiteHeaderProps {
+  /** "T&Q Mart (CSR)" hoặc "T&Q Mart (SSR)" — chỉ khác nhau ở nhãn để phân biệt lúc test, không phải khác biệt nghiệp vụ */
+  storeLabel: string;
+  cartQuantity: number;
+  /**
+   * Mỗi app dùng 1 hệ thống routing khác nhau (react-router-dom vs next/link),
+   * nên Link được "tiêm" từ ngoài vào — cùng 1 cách làm với `cartAction` trong
+   * ProductDetailView — để phần markup/CSS ở đây luôn render giống hệt nhau
+   * giữa CSR và SSR.
+   */
+  LinkComponent: LinkComponentType;
+}
+
+export function SiteHeader({
+  storeLabel,
+  cartQuantity,
+  LinkComponent,
+}: SiteHeaderProps) {
+  // "T&Q Mart (CSR)" -> tên "T&Q Mart" + nhãn "CSR"
+  const match = storeLabel.match(/^(.*?)\s*\((.+)\)$/);
+  const brand = match ? match[1] : storeLabel;
+  const tag = match ? match[2] : null;
+
+  return (
+    <header className="sticky top-0 z-40 border-b border-border bg-background">
+      <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-4 sm:px-6">
+        <LinkComponent
+          href="/"
+          className="flex items-center gap-2.5 text-foreground"
+        >
+          <span className="flex h-9 w-9 items-center justify-center rounded-xl bg-accent text-base font-bold text-white">
+            T
+          </span>
+          <span className="text-lg font-bold tracking-tight">{brand}</span>
+          {tag && (
+            <span className="rounded-full bg-accent-light px-2 py-0.5 text-[11px] font-semibold text-accent-dark">
+              {tag}
+            </span>
+          )}
+        </LinkComponent>
+
+        <LinkComponent
+          href="/cart"
+          className="relative flex items-center gap-2 rounded-xl border border-border px-3.5 py-2 text-sm font-medium text-foreground transition-colors hover:bg-surface"
+        >
+          <ShoppingCart className="h-5 w-5" aria-hidden="true" />
+          <span className="hidden sm:inline">Giỏ hàng</span>
+          <span className="sr-only">{`, ${cartQuantity} sản phẩm`}</span>
+          {cartQuantity > 0 && (
+            <span
+              aria-hidden="true"
+              className="absolute -right-1.5 -top-1.5 flex h-5 min-w-[1.25rem] items-center justify-center rounded-full bg-sale px-1 text-[11px] font-bold text-white"
+            >
+              {cartQuantity > 99 ? "99+" : cartQuantity}
+            </span>
+          )}
+        </LinkComponent>
+      </div>
+    </header>
+  );
+}
+
+
+// ======================================================================
+// 📄 FILE: packages/ui/src/index.ts
+// ======================================================================
+
+export { Button } from "./Button";
+export { ProductCard } from "./ProductCard";
+export { ProductGrid } from "./ProductGrid";
+export { ProductDetailView } from "./ProductDetailView";
+export { SiteHeader } from "./SiteHeader";
+export { CartPageView } from "./CartPageView";
+export { AddToCartButton } from "./AddToCartButton";
+
+
+// ======================================================================
+// 📄 FILE: packages/ui/src/tsconfig.json
+// ======================================================================
+
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "jsx": "react-jsx",
+    "strict": true,
+    "declaration": true,
+    "skipLibCheck": true
+  },
+  "include": ["src", "index.ts"]
+}
+
+// ======================================================================
+// 📄 FILE: packages/ui/src/types.ts
+// ======================================================================
+
+import type { ComponentType, ReactNode } from "react";
+
+export type LinkComponentType = ComponentType<{
+  href: string;
+  className?: string;
+  children: ReactNode;
+}>;
+
+// ======================================================================
+// 📄 FILE: packages/cart-store/package.json
+// ======================================================================
+
+{
+  "name": "@repo/cart-store",
+  "version": "0.0.0",
+  "private": true,
+  "main": "index.ts",
+  "types": "index.ts",
+  "dependencies": {
+    "zustand": "^4.5.4",
+    "@repo/types": "workspace:*"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
+
+// ======================================================================
+// 📄 FILE: packages/cart-store/index.ts
+// ======================================================================
+
+import { create } from "zustand";
+import { persist } from "zustand/middleware";
+import type { CartItem, Product } from "@repo/types";
+
+interface CartState {
+  items: CartItem[];
+  addItem: (productId: string, quantity?: number) => void;
+  updateQuantity: (productId: string, quantity: number) => void;
+  removeItem: (productId: string) => void;
+  clearCart: () => void;
+  getTotalQuantity: () => number;
+}
+
+export const useCartStore = create<CartState>()(
+  persist(
+    (set, get) => ({
+      items: [],
+
+      addItem: (productId, quantity = 1) => {
+        set((state) => {
+          const existing = state.items.find((i) => i.productId === productId);
+          if (existing) {
+            return {
+              items: state.items.map((i) =>
+                i.productId === productId
+                  ? { ...i, quantity: i.quantity + quantity }
+                  : i
+              ),
+            };
+          }
+          return {
+            items: [...state.items, { productId, quantity, addedAt: Date.now() }],
+          };
+        });
+      },
+
+      updateQuantity: (productId, quantity) => {
+        set((state) => ({
+          items:
+            quantity <= 0
+              ? state.items.filter((i) => i.productId !== productId)
+              : state.items.map((i) =>
+                  i.productId === productId ? { ...i, quantity } : i
+                ),
+        }));
+      },
+
+      removeItem: (productId) => {
+        set((state) => ({
+          items: state.items.filter((i) => i.productId !== productId),
+        }));
+      },
+
+      clearCart: () => set({ items: [] }),
+
+      getTotalQuantity: () =>
+        get().items.reduce((sum, i) => sum + i.quantity, 0),
+    }),
+    { name: "tqmart-cart" }
+  )
+);
+
+export function selectCartTotal(items: CartItem[], products: Product[]): number {
+  const priceMap = new Map(products.map((p) => [p.id, p.price]));
+  return items.reduce((sum, item) => {
+    const price = priceMap.get(item.productId) ?? 0;
+    return sum + price * item.quantity;
+  }, 0);
+}
+
+// ======================================================================
+// 📄 FILE: packages/data/package.json
+// ======================================================================
+
+{
+  "name": "@repo/data",
+  "version": "0.0.0",
+  "private": true,
+  "main": "index.ts",
+  "types": "index.ts",
+  "scripts": {
+    "generate": "node scripts/generate.mjs",
+    "merge": "node scripts/merge.mjs",
+    "process-images": "node scripts/process-images.mjs",
+    "upload-r2": "node scripts/upload-r2.mjs",
+    "prune-r2": "node scripts/upload-r2.mjs --prune",
+    "update-urls": "node scripts/update-urls.mjs",
+    "validate": "node scripts/validate.mjs",
+    "sync": "pnpm process-images && pnpm upload-r2 && pnpm update-urls && pnpm merge && pnpm validate"
+  },
+  "dependencies": {
+    "@repo/types": "workspace:*"
+  },
+  "devDependencies": {
+    "@aws-sdk/client-s3": "^3.1136.0",
+    "@faker-js/faker": "^8.4.1",
+    "dotenv": "^18.0.1",
+    "sharp": "^0.35.4"
+  }
+}
+
+// ======================================================================
+// 📄 FILE: packages/data/index.ts
+// ======================================================================
+
+import type { Category, Product } from "@repo/types";
+import categoriesJson from "./json/categories.json";
+// Đổi ngưỡng dữ liệu (20 | 500 | 2000): chỉ sửa DÒNG IMPORT NÀY.
+// Chỉ file được import mới vào bundle, nên không phình bundle ở các ngưỡng còn lại.
+import productsJson from "./json/products-2000.json";
+
+export const categories: Category[] = categoriesJson;
+
+// Ranh giới kiểu duy nhất. Schema đã được scripts/validate.mjs kiểm tra
+// (chạy trong `pnpm sync` / `pnpm validate`), nên cast này an toàn.
+export const products = productsJson as unknown as Product[];
+
+// ======================================================================
+// 📄 FILE: packages/types/index.ts
+// ======================================================================
+
+export interface Category {
+  id: string;
+  name: string;
+  slug: string;
+}
+
+export interface ProductRating {
+  average: number; // 0 - 5
+  count: number;
+}
+
+export interface ProductDimensions {
+  length: number; // cm
+  width: number; // cm
+  height: number; // cm
+}
+
+export interface Product {
+  // --- Trường gốc (giữ nguyên, không đổi để không phá vỡ UI hiện có) ---
+  id: string;
+  name: string;
+  slug: string;
+  price: number;
+  categoryId: string;
+  thumbUrl: string;
+  detailUrl: string;
+  description: string;
+
+  // --- Trường mở rộng (thêm mới, đều optional để tương thích ngược) ---
+  brand?: string;
+  sku?: string;
+  originalPrice?: number; // giá gốc trước giảm
+  discountPercent?: number; // % giảm giá
+  unit?: string; // đơn vị tính: cái, bộ, kg, chai...
+  shortDescription?: string; // mô tả ngắn dùng ở trang danh mục
+  gallery?: string[]; // ảnh phụ ngoài thumbUrl/detailUrl
+  specifications?: Record<string, string>; // thông số kỹ thuật, tuỳ theo ngành hàng
+  rating?: ProductRating;
+  stock?: number; // tồn kho
+  soldCount?: number; // đã bán
+  weight?: number; // gram
+  dimensions?: ProductDimensions;
+  origin?: string; // xuất xứ
+  warranty?: string; // chính sách bảo hành/đổi trả
+  tags?: string[];
+  createdAt?: string; // ISO date string
+}
+
+export interface CartItem {
+  productId: string;
+  quantity: number;
+  addedAt: number;
+}
+
+
+// ======================================================================
+// 📄 FILE: packages/config/package.json
+// ======================================================================
+
+{
+  "name": "@repo/config",
+  "version": "0.0.0",
+  "private": true,
+  "main": "index.js",
+  "devDependencies": {
+    "eslint": "^9.39.5",
+    "prettier": "^3.9.6",
+    "tailwindcss": "^3.4.19",
+    "typescript": "^5.9.3"
+  }
+}
+
+// ======================================================================
+// 📄 FILE: packages/config/tailwind.config.js
+// ======================================================================
+
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: [
+    "../../packages/ui/src/**/*.{js,ts,jsx,tsx}",
+    "../../apps/*/src/**/*.{js,ts,jsx,tsx}",
+    "../../apps/*/app/**/*.{js,ts,jsx,tsx}",
+  ],
+  theme: {
+    extend: {
+      colors: {
+        background: "#FFFFFF",
+        surface: "#F4F6F5",
+        foreground: "#14201B",
+        muted: "#5E6B65",
+        border: "#E2E8E4",
+        sale: "#E5484D",
+        accent: {
+          light: "#E6F5EE",
+          DEFAULT: "#0F7B5F",
+          dark: "#0A5D47",
+        },
+      },
+      fontFamily: {
+        sans: [
+          "ui-sans-serif",
+          "system-ui",
+          "-apple-system",
+          "Segoe UI",
+          "Roboto",
+          "sans-serif",
+        ],
+      },
+      borderRadius: {
+        DEFAULT: "8px",
+        card: "16px",
+      },
+      boxShadow: {
+        card: "0 1px 2px rgba(20,32,27,0.04), 0 1px 3px rgba(20,32,27,0.06)",
+        "card-hover": "0 10px 28px rgba(20,32,27,0.10)",
+      },
+    },
+  },
+  plugins: [],
+};
+
+
+// ======================================================================
+// 📄 FILE: packages/data/json/categories.json
+// ======================================================================
+
+[
+  {
+    "id": "cat-1",
+    "name": "Điện tử",
+    "slug": "dien-tu"
+  },
+  {
+    "id": "cat-2",
+    "name": "Gia dụng",
+    "slug": "gia-dung"
+  },
+  {
+    "id": "cat-3",
+    "name": "Mẹ và bé - đồ chơi trẻ em",
+    "slug": "me-va-be-do-choi-tre-em"
+  },
+  {
+    "id": "cat-4",
+    "name": "Mỹ phẩm - chăm sóc cá nhân",
+    "slug": "my-pham-cham-soc-ca-nhan"
+  },
+  {
+    "id": "cat-5",
+    "name": "Nội thất - trang trí",
+    "slug": "noi-that-trang-tri"
+  },
+  {
+    "id": "cat-6",
+    "name": "Sách - văn phòng phẩm",
+    "slug": "sach-van-phong-pham"
+  },
+  {
+    "id": "cat-7",
+    "name": "Thể thao - dã ngoại",
+    "slug": "the-thao-da-ngoai"
+  },
+  {
+    "id": "cat-8",
+    "name": "Thời trang",
+    "slug": "thoi-trang"
+  },
+  {
+    "id": "cat-9",
+    "name": "Thực phẩm - đồ uống",
+    "slug": "thuc-pham-do-uong"
+  },
+  {
+    "id": "cat-10",
+    "name": "Vật nuôi - thú cưng",
+    "slug": "vat-nuoi-thu-cung"
+  }
+]
+
+// ======================================================================
+// 📄 FILE: packages/data/json/products-20.json
+// ======================================================================
+
+[
+  {
+    "id": "prod-101",
+    "name": "Điện thoại thông minh Vivo Nova X12 Pro",
+    "slug": "dien-thoai-thong-minh-vivo-nova-x12-pro-101",
+    "price": 8240000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/dien-thoai-thong-minh-vivo-nova-x12-pro-101.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/dien-thoai-thong-minh-vivo-nova-x12-pro-101.webp",
+    "description": "Smartphone cao cấp với màn hình chất lượng cao, hiệu năng mạnh mẽ cho đa nhiệm và chơi game. Hệ thống camera nhiều ống kính hỗ trợ chụp đêm và chân dung. Pin dung lượng lớn kèm sạc nhanh. Chạy hệ điều hành mới nhất với cam kết cập nhật phần mềm.",
+    "brand": "NovaTech",
+    "sku": "NOV-0101-CHI",
+    "originalPrice": 9090000,
+    "discountPercent": 9,
+    "unit": "chiếc",
+    "shortDescription": "Smartphone màn hình AMOLED, chip mạnh, camera AI, pin dung lượng lớn sạc nhanh.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dien-thoai-thong-minh-vivo-nova-x12-pro-101-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dien-thoai-thong-minh-vivo-nova-x12-pro-101-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/dien-thoai-thong-minh-vivo-nova-x12-pro-101-c.webp"
+    ],
+    "specifications": {
+      "Màn hình": "AMOLED 6.5-6.8 inch",
+      "Chip": "8 nhân",
+      "RAM": "8-12GB",
+      "Bộ nhớ": "128-256GB",
+      "Camera sau": "50-108MP",
+      "Pin": "5000mAh sạc nhanh"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 50
+    },
+    "stock": 52,
+    "soldCount": 945,
+    "weight": 186,
+    "dimensions": {
+      "length": 16.6,
+      "width": 8.1,
+      "height": 0.7
+    },
+    "origin": "Việt Nam (lắp ráp) / Trung Quốc",
+    "warranty": "12 tháng chính hãng",
+    "tags": [
+      "smartphone",
+      "5G",
+      "camera",
+      "sạc nhanh",
+      "novatech"
+    ],
+    "createdAt": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "prod-102",
+    "name": "Laptop Lenovo IdeaPad limited",
+    "slug": "laptop-lenovo-ideapad-limited-102",
+    "price": 20890000,
+    "categoryId": "cat-1",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/dien-tu/laptop-lenovo-ideapad-limited-102.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/dien-tu/laptop-lenovo-ideapad-limited-102.webp",
+    "description": "Laptop thiết kế mỏng nhẹ dễ mang theo. Màn hình Full HD chống chói. Bộ xử lý thế hệ mới kết hợp RAM và SSD cho hiệu năng mượt mà. Pin sử dụng cả ngày. Bàn phím có đèn nền.",
+    "brand": "Acer",
+    "sku": "ACE-0102-CHI",
+    "originalPrice": 25050000,
+    "discountPercent": 17,
+    "unit": "chiếc",
+    "shortDescription": "Laptop văn phòng / học tập mỏng nhẹ, chip mới, SSD nhanh, pin lâu.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/laptop-lenovo-ideapad-limited-102-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/laptop-lenovo-ideapad-limited-102-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/dien-tu/laptop-lenovo-ideapad-limited-102-c.webp"
+    ],
+    "specifications": {
+      "Màn hình": "14-15.6 inch FHD",
+      "CPU": "Intel/AMD thế hệ mới",
+      "RAM": "8-16GB",
+      "SSD": "256-512GB",
+      "Pin": "8-12 giờ"
+    },
+    "rating": {
+      "average": 3.9,
+      "count": 845
+    },
+    "stock": 86,
+    "soldCount": 2909,
+    "weight": 1629,
+    "dimensions": {
+      "length": 30.2,
+      "width": 22.4,
+      "height": 1.7
+    },
+    "origin": "Trung Quốc",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "laptop",
+      "văn phòng",
+      "mỏng nhẹ",
+      "ssd",
+      "acer"
+    ],
+    "createdAt": "2026-05-03T00:00:00.000Z"
+  },
+  {
+    "id": "prod-201",
+    "name": "Nồi cơm điện tử Toshiba RC-10DH2N",
+    "slug": "noi-com-dien-tu-toshiba-rc-10dh2n-201",
+    "price": 2730000,
+    "categoryId": "cat-2",
+    "thumbUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/thumb/gia-dung/noi-com-dien-tu-toshiba-rc-10dh2n-201.webp",
+    "detailUrl": "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/detail/gia-dung/noi-com-dien-tu-toshiba-rc-10dh2n-201.webp",
+    "description": "Nồi cơm điện tử lòng chống dính dày giữ nhiệt tốt. Nhiều chế độ nấu đa dạng. Hẹn giờ và giữ ấm tiện lợi. Thiết kế hiện đại dễ vệ sinh.",
+    "brand": "Toshiba",
+    "sku": "TOS-0201-CHI",
+    "originalPrice": 2980000,
+    "discountPercent": 8,
+    "unit": "chiếc",
+    "shortDescription": "Nồi cơm điện tử lòng dày nhiều chế độ nấu hẹn giờ.",
+    "gallery": [
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-tu-toshiba-rc-10dh2n-201-a.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-tu-toshiba-rc-10dh2n-201-b.webp",
+      "https://pub-d9abfb4c52d8435a9270cde2b798d03c.r2.dev/gallery/gia-dung/noi-com-dien-tu-toshiba-rc-10dh2n-201-c.webp"
+    ],
+    "specifications": {
+      "Dung tích": "1.0-2.0L",
+      "Chế độ nấu": "8-12",
+      "Hẹn giờ": "Có",
+      "Giữ ấm": "Có"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 95
+    },
+    "stock": 163,
+    "soldCount": 1941,
+    "weight": 3905,
+    "dimensions": {
+      "length": 28.7,
+      "width": 29.7,
+      "height": 30.5
+    },
+    "origin": "Thái Lan / Việt Nam / Hàn Quốc",
+    "warranty": "24 tháng chính hãng",
+    "tags": [
+      "nồi cơm điện",
+      "gia dụng",
+      "nhà bếp",
+      "toshiba"
+    ],
+    "createdAt": "2026-05-10T00:00:00.000Z"
+  }
+]
+
+// [Lưu ý: Chỉ lấy mẫu 3 sản phẩm đầu tiên từ tổng số 20 sản phẩm]
