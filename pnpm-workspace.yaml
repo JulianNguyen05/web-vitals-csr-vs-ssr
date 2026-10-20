@@ -3,4 +3,6 @@ packages:
   - "packages/*"
 allowBuilds:
   esbuild: false
+  onnxruntime-node: true
+  protobufjs: true
   unrs-resolver: false

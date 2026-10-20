@@ -1,3 +1,5 @@
+# D:\2025_2026_II\NCKH\SSR_VS_CSR\web-vitals-csr-vs-ssr\Huong_dan_chay.txt
+
 HƯỚNG DẪN CHẠY DỰ ÁN web-vitals-csr-vs-ssr
 =============================================
 
