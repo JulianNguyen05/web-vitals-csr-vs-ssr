@@ -99,6 +99,15 @@ const rejectedCount = {};
 let ok = 0;
 let n = 0;
 
+// Ctrl+C: lưu tiến độ + báo cáo rồi thoát, chạy lại lệnh cũ sẽ làm tiếp từ chỗ dừng
+process.on('SIGINT', async () => {
+  if (!DRY) await Promise.all([saveJson(CACHE.checked, checked), saveJson(CACHE.meta, meta), saveJson(CACHE.rejected, [...rejectedIds])]);
+  await fs.mkdir(CACHE_DIR, { recursive: true });
+  await fs.writeFile(CACHE.report, rows.join('\n'));
+  console.log(`\nĐã dừng ở ${n}/${todo.length}: đạt ${ok}, loại ${n - ok} ${JSON.stringify(rejectedCount)}. Chạy lại cùng lệnh để làm tiếp.`);
+  process.exit(130);
+});
+
 async function evaluate(key) {
   const m = meta[key];
   const file = path.join(RAW_DIR, key);
