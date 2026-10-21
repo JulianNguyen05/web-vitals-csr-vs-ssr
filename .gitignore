@@ -6,13 +6,10 @@ dist
 .env.local
 
 # Bỏ qua toàn bộ nội dung trong folder processed
-packages/data/assets/processed/*
-
-packages/data/assets/raw/*
+packages/data/assets/*
 
 # Ngoại trừ file .gitkeep
-!packages/data/assets/processed/.gitkeep
-!packages/data/assets/raw/.gitkeep
+!packages/data/assets/.gitkeep
 
 # Generated helper files
 gather-code.mjs
