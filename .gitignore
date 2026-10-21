@@ -8,8 +8,11 @@ dist
 # Bỏ qua toàn bộ nội dung trong folder processed
 packages/data/assets/processed/*
 
+packages/data/assets/raw/*
+
 # Ngoại trừ file .gitkeep
 !packages/data/assets/processed/.gitkeep
+!packages/data/assets/raw/.gitkeep
 
 # Generated helper files
 gather-code.mjs
