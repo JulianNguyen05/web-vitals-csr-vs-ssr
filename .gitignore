@@ -13,5 +13,5 @@ packages/data/assets/*
 
 # Generated helper files
 gather-code.mjs
-combined-code.txtcombined-code.txt
+combined-code.txt
 packages/data/scripts/.cache/
