@@ -5,9 +5,10 @@ import type { Product } from "@repo/types";
 interface ProductCardProps {
   product: Product;
   actions?: ReactNode;
+  priority?: boolean;
 }
 
-export function ProductCard({ product, actions }: ProductCardProps) {
+export function ProductCard({ product, actions, priority = false }: ProductCardProps) {
   const hasDiscount = Boolean(product.discountPercent && product.originalPrice);
 
   return (
@@ -18,7 +19,7 @@ export function ProductCard({ product, actions }: ProductCardProps) {
           alt={product.name}
           width={400}
           height={400}
-          loading="lazy"
+          loading={priority ? "eager" : "lazy"}
           className="aspect-square w-full object-cover transition-transform duration-300 motion-safe:group-hover:scale-105"
         />
         {hasDiscount && (

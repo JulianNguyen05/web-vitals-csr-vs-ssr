@@ -1,3 +1,5 @@
+# D:\2025_2026_II\NCKH\SSR_VS_CSR\web-vitals-csr-vs-ssr\Huong_dan_chay.txt
+
 HƯỚNG DẪN CHẠY DỰ ÁN web-vitals-csr-vs-ssr
 =============================================
 
@@ -15,6 +17,10 @@ Chạy tất cả lệnh dưới đây ở THƯ MỤC GỐC của dự án (nơi
 
 LƯU Ý: `pnpm dev` KHÔNG còn tự chạy sync nữa (đã bỏ "predev").
 Nó chỉ bật 2 app, không xử lý lại ảnh, không upload R2, không ghi đè JSON.
+
+Dev cũng nhận biến DATASET (xem mục 5), ví dụ:
+    PowerShell:  $env:DATASET="500"; pnpm dev:csr
+    bash/zsh:    DATASET=500 pnpm dev:csr
 
 3. KHI NÀO CẦN CHẠY `pnpm sync`
 -------------------------------
@@ -42,26 +48,105 @@ Có thể chạy từng bước riêng khi cần:
 
 4. BUILD / PRODUCTION (khi đo Core Web Vitals)
 ----------------------------------------------
+Build với số lượng sản phẩm mặc định (2000):
     pnpm build
+
+Build theo từng bộ dữ liệu (20 | 500 | 2000) bằng biến môi trường DATASET:
+    PowerShell:
+        $env:DATASET="20";   pnpm build
+        $env:DATASET="500";  pnpm build
+        $env:DATASET="2000"; pnpm build
+    bash/zsh:
+        DATASET=20 pnpm build
+
+Chỉ build một app:
+    $env:DATASET="500"; pnpm --filter app-csr run build
+    $env:DATASET="500"; pnpm --filter app-ssr run build
+
+Chạy bản build:
     pnpm --filter app-csr run preview     # CSR bản build
     pnpm --filter app-ssr run start       # SSR bản build -> http://localhost:3001
 
 Nên đo trên bản build, không đo trên bản dev.
 
+LƯU Ý QUAN TRỌNG:
+- DATASET được "nướng" vào bundle lúc build. Đổi ngưỡng = phải build lại.
+- Giá trị hợp lệ chỉ là 20, 500, 2000. Giá trị khác sẽ báo lỗi và dừng build.
+- Nếu không đặt DATASET, mặc định dùng 2000.
+- Với SSR, XÓA thư mục apps/app-ssr/.next trước khi build ngưỡng khác,
+  để tránh dùng lại cache của lần build trước.
+- Biến DATASET đặt trong PowerShell chỉ có hiệu lực trong phiên terminal đó.
+  Đặt lại hoặc mở terminal mới sẽ về mặc định (2000).
+- Sau mỗi lần build, kiểm tra kích thước bundle để chắc chắn ngưỡng đã đổi:
+  bundle CSR ở ngưỡng 20 phải nhỏ hơn hẳn ở ngưỡng 2000.
+
 5. ĐỔI SỐ LƯỢNG SẢN PHẨM (20 | 500 | 2000)
 ------------------------------------------
-Sửa DÒNG IMPORT trong packages/data/index.ts:
-    import productsJson from "./json/products-2000.json";
+KHÔNG còn sửa dòng import trong packages/data/index.ts nữa.
+index.ts nay import dữ liệu qua alias "@dataset":
+    import productsJson from "@dataset";
+Alias này trỏ tới packages/data/json/products-<DATASET>.json và được
+khai báo ở:
+    - apps/app-csr/vite.config.ts      (resolve.alias)
+    - apps/app-ssr/next.config.mjs     (webpack alias)
+Kiểu cho alias nằm trong packages/data/dataset.d.ts.
 
-CHÚ Ý: script update-urls mặc định chỉ xử lý bộ "20" nếu không truyền tham số.
-Muốn cập nhật bộ khác, chạy tay:
-    pnpm --filter @repo/data exec node scripts/update-urls.mjs 2000
-    pnpm --filter @repo/data run merge
-Hãy kiểm tra thêm merge.mjs xem nó đọc bộ số lượng nào.
+Cách đổi: đặt biến DATASET trước khi chạy dev hoặc build (xem mục 2 và 4).
 
-6. GHI CHÚ VỀ THAY ĐỔI package.json
+CẬP NHẬT DỮ LIỆU (sau khi đổi ảnh / URL / sửa sản phẩm)
+Nguồn gốc dữ liệu là các file theo ngành hàng:
+    packages/data/json/by-category/<20|500|2000>/<slug>.json
+Chỉ sửa ở đây. KHÔNG sửa tay products-20/500/2000.json vì lệnh merge
+sẽ ghi đè cả ba file này mỗi lần chạy.
+
+  a) update-urls chỉ xử lý MỘT bộ mỗi lần (mặc định là "20"). Phải chạy
+     cho cả ba bộ, nếu không bộ bị bỏ sót vẫn giữ URL ảnh cũ:
+        PowerShell:
+            foreach ($n in 20,500,2000) { pnpm --filter @repo/data exec node scripts/update-urls.mjs $n }
+        bash/zsh:
+            for n in 20 500 2000; do pnpm --filter @repo/data exec node scripts/update-urls.mjs $n; done
+     Lưu ý: `pnpm sync` chỉ chạy update-urls cho bộ "20", nên sau sync
+     vẫn cần chạy lệnh trên cho 500 và 2000.
+
+  b) merge ghép cả ba bộ trong một lần (không có tham số):
+        pnpm --filter @repo/data run merge
+     Nếu thiếu file của một ngành hàng, merge chỉ cảnh báo rồi vẫn ghi
+     file với ít sản phẩm hơn. Hãy xem dòng "✅ Gộp N sản phẩm" cho từng bộ:
+     phải đúng 20, 500, 2000. Dòng có "⚠️" nghĩa là đang thiếu dữ liệu.
+
+  c) Kiểm tra schema:
+        pnpm validate
+
+  d) Build lại các app sau khi dữ liệu thay đổi, vì dữ liệu được nướng
+     vào bundle lúc build (xem mục 4).
+
+Thứ tự đầy đủ: update-urls (cả 3 bộ) -> merge -> validate -> build.
+
+6. (TUỲ CHỌN) GIỮ NHIỀU BẢN BUILD ĐỂ ĐO SONG SONG
+-------------------------------------------------
+Mặc định mỗi lần build ghi đè vào cùng một thư mục (dist/ cho CSR, .next/
+cho SSR), nên tại một thời điểm chỉ giữ được một ngưỡng. Để giữ cả 3 ngưỡng
+cho mỗi app (6 bản), tách thư mục output theo DATASET:
+
+    apps/app-csr/vite.config.ts  ->  build: { outDir: `dist-${dataset}` }
+    apps/app-ssr/next.config.mjs ->  distDir: `.next-${dataset}`
+
+Khi chạy preview/start, PHẢI đặt cùng giá trị DATASET đã dùng lúc build,
+vì cả hai lệnh đọc lại file config:
+    $env:DATASET="500"; pnpm --filter app-csr run preview
+    $env:DATASET="500"; pnpm --filter app-ssr exec next start -p 3050
+
+Mỗi bản dùng một cổng riêng, ví dụ:
+    CSR: 20 -> 4020, 500 -> 4050, 2000 -> 4200
+    SSR: 20 -> 3020, 500 -> 3050, 2000 -> 3200
+Nhớ thêm các thư mục dist-* và .next-* vào .gitignore.
+(Mục này chưa được áp dụng trong config; làm khi cần chạy song song.)
+
+7. GHI CHÚ VỀ THAY ĐỔI package.json
 -----------------------------------
 - Bỏ "predev": "pnpm run sync" để dev không tự xử lý lại ảnh.
 - Chuyển "validate" và "build" vào trong "scripts" (trước đây nằm ngoài
   nên lệnh `pnpm validate` và `pnpm build` không hoạt động).
 - Thêm "dev:csr" và "dev:ssr" để chạy riêng từng app.
+- Chọn bộ dữ liệu bằng biến môi trường DATASET thay vì sửa tay import
+  trong packages/data/index.ts (xem mục 5).

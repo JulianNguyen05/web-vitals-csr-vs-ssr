@@ -1,4 +1,158 @@
-huong dan chay file scrape-images.mjs
-  1. node --env-file=.env scripts/scrape-images.mjs --dry để xem kế hoạch.
-  2. node --env-file=.env scripts/scrape-images.mjs --limit 20 để tải thử rồi xem ảnh có hợp loại sản phẩm không.
-  3. node --env-file=.env scripts/scrape-images.mjs để tải hết phần còn thiếu.
+HƯỚNG DẪN CÀO ẢNH SẢN PHẨM TỰ ĐỘNG (packages/data/scripts)
+=============================================================
+
+Mục tiêu: cào ảnh sản phẩm từ Pixabay, tự lọc ảnh nhạy cảm / ảnh không đúng loại
+sản phẩm / ảnh trùng, rồi đẩy lên Cloudflare R2 bằng `pnpm sync`.
+
+Các script liên quan (đều nằm trong packages/data/scripts):
+    image-queries.json   từ khoá tìm ảnh cho từng loại sản phẩm (khoá tiếng Việt -> từ khoá tiếng Anh)
+    scrape-images.mjs    cào ảnh về assets/raw/<ngành>/
+    filter-images.mjs    lọc NSFW + độ khớp với sản phẩm + ảnh trùng
+    reset-images.mjs     xoá sạch ảnh cũ (local và R2) để làm lại từ đầu
+    image-lib.mjs        hàm dùng chung (không chạy trực tiếp)
+
+QUY ƯỚC: lệnh có ghi (gốc) chạy ở THƯ MỤC GỐC dự án (nơi có pnpm-workspace.yaml).
+         Các lệnh khác chạy trong thư mục packages/data.
+
+
+1. CÀI ĐẶT (làm 1 lần)
+----------------------
+Yêu cầu: Node >= 20.6 (cần cờ --env-file) và pnpm.
+
+  a) Cài dependency chung (gốc):
+        pnpm install
+
+  b) Cài thư viện chạy model lọc ảnh (trong packages/data):
+        pnpm add -D @huggingface/transformers
+
+     Nếu pnpm báo ERR_PNPM_IGNORED_BUILDS (onnxruntime-node, protobufjs):
+        - Mở pnpm-workspace.yaml ở thư mục gốc, đảm bảo có đoạn:
+              allowBuilds:
+                onnxruntime-node: true
+                protobufjs: true
+          (nếu đang là false thì đổi thành true)
+        - Rồi chạy:
+              pnpm rebuild onnxruntime-node protobufjs
+
+  c) Kiểm tra đã nạp được thư viện (kết quả đúng: "function function"):
+        node -e "import('@huggingface/transformers').then(m => console.log(typeof m.pipeline, typeof m.RawImage))"
+
+  d) Tạo packages/data/.env (copy từ ".env example") và điền:
+        PIXABAY_API_KEY=...        (key miễn phí lấy tại https://pixabay.com/api/docs/)
+        các biến R2_* theo ".env example" (dùng cho reset-images và upload-r2)
+     Không commit file .env.
+
+Lần chạy filter-images.mjs đầu tiên sẽ tự tải 2 model về máy (vài trăm MB, chỉ tải 1 lần).
+
+
+2. CÀO ẢNH (trong packages/data)
+--------------------------------
+BƯỚC 1 - Kiểm tra map từ khoá (không tải gì, không cần key):
+    node --env-file=.env scripts/scrape-images.mjs --queries
+
+    Bảng in ra cho biết mỗi sản phẩm được tìm bằng từ khoá nào. Nếu có bảng
+    "CHƯA map được từ khoá", thêm các tag đó vào image-queries.json
+    (khoá tiếng Việt -> từ khoá tiếng Anh chỉ tả đồ vật, ví dụ "dress on hanger").
+    Sản phẩm chưa map sẽ bị bỏ qua, không đoán mò. Danh sách đầy đủ ở
+    scripts/.cache/unmapped-tags.json.
+
+BƯỚC 2 - Xem kế hoạch:
+    node --env-file=.env scripts/scrape-images.mjs --dry
+
+BƯỚC 3 - Tải thử một ngành, rồi mở assets/raw/<ngành>/ xem bằng mắt:
+    node --env-file=.env scripts/scrape-images.mjs --category thoi-trang --limit 40
+    node scripts/filter-images.mjs --dry --category thoi-trang
+
+    Mở scripts/.cache/filter-report.csv, xem cột "reason".
+    - Ảnh đẹp mà bị loại "mismatch" nhiều: hạ ngưỡng, thêm --match 0.2
+    - Ảnh xấu mà vẫn lọt: nâng ngưỡng, thêm --match 0.4
+
+BƯỚC 4 - Cào toàn bộ phần còn thiếu (bỏ qua ảnh đã có, ngắt giữa chừng chạy lại được):
+    node --env-file=.env scripts/scrape-images.mjs
+
+BƯỚC 5 - Lọc ảnh (chuyển ảnh không đạt sang assets/rejected/):
+    node scripts/filter-images.mjs
+
+BƯỚC 6 - Bù ảnh vừa bị loại, lọc lại, lặp đến khi hết ảnh bị loại:
+    node --env-file=.env scripts/scrape-images.mjs
+    node scripts/filter-images.mjs
+
+    Dừng khi scrape báo "Cần tải: 0" và filter báo không còn ảnh bị loại.
+
+BƯỚC 7 (tuỳ chọn) - Quét file ảnh hỏng:
+    node scripts/scrape-images.mjs --verify
+    node scripts/scrape-images.mjs --verify --delete    (xoá file hỏng, rồi chạy lại bước 4)
+
+
+3. ĐƯA ẢNH LÊN R2 (gốc)
+-----------------------
+    pnpm sync
+
+`sync` chạy lần lượt: process-images (resize) -> upload-r2 -> update-urls -> merge -> validate.
+Tên file ảnh theo slug sản phẩm nên URL không đổi, không cần sửa JSON.
+
+Sau khi chạy xong:
+  - Xem các dòng "Gộp N sản phẩm" của merge: phải đúng 20, 500, 2000.
+  - Khi xem web, bấm Ctrl+Shift+R. Ảnh được cache lâu ở trình duyệt/CDN nên có
+    thể vẫn thấy ảnh cũ hoặc ảnh vỡ. Nếu vẫn cũ, purge cache trên Cloudflare.
+  - Build lại các app nếu dữ liệu thay đổi (xem Huong_dan_chay.txt ở thư mục gốc).
+
+
+4. LÀM LẠI TỪ ĐẦU (xoá sạch ảnh cũ)
+-----------------------------------
+    node scripts/reset-images.mjs                 # chỉ xem trước, chưa xoá gì
+    node scripts/reset-images.mjs --yes           # xoá local: raw/<ngành>/, processed/, rejected/, cache
+    node scripts/reset-images.mjs --yes --r2      # xoá thêm ảnh trên R2 (thumb/, detail/, gallery/)
+
+Giữ nguyên: ảnh nằm thẳng trong assets/raw/ (no-image-icon.jpg...), thư mục misc/
+trên R2 và toàn bộ file JSON. Xoá R2 xong web sẽ vỡ ảnh cho tới khi chạy lại
+mục 2 và mục 3.
+
+
+5. CÁC CỜ VÀ NGƯỠNG
+-------------------
+scrape-images.mjs
+    --queries           in bảng sản phẩm -> từ khoá và các tag chưa map
+    --dry               chỉ xem kế hoạch
+    --limit N           chỉ tải N ảnh
+    --category <slug>   chỉ một ngành, ví dụ thoi-trang, my-pham-cham-soc-ca-nhan
+    --allow-people      cho phép ảnh có người (mặc định loại)
+    --allow-generic     dùng từ khoá chung của ngành cho sản phẩm chưa map (không khuyến khích)
+    --verify [--delete] quét ảnh hỏng
+
+filter-images.mjs
+    --dry               chỉ báo cáo, không chuyển file
+    --category <slug>   chỉ một ngành
+    --limit N           chỉ kiểm tra N ảnh
+    --nsfw 0.15         điểm NSFW lớn hơn ngưỡng thì loại (thấp = nghiêm hơn)
+    --match 0.30        xác suất ảnh khớp sản phẩm nhỏ hơn ngưỡng thì loại
+    --unsafe 0.25       tổng điểm các nhãn gợi cảm lớn hơn ngưỡng thì loại
+    --allow-people      không loại ảnh có người
+    --no-dedupe         không loại ảnh gần giống nhau
+    --recheck           kiểm tra lại cả ảnh đã đạt trước đó
+
+
+6. CÁC FILE / THƯ MỤC SINH RA
+-----------------------------
+    assets/raw/<ngành>/            ảnh đã cào và đã đạt lọc
+    assets/rejected/<ngành>/       ảnh bị loại (tên file bắt đầu bằng lý do: nsfw, suggestive,
+                                   person, mismatch, duplicate), xem lại được, xoá tay nếu muốn
+    scripts/.cache/                cache cào ảnh và kết quả lọc, báo cáo filter-report.csv,
+                                   scrape-failed.json, unmapped-tags.json
+Nên thêm vào .gitignore: assets/rejected/ và scripts/.cache/
+
+
+7. LỖI THƯỜNG GẶP
+-----------------
+- "Thiếu PIXABAY_API_KEY": chưa có key trong .env, hoặc quên --env-file=.env.
+- 429 rate limit: script tự chờ rồi chạy tiếp, không cần làm gì.
+- ERR_PNPM_IGNORED_BUILDS: xem mục 1b.
+- "Không còn ảnh hợp lệ cho <từ khoá>": pool ảnh Pixabay cạn sau khi lọc.
+  Đổi từ khoá trong image-queries.json (tả cụ thể hơn, ví dụ thêm "isolated"),
+  hoặc thử thêm --allow-people với ngành đó.
+- Cảnh báo "chỉ còn N ảnh sau khi lọc": loại này sẽ dùng lại ảnh giữa các sản phẩm,
+  nên đổi từ khoá nếu muốn đa dạng hơn.
+- Ảnh trên web vẫn cũ sau sync: Ctrl+Shift+R, hoặc purge cache Cloudflare.
+- Lỗi khi chạy filter-images.mjs về RawImage hoặc pipeline: ghi lại nguyên đoạn lỗi
+  (thư viện cài là bản @huggingface/transformers 4.x).
+- Không chạy generate.mjs: file này chỉ sinh dữ liệu mẫu cũ và sẽ ghi đè dữ liệu hiện tại.
