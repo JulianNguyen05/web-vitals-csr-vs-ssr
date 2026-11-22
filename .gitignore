@@ -15,3 +15,7 @@ packages/data/assets/*
 gather-code.mjs
 combined-code.txt
 packages/data/scripts/.cache/
+
+# Kết quả đo
+scripts/measurement/results/
+_review/

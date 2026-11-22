@@ -1,15 +1,20 @@
-import { ProductCard, ProductGrid, AddToCartButton } from "@repo/ui";
-import { products } from "@repo/data";
-import { Link } from "react-router-dom";
+import { useSearchParams } from "react-router-dom";
+import { ProductListView } from "@repo/ui";
+import { categories, categoryHref, getListing, products } from "@repo/data";
+import { RouterLink } from "../components/RouterLink";
 
 export function ProductListPage() {
+  const [params] = useSearchParams();
+  const listing = getListing(products, categories, params.get("category"));
+
   return (
-    <ProductGrid count={products.length}>
-      {products.map((p) => (
-        <Link key={p.id} to={`/products/${p.id}`} className="block h-full">
-          <ProductCard product={p} actions={<AddToCartButton productId={p.id} />} />
-        </Link>
-      ))}
-    </ProductGrid>
+    <ProductListView
+      items={listing.items}
+      categories={categories}
+      activeCategory={listing.category}
+      unknownCategory={listing.unknownCategory}
+      categoryHref={categoryHref}
+      LinkComponent={RouterLink}
+    />
   );
 }

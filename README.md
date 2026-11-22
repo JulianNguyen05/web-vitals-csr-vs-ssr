@@ -2,66 +2,107 @@
 
 Ứng dụng mẫu mô phỏng giao dịch thương mại điện tử **T&Q Mart**, triển khai song song 2 phiên bản độc lập để đo và so sánh **Core Web Vitals**:
 
-- `app-csr` — Client-Side Rendering, React.js 18 + Vite + React Router v7
-- `app-ssr` — Server-Side Rendering, Next.js 14 (App Router)
+- `app-csr`: Client-Side Rendering, React 18.3.1 + Vite 5 + React Router v7, static hosting
+- `app-ssr`: Server-Side Rendering, Next.js 14.2 (App Router), `force-dynamic` cho mọi route
 
-Nguyên tắc cốt lõi: **kiến trúc kết xuất là biến số khác biệt duy nhất** giữa 2 phiên bản. Mọi thành phần khác (giao diện, luồng nghiệp vụ, dữ liệu, mức tối ưu code) phải đồng nhất tuyệt đối để đảm bảo tính hợp lệ của thực nghiệm đo lường.
+Nguyên tắc cốt lõi: **kiến trúc kết xuất là biến số khác biệt duy nhất** giữa 2 phiên bản. Giao diện, luồng nghiệp vụ, dữ liệu và mức tối ưu code phải đồng nhất tuyệt đối. Script `pnpm test` kiểm tra tự động điều này (HTML `<main>` của 2 bản phải giống hệt nhau).
 
 ## Cấu trúc monorepo
 
 ```
 apps/
-  app-csr/      React SPA (Vite), static hosting
-  app-ssr/      Next.js App Router, force-dynamic mọi route
+  app-csr/              React SPA (Vite). vercel.json: rewrite mọi đường dẫn về index.html
+  app-ssr/              Next.js App Router, force-dynamic ở layout → mọi route render mỗi request
 packages/
-  config/       ESLint, Prettier, Tailwind config dùng chung
-  types/        Product, Category, CartItem (TypeScript)
-  data/         JSON mock 3 ngưỡng: 20 / 500 / 2000 sản phẩm
-  cart-store/   Zustand + persist — logic giỏ hàng viết 1 lần
-  ui/           Component thuần (Button, ProductCard, CartDrawer...)
+  config/               Tailwind, Prettier, ESLint + app-env.mjs (đọc DATASET/SHOW_ARCH_LABEL cho cả 2 app)
+  types/                Product, Category, CartItem, CartProduct
+  data/                 JSON mock 3 ngưỡng 20/500/2000 + listing.ts (lọc ngành, phân trang)
+  cart-store/           Zustand + persist (localStorage), số lượng 1–99
+  ui/                   Toàn bộ giao diện: ProductListView, ProductCard, ProductDetailView,
+                        CartPageView, NotFoundView, SiteHeader, AddToCartButton, WebVitalsReporter
+scripts/
+  measurement/          Lighthouse + Playwright: đo 6 chỉ số (run.mjs) và kiểm thử nghiệm thu (smoke.mjs)
 ```
 
-## Yêu cầu môi trường
+Mỗi app chỉ còn phần **khai báo route** và **cách đọc tham số** (trình duyệt hay server). Mọi markup nằm trong `packages/ui`.
 
-- Node.js ≥ 18
-- pnpm (`corepack enable && corepack prepare pnpm@latest --activate`)
+## Biến môi trường khi build (dùng chung cho cả 2 app)
 
-## Cài đặt
+| Biến | Giá trị | Mặc định | Ý nghĩa |
+|---|---|---|---|
+| `DATASET` | `20` \| `500` \| `2000` | `2000` | Ngưỡng dữ liệu. Trang danh mục hiển thị **toàn bộ** sản phẩm của ngưỡng (không phân trang), nên khối lượng dữ liệu hiển thị thay đổi đúng theo ngưỡng |
+| `SHOW_ARCH_LABEL` | `1` \| `0` | `1` | `0` = ẩn nhãn CSR/SSR trên header và tiêu đề tab (dùng cho bản khảo sát người dùng) |
+
+Hai bản **phải build với cùng giá trị** cho 2 biến này thì mới so sánh được. `scripts/measurement/run.mjs` tự cảnh báo nếu 2 bản hiển thị khác số lượng.
+
+## Cài đặt và chạy
 
 ```powershell
 pnpm install
+pnpm --filter @repo/measurement run browsers     # tải Chromium cho Playwright (1 lần)
 ```
 
-Chạy ở thư mục gốc — pnpm sẽ tự link tất cả package trong `packages/` vào 2 app qua `workspace:*`.
-
-## Chạy ứng dụng
-
-**CSR (React + Vite)** — cổng cố định `5180`:
+Dev:
 
 ```powershell
-cd apps/app-csr
-pnpm dev
+$env:DATASET="500"; pnpm dev:csr     # http://localhost:5180
+$env:DATASET="500"; pnpm dev:ssr     # http://localhost:3001
 ```
-→ http://localhost:5180
 
-**SSR (Next.js)** — cổng cố định `3001`:
+Chạy bản production ở máy (giống môi trường đo):
 
 ```powershell
-cd apps/app-ssr
-pnpm dev
+$env:DATASET="500"; pnpm build
+pnpm start:csr      # http://localhost:5180  (vite preview)
+pnpm start:ssr      # http://localhost:3001  (next start)
 ```
-→ http://localhost:3001
 
-Có thể chạy song song 2 terminal để đối chiếu trực tiếp giữa 2 phiên bản.
+## Trang và URL
 
-## Regenerate dữ liệu mock
+| Trang | URL | Ghi chú |
+|---|---|---|
+| Danh mục (UC01) | `/`, `/?category=<slug>` | Trạng thái nằm trên URL nên một URL cho ra cùng danh sách ở cả 2 bản |
+| Chi tiết (UC02) | `/products/<id>` | Không tồn tại → trang 404 dùng chung |
+| Giỏ hàng (UC04) | `/cart` | Đọc localStorage `tqmart-cart` |
+
+## Kiểm thử nghiệm thu (UC01–UC04 + đồng nhất HTML)
+
+```powershell
+pnpm test --csr http://localhost:5180 --ssr http://localhost:3001
+pnpm test --csr https://csr.<domain> --ssr https://ssr.<domain>
+```
+
+## Đo Web Vitals
+
+```powershell
+pnpm measure --csr https://csr.<domain> --ssr https://ssr.<domain> --dataset 2000 --runs 5
+```
+
+Chi tiết tham số, kịch bản mạng và cách đọc kết quả: [scripts/measurement/README.md](scripts/measurement/README.md).
+
+## Triển khai lên Vercel (2 project, cùng 1 team)
+
+1. Đẩy repo lên GitHub.
+2. Tạo project **tqmart-csr**: Import repo → *Root Directory* = `apps/app-csr` → Framework *Vite*. Build Command và Output (`dist`) để mặc định.
+3. Tạo project **tqmart-ssr**: Import repo → *Root Directory* = `apps/app-ssr` → Framework *Next.js*.
+4. Ở **cả 2 project**, *Settings → Environment Variables*: đặt `DATASET`, `SHOW_ARCH_LABEL` giống nhau.
+5. Bật *Include files outside the root directory* (mặc định đã bật với monorepo pnpm) để build thấy được `packages/`.
+6. *Settings → Domains*: gán `csr.<domain>` cho project CSR và `ssr.<domain>` cho project SSR (cùng domain chính).
+7. Đặt cả 2 project ở **cùng region** (Settings → Functions → Region) để TTFB so sánh được.
+8. Không bật Vercel Firewall/Bot Protection/Attack Challenge Mode (SRS: không chặn bot đo lường).
+9. Đổi ngưỡng dữ liệu: sửa `DATASET` rồi *Redeploy* cả 2 project.
+
+Sau khi deploy, chạy `pnpm test` với 2 domain thật trước khi đo.
+
+## Dữ liệu mock
 
 ```powershell
 cd packages/data
-pnpm generate
+pnpm merge       # gộp json/by-category/<n>/*.json → products-<n>.json (20 sp đầu của 500/2000 trùng products-20)
+pnpm validate    # kiểm tra schema + thứ tự
 ```
 
-Ghi đè `products-20.json`, `products-500.json`, `products-2000.json`, `categories.json`. Ảnh sản phẩm hiện dùng `picsum.photos` (seed theo ID, cố định giữa các lần load) — **cần thay bằng ảnh thật trên Cloudflare R2 trước khi đo Web Vitals chính thức**, vì độ trễ mạng của dịch vụ ngoài sẽ lẫn vào kết quả đo LCP.
+Xem thêm [packages/data/README.md](packages/data/README.md).
 
 ---
 
@@ -79,6 +120,8 @@ Ghi đè `products-20.json`, `products-500.json`, `products-2000.json`, `categor
 | Component giao diện (mới hoặc sửa) | `packages/ui` |
 | Logic giỏ hàng, tính toán, state dùng chung | `packages/cart-store` |
 | Màu sắc, spacing, breakpoint, font | `packages/config/tailwind.config.js` |
+| Logic lọc/phân trang danh mục | `packages/data/listing.ts` |
+| Biến môi trường build | `packages/config/app-env.mjs` |
 | Định nghĩa kiểu dữ liệu mới | `packages/types` |
 
 **Không** viết component hoặc logic nghiệp vụ riêng lẻ trong `apps/app-csr` hoặc `apps/app-ssr`. Nếu 2 app cần cùng một hành vi, hành vi đó thuộc về `packages/`.
@@ -101,7 +144,7 @@ Ghi đè `products-20.json`, `products-500.json`, `products-2000.json`, `categor
 - [ ] Không dùng `next/image` hay thư viện tối ưu ảnh runtime — chỉ `<img>` thuần ở cả 2 bên, tránh lệch lợi thế LCP
 - [ ] Không gọi API mạng để lấy dữ liệu sản phẩm — chỉ import JSON tĩnh từ `packages/data`
 - [ ] Giỏ hàng chỉ lưu `localStorage` qua `packages/cart-store` — không thêm API call lưu giỏ hàng về server
-- [ ] Đã mở song song `localhost:5180` và `localhost:3001`, đối chiếu bằng mắt: layout, spacing, ảnh, giá tiền phải giống hệt nhau
+- [ ] Đã chạy `pnpm test --csr http://localhost:5180 --ssr http://localhost:3001` và đạt toàn bộ tiêu chí (bao gồm HTML `<main>` giống hệt)
 - [ ] Kiểm tra Console ở `app-ssr` không có warning "Hydration failed" sau khi đổi
 
 ### Vì sao các quy tắc này tồn tại

@@ -1,11 +1,75 @@
-import type { CartItem, Product } from "@repo/types";
+"use client";
+
+import { useEffect, useState } from "react";
+import type { CartItem, CartProduct } from "@repo/types";
+import { MAX_QUANTITY, MIN_QUANTITY } from "@repo/cart-store";
 import { ArrowLeft, Minus, Plus, ShoppingCart, Trash2 } from "lucide-react";
 import { Button } from "./Button";
 import type { LinkComponentType } from "./types";
 
+/**
+ * Bộ chọn số lượng (UC04 bước 3): nút −/+ và ô nhập số (input number, số nguyên ≥ 1).
+ * Giá trị không hợp lệ (trống, 0, âm, chữ) không được ghi vào giỏ; khi rời ô sẽ trả về số cũ.
+ */
+function QuantityInput({
+  value,
+  label,
+  onChange,
+}: {
+  value: number;
+  label: string;
+  onChange: (next: number) => void;
+}) {
+  const [draft, setDraft] = useState(String(value));
+  useEffect(() => setDraft(String(value)), [value]);
+
+  const commit = (raw: string) => {
+    const n = Number(raw);
+    if (Number.isInteger(n) && n >= MIN_QUANTITY && n <= MAX_QUANTITY) onChange(n);
+  };
+
+  return (
+    <div className="inline-flex items-center overflow-hidden rounded-xl border border-border">
+      <button
+        type="button"
+        onClick={() => onChange(value - 1)}
+        disabled={value <= MIN_QUANTITY}
+        aria-label="Giảm số lượng"
+        className="flex h-9 w-9 items-center justify-center text-foreground transition-colors hover:bg-surface disabled:cursor-not-allowed disabled:opacity-40"
+      >
+        <Minus className="h-3.5 w-3.5" />
+      </button>
+      <input
+        type="number"
+        inputMode="numeric"
+        min={MIN_QUANTITY}
+        max={MAX_QUANTITY}
+        step={1}
+        value={draft}
+        aria-label={label}
+        onChange={(e) => {
+          setDraft(e.target.value);
+          commit(e.target.value);
+        }}
+        onBlur={() => setDraft(String(value))}
+        className="h-9 w-12 border-x border-border bg-background text-center text-sm font-semibold text-foreground [appearance:textfield] focus:outline-none focus:ring-2 focus:ring-inset focus:ring-accent [&::-webkit-inner-spin-button]:appearance-none [&::-webkit-outer-spin-button]:appearance-none"
+      />
+      <button
+        type="button"
+        onClick={() => onChange(value + 1)}
+        disabled={value >= MAX_QUANTITY}
+        aria-label="Tăng số lượng"
+        className="flex h-9 w-9 items-center justify-center text-foreground transition-colors hover:bg-surface disabled:cursor-not-allowed disabled:opacity-40"
+      >
+        <Plus className="h-3.5 w-3.5" />
+      </button>
+    </div>
+  );
+}
+
 interface CartPageViewProps {
   items: CartItem[];
-  products: Product[];
+  products: CartProduct[];
   total: number;
   LinkComponent: LinkComponentType;
   onUpdateQuantity: (productId: string, quantity: number) => void;
@@ -98,6 +162,7 @@ export function CartPageView({
                       </p>
                     </div>
                     <button
+                      type="button"
                       onClick={() => onRemove(item.productId)}
                       aria-label={`Xoá ${product.name} khỏi giỏ hàng`}
                       className="shrink-0 rounded-lg p-2 text-muted transition-colors hover:bg-surface hover:text-sale"
@@ -107,29 +172,11 @@ export function CartPageView({
                   </div>
 
                   <div className="flex items-center justify-between">
-                    <div className="inline-flex items-center overflow-hidden rounded-xl border border-border">
-                      <button
-                        onClick={() =>
-                          onUpdateQuantity(item.productId, item.quantity - 1)
-                        }
-                        aria-label="Giảm số lượng"
-                        className="flex h-9 w-9 items-center justify-center text-foreground transition-colors hover:bg-surface"
-                      >
-                        <Minus className="h-3.5 w-3.5" />
-                      </button>
-                      <span className="w-10 text-center text-sm font-semibold text-foreground">
-                        {item.quantity}
-                      </span>
-                      <button
-                        onClick={() =>
-                          onUpdateQuantity(item.productId, item.quantity + 1)
-                        }
-                        aria-label="Tăng số lượng"
-                        className="flex h-9 w-9 items-center justify-center text-foreground transition-colors hover:bg-surface"
-                      >
-                        <Plus className="h-3.5 w-3.5" />
-                      </button>
-                    </div>
+                    <QuantityInput
+                      value={item.quantity}
+                      label={`Số lượng ${product.name}`}
+                      onChange={(q) => onUpdateQuantity(item.productId, q)}
+                    />
                     <p className="font-bold text-foreground">
                       {lineTotal.toLocaleString("vi-VN")}₫
                     </p>

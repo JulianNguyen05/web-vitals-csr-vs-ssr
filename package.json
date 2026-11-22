@@ -10,7 +10,12 @@
     "dev:csr": "pnpm --filter app-csr run dev",
     "dev:ssr": "pnpm --filter app-ssr run dev",
     "build": "pnpm -r --if-present run build",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "pnpm --filter @repo/measurement run smoke",
+    "build:csr": "pnpm --filter app-csr run build",
+    "build:ssr": "pnpm --filter app-ssr run build",
+    "start:csr": "pnpm --filter app-csr run preview",
+    "start:ssr": "pnpm --filter app-ssr run start",
+    "measure": "pnpm --filter @repo/measurement run measure"
   },
   "keywords": [],
   "author": "",

@@ -46,6 +46,9 @@ export interface Product {
   createdAt?: string; // ISO date string
 }
 
+/** Dữ liệu tối thiểu trang giỏ hàng cần cho mỗi sản phẩm. */
+export type CartProduct = Pick<Product, "id" | "name" | "price" | "thumbUrl">;
+
 export interface CartItem {
   productId: string;
   quantity: number;

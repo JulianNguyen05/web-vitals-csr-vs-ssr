@@ -1,26 +1,25 @@
-import { ProductCard, ProductGrid, AddToCartButton } from "@repo/ui";
-import { products } from "@repo/data";
-import Link from "next/link";
+import { ProductListView } from "@repo/ui";
+import { categories, categoryHref, getListing, products } from "@repo/data";
+import { NextLinkAdapter } from "./next-link-adapter";
 
 export const dynamic = "force-dynamic";
 
-export default function ProductListPage() {
+export default function ProductListPage({
+  searchParams,
+}: {
+  searchParams: Record<string, string | string[] | undefined>;
+}) {
+  const raw = searchParams.category;
+  const listing = getListing(products, categories, Array.isArray(raw) ? raw[0] : raw);
+
   return (
-    <ProductGrid count={products.length}>
-      {products.map((p, i) => (
-        <Link
-          key={p.id}
-          href={`/products/${p.id}`}
-          prefetch={false}
-          className="block h-full"
-        >
-          <ProductCard
-            product={p}
-            priority={i < 8}
-            actions={<AddToCartButton productId={p.id} />}
-          />
-        </Link>
-      ))}
-    </ProductGrid>
+    <ProductListView
+      items={listing.items}
+      categories={categories}
+      activeCategory={listing.category}
+      unknownCategory={listing.unknownCategory}
+      categoryHref={categoryHref}
+      LinkComponent={NextLinkAdapter}
+    />
   );
 }

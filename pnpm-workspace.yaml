@@ -1,6 +1,7 @@
 packages:
   - "apps/*"
   - "packages/*"
+  - "scripts/measurement"
 allowBuilds:
   esbuild: false
   onnxruntime-node: true

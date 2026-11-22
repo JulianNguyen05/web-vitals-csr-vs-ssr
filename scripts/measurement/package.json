@@ -1,0 +1,15 @@
+{
+  "name": "@repo/measurement",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "browsers": "playwright install chromium",
+    "measure": "node run.mjs",
+    "smoke": "node smoke.mjs"
+  },
+  "dependencies": {
+    "lighthouse": "13.6.0",
+    "playwright": "1.63.0"
+  }
+}

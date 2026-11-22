@@ -10,7 +10,8 @@
   "dependencies": {
     "@repo/types": "workspace:*",
     "lucide-react": "^0.436.0",
-    "@repo/cart-store": "workspace:*"
+    "@repo/cart-store": "workspace:*",
+    "web-vitals": "4.2.4"
   },
   "devDependencies": {
     "@types/react": "^18.3.4",

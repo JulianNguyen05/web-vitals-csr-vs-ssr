@@ -1,31 +1,13 @@
-"use client";
+import { products, toCartCatalog } from "@repo/data";
+import { CartClient } from "./cart-client";
 
-import { CartPageView } from "@repo/ui";
-import { useCartStore, selectCartTotal } from "@repo/cart-store";
-import { products } from "@repo/data";
-import { useEffect, useState } from "react";
-import { NextLinkAdapter } from "../next-link-adapter";
+export const dynamic = "force-dynamic";
 
+/**
+ * Server Component: chỉ gửi danh mục rút gọn (id, tên, giá, ảnh thumb) xuống trình duyệt,
+ * thay vì để client component import nguyên file JSON (~3,5 MB ở ngưỡng 2000).
+ * Giỏ hàng nằm ở localStorage nên server không biết trước cần sản phẩm nào.
+ */
 export default function CartPage() {
-  const items = useCartStore((s) => s.items);
-  const updateQuantity = useCartStore((s) => s.updateQuantity);
-  const removeItem = useCartStore((s) => s.removeItem);
-  const [mounted, setMounted] = useState(false);
-
-  useEffect(() => setMounted(true), []);
-
-  const total = selectCartTotal(items, products);
-
-  if (!mounted) return <div className="p-4">Đang tải giỏ hàng...</div>;
-
-  return (
-    <CartPageView
-      items={items}
-      products={products}
-      total={total}
-      onUpdateQuantity={updateQuantity}
-      onRemove={removeItem}
-      LinkComponent={NextLinkAdapter}
-    />
-  );
+  return <CartClient catalog={toCartCatalog(products)} />;
 }

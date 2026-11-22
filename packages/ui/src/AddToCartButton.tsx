@@ -1,7 +1,6 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
-import type { MouseEvent } from "react";
 import { Check, Minus, Plus, ShoppingCart } from "lucide-react";
 import { useCartStore } from "@repo/cart-store";
 
@@ -58,6 +57,7 @@ export function AddToCartButton({
             addItem(productId, quantity);
             flash();
           }}
+          data-testid="add-to-cart"
           className="flex h-12 min-w-[200px] flex-1 items-center justify-center gap-2 rounded-xl bg-accent px-6 font-semibold text-white transition-colors hover:bg-accent-dark"
         >
           {added ? (
@@ -74,10 +74,7 @@ export function AddToCartButton({
     );
   }
 
-  const handleClick = (e: MouseEvent<HTMLButtonElement>) => {
-    // Nút nằm bên trong <Link> của thẻ sản phẩm: chặn điều hướng khi bấm thêm giỏ.
-    e.preventDefault();
-    e.stopPropagation();
+  const handleClick = () => {
     addItem(productId);
     flash();
   };
@@ -86,6 +83,7 @@ export function AddToCartButton({
     <button
       type="button"
       onClick={handleClick}
+      data-testid="add-to-cart"
       className={`flex w-full items-center justify-center gap-1.5 rounded-xl px-3 py-2 text-sm font-semibold transition-colors ${
         added
           ? "bg-accent text-white"

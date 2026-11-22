@@ -1,19 +1,31 @@
 import type { ReactNode } from "react";
 import { Star } from "lucide-react";
 import type { Product } from "@repo/types";
+import type { LinkComponentType } from "./types";
 
 interface ProductCardProps {
   product: Product;
+  /** Đường dẫn trang chi tiết. */
+  href: string;
+  LinkComponent: LinkComponentType;
+  /** Nút thao tác (Thêm vào giỏ). Đặt NGOÀI thẻ link để HTML hợp lệ (không lồng <button> trong <a>). */
   actions?: ReactNode;
+  /** true = ảnh nằm trong khung nhìn đầu tiên → tải ngay (eager), còn lại lazy. */
   priority?: boolean;
 }
 
-export function ProductCard({ product, actions, priority = false }: ProductCardProps) {
+export function ProductCard({
+  product,
+  href,
+  LinkComponent,
+  actions,
+  priority = false,
+}: ProductCardProps) {
   const hasDiscount = Boolean(product.discountPercent && product.originalPrice);
 
   return (
     <article className="group flex h-full flex-col overflow-hidden rounded-card border border-border bg-background shadow-card transition duration-200 hover:shadow-card-hover motion-safe:hover:-translate-y-0.5">
-      <div className="relative overflow-hidden bg-surface">
+      <LinkComponent href={href} className="relative block overflow-hidden bg-surface">
         <img
           src={product.thumbUrl}
           alt={product.name}
@@ -27,7 +39,7 @@ export function ProductCard({ product, actions, priority = false }: ProductCardP
             -{product.discountPercent}%
           </span>
         )}
-      </div>
+      </LinkComponent>
 
       <div className="flex flex-1 flex-col gap-1.5 p-3.5">
         {product.brand && (
@@ -36,7 +48,9 @@ export function ProductCard({ product, actions, priority = false }: ProductCardP
           </span>
         )}
         <h3 className="line-clamp-2 min-h-[2.5rem] text-sm font-medium leading-5 text-foreground">
-          {product.name}
+          <LinkComponent href={href} className="transition-colors hover:text-accent">
+            {product.name}
+          </LinkComponent>
         </h3>
 
         {product.rating && (

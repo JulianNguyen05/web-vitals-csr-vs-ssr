@@ -72,4 +72,15 @@ for (const file of ["products-20.json", "products-500.json", "products-2000.json
   errors.slice(0, 20).forEach((e) => console.error("  - " + e));
   if (errors.length) failed = true;
 }
+// Thứ tự: 20 sản phẩm đầu của 500/2000 phải trùng products-20 (cùng khung nhìn đầu ở mọi ngưỡng).
+// Chỉ cảnh báo, không làm fail — chạy `pnpm merge` để sắp xếp lại.
+{
+  const core = read("products-20.json").map((p) => p.id);
+  for (const file of ["products-500.json", "products-2000.json"]) {
+    const head = read(file).slice(0, core.length).map((p) => p.id);
+    const same = core.every((id, i) => head[i] === id);
+    console.log(`${file}: 20 sản phẩm đầu ${same ? "trùng products-20 ✔" : "KHÁC products-20 ⚠️  (chạy pnpm merge)"}`);
+  }
+}
+
 process.exit(failed ? 1 : 0);

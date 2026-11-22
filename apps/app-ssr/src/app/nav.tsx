@@ -5,7 +5,7 @@ import { useEffect, useState } from "react";
 import { SiteHeader } from "@repo/ui";
 import { NextLinkAdapter } from "./next-link-adapter";
 
-export function Nav() {
+export function Nav({ storeLabel }: { storeLabel: string }) {
   const totalQuantity = useCartStore((s) => s.getTotalQuantity());
   const [mounted, setMounted] = useState(false);
 
@@ -13,7 +13,7 @@ export function Nav() {
 
   return (
     <SiteHeader
-      storeLabel="T&Q Mart (SSR)"
+      storeLabel={storeLabel}
       cartQuantity={mounted ? totalQuantity : 0}
       LinkComponent={NextLinkAdapter}
     />

@@ -2,6 +2,12 @@ import { create } from "zustand";
 import { persist } from "zustand/middleware";
 import type { CartItem, Product } from "@repo/types";
 
+/** Giới hạn số lượng mỗi dòng giỏ hàng (SRS: số nguyên dương ≥ 1). */
+export const MIN_QUANTITY = 1;
+export const MAX_QUANTITY = 99;
+export const clampQuantity = (q: number) =>
+  Math.min(MAX_QUANTITY, Math.max(MIN_QUANTITY, Math.floor(Number.isFinite(q) ? q : MIN_QUANTITY)));
+
 interface CartState {
   items: CartItem[];
   addItem: (productId: string, quantity?: number) => void;
@@ -23,25 +29,26 @@ export const useCartStore = create<CartState>()(
             return {
               items: state.items.map((i) =>
                 i.productId === productId
-                  ? { ...i, quantity: i.quantity + quantity }
+                  ? { ...i, quantity: clampQuantity(i.quantity + quantity) }
                   : i
               ),
             };
           }
           return {
-            items: [...state.items, { productId, quantity, addedAt: Date.now() }],
+            items: [
+              ...state.items,
+              { productId, quantity: clampQuantity(quantity), addedAt: Date.now() },
+            ],
           };
         });
       },
 
+      // Không xoá sản phẩm khi số lượng về 0 — xoá chỉ qua removeItem (nút "Xoá sản phẩm", UC04-3a).
       updateQuantity: (productId, quantity) => {
         set((state) => ({
-          items:
-            quantity <= 0
-              ? state.items.filter((i) => i.productId !== productId)
-              : state.items.map((i) =>
-                  i.productId === productId ? { ...i, quantity } : i
-                ),
+          items: state.items.map((i) =>
+            i.productId === productId ? { ...i, quantity: clampQuantity(quantity) } : i
+          ),
         }));
       },
 
@@ -60,7 +67,10 @@ export const useCartStore = create<CartState>()(
   )
 );
 
-export function selectCartTotal(items: CartItem[], products: Product[]): number {
+export function selectCartTotal(
+  items: CartItem[],
+  products: Pick<Product, "id" | "price">[],
+): number {
   const priceMap = new Map(products.map((p) => [p.id, p.price]));
   return items.reduce((sum, item) => {
     const price = priceMap.get(item.productId) ?? 0;
