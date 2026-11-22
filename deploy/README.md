@@ -51,12 +51,17 @@ PS> git add -A; git commit -m "Bo trien khai VPS"; git push
 
 ## Bước 3: Cài máy chủ (1 lần)
 
-Chép thư mục `deploy` lên VPS rồi đăng nhập:
+Mở PowerShell **ở thư mục dự án**, chép thư mục `deploy` lên VPS rồi đăng nhập:
 
 ```powershell
+PS> cd D:\2025_2026_II\NCKH\SSR_VS_CSR\web-vitals
 PS> scp -r deploy root@202.92.4.114:/root/
 PS> ssh root@202.92.4.114
 ```
+
+Nếu báo `Connection refused`, VPS đang dùng cổng SSH khác 22. Xem cổng trong email kích hoạt hoặc trong trang quản lý VPS, rồi thêm `-P <cổng>` cho `scp` (P hoa) và `-p <cổng>` cho `ssh` (p thường). Ví dụ với cổng 2222: `scp -P 2222 -r deploy root@202.92.4.114:/root/`, `ssh -p 2222 root@202.92.4.114`. `setup-server.sh` tự nhận cổng SSH đang dùng và mở cổng đó trên tường lửa.
+
+Đăng nhập thành công thì dấu nhắc đổi thành `root@...:~#`. **Từ đây trở xuống, các lệnh `#` gõ trong cửa sổ đó**, không gõ trong PowerShell.
 
 Trên VPS:
 

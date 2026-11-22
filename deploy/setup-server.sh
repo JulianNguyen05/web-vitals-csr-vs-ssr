@@ -57,9 +57,17 @@ if ! swapon --show | grep -q /swapfile; then
 fi
 
 echo "==> Tường lửa: chỉ mở SSH, HTTP, HTTPS"
-ufw allow OpenSSH
+# Mở ĐÚNG cổng SSH đang dùng (nhiều nhà cung cấp không dùng cổng 22) để không tự khoá mình ngoài VPS.
+SSH_PORTS=$( { echo "${SSH_CONNECTION:-}" | awk 'NF==4{print $4}';
+               ss -tlnpH 2>/dev/null | awk '/sshd/{n=split($4,a,":"); print a[n]}'; } | grep -E '^[0-9]+$' | sort -u )
+[ -n "$SSH_PORTS" ] || SSH_PORTS=22
+for p in $SSH_PORTS; do
+  echo "    mở cổng SSH $p"
+  ufw allow "$p/tcp"
+done
 ufw allow 'Nginx Full'
 ufw --force enable
+ufw status | sed 's/^/    /'
 
 echo "==> Không tự khởi động lại máy khi cập nhật bảo mật (tránh gián đoạn đợt đo)"
 if [ -f /etc/apt/apt.conf.d/50unattended-upgrades ]; then
