@@ -6,8 +6,9 @@
  *                --dataset 2000 --runs 5 --profiles 3g,4g,wifi --pages list,detail,cart --device mobile
  *
  * Mỗi lượt đo gồm 2 phần, đều chạy trên trình duyệt MỚI (hồ sơ trống, không cache):
- *   A. Lighthouse (navigation)  → LCP, FCP, TBT, CLS, TTFB (server-response-time), Speed Index
- *   B. Playwright + web-vitals   → INP (bấm "Thêm vào giỏ"/"Tăng số lượng" 3 lần), kèm LCP/CLS/FCP/TTFB thực đo
+ *   A. Lighthouse (navigation)  → LCP, FCP, TBT, CLS, Speed Index (+ SRT: server-response-time, tham khảo)
+ *   B. Playwright + web-vitals   → INP (bấm "Thêm vào giỏ"/"Tăng số lượng" 3 lần) và TTFB theo định nghĩa
+ *      Web Vitals (gồm DNS, kết nối, TLS, xử lý của server), kèm LCP/CLS/FCP thực đo (cột wv_*)
  *      (Lighthouse navigation không đo được INP vì INP cần thao tác của người dùng.)
  * Thứ tự CSR/SSR được đảo luân phiên mỗi lượt để tránh thiên lệch theo thời gian.
  *
@@ -48,8 +49,10 @@ if (!a.csr || !a.ssr) {
 }
 const TARGETS = { CSR: a.csr.replace(/\/$/, ""), SSR: a.ssr.replace(/\/$/, "") };
 const RUNS = Number(a.runs);
-const profiles = a.profiles.split(",").map((s) => s.trim());
-const pages = a.pages.split(",").map((s) => s.trim());
+// Tách theo dấu phẩy HOẶC dấu cách: PowerShell biến "list,detail" (không nháy) thành "list detail".
+const splitList = (v) => v.split(/[\s,]+/).map((x) => x.trim()).filter(Boolean);
+const profiles = splitList(a.profiles);
+const pages = splitList(a.pages);
 const device = DEVICES[a.device];
 for (const p of profiles) if (!NETWORK_PROFILES[p]) throw new Error(`Không có profile mạng "${p}"`);
 for (const p of pages) if (!PAGES[p]) throw new Error(`Không có trang "${p}"`);
@@ -149,7 +152,9 @@ async function runLighthouse(arch, pageKey, profileKey) {
       FCP: v("first-contentful-paint"),
       TBT: v("total-blocking-time"),
       CLS: v("cumulative-layout-shift"),
-      TTFB: v("server-response-time"),
+      // "server-response-time" của Lighthouse KHÔNG gồm thời gian thiết lập kết nối → không phải TTFB
+      // theo định nghĩa Web Vitals. Giữ lại ở cột SRT để tham khảo; TTFB lấy từ web-vitals (phần B).
+      SRT: v("server-response-time"),
       SI: v("speed-index"),
       lh_error: lhr.runtimeError?.code ?? "",
     };
@@ -212,7 +217,7 @@ async function runInp(arch, pageKey, profileKey) {
       wv_LCP: pick("LCP"),
       wv_FCP: pick("FCP"),
       wv_CLS: pick("CLS"),
-      wv_TTFB: pick("TTFB"),
+      TTFB: pick("TTFB"),
     };
   } finally {
     await browser.close();
@@ -249,7 +254,7 @@ async function warmup() {
 // ---------------------------------------------------------------- main
 const COLS = ["time", "dataset", "device", "profile", "page", "arch", "run",
   "LCP", "FCP", "TBT", "CLS", "TTFB", "INP", "SI", "lh_score",
-  "wv_LCP", "wv_FCP", "wv_CLS", "wv_TTFB", "lh_error", "error"];
+  "wv_LCP", "wv_FCP", "wv_CLS", "SRT", "lh_error", "error"];
 const csvPath = path.join(OUT, "results.csv");
 fs.writeFileSync(csvPath, COLS.join(",") + "\n");
 const rows = [];
@@ -292,7 +297,7 @@ const median = (xs) => {
   const m = Math.floor(s.length / 2);
   return s.length % 2 ? s[m] : (s[m - 1] + s[m]) / 2;
 };
-const METRICS = ["LCP", "FCP", "TBT", "CLS", "TTFB", "INP", "SI", "lh_score"];
+const METRICS = ["LCP", "FCP", "TBT", "CLS", "TTFB", "INP", "SI", "lh_score", "SRT"];
 const groups = new Map();
 for (const r of rows) {
   const k = [r.profile, r.page, r.arch].join("|");

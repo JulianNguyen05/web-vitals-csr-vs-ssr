@@ -49,8 +49,8 @@ Mỗi lượt chạy trên **trình duyệt mới** (hồ sơ trống, không ca
 
 | Phần | Công cụ | Chỉ số |
 |---|---|---|
-| A | Lighthouse navigation, throttling `devtools` | LCP, FCP, **TBT**, CLS, **TTFB** (`server-response-time`), Speed Index, điểm Performance |
-| B | Playwright + thư viện `web-vitals` nhúng trong app | **INP** (bấm "Thêm vào giỏ" hoặc "+" 3 lần), kèm LCP/FCP/CLS/TTFB thực đo (cột `wv_*`) |
+| A | Lighthouse navigation, throttling `devtools` | LCP, FCP, **TBT**, CLS, Speed Index, điểm Performance; `SRT` (server-response-time, chỉ để tham khảo) |
+| B | Playwright + thư viện `web-vitals` nhúng trong app | **INP** (bấm "Thêm vào giỏ" hoặc "+" 3 lần), **TTFB** theo định nghĩa Web Vitals (gồm DNS, kết nối, TLS, xử lý của server), kèm LCP/FCP/CLS thực đo (cột `wv_*`) |
 
 Lighthouse navigation **không đo được INP** vì INP cần thao tác người dùng, nên phải có phần B.
 Thứ tự CSR/SSR được đảo luân phiên mỗi lượt.
@@ -62,7 +62,9 @@ Thứ tự CSR/SSR được đảo luân phiên mỗi lượt.
 - `summary.csv`: trung vị theo (profile, trang, kiến trúc)
 - `meta.json`: tham số chạy, URL, kết quả kiểm tra trước khi đo
 
-Đơn vị: mili-giây cho LCP/FCP/TBT/TTFB/INP/SI, không đơn vị cho CLS.
+Đơn vị: mili-giây cho LCP/FCP/TBT/TTFB/INP/SI/SRT, không đơn vị cho CLS.
+
+**Đọc TBT:** Lighthouse chỉ tính TBT sau FCP. Ở bản CSR, phần lớn việc nặng (chạy JS, dựng giao diện) xảy ra *trước* FCP nên TBT có thể thấp trong khi FCP và LCP rất chậm. Luôn đọc TBT cùng FCP và LCP.
 
 ### Quy trình đề xuất cho 1 ngưỡng dữ liệu
 
