@@ -5,6 +5,11 @@ const env = readAppEnv();
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  // Nén do Nginx đảm nhận cho CẢ HAI bản cùng một mức (deploy/nginx/tqmart-common.conf).
+  // Tắt nén riêng của Next.js để bản SSR không được nén theo cách khác bản CSR.
+  compress: false,
+  // Không gửi header "x-powered-by: Next.js" (bản CSR không có header tương ứng).
+  poweredByHeader: false,
   env: {
     APP_STORE_LABEL: storeLabel("SSR", env.showArchLabel),
   },

@@ -11,7 +11,7 @@ Nguyên tắc cốt lõi: **kiến trúc kết xuất là biến số khác bi�
 
 ```
 apps/
-  app-csr/              React SPA (Vite). vercel.json: rewrite mọi đường dẫn về index.html
+  app-csr/              React SPA (Vite), build ra file tĩnh
   app-ssr/              Next.js App Router, force-dynamic ở layout → mọi route render mỗi request
 packages/
   config/               Tailwind, Prettier, ESLint + app-env.mjs (đọc DATASET/SHOW_ARCH_LABEL cho cả 2 app)
@@ -20,6 +20,7 @@ packages/
   cart-store/           Zustand + persist (localStorage), số lượng 1–99
   ui/                   Toàn bộ giao diện: ProductListView, ProductCard, ProductDetailView,
                         CartPageView, NotFoundView, SiteHeader, AddToCartButton, WebVitalsReporter
+deploy/                 Script cài VPS, cấu hình Nginx, pm2 (xem deploy/README.md)
 scripts/
   measurement/          Lighthouse + Playwright: đo 6 chỉ số (run.mjs) và kiểm thử nghiệm thu (smoke.mjs)
 ```
@@ -80,19 +81,16 @@ pnpm measure --csr https://csr.<domain> --ssr https://ssr.<domain> --dataset 200
 
 Chi tiết tham số, kịch bản mạng và cách đọc kết quả: [scripts/measurement/README.md](scripts/measurement/README.md).
 
-## Triển khai lên Vercel (2 project, cùng 1 team)
+## Triển khai
 
-1. Đẩy repo lên GitHub.
-2. Tạo project **tqmart-csr**: Import repo → *Root Directory* = `apps/app-csr` → Framework *Vite*. Build Command và Output (`dist`) để mặc định.
-3. Tạo project **tqmart-ssr**: Import repo → *Root Directory* = `apps/app-ssr` → Framework *Next.js*.
-4. Ở **cả 2 project**, *Settings → Environment Variables*: đặt `DATASET`, `SHOW_ARCH_LABEL` giống nhau.
-5. Bật *Include files outside the root directory* (mặc định đã bật với monorepo pnpm) để build thấy được `packages/`.
-6. *Settings → Domains*: gán `csr.<domain>` cho project CSR và `ssr.<domain>` cho project SSR (cùng domain chính).
-7. Đặt cả 2 project ở **cùng region** (Settings → Functions → Region) để TTFB so sánh được.
-8. Không bật Vercel Firewall/Bot Protection/Attack Challenge Mode (SRS: không chặn bot đo lường).
-9. Đổi ngưỡng dữ liệu: sửa `DATASET` rồi *Redeploy* cả 2 project.
+Cả hai bản chạy trên **cùng một VPS** (Ubuntu 24.04, 2 vCPU, 4 GB RAM), sau **cùng một Nginx**:
 
-Sau khi deploy, chạy `pnpm test` với 2 domain thật trước khi đo.
+- `https://a.tqmart-lab.com`: bản CSR, file tĩnh do Nginx phục vụ
+- `https://b.tqmart-lab.com`: bản SSR, Next.js chạy bằng pm2 phía sau Nginx
+
+TLS, HTTP/2 và mức nén gzip giống hệt nhau ở hai bản. Hướng dẫn từng bước: [deploy/README.md](deploy/README.md).
+
+Đổi ngưỡng dữ liệu trên VPS: sửa `DATASET` trong `/etc/tqmart/deploy.env`, chạy `deploy/deploy.sh --no-pull`, rồi `pnpm test` lại trước khi đo.
 
 ## Dữ liệu mock
 

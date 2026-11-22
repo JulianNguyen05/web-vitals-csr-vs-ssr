@@ -66,7 +66,7 @@ Thứ tự CSR/SSR được đảo luân phiên mỗi lượt.
 
 ### Quy trình đề xuất cho 1 ngưỡng dữ liệu
 
-1. Đặt `DATASET` giống nhau ở 2 project Vercel → Redeploy cả 2.
+1. Trên VPS: sửa `DATASET` trong `/etc/tqmart/deploy.env` → `deploy/deploy.sh --no-pull` (build lại cả 2 bản cùng ngưỡng).
 2. `pnpm test --csr ... --ssr ...` → phải đạt 100%.
 3. `pnpm measure --csr ... --ssr ... --dataset <n> --runs 5` (mobile), rồi thêm `--device desktop`.
 4. Lặp lại cho 20 / 500 / 2000.

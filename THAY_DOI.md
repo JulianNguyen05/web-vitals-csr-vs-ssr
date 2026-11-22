@@ -6,7 +6,7 @@
 |---|---|---|
 | A1 | CSR không truyền `priority`, nên 8 ảnh đầu bị `lazy`. SSR thì `eager` | Toàn bộ trang danh mục chuyển vào `ProductListView` (packages/ui), dùng chung nên không thể lệch nữa |
 | A2 | Bản SSR **không đổi ngưỡng dữ liệu** khi build lại: cache webpack `.next/cache` (Vercel cũng giữ) vẫn dùng JSON của lần build trước | `next.config.mjs` gắn `DATASET` vào version cache |
-| A3 | CSR trên Vercel báo 404 khi mở thẳng `/products/...`, `/cart` (Lighthouse cần mở thẳng URL) | Thêm `apps/app-csr/vercel.json` (rewrite về index.html) |
+| A3 | CSR báo 404 khi mở thẳng `/products/...`, `/cart` (Lighthouse cần mở thẳng URL) | Nginx chuyển mọi đường dẫn về `index.html` (`deploy/nginx/tqmart-https.conf`) |
 | A4 | SSR `/cart` bị dựng sẵn thành HTML tĩnh lúc build (trái SAD "mọi route force-dynamic") | `force-dynamic` ở `layout.tsx`; `/cart` thành Server Component |
 | A5 | Thư viện `web-vitals` đã cài nhưng không được gọi; không đo được INP | `WebVitalsReporter` (packages/ui) gắn ở cả 2 app, ghi `window.__WEB_VITALS__` |
 | A6 | Không có script đo tự động (SAD mục 5.1) | `scripts/measurement/run.mjs`: Lighthouse (LCP, FCP, TBT, CLS, TTFB) + Playwright (INP), 3G/4G/WiFi, mobile/desktop, xuất CSV |
@@ -26,6 +26,17 @@
 | B4 | UC02-2a sản phẩm không tồn tại → 404 | `NotFoundView` dùng chung: SSR `not-found.tsx`, CSR route `*` |
 | B5 | UC04 ô nhập số lượng, số nguyên ≥ 1 | Ô `input number` + nút −/+; nút − khoá ở 1; không nhận 0/âm/chữ; giới hạn 99 |
 | B6 | Tiêu chí bàn giao: README hướng dẫn triển khai | README gốc, README 2 app, README data, README đo lường |
+
+## B2. Hạ tầng triển khai (Công việc 2.3)
+
+| Nội dung | Thực hiện |
+|---|---|
+| Máy chủ | 01 VPS Ubuntu 24.04 (2 vCPU, 4 GB RAM, 60 GB SSD) đặt tại Việt Nam, chạy **cả hai** bản: đúng "cùng một gói hạ tầng máy chủ" |
+| Tên miền | Tên miền quốc tế `tqmart-lab.com`, 2 tên miền phụ trung tính: `a.` (CSR) và `b.` (SSR) |
+| Nginx dùng chung | Cùng TLS, HTTP/2, gzip mức 5 cho cả hai bản. Next.js tắt nén riêng (`compress: false`). JS/CSS tĩnh của cả hai bản đều do Nginx phục vụ, cùng header cache |
+| SSR | `next start` chạy qua pm2 (1 tiến trình), `proxy_buffering off` để HTML được stream |
+| Bộ triển khai | `deploy/`: `setup-server.sh`, `deploy.sh`, `install-nginx.sh`, cấu hình Nginx, pm2; hướng dẫn trong `deploy/README.md` |
+| Bỏ | `apps/app-csr/vercel.json` (không dùng Vercel) |
 
 ## C. Cải thiện khác
 

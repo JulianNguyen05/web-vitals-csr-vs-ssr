@@ -1,0 +1,4 @@
+# Script và cấu hình chạy trên VPS Linux: luôn dùng xuống dòng LF (tránh lỗi $'\r' khi commit từ Windows)
+*.sh   text eol=lf
+*.conf text eol=lf
+*.cjs  text eol=lf
