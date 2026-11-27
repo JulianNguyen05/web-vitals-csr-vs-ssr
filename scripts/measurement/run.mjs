@@ -29,7 +29,8 @@ const { values: a } = parseArgs({
     csr: { type: "string" },
     ssr: { type: "string" },
     dataset: { type: "string", default: "?" },
-    runs: { type: "string", default: "5" },
+    // 10 lượt/ô: với 5 lượt, Mann-Whitney có p nhỏ nhất 0,008 → mất ý nghĩa sau hiệu chỉnh Holm cho 108 ô.
+    runs: { type: "string", default: "10" },
     profiles: { type: "string", default: "3g,4g,wifi" },
     pages: { type: "string", default: "list,detail,cart" },
     device: { type: "string", default: "mobile" },
@@ -156,6 +157,8 @@ async function runLighthouse(arch, pageKey, profileKey) {
       // theo định nghĩa Web Vitals. Giữ lại ở cột SRT để tham khảo; TTFB lấy từ web-vitals (phần B).
       SRT: v("server-response-time"),
       SI: v("speed-index"),
+      // Sức mạnh CPU máy đo do Lighthouse tự chấm — dùng để chứng minh máy đo ổn định suốt đợt đo.
+      bench: lhr.environment?.benchmarkIndex,
       lh_error: lhr.runtimeError?.code ?? "",
     };
   } finally {
@@ -205,7 +208,13 @@ async function runInp(arch, pageKey, profileKey) {
     const page = await ctx.newPage();
     await throttle(page, NETWORK_PROFILES[profileKey]);
     await page.goto(urlOf(arch, pageKey), { waitUntil: "load", timeout: 180_000 });
-    await page.waitForFunction(() => window.__WEB_VITALS__?.LCP, null, { timeout: 60_000 }).catch(() => {});
+    // WebVitalsReporter đăng ký observer trong useEffect, tức là chỉ chạy sau khi React đã render
+    // (CSR) hoặc hydrate xong (SSR). Có LCP trong window.__WEB_VITALS__ ⇒ nút bấm đã có handler.
+    // Nếu hết giờ mà chưa sẵn sàng: vẫn đo nhưng ghi ready=0 để loại lượt này khi phân tích
+    // (bấm trước khi hydrate xong sẽ cho INP thấp giả tạo).
+    const ready = await page
+      .waitForFunction(() => window.__WEB_VITALS__?.LCP, null, { timeout: 60_000 })
+      .then(() => 1, () => 0);
     await page.waitForTimeout(1000);
     await interact(page, PAGES[pageKey].interaction);
     await page.waitForFunction(() => window.__WEB_VITALS__?.INP, null, { timeout: 10_000 }).catch(() => {});
@@ -213,6 +222,7 @@ async function runInp(arch, pageKey, profileKey) {
     const wv = await page.evaluate(() => window.__WEB_VITALS__ ?? {});
     const pick = (k) => (wv[k] ? wv[k].value : undefined);
     return {
+      ready,
       INP: pick("INP"),
       wv_LCP: pick("LCP"),
       wv_FCP: pick("FCP"),
@@ -254,7 +264,7 @@ async function warmup() {
 // ---------------------------------------------------------------- main
 const COLS = ["time", "dataset", "device", "profile", "page", "arch", "run",
   "LCP", "FCP", "TBT", "CLS", "TTFB", "INP", "SI", "lh_score",
-  "wv_LCP", "wv_FCP", "wv_CLS", "SRT", "lh_error", "error"];
+  "wv_LCP", "wv_FCP", "wv_CLS", "SRT", "ready", "bench", "lh_error", "error"];
 const csvPath = path.join(OUT, "results.csv");
 fs.writeFileSync(csvPath, COLS.join(",") + "\n");
 const rows = [];
@@ -283,7 +293,7 @@ for (const profileKey of profiles) {
         fs.appendFileSync(csvPath, COLS.map((c) => fmt(row[c])).join(",") + "\n");
         done++;
         console.log(
-          `[${done}/${total}] ${profileKey} ${pageKey} ${arch} #${run}  LCP=${fmt(row.LCP)} FCP=${fmt(row.FCP)} TBT=${fmt(row.TBT)} CLS=${fmt(row.CLS)} TTFB=${fmt(row.TTFB)} INP=${fmt(row.INP)}${row.error ? "  ERR " + row.error : ""}`,
+          `[${done}/${total}] ${profileKey} ${pageKey} ${arch} #${run}  LCP=${fmt(row.LCP)} FCP=${fmt(row.FCP)} TBT=${fmt(row.TBT)} CLS=${fmt(row.CLS)} TTFB=${fmt(row.TTFB)} INP=${fmt(row.INP)}${row.ready === 0 ? "  ⚠️ CHƯA HYDRATE XONG (ready=0)" : ""}${row.error ? "  ERR " + row.error : ""}`,
         );
       }
     }

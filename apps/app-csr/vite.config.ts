@@ -20,6 +20,10 @@ export default defineConfig({
   resolve: {
     alias: { "@dataset": env.datasetPath },
   },
+  // Nhúng file JSON sản phẩm dưới dạng JSON.parse("...") thay vì object literal JavaScript:
+  // V8 phân tích JSON.parse nhanh hơn nhiều với object lớn (2,7 MB ở ngưỡng 2000).
+  // Thiếu dòng này, TBT/LCP của CSR chậm do cách build chứ không do kiến trúc.
+  json: { stringify: true },
   server: { port: 5180, strictPort: true },
   preview: { port: 5180, strictPort: true },
 });

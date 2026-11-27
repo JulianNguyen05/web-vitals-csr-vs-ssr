@@ -34,7 +34,7 @@ pnpm measure --csr https://csr.<domain> --ssr https://ssr.<domain> --dataset 200
 | Tham số | Mặc định | Ý nghĩa |
 |---|---|---|
 | `--dataset` | `?` | Chỉ để ghi nhãn kết quả, **phải khớp DATASET đã deploy** |
-| `--runs` | `5` | Số lượt lặp cho mỗi tổ hợp (profile × trang × kiến trúc) |
+| `--runs` | `10` | Số lượt lặp cho mỗi tổ hợp (profile × trang × kiến trúc). Không dùng dưới 10: với 5 lượt, sau hiệu chỉnh Holm không ô nào có thể đạt ý nghĩa thống kê |
 | `--profiles` | `3g,4g,wifi` | Kịch bản mạng, định nghĩa trong `profiles.mjs` |
 | `--pages` | `list,detail,cart` | Trang đo: `/`, `/products/<product>`, `/cart` (có giỏ mẫu 1 sản phẩm) |
 | `--device` | `mobile` | `mobile` (CPU ×4, 412×823) hoặc `desktop` (CPU ×1, 1350×940) |
@@ -64,13 +64,17 @@ Thứ tự CSR/SSR được đảo luân phiên mỗi lượt.
 
 Đơn vị: mili-giây cho LCP/FCP/TBT/TTFB/INP/SI/SRT, không đơn vị cho CLS.
 
+Hai cột kiểm soát chất lượng trong `results.csv`:
+- `ready`: `1` = trang đã render/hydrate xong (có LCP trong `window.__WEB_VITALS__`) trước khi bấm nút đo INP; `0` = hết 60 s vẫn chưa sẵn sàng → **loại lượt này khi phân tích INP** (bấm trước khi hydrate xong cho INP thấp giả tạo). Console in cảnh báo `ready=0`.
+- `bench`: `benchmarkIndex` của Lighthouse (sức mạnh CPU máy đo). Đợt nào có giá trị lệch quá 10% so với trung vị cả đợt thì máy đo đã bị tải nặng → chạy lại.
+
 **Đọc TBT:** Lighthouse chỉ tính TBT sau FCP. Ở bản CSR, phần lớn việc nặng (chạy JS, dựng giao diện) xảy ra *trước* FCP nên TBT có thể thấp trong khi FCP và LCP rất chậm. Luôn đọc TBT cùng FCP và LCP.
 
 ### Quy trình đề xuất cho 1 ngưỡng dữ liệu
 
 1. Trên VPS: sửa `DATASET` trong `/etc/tqmart/deploy.env` → `deploy/deploy.sh --no-pull` (build lại cả 2 bản cùng ngưỡng).
 2. `pnpm test --csr ... --ssr ...` → phải đạt 100%.
-3. `pnpm measure --csr ... --ssr ... --dataset <n> --runs 5` (mobile), rồi thêm `--device desktop`.
+3. `pnpm measure --csr ... --ssr ... --dataset <n> --save-lhr` (mobile, 10 lượt), rồi thêm `--device desktop`.
 4. Lặp lại cho 20 / 500 / 2000.
 
 Nên chạy từ cùng 1 máy, cùng mạng, không chạy việc nặng khác song song. Ghi lại cấu hình máy vào báo cáo.
