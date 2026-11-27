@@ -10,6 +10,8 @@
  *   B. Playwright + web-vitals   → INP (bấm "Thêm vào giỏ"/"Tăng số lượng" 3 lần) và TTFB theo định nghĩa
  *      Web Vitals (gồm DNS, kết nối, TLS, xử lý của server), kèm LCP/CLS/FCP thực đo (cột wv_*)
  *      (Lighthouse navigation không đo được INP vì INP cần thao tác của người dùng.)
+ *      Lưu ý: TTFB KHÔNG chịu độ trễ mạng mô phỏng (responseStart lấy từ tầng mạng thật) → không đổi
+ *      theo 3G/4G/WiFi; wv_LCP chỉ tham khảo (LCP dừng khi có thao tác). Xem README "Đọc TTFB".
  * Thứ tự CSR/SSR được đảo luân phiên mỗi lượt để tránh thiên lệch theo thời gian.
  *
  * Kết quả: results/<thời-điểm>/results.csv (từng lượt) + summary.csv (trung vị) + meta.json
@@ -252,6 +254,23 @@ async function preflight() {
   return info;
 }
 
+/**
+ * Đo nhanh thời gian tải 1 file tĩnh nhỏ của bản CSR (không điều tiết, từ Node) ngay trước mỗi lượt.
+ * File tĩnh không phụ thuộc kiến trúc → nếu giá trị này tăng dần theo thời gian thì mạng thật
+ * hoặc VPS đang chậm đi (dữ liệu đo thử cũ cho thấy TTFB của file tĩnh trôi từ ~100 ms lên ~600 ms
+ * sau 2 giờ). Dùng cột `probe` để phát hiện và loại các đoạn bị trôi khi phân tích.
+ */
+async function probe() {
+  const t0 = performance.now();
+  try {
+    const r = await fetch(TARGETS.CSR + "/favicon.svg?probe=" + Date.now(), { cache: "no-store" });
+    await r.arrayBuffer();
+    return Math.round(performance.now() - t0);
+  } catch {
+    return undefined;
+  }
+}
+
 async function warmup() {
   // Gọi trước mỗi URL để tránh đo nhầm "cold start" của serverless (ảnh hưởng TTFB bản SSR).
   for (let i = 0; i < Number(a.warmup); i++) {
@@ -264,7 +283,7 @@ async function warmup() {
 // ---------------------------------------------------------------- main
 const COLS = ["time", "dataset", "device", "profile", "page", "arch", "run",
   "LCP", "FCP", "TBT", "CLS", "TTFB", "INP", "SI", "lh_score",
-  "wv_LCP", "wv_FCP", "wv_CLS", "SRT", "ready", "bench", "lh_error", "error"];
+  "wv_LCP", "wv_FCP", "wv_CLS", "SRT", "ready", "bench", "probe", "lh_error", "error"];
 const csvPath = path.join(OUT, "results.csv");
 fs.writeFileSync(csvPath, COLS.join(",") + "\n");
 const rows = [];
@@ -282,7 +301,7 @@ for (const profileKey of profiles) {
     for (const pageKey of pages) {
       const order = run % 2 ? ["CSR", "SSR"] : ["SSR", "CSR"];
       for (const arch of order) {
-        const row = { time: new Date().toISOString(), dataset: a.dataset, device: a.device, profile: profileKey, page: pageKey, arch, run };
+        const row = { time: new Date().toISOString(), dataset: a.dataset, device: a.device, profile: profileKey, page: pageKey, arch, run, probe: await probe() };
         try {
           if (!a["skip-lighthouse"]) Object.assign(row, await runLighthouse(arch, pageKey, profileKey));
           if (!a["skip-inp"]) Object.assign(row, await runInp(arch, pageKey, profileKey));

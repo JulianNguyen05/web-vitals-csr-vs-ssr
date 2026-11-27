@@ -66,7 +66,12 @@ Thứ tự CSR/SSR được đảo luân phiên mỗi lượt.
 
 Hai cột kiểm soát chất lượng trong `results.csv`:
 - `ready`: `1` = trang đã render/hydrate xong (có LCP trong `window.__WEB_VITALS__`) trước khi bấm nút đo INP; `0` = hết 60 s vẫn chưa sẵn sàng → **loại lượt này khi phân tích INP** (bấm trước khi hydrate xong cho INP thấp giả tạo). Console in cảnh báo `ready=0`.
+- `probe`: thời gian (ms) tải `/favicon.svg` của bản CSR từ Node ngay trước mỗi lượt, không điều tiết. File tĩnh không phụ thuộc kiến trúc, nên nếu `probe` tăng dần trong đợt thì mạng thật hoặc VPS đang chậm đi → xem lại đoạn đó, chạy lại nếu cần.
 - `bench`: `benchmarkIndex` của Lighthouse (sức mạnh CPU máy đo). Đợt nào có giá trị lệch quá 10% so với trung vị cả đợt thì máy đo đã bị tải nặng → chạy lại.
+
+**Đọc TTFB:** Chrome áp độ trễ mạng mô phỏng lên việc *giao* dữ liệu cho trang (FCP, LCP tăng đúng theo 3G/4G/WiFi), nhưng mốc `responseStart` mà web-vitals dùng để tính TTFB lấy từ tầng mạng thật. Vì vậy TTFB **không đổi theo hồ sơ mạng**: nó phản ánh thời gian máy chủ xử lý + đường mạng thật từ máy đo tới VPS. Khi phân tích, so TTFB giữa CSR và SSR theo ngưỡng dữ liệu (gộp các hồ sơ mạng), không diễn giải là "TTFB trên 3G". Đúng với phạm vi thuyết minh (mục 14.2: "thời gian phản hồi tài liệu HTML từ máy chủ").
+
+**Đọc `wv_LCP`:** chỉ để tham khảo. Ở phần B, người dùng mô phỏng bấm nút ~1 s sau lần báo LCP đầu, mà LCP dừng cập nhật khi có thao tác. Trên mạng chậm, ảnh lớn có thể chưa tải xong lúc bấm nên `wv_LCP` thấp hơn thực tế. Dùng cột `LCP` (Lighthouse) làm số chính.
 
 **Đọc TBT:** Lighthouse chỉ tính TBT sau FCP. Ở bản CSR, phần lớn việc nặng (chạy JS, dựng giao diện) xảy ra *trước* FCP nên TBT có thể thấp trong khi FCP và LCP rất chậm. Luôn đọc TBT cùng FCP và LCP.
 
